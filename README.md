@@ -1,5 +1,5 @@
-# Crystal Pack
-Crystal Pack is the Ultimate Minecraft Experience
+# Survival Remastered
+Survival Remastered is the Ultimate Minecraft Experience
 
 To download, go to the releases tab on the right or go to https://github.com/Treetrain1/Crystal-Pack/releases, click on "Assets" on the latest release, then click the zip file!
 
@@ -8,9 +8,9 @@ Note: The game may take longer to start due to mods
 
 
 
-(IMPORTANT) Version 1.0: Crystal Pack will be renamed to Survival Remastered and will go for review on CurseForge.
+(IMPORTANT) Version 1.0: Survival Remastered will be uploaded to CurseForge, assuming it is approved.
 
-Survival Remastered (Crystal Pack) Features:
+Survival Remastered Features:
 300+ Mods
 1.18 Caves
 Custom Terrain using Terralith
