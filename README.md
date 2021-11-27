@@ -7,4 +7,5 @@ To install, download the CurseForge app, click on Minecraft, Create Custom Profi
 Note: The game may take longer to start due to mods
 
 
-Version 1.0: Crystal Pack will be renamed to Survival Remastered and will go for review on CurseForge.
+
+(IMPORTANT) Version 1.0: Crystal Pack will be renamed to Survival Remastered and will go for review on CurseForge.
