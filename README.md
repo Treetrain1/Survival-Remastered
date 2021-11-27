@@ -6,4 +6,5 @@ To download, go to the releases tab on the right or go to https://github.com/Tre
 To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
 Note: The game may take longer to start due to mods
 
+
 Version 1.0: Crystal Pack will be renamed to Survival Remastered and will go for review on CurseForge.
