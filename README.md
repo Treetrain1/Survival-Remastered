@@ -1,4 +1,7 @@
 # Survival Remastered
+![Survival Remastered](https://user-images.githubusercontent.com/39657565/143671184-0a7d2397-fcc4-49b8-be40-71a7af55f15c.png)
+
+
 Survival Remastered is the Ultimate Minecraft Experience
 
 To download, go to the releases tab on the right or go to https://github.com/Treetrain1/Survival-Remastered/releases, click on "Assets" on the latest release, then click the zip file!
