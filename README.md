@@ -8,7 +8,7 @@ Note: The game may take longer to start due to mods
 
 
 
-(IMPORTANT) Version 1.0: Survival Remastered will be uploaded to CurseForge, assuming it is approved.
+At some point in the future, Survival Remastered will be uploaded to CurseForge, assuming it is approved.
 
 Survival Remastered Features:
 
