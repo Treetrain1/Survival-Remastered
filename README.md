@@ -15,6 +15,8 @@ This modpack was ported to github from the Crystal SMP discord https://discord.g
 
 I am attempting to upload Survival Remastered to CurseForge, so there may be a few patches to follow their guidelines.
 
+If the modpack has been approved, it will also be available at https://www.curseforge.com/minecraft/modpacks/survival-remastered
+
 Survival Remastered Features:
 
 300+ Mods
