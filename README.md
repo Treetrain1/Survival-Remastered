@@ -1,5 +1,5 @@
 # Crystal Pack
-![CrystalCraft](https://user-images.githubusercontent.com/39657565/143665523-b749a1e2-3659-4164-9e6c-9f74a52e844b.png)
+
 
 Crystal Pack is the Ultimate Minecraft Experience
 
