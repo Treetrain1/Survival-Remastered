@@ -11,8 +11,11 @@ Note: The game may take longer to start due to mods
 (IMPORTANT) Version 1.0: Survival Remastered will be uploaded to CurseForge, assuming it is approved.
 
 Survival Remastered Features:
+
 300+ Mods
+
 1.18 Caves
+
 Custom Terrain using Terralith
 
 ![2021-11-26_20 16 19](https://user-images.githubusercontent.com/39657565/143665291-1b2eb799-5c47-439d-8f45-8525b08e993b.png)
