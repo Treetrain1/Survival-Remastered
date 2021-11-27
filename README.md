@@ -6,7 +6,11 @@ To download, go to the releases tab on the right or go to https://github.com/Tre
 To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
 Note: The game may take longer to start due to mods
 
+
+
 This modpack was ported to github from the Crystal SMP discord https://discord.gg/C7bZ5kGGBA
+
+
 
 
 I am attempting to upload Survival Remastered to CurseForge, so there may be a few patches to follow their guidelines.
