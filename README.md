@@ -1,5 +1,5 @@
 # Survival Remastered
-![Survival Remastered](https://user-images.githubusercontent.com/39657565/143671184-0a7d2397-fcc4-49b8-be40-71a7af55f15c.png)
+![Survival Remastered New](https://user-images.githubusercontent.com/39657565/143726793-fb293702-c9f5-49f9-b6a0-cacbcc2699e7.png)
 
 
 Survival Remastered is the Ultimate Minecraft Experience
