@@ -4,6 +4,8 @@
 
 Survival Remastered is the Ultimate Minecraft Experience
 
+DISCLAIMER: Requires a beefy computer!!
+
 To download, go to the releases tab on the right or go to https://github.com/Treetrain1/Survival-Remastered/releases, click on "Assets" on the latest release, then click the zip file!
 
 To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
