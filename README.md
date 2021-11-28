@@ -4,7 +4,7 @@
 
 Survival Remastered is the Ultimate Minecraft Experience
 
-DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED
+DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
 
 To download, go to the releases tab on the right or go to https://github.com/Treetrain1/Survival-Remastered/releases, click on "Assets" on the latest release, then click the zip file!
 
