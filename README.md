@@ -66,7 +66,6 @@ Custom Terrain using Terralith
 ![2021-12-01_20 23 57](https://user-images.githubusercontent.com/39657565/144346670-b7bd0f53-1b3d-4f3f-bad1-e1abbd5780a6.png)
 ![2021-12-01_20 24 48](https://user-images.githubusercontent.com/39657565/144346681-922739d3-4f58-4e7f-9758-6a1dbddd7a23.png)
 ![2021-12-01_20 25 37](https://user-images.githubusercontent.com/39657565/144346691-dc3ab1ef-2ffa-4592-ba5c-34338b013bea.png)
-![2021-12-01_20 26 19](https://user-images.githubusercontent.com/39657565/144346701-0d8ef033-c4ef-4439-a8ad-a31f76d559d2.png)
 ![2021-12-01_20 27 25](https://user-images.githubusercontent.com/39657565/144346715-d0d708e8-61de-485d-9433-a7d4dfda7260.png)
 ![2021-12-01_20 28 25](https://user-images.githubusercontent.com/39657565/144346728-4cb54606-4bd2-4cc1-b92d-14984ee81d19.png)
 ![2021-12-01_20 28 35](https://user-images.githubusercontent.com/39657565/144346733-e6eb72e1-2e9b-444b-9cd8-3c07f43e4486.png)
