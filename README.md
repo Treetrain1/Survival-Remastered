@@ -1,5 +1,6 @@
 # Survival Remastered
-![SR118New2048x](https://user-images.githubusercontent.com/39657565/146496122-52747c62-ad58-4251-b3c1-ddc46b300a14.png)
+![SR118New](https://user-images.githubusercontent.com/39657565/146496292-7bf778a9-2669-44b1-a0aa-c670a84d85bd.png)
+
 
 
 
