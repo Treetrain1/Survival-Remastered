@@ -1,5 +1,6 @@
 # Survival Remastered
-![Survival Remastered New](https://user-images.githubusercontent.com/39657565/143726793-fb293702-c9f5-49f9-b6a0-cacbcc2699e7.png)
+![SR118New2048x](https://user-images.githubusercontent.com/39657565/146496629-df5d81ba-a547-4e24-bbe2-47566b36de17.png)
+
 
 
 Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18 version of Survival Remastered.
