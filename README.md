@@ -21,7 +21,7 @@ Survival Remastered 1.18 Features:
 
 250+ Mods
 
-Custom Terrain using Terralith
+Custom Terrain using Terralith 2.0
 
 ![2021-11-26_20 16 19](https://user-images.githubusercontent.com/39657565/143665291-1b2eb799-5c47-439d-8f45-8525b08e993b.png)
 ![2021-11-26_20 20 40](https://user-images.githubusercontent.com/39657565/143665296-4e11a833-d504-46af-9bd2-fe4a96878754.png)
