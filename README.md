@@ -1,8 +1,9 @@
 # Survival Remastered
-![Survival Remastered New](https://user-images.githubusercontent.com/39657565/143726793-fb293702-c9f5-49f9-b6a0-cacbcc2699e7.png)
+![SR118New2048x](https://user-images.githubusercontent.com/39657565/146496122-52747c62-ad58-4251-b3c1-ddc46b300a14.png)
 
 
-Survival Remastered is the Ultimate Minecraft Experience
+
+Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18 version of Survival Remastered.
 
 DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
 
@@ -17,11 +18,9 @@ Note: The game may take longer to start due to mods
 This modpack was ported to github from the Survival Remastered Discord https://discord.gg/C7bZ5kGGBA
 
 
-Survival Remastered Features:
+Survival Remastered 1.18 Features:
 
-300+ Mods
-
-1.18 Caves
+250+ Mods
 
 Custom Terrain using Terralith
 
