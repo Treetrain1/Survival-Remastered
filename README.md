@@ -21,11 +21,7 @@ Survival Remastered 1.18 Features:
 
 250+ Mods
 
-Terralith
-
-BetterNether
-
-BetterEnd
+Terralith 2.0
 
 ![huge_2021-12-17_20 24 37](https://user-images.githubusercontent.com/39657565/146627063-6a89b7e2-c359-4348-a65f-ba9406f7175d.png)
 ![huge_2021-12-17_20 30 54](https://user-images.githubusercontent.com/39657565/146627067-9e111f98-c80c-4683-8e17-b97448cda4c0.png)
