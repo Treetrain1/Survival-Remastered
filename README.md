@@ -3,7 +3,7 @@
 
 
 
-Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18,1 version of Survival Remastered.
+Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18.1 version of Survival Remastered.
 
 DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
 
