@@ -3,9 +3,12 @@
 
 
 
-Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18 version of Survival Remastered.
+Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18,1 version of Survival Remastered.
 
 DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
+
+Recommended Allocated Memory: 7-8 GB
+Recommended System Memory 16-32 GB
 
 To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
 
@@ -16,7 +19,7 @@ If you want to support me, my donation link is [here](https://www.paypal.com/cgi
 
 This modpack was ported to github from the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
-Survival Remastered 1.18 Features:
+Survival Remastered 1.18.1 Features:
 
 250+ Mods
 
