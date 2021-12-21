@@ -7,7 +7,7 @@ Survival Remastered is the Ultimate Minecraft Experience. This is the 1.18 versi
 
 DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
 
-To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases/latest), click on "Assets" on the latest release, then click the zip file!
+To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
 
 To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
 Note: The game may take longer to start due to mods
