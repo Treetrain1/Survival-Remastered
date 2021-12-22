@@ -10,7 +10,7 @@ DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVA
 
 Recommended Allocated Memory: 7-8 GB
 
-Recommended System Memory 16-32 GB
+Recommended System Memory: 16GB+
 
 
 To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
