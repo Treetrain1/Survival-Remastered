@@ -20,7 +20,7 @@ Note: The game may take longer to start due to mods
 
 If you want to support me, my donation link is [here](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/523374&cn=Add+special+instructions+to+the+addon+author()&business=treetrain1%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/523374&lc=US&item_name=Survival+Remastered+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)
 
-This modpack was ported to github from the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
+Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
 Survival Remastered Features:
 
