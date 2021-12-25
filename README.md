@@ -22,7 +22,7 @@ If you want to support me, my donation link is [here](https://www.paypal.com/cgi
 
 This modpack was ported to github from the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
-Survival Remastered 2.0 Features:
+Survival Remastered Features:
 
 250+ Mods
 
