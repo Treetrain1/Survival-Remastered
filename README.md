@@ -30,6 +30,8 @@ Terralith 2.0
 
 Better Nether
 
+BetterEnd
+
 ![huge_2021-12-17_20 24 37](https://user-images.githubusercontent.com/39657565/146627063-6a89b7e2-c359-4348-a65f-ba9406f7175d.png)
 ![huge_2021-12-17_20 30 54](https://user-images.githubusercontent.com/39657565/146627067-9e111f98-c80c-4683-8e17-b97448cda4c0.png)
 ![huge_2021-12-17_21 01 09](https://user-images.githubusercontent.com/39657565/146627071-65f3f04c-6bb6-4ce0-90f6-fe766777e3d7.png)
