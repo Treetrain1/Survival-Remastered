@@ -5,12 +5,7 @@
 
 Survival Remastered is the Ultimate Minecraft Experience.
 
-DISCLAIMER: IT IS RECOMMENDED TO HAVE A MID TO HIGH-END COMPUTER TO PLAY SURVIVAL REMASTERED. IT IS ALSO RECOMMENDED TO INCREASE THE AMOUNT OF RAM IT CAN USE IN CURSEFORGE SETTINGS.
-
-
-Recommended Allocated Memory: 7-8 GB
-
-Recommended System Memory: 16GB+
+Warning: Low-End computers may suffer from running Survival Remastered
 
 
 To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
@@ -30,7 +25,7 @@ Terralith 2.0
 
 Better Nether
 
-BetterEnd
+Better End
 
 ![huge_2021-12-17_20 24 37](https://user-images.githubusercontent.com/39657565/146627063-6a89b7e2-c359-4348-a65f-ba9406f7175d.png)
 ![huge_2021-12-17_20 30 54](https://user-images.githubusercontent.com/39657565/146627067-9e111f98-c80c-4683-8e17-b97448cda4c0.png)
