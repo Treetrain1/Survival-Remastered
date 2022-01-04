@@ -19,13 +19,21 @@ Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
 Survival Remastered Features:
 
-250+ Mods
+300+ Mods
 
 Terralith 2.0
 
 Better Nether
 
 Better End
+
+Tons of crazy structures!
+
+Complementary Shaders https://www.curseforge.com/minecraft/customization/complementary-shaders
+
+Features from the Wild Update
+
+So much more!
 
 ![huge_2021-12-17_20 24 37](https://user-images.githubusercontent.com/39657565/146627063-6a89b7e2-c359-4348-a65f-ba9406f7175d.png)
 ![huge_2021-12-17_20 30 54](https://user-images.githubusercontent.com/39657565/146627067-9e111f98-c80c-4683-8e17-b97448cda4c0.png)
@@ -48,5 +56,3 @@ Better End
 ![huge_2022-01-03_20 14 29](https://user-images.githubusercontent.com/39657565/148000888-1d72c387-995a-4acd-b74d-ccecdd369d27.png)
 ![huge_2022-01-03_20 15 45](https://user-images.githubusercontent.com/39657565/148000891-507f8785-a110-4bd5-816e-6b9d42312724.png)
 ![huge_2022-01-03_20 16 18](https://user-images.githubusercontent.com/39657565/148000896-437e2b77-8632-4b5d-b9d4-d06312c7d56c.png)
-
-Also includes Complementary Shaders https://www.curseforge.com/minecraft/customization/complementary-shaders
