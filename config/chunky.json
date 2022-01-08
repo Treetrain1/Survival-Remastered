@@ -6,12 +6,12 @@
     "minecraft:overworld": {
       "cancelled": true,
       "radius": 500.0,
-      "centerX": 485.91541042586664,
-      "centerZ": 1943.792956382454,
+      "centerX": -1002.6708337640808,
+      "centerZ": -1029.009805844871,
       "iterator": "concentric",
       "shape": "circle",
-      "count": 4175,
-      "time": 47175
+      "count": 4178,
+      "time": 32154
     },
     "minecraft:the_nether": {
       "cancelled": false,
