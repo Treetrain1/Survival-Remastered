@@ -84,15 +84,6 @@ key.mousewheelie.sort_inventory:key.mouse.middle
 key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key.mousewheelie.pick_tool:key.keyboard.unknown
-key.music_control.previous:key.keyboard.left
-key.music_control.next:key.keyboard.right
-key.music_control.pause:key.keyboard.right.shift
-key.music_control.loop:key.keyboard.unknown
-key.music_control.category:key.keyboard.page.up
-key.music_control.random:key.keyboard.page.down
-key.music_control.print:key.keyboard.right.control
-key.music_control.volumeUp:key.keyboard.up
-key.music_control.volumeDown:key.keyboard.down
 key.okzoomer.zoom:key.keyboard.c
 key.okzoomer.decrease_zoom:key.keyboard.unknown
 key.okzoomer.increase_zoom:key.keyboard.unknown
