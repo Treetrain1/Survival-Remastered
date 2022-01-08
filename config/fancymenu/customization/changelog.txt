@@ -1,0 +1,48 @@
+type = menu
+
+customization-meta {
+  identifier = changelog
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  multiline = true
+  x = -287
+  actionid = 63706643-9700-41d7-a523-a8fa9719db321641680594094
+  action = addwebtext
+  y = -61
+  scale = 1.5
+  alignment = left
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/main/resources/Beta%207.txt
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  x = -50
+  width = 100
+  actionid = d3784e55-9309-470b-92c1-73afffddf4981641680810182
+  action = addbutton
+  y = 139
+  label = Back
+  value = 
+  height = 20
+}
+

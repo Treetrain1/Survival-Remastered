@@ -8,3 +8,4 @@ Updated Mods
 Added Awesome Dungeon Edition Ocean
 Added Very Many Players
 Added Industrial Revolution
+Added Changelog button
