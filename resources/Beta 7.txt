@@ -1,0 +1,10 @@
+Survival Remastered 2.0 Beta 7
+
+WARNING: I guarantee you will experience crashes and bugs with this beta.
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+Updated Mods
+Added Awesome Dungeon Edition Ocean
+Added Very Many Players
+Added Industrial Revolution

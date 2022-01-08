@@ -1,10 +1,10 @@
 {
-  "time": true,
+  "time": false,
   "timeStr": "[HH:mm]",
   "timeFormatting": [
     "LIGHT_PURPLE"
   ],
-  "hover": true,
+  "hover": false,
   "hoverStr": "yyyy dd, MM, @ HH:mm:ss.SSSS",
   "boundary": true,
   "boundaryStr": "\u003c]\u003d\u003d\u003d---{ SESSION BOUNDARY LINE }---\u003d\u003d\u003d[\u003e",

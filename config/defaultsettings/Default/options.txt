@@ -38,7 +38,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla","Fabric Mods","Black Icons","file/Stay_True_1.18.zip","file/§aReimagined§8-[v1.20].zip","file/§aReimagined-3D+§8-[v1.1.1].zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Better-Leaves-6.1-1.13+.zip","bedrockwaters/resources","file/Survival Remastered Resources.zip"]
 incompatibleResourcePacks:["file/§aReimagined§8-[v1.20].zip","file/§aReimagined-3D+§8-[v1.1.1].zip"]
-lastServer:
+lastServer:treesmp.ga
 lang:en_us
 soundDevice:
 chatVisibility:0

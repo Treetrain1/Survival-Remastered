@@ -101,3 +101,18 @@ customization {
   height = 170
 }
 
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -69
+  width = 69
+  actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
+  action = addbutton
+  y = -18
+  label = Change Log
+  value = 
+  height = 18
+}
+

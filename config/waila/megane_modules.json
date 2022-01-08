@@ -18,6 +18,9 @@
     "megane-tech-reborn": {
       "badasintended.megane.impl.TechReborn": true
     },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
     "megane-applied-energistics-2": {
       "badasintended.megane.impl.AppliedEnergistics2": true
     },
