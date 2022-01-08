@@ -12,6 +12,6 @@
     "DARK_AQUA",
     "BOLD"
   ],
-  "max_messages": 1024,
+  "max_messages": 2048,
   "reset": false
 }

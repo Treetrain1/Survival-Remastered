@@ -621,4 +621,7 @@ mode = "fancy"
 				desert_creeper = true
 				swamp_creeper = true
 				dark_oak_creeper = true
+				beach_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
 
