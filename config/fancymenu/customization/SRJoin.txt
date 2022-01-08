@@ -1,0 +1,42 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_424
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 4
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = SR_Resources/survival-remastered-title.png
+  orientation = mid-centered
+  x = -200
+  width = 400
+  action = addtexture
+  actionid = 3113547d-c7b5-4a0a-b03b-d4e0b090fda71639534467538
+  y = -113
+  height = 225
+}
+

@@ -1,0 +1,14 @@
+{
+  "verboseLogging": false,
+  "displayUpdatedBadge": true,
+  "displayUnsupportedBadge": false,
+  "renderMainMenuText": true,
+  "dumpInfoOnLaunch": false,
+  "enableNonSpecifiedGradleProperties": true,
+  "blacklist": [
+    "minecraft",
+    "fabricloader",
+    "java",
+    "fabric"
+  ]
+}

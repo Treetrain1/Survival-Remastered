@@ -1,0 +1,37 @@
+type = hud
+
+customization-meta {
+  fadeout = false
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = SR_Resources/background.png
+  autoscale_baseheight = 1080
+  renderorder = foreground
+  autoscale_basewidth = 1920
+  randommode = false
+  scale = 4
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  y = -11
+  barcolor = #778899
+}
+
+customization {
+  path = SR_Resources/survival-remastered-title.png
+  orientation = mid-centered
+  x = 0
+  width = 400
+  action = addtexture
+  actionid = b1717b01-7ce5-4ba6-b2f1-ccaa3311ec781638047615140
+  y = -1
+  height = 225
+}
+

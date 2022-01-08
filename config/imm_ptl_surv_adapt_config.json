@@ -1,0 +1,8 @@
+{
+  "maxPortalModificatorMoveDistance": 300,
+  "maxPortalCreatorDistance": 100,
+  "maxPortalCreatorWidth": 10,
+  "maxPortalCreatorHeight": 10,
+  "maxPortalWrappingBoxSize": 50,
+  "enablePortalClaiming": true
+}

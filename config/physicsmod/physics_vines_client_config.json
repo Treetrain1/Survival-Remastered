@@ -1,0 +1,135 @@
+{
+  "customizedVines": [
+    {
+      "blockID": "minecraft:tall_grass",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:rose_bush",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:chain",
+      "bottomFixed": false,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.5,
+      "stiffness": 10.0,
+      "damping": 60.0,
+      "link": "minecraft:lantern"
+    },
+    {
+      "blockID": "minecraft:lilac",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:weeping_vines",
+      "bottomFixed": false,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0,
+      "link": "minecraft:weeping_vines_plant"
+    },
+    {
+      "blockID": "minecraft:tall_seagrass",
+      "bottomFixed": true,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0
+    },
+    {
+      "blockID": "minecraft:cave_vines",
+      "bottomFixed": false,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0,
+      "link": "minecraft:cave_vines_plant"
+    },
+    {
+      "blockID": "minecraft:sugar_cane",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:large_fern",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:twisting_vines",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0,
+      "link": "minecraft:twisting_vines_plant"
+    },
+    {
+      "blockID": "minecraft:peony",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:vine",
+      "bottomFixed": false,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0
+    },
+    {
+      "blockID": "minecraft:sunflower",
+      "bottomFixed": true,
+      "waterPhysics": true,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 30.0,
+      "damping": 120.0
+    },
+    {
+      "blockID": "minecraft:kelp",
+      "bottomFixed": true,
+      "waterPhysics": false,
+      "sideConnection": false,
+      "hitboxScale": 1.0,
+      "stiffness": 10.0,
+      "damping": 60.0,
+      "link": "minecraft:kelp_plant"
+    }
+  ]
+}
