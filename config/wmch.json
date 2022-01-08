@@ -1,17 +1,17 @@
 {
-  "time_enabled": true,
-  "time_text": "[HH:mm:ss]",
-  "time_formatting": [
+  "time": true,
+  "timeStr": "[HH:mm]",
+  "timeFormatting": [
     "LIGHT_PURPLE"
   ],
-  "hover_enabled": true,
-  "hover_string": "yyyy dd, MM, @ HH:mm:ss.SSSS",
-  "boundary_enabled": true,
-  "boundary_string": "\u003c]\u003d\u003d\u003d---{ SESSION BOUNDARY LINE }---\u003d\u003d\u003d[\u003e",
-  "boundary_formatting": [
+  "hover": true,
+  "hoverStr": "yyyy dd, MM, @ HH:mm:ss.SSSS",
+  "boundary": true,
+  "boundaryStr": "\u003c]\u003d\u003d\u003d---{ SESSION BOUNDARY LINE }---\u003d\u003d\u003d[\u003e",
+  "boundaryFormatting": [
     "DARK_AQUA",
     "BOLD"
   ],
-  "max_messages": 2048,
+  "maxMsgs": 2048,
   "reset": false
 }

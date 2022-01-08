@@ -12,6 +12,9 @@
     "megane-fabric-transfer": {
       "badasintended.megane.impl.FabricTransfer": true
     },
+    "megane-modern-industrialization": {
+      "badasintended.megane.impl.ModernIndustrialization": true
+    },
     "megane-tech-reborn": {
       "badasintended.megane.impl.TechReborn": true
     },

@@ -3,14 +3,14 @@
     "minecraft:music.overworld.frozen_peaks": {
       "condition0": {
         "biome": "minecraft:frozen_peaks",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "betterend:betterend.music.caves": {
       "condition0": {
         "biome": "betterend:empty_end_cave",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
@@ -25,20 +25,20 @@
     "betterend:betterend.music.dark": {
       "condition0": {
         "biome": "betterend:chorus_forest",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.overworld.grove": {
       "condition0": {
         "biome": "minecraft:grove",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.dragon": {
       "condition0": {
-        "randUntilNextSong": 1000.0,
+        "randUntilNextSong": 250.0,
         "priority": 3.0,
         "playOnDragon": true,
         "dimension": "minecraft:the_end",
@@ -49,20 +49,20 @@
     "minecraft:music.overworld.lush_caves": {
       "condition0": {
         "biome": "minecraft:lush_caves",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.under_water": {
       "condition0": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 0.0,
         "isUnderWater": true,
         "biomeCategory": "ocean",
         "dimension": "minecraft:overworld"
       },
       "condition1": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0,
         "isUnderWater": true,
         "biomeCategory": "river",
@@ -72,20 +72,20 @@
     "minecraft:music.nether.crimson_forest": {
       "condition0": {
         "biome": "minecraft:crimson_forest",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.overworld.meadow": {
       "condition0": {
         "biome": "minecraft:meadow",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.credits": {
       "condition0": {
-        "randUntilNextSong": 600.0,
+        "randUntilNextSong": 250.0,
         "priority": 10.0,
         "playOnCredits": true,
         "forceSwitchIn": true,
@@ -95,41 +95,41 @@
     "minecraft:music.overworld.dripstone_caves": {
       "condition0": {
         "biome": "minecraft:dripstone_caves",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.nether.nether_wastes": {
       "condition0": {
         "biome": "minecraft:nether_wastes",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.overworld.jagged_peaks": {
       "condition0": {
         "biome": "minecraft:jagged_peaks",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "betterend:betterend.music.forest": {
       "condition0": {
         "biome": "betterend:foggy_mushroomland",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.nether.soul_sand_valley": {
       "condition0": {
         "biome": "minecraft:soul_sand_valley",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "ostoverhaul:minecraft.bastion_remnant": {
       "condition0": {
-        "randUntilNextSong": 600.0,
+        "randUntilNextSong": 300.0,
         "priority": 2.0,
         "structure": "minecraft:bastion_remnant",
         "forceSwitchIn": true,
@@ -138,7 +138,7 @@
     },
     "minecraft:music.end": {
       "condition0": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 0.0,
         "dimension": "minecraft:the_end"
       }
@@ -146,20 +146,20 @@
     "minecraft:music.overworld.snowy_slopes": {
       "condition0": {
         "biome": "minecraft:snowy_slopes",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "betterend:betterend.music.openspace": {
       "condition0": {
         "biome": "betterend:dust_wastelands",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "ostoverhaul:frosty": {
       "condition0": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0,
         "temp": {
           "compareWith": "lessThan",
@@ -168,7 +168,7 @@
         "dimension": "minecraft:overworld"
       },
       "condition1": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0,
         "temp": {
           "compareWith": "equals",
@@ -177,7 +177,7 @@
         "dimension": "minecraft:overworld"
       },
       "condition2": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0,
         "precipitation": "snow",
         "dimension": "minecraft:overworld"
@@ -185,7 +185,7 @@
     },
     "ostoverhaul:minecraft.stronghold": {
       "condition0": {
-        "randUntilNextSong": 600.0,
+        "randUntilNextSong": 300.0,
         "priority": 2.0,
         "structure": "minecraft:stronghold",
         "forceSwitchIn": true,
@@ -194,7 +194,7 @@
     },
     "minecraft:music.game": {
       "condition0": {
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 0.0,
         "dimension": "minecraft:overworld"
       }
@@ -202,40 +202,28 @@
     "minecraft:music.overworld.stony_peaks": {
       "condition0": {
         "biome": "minecraft:stony_peaks",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.nether.warped_forest": {
       "condition0": {
         "biome": "minecraft:warped_forest",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     },
     "minecraft:music.nether.basalt_deltas": {
       "condition0": {
         "biome": "minecraft:basalt_deltas",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
-      }
-    },
-    "ostoverhaul:claustrophobic": {
-      "condition0": {
-        "randUntilNextSong": 12000.0,
-        "priority": 3.0,
-        "y": {
-          "compareWith": "lessThan",
-          "number": 61.0
-        },
-        "hasSkyAccess": false,
-        "dimension": "minecraft:overworld"
       }
     },
     "betterend:betterend.music.water": {
       "condition0": {
         "biome": "betterend:megalake",
-        "randUntilNextSong": 12000.0,
+        "randUntilNextSong": 300.0,
         "priority": 1.0
       }
     }

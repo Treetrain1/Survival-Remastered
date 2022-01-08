@@ -624,4 +624,5 @@ mode = "fancy"
 				beach_creeper = true
 				hills_creeper = true
 				snowy_creeper = true
+				bamboo_creeper = true
 

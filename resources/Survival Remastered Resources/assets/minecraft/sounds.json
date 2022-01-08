@@ -1,8 +1,6 @@
 {
   "music.game": {
 	  "category": "music",
-	  "randUntilNextSong": 250,
-	  "priority": 0,
 	  "sounds": [
 	{
         "name": "survival_remastered:music/amazing_sad_song",
@@ -56,8 +54,6 @@
   },
   "music.end": {
 	"category": "music",
-	"randUntilNextSong": 250,
-	"priority": 0,
 	"sounds": [
 		{
 			"name": "survival_remastered:music/battle_of_the_dragons",
@@ -79,8 +75,6 @@
   },
   "music.dragon": {
 	"category": "music",
-	"randUntilNextSong": 250,
-	"priority": 0,
 	"sounds": [
 		{
 			"name": "survival_remastered:music/battle_of_the_dragons",
@@ -94,8 +88,6 @@
   },
   "music.menu": {
 	"category": "music",
-	"randUntilNextSong": 250,
-	"priority": 0,
 	"sounds": [
 		{
 			"name": "survival_remastered:music/amazing_sad_song",
@@ -156,13 +148,79 @@
 		{
 			"name": "survival_remastered:music/draconis",
 			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/quiet",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/remnant",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lost_care",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/deepstate",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/coldrave",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/voide",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/thewardendepth",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lush",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/ice",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/depths",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:underground",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/fall",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/cradle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/as_above_so_below",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/sheep_shuffle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/814",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/prophet",
+			"stream": true
 		}
 	]
   },
   "music.credits": {
 	"category": "music",
-	"randUntilNextSong": 250,
-	"priority": 0,
 	"sounds": [
 		{
 			"name": "survival_remastered:music/estavius",
