@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "language": "en",
+  "continueOnRestart": false,
+  "tasks": {
+    "minecraft:overworld": {
+      "cancelled": true,
+      "radius": 500.0,
+      "centerX": -1002.6708337640808,
+      "centerZ": -1029.009805844871,
+      "iterator": "concentric",
+      "shape": "circle",
+      "count": 4178,
+      "time": 32154
+    },
+    "minecraft:the_nether": {
+      "cancelled": false,
+      "radius": 500.0,
+      "centerX": 41.9400362173739,
+      "centerZ": 289.97597517122136,
+      "iterator": "concentric",
+      "shape": "circle",
+      "count": 1344,
+      "time": 26567
+    },
+    "minecraft:the_end": {
+      "cancelled": true,
+      "radius": 600.0,
+      "centerX": -730.2897435822421,
+      "centerZ": 1002.1568527307574,
+      "iterator": "concentric",
+      "shape": "square",
+      "count": 5879,
+      "time": 106262
+    }
+  }
+}

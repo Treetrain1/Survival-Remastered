@@ -1,0 +1,9 @@
+Any of the datapacks in this folder are not in any way my property.
+
+The original data packs:
+https://www.planetminecraft.com/data-pack/1-14-better-end-city-s-datapack/
+https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-more-villagers-datapack
+
+I wish there was a way to have it download from their sources instead of including the files in the modpack, but I haven't found one yet.
+
+I did make the custom crafting recipe.

@@ -1,0 +1,12 @@
+{
+  "minTime": 1,
+  "maxTime": 2,
+  "divide": false,
+  "division": 2,
+  "experimental": {
+    "distortPitch": false,
+    "chanceToPitchChange": 0.3,
+    "minNoteChange": -12,
+    "maxNoteChange": 12
+  }
+}

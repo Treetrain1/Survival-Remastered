@@ -1,0 +1,8 @@
+{
+	// Should Ender Eye Destroy Event Only Belongs to Specific Player?
+	"INDIVIDUAL_MODE": true,
+	// Scanning interval for nearby End Portal Frame. The unit is tick.
+	"SCANNING_RATE": 300,
+	// Scanning Radius for nearby End Portal Frame.
+	"SCANNING_RADIUS": 30
+}

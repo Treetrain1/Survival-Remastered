@@ -1,0 +1,47 @@
+{
+  "logging": {
+    "enableDebugLogging": false,
+    "traceMask": 0,
+    "enableModUpdateChatMessage": false
+  },
+  "soundSystem": {
+    "streamingChannels": 16,
+    "cullInterval": 0,
+    "enableSoundPruning": false
+  },
+  "enhancedSounds": {
+    "enableEnhancedSounds": false,
+    "backgroundThreadWorkers": 0,
+    "enableHRTF": false,
+    "enableMonoConversion": false,
+    "enableOcclusionProcessing": false,
+    "reverbRays": 32,
+    "reverbBounces": 2,
+    "reverbRayTraceDistance": 64,
+    "outputFrequency": 0
+  },
+  "thunderStorms": {
+    "replaceThunderSounds": false
+  },
+  "blockEffects": {
+    "blockEffectRange": 24,
+    "steamColumnEnabled": true,
+    "flameJetEnabled": true,
+    "bubbleColumnEnabled": true,
+    "waterfallsEnabled": true,
+    "enableWaterfallSounds": true,
+    "enableWaterfallParticles": true,
+    "waterRippleStyle": "PIXELATED_CIRCLE"
+  },
+  "entityEffects": {
+    "entityEffectRange": 24,
+    "enableBowPull": true,
+    "enableBreathEffect": true,
+    "enablePlayerToolbarEffect": true,
+    "enableSwingEffect": true
+  },
+  "particleTweaks": {
+    "suppressPlayerParticles": false,
+    "showProjectileTrails": true
+  }
+}

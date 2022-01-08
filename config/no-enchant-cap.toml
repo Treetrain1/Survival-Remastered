@@ -1,0 +1,7 @@
+removeAnvilXPLimit = true
+allowAllEnchantmentCombinations = true
+allowAnyEnchantOnAnyItem = false
+removeAnvilLevelLimit = true
+fairLevelCost = true
+removeRepairCostIncrease = true
+newAnvilLevelLimit = 255

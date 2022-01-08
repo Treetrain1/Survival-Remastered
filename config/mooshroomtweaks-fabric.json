@@ -1,0 +1,4 @@
+{
+	// The chance of a Red Mooshroom becoming a Brown Mooshroom.
+	"becomeBrownChance": 0.5
+}

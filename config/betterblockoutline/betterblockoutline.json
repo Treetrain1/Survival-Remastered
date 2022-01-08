@@ -1,0 +1,16 @@
+{
+  "general": {
+    "active": true,
+    "seeThrough": true,
+    "outlineColor": "#FF000000",
+    "fillColor": "#00000000",
+    "outlineType": "line",
+    "outlineWidth": 1.0,
+    "cubeOutline": false
+  },
+  "color_modifiers": {
+    "outline": [],
+    "fill": []
+  },
+  "config_version": 1
+}

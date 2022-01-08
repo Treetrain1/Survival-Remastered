@@ -1,0 +1,8 @@
+{
+	"timer": 15,
+	"musicQueue": 5,
+	"displayAtStart": true,
+	"displayType": "JUKEBOX",
+	"cheat": false,
+	"musicCategoryStart": "DEFAULT"
+}

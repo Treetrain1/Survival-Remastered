@@ -1,0 +1,12 @@
+{
+	/* 
+	   
+	   ******************************
+	   Ring Settings
+	   ******************************
+	*/
+	"ringMinerCooldown": 120,
+	"ringMinerRange": 5,
+	"ringMinerVerticalRange": 4,
+	"ringMinerDelayedBreak": true
+}

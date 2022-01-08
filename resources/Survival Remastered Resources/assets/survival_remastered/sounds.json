@@ -1,0 +1,23 @@
+{
+  "music.nether": {
+      "category" : "music",
+      "randUntilNextSong": 250,
+      "priority": 0,
+      "dimension": "minecraft:the_nether",
+      "playOnMenu": true,
+      "sounds": [
+    {
+          "name": "survival_remastered:music/olympus",
+          "stream": true
+      },
+      {
+          "name": "survival_remastered:music/flight_hymn",
+          "stream": true
+      },
+      {
+          "name": "survival_remastered:music/hope",
+          "stream": true
+      }
+    ]
+  }
+}

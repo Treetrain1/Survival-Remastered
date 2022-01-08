@@ -1,0 +1,17 @@
+{
+  "time": true,
+  "timeStr": "[HH:mm]",
+  "timeFormatting": [
+    "LIGHT_PURPLE"
+  ],
+  "hover": true,
+  "hoverStr": "yyyy dd, MM, @ HH:mm:ss.SSSS",
+  "boundary": true,
+  "boundaryStr": "\u003c]\u003d\u003d\u003d---{ SESSION BOUNDARY LINE }---\u003d\u003d\u003d[\u003e",
+  "boundaryFormatting": [
+    "DARK_AQUA",
+    "BOLD"
+  ],
+  "maxMsgs": 2048,
+  "reset": false
+}
