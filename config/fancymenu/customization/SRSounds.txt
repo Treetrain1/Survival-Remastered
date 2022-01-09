@@ -1,0 +1,98 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_443
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345220%
+  action = setbuttondescription
+  description = Hostile Creatures
+}
+
+customization {
+  identifier = %id=505220%
+  action = setbuttondescription
+  description = Friendly Creatures
+}
+
+customization {
+  identifier = %id=345286%
+  action = setbuttondescription
+  description = Device%n%Preferred Audio Device
+}
+
+customization {
+  identifier = %id=345154%
+  action = setbuttondescription
+  description = Master Volume
+}
+
+customization {
+  identifier = %id=505198%
+  action = setbuttondescription
+  description = Blocks
+}
+
+customization {
+  identifier = %id=345198%
+  action = setbuttondescription
+  description = Weather
+}
+
+customization {
+  identifier = %id=400330%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=345264%
+  action = setbuttondescription
+  description = Voice/Speech
+}
+
+customization {
+  identifier = %id=425308%
+  action = setbuttondescription
+  description = Show Subtitles?
+}
+
+customization {
+  identifier = %id=345176%
+  action = setbuttondescription
+  description = Music
+}
+
+customization {
+  identifier = %id=505242%
+  action = setbuttondescription
+  description = Ambient/Environment
+}
+
+customization {
+  identifier = %id=505176%
+  action = setbuttondescription
+  description = Jukebox/Note Blocks
+}
+
+customization {
+  identifier = %id=345242%
+  action = setbuttondescription
+  description = Players
+}
+

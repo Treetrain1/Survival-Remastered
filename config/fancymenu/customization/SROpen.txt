@@ -1,0 +1,38 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_407
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345262%
+  action = setbuttondescription
+  description = Open in Browser%n%Open link in default browser
+}
+
+customization {
+  identifier = %id=450262%
+  action = setbuttondescription
+  description = Copy to Clipboard%n%Copy the link to the clipboard
+}
+
+customization {
+  identifier = %id=555262%
+  action = setbuttondescription
+  description = Cancel%n%Go back
+}
+

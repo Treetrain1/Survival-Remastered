@@ -1,0 +1,80 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_440
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400262%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=505190%
+  action = setbuttondescription
+  description = Right Sleeve%n%Toggle right sleeve
+}
+
+customization {
+  identifier = %id=345190%
+  action = setbuttondescription
+  description = Left Sleeve%n%Toggle left sleeve
+}
+
+customization {
+  identifier = %id=505166%
+  action = setbuttondescription
+  description = Jacket%n%Toggle jacket
+}
+
+customization {
+  identifier = %id=321166%
+  action = setbuttondescription
+  description = Cape Settings%n%Customize Cape
+}
+
+customization {
+  identifier = %id=345166%
+  action = setbuttondescription
+  description = Cape%n%Toggle cape
+}
+
+customization {
+  identifier = %id=505238%
+  action = setbuttondescription
+  description = Main Hand%n% Toggle main hand between left and right hand
+}
+
+customization {
+  identifier = %id=345238%
+  action = setbuttondescription
+  description = Hat%n%Toggle hat
+}
+
+customization {
+  identifier = %id=505214%
+  action = setbuttondescription
+  description = Right Pants Leg%n%Toggle right pants leg
+}
+
+customization {
+  identifier = %id=345214%
+  action = setbuttondescription
+  description = Left Pants Leg%n%Toggle left pants leg
+}
+

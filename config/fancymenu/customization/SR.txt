@@ -5,7 +5,9 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  minimummcversion = 1.18.1
   randomonlyfirsttime = false
+  maximummcversion = 1.19
 }
 
 customization {
@@ -68,7 +70,7 @@ customization {
 customization {
   identifier = %id=604394%
   action = setbuttondescription
-  description = Accessibility!
+  description = Accessibility!%n%Accessibility Settings
 }
 
 customization {
@@ -121,7 +123,7 @@ customization {
 customization {
   identifier = %id=502394%
   action = setbuttondescription
-  description = Rage Quit
+  description = Rage Quit%n%Quit to Desktop
 }
 
 customization {

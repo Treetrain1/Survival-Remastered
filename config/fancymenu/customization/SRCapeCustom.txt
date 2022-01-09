@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = me.cael.capes.CapeMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400262%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=505190%
+  action = setbuttondescription
+  description = LabyMod%n%Toggle LabyMod cape
+}
+
+customization {
+  identifier = %id=345190%
+  action = setbuttondescription
+  description = OptiFine%n%Toggle OptiFine cape
+}
+
+customization {
+  identifier = %id=400238%
+  action = setbuttondescription
+  description = OptiFine Cape Editor%n%Edit OptiFine Cape
+}
+
+customization {
+  identifier = %id=505166%
+  action = setbuttondescription
+  description = Cape Texture on Elytra%n%Enable or disable elytra texture
+}
+
+customization {
+  identifier = %id=345166%
+  action = setbuttondescription
+  description = Cape Type%n%Choose cape type
+}
+
+customization {
+  identifier = %id=505214%
+  action = setbuttondescription
+  description = Wynntils%n%Toggle Wynntils cape
+}
+
+customization {
+  identifier = %id=345214%
+  action = setbuttondescription
+  description = MinecraftCapes%n%Toggle Minecraft Capes
+}
+

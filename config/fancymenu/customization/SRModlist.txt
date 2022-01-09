@@ -1,0 +1,51 @@
+type = menu
+
+customization-meta {
+  identifier = com.terraformersmc.modmenu.gui.ModsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttondescription
+  description = Done
+}
+
+customization {
+  identifier = %id=346972%
+  action = setbuttondescription
+  description = Open Mods Folder
+}
+
+customization {
+  identifier = %id=53084%
+  action = setbuttonlabel
+  value = Open Mod Website
+}
+
+customization {
+  identifier = %id=53084%
+  action = setbuttondescription
+  description = Open Mod Website
+}
+
+customization {
+  identifier = %id=77884%
+  action = setbuttonlabel
+  value = Open Mod Issue Tracker
+}
+
+customization {
+  identifier = %id=77884%
+  action = setbuttondescription
+  description = Open Mod Issue Tracker
+}
+

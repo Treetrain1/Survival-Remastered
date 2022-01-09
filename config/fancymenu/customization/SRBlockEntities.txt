@@ -1,0 +1,38 @@
+type = menu
+
+customization-meta {
+  identifier = foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=554973%
+  action = setbuttondescription
+  description = Done%n%Apply changes and exit
+}
+
+customization {
+  identifier = %id=346973%
+  action = setbuttondescription
+  description = Cancel%n%Discard changes and exit
+}
+
+customization {
+  identifier = %id=450973%
+  action = setbuttondescription
+  description = Apply%n%Apply changes
+}
+

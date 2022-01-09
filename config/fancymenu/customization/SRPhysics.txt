@@ -1,0 +1,116 @@
+type = menu
+
+customization-meta {
+  identifier = net.diebuddies.physics.settings.PhysicsSettingsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345184%
+  action = setbuttonlabel
+  value = General Physics
+}
+
+customization {
+  identifier = %id=345184%
+  action = setbuttondescription
+  description = General Physics
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttondescription
+  description = Sound Settings
+}
+
+customization {
+  identifier = %id=505184%
+  action = setbuttonlabel
+  value = Mob Physics
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttonlabel
+  value = Liquid Physics
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttondescription
+  description = Liquid Physics
+}
+
+customization {
+  identifier = %id=505256%
+  action = setbuttondescription
+  description = Server Settings
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = Cloth Physics
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttondescription
+  description = Cloth Physics
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttonlabel
+  value = Item Physics
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttondescription
+  description = Item Physics
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttonlabel
+  value = Block Physics
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttondescription
+  description = Block Physics
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttonlabel
+  value = Vine Physics
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttondescription
+  description = Vine Physics
+}
+

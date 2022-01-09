@@ -28,8 +28,9 @@ customization {
 }
 
 customization {
-  identifier = %id=398294%
-  action = hidebutton
+  identifier = %id=398246%
+  action = setbuttondescription
+  description = Resume%n%Go back to the game
 }
 
 customization {
@@ -66,6 +67,39 @@ customization {
 }
 
 customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=398318%
+  action = setbuttondescription
+  description = Mods!%n%A list of mods!
+}
+
+customization {
+  identifier = %id=504270%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -88
+}
+
+customization {
+  identifier = %id=504270%
+  action = setbuttondescription
+  description = Statistics!
+}
+
+customization {
+  identifier = %id=398294%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=504342%
   orientation = mid-centered
   x = 4
@@ -90,21 +124,7 @@ customization {
 customization {
   identifier = %id=398270%
   action = setbuttondescription
-  description = Advancements%n%Achievements
-}
-
-customization {
-  identifier = %id=398318%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -40
-}
-
-customization {
-  identifier = %id=398318%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
+  description = Advancements
 }
 
 customization {
@@ -124,21 +144,7 @@ customization {
 customization {
   identifier = %id=398366%
   action = setbuttondescription
-  description = Rage Quit
-}
-
-customization {
-  identifier = %id=504270%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = -88
-}
-
-customization {
-  identifier = %id=504270%
-  action = setbuttondescription
-  description = Statistics!
+  description = Rage Quit%n%Quit to title screen
 }
 
 customization {
@@ -159,16 +165,15 @@ customization {
 
 customization {
   orientation = mid-centered
+  loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  description = Discord%n%Join the Discord
-  label = Discord
-  loopbackgroundanimations = true
   x = -102
   width = 98
-  actionid = 7d0ea394-1cb4-4cbe-96de-a79281ad6a5c1641748091781
+  actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
   action = addbutton
   y = -64
+  label = Discord
   value = https://discord.gg/C7bZ5kGGBA
   height = 20
 }

@@ -1,0 +1,44 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_405
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505127%
+  action = setbuttondescription
+  description = I know what I'm doing!%n%Optimize world anyway
+}
+
+customization {
+  identifier = %id=345127%
+  action = setbuttondescription
+  description = Create Backup and Load
+}
+
+customization {
+  identifier = %id=425103%
+  action = setbuttondescription
+  description = Erase cached data
+}
+
+customization {
+  identifier = %id=425151%
+  action = setbuttondescription
+  description = Cancel%n%Discard changes and exit
+}
+

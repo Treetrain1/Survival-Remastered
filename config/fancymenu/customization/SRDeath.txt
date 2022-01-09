@@ -16,13 +16,13 @@ customization {
 customization {
   identifier = %id=400322%
   action = setbuttonlabel
-  value = Try Again!
+  value = Try Again/Spectate World
 }
 
 customization {
   identifier = %id=400322%
   action = setbuttondescription
-  description = Try Again!%n%Respawn and hopefully get your stuff back!
+  description = Try Again/Spectate World%n%Respawn and hopefully get your stuff back!%n%Spectate World if in Hardcore
 }
 
 customization {
@@ -34,6 +34,6 @@ customization {
 customization {
   identifier = %id=400346%
   action = setbuttondescription
-  description = Rage Quit
+  description = Rage Quit%n%Quit to title screen
 }
 

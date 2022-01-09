@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_524
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400327%
+  action = setbuttondescription
+  description = Open Backups Folder
+}
+
+customization {
+  identifier = %id=400303%
+  action = setbuttondescription
+  description = Make Backup
+}
+
+customization {
+  identifier = %id=400399%
+  action = setbuttondescription
+  description = Save%n%Save changes and exit
+}
+
+customization {
+  identifier = %id=400279%
+  action = setbuttondescription
+  description = Open World Folder
+}
+
+customization {
+  identifier = %id=400375%
+  action = setbuttondescription
+  description = Export World Generation Settings
+}
+
+customization {
+  identifier = %id=502399%
+  action = setbuttondescription
+  description = Cancel%n%Discard changes and exit
+}
+
+customization {
+  identifier = %id=400255%
+  action = setbuttondescription
+  description = Reset Icon
+}
+
+customization {
+  identifier = %id=400351%
+  action = setbuttondescription
+  description = Optimize World
+}
+

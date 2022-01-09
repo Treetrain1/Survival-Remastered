@@ -187,6 +187,38 @@ mode = "fancy"
 				netherite_chest = true
 				gold_chest = true
 
+			[light_sources.settings.block_entities.adorn]
+				shelf = true
+				drawer = true
+				kitchen_cupboard = true
+				trading_station = true
+
+			[light_sources.settings.block_entities.alloy_forgery]
+				forge_controller = true
+
+			[light_sources.settings.block_entities.ancientgateways]
+				gateway_block_entity = true
+
+			[light_sources.settings.block_entities.automated_crafting]
+				auto_crafter_entity = true
+
+			[light_sources.settings.block_entities.bedspreads]
+				decorated_bed = true
+
+			[light_sources.settings.block_entities.betterend]
+				end_stone_smelter = true
+				pedestal = true
+				eternal_pedestal = true
+				infusion_pedestal = true
+				hydrother_malvent = true
+
+			[light_sources.settings.block_entities.botania]
+				altar = true
+				mana_spreader = true
+				mana_pool = true
+				runic_altar = true
+				mana_pylon = true
+
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
@@ -312,6 +344,8 @@ mode = "fancy"
 				warden = true
 				chest_boat = true
 				mangrove_boat = true
+				tadpole = true
+				firefly = true
 
 			[light_sources.settings.entities.elementalcreepers]
 				rainbow_creeper = true
@@ -625,7 +659,83 @@ mode = "fancy"
 				hills_creeper = true
 				snowy_creeper = true
 				bamboo_creeper = true
+				mushroom_creeper = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
+
+			[light_sources.settings.entities.additionaladditions]
+				glow_stick = true
+
+			[light_sources.settings.entities.ancientgateways]
+				chorus_ink_entity = true
+
+			[light_sources.settings.entities.botania]
+				mana_burst = true
+				pixie = true
+				flame_ring = true
+				vine_ball = true
+				doppleganger = true
+				magic_landmine = true
+				spark = true
+				thrown_item = true
+				magic_missile = true
+				thorn_chakram = true
+				corporea_spark = true
+				ender_air_bottle = true
+				pool_minecart = true
+				pink_wither = true
+				player_mover = true
+				mana_storm = true
+				babylon_weapon = true
+				falling_star = true
+				ender_air = true
+
+			[light_sources.settings.entities.deadlydaggers]
+				thrown_wooden_dagger = true
+				thrown_stone_dagger = true
+				thrown_iron_dagger = true
+				thrown_gold_dagger = true
+				thrown_diamond_dagger = true
+				thrown_netherite_dagger = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+				dummy_number = true
+
+			[light_sources.settings.entities.snowrealmagic]
+				snow = true
+
+			[light_sources.settings.entities.mcdar]
+				buzzy_nest_bee = true
+				enchanted_blue_sheep = true
+				enchanted_green_sheep = true
+				enchanted_red_sheep = true
+				golem_kit_golem = true
+				tasty_bone_wolf = true
+				wonderful_wheat_llama = true
+
+			[light_sources.settings.entities.moborigins]
+				origin_slime = true
+
+			[light_sources.settings.entities.origins]
+				enderian_pearl = true
+
+			[light_sources.settings.entities.the_bumblezone]
+				honey_slime = true
+				beehemoth = true
+				pollen_puff = true
+
+			[light_sources.settings.entities.toomanyorigins]
+				small_dragon_fireball = true
+				fireball_area_effect_cloud = true
+
+			[light_sources.settings.entities.ae2]
+				singularity = true
+				charged_quartz = true
+				growing_crystal = true
+				tiny_tnt_primed = true
+
+			[light_sources.settings.entities.mcdw]
+				summoned_bee = true
 

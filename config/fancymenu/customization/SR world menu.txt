@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -20,14 +25,50 @@ customization {
 }
 
 customization {
+  identifier = %id=346948%
+  action = setbuttondescription
+  description = Play%n%Play the selected world
+}
+
+customization {
+  identifier = %id=424972%
+  action = setbuttondescription
+  description = Delete%n%Delete the selected world
+}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttondescription
+  description = Re-Create%n%Re-Create the selected world
+}
+
+customization {
   identifier = %id=504948%
   action = setbuttonlabel
   value = Create a World
 }
 
 customization {
+  identifier = %id=504948%
+  action = setbuttondescription
+  description = Create a World
+}
+
+customization {
   identifier = %id=582972%
   action = setbuttonlabel
   value = Back
+}
+
+customization {
+  identifier = %id=582972%
+  action = setbuttondescription
+  description = Back%n%Go back
+}
+
+customization {
+  identifier = %id=346972%
+  action = setbuttondescription
+  description = Edit%n%Edit the selected world
 }
 

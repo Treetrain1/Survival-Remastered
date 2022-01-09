@@ -1,0 +1,32 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_410
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505262%
+  action = setbuttondescription
+  description = Cancel%n%Go back
+}
+
+customization {
+  identifier = %id=345262%
+  action = setbuttondescription
+  description = Delete%n%Delete the world
+}
+

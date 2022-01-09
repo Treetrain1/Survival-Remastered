@@ -1,0 +1,50 @@
+type = menu
+
+customization-meta {
+  identifier = net.puzzlemc.gui.screen.PuzzleOptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttondescription
+  description = Performance Settings...
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttondescription
+  description = Miscellaneous Settings...
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttondescription
+  description = Graphics Settings...
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttondescription
+  description = Resource Settings...
+}
+

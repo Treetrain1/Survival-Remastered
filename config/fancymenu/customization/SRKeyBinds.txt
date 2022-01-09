@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = com.blamejared.controlling.client.NewKeyBindsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=581923%
+  action = setbuttondescription
+  description = Sort: A->Z/Z->A/None
+}
+
+customization {
+  identifier = %id=581947%
+  action = setbuttondescription
+  description = Show All/Unbound
+}
+
+customization {
+  identifier = %id=505971%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=421971%
+  action = setbuttondescription
+  description = Toggle Free
+}
+
+customization {
+  identifier = %id=345971%
+  action = setbuttondescription
+  description = Reset Keys%n%Be careful with this
+}
+
+customization {
+  identifier = %id=423921%
+  action = setbuttondescription
+  description = Category%n%Filter by Category
+}
+
+customization {
+  identifier = %id=423934%
+  action = setbuttondescription
+  description = Key%n%Filter by Key
+}
+
+customization {
+  identifier = %id=505947%
+  action = setbuttondescription
+  description = Show All/Conflicts
+}
+

@@ -8,7 +8,6 @@ Updated Mods
 Added Awesome Dungeon Edition Ocean
 Added Very Many Players
 Added Industrial Revolution
-Added Changelog button
 Added MC Dungeons Weapons
 Added MC Dungeons Armors
 Added MC Dungeons Artifacts
@@ -27,4 +26,6 @@ Visual improvements
 Removed Expanded Weapon Enchanting
 Added Botania
 Renamed the Quit Game button to Rage Quit
-Improved some GUI's
+Remastered GUIs and menus
+Added Harder Zombies
+Added Hardcore Revival

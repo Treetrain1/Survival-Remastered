@@ -32,7 +32,7 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = bottom-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui
@@ -40,7 +40,7 @@ customization {
   width = 100
   actionid = d3784e55-9309-470b-92c1-73afffddf4981641680810182
   action = addbutton
-  y = 139
+  y = -22
   label = Back
   value = 
   height = 20
