@@ -38,11 +38,23 @@ customization {
 }
 
 customization {
+  identifier = %id=400310%
+  action = setbuttondescription
+  description = Multiplayer!%n%Go play with friends!
+}
+
+customization {
   identifier = %id=400358%
   orientation = mid-centered
   x = -100
   action = movebutton
   y = 51
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttondescription
+  description = Mods!%n%A list of mods!
 }
 
 customization {
@@ -54,11 +66,23 @@ customization {
 }
 
 customization {
+  identifier = %id=604394%
+  action = setbuttondescription
+  description = Accessibility!
+}
+
+customization {
   identifier = %id=400286%
   orientation = mid-centered
   x = -100
   action = movebutton
   y = 5
+}
+
+customization {
+  identifier = %id=400286%
+  action = setbuttondescription
+  description = Singleplayer!%n%Go play alone!
 }
 
 customization {
@@ -75,11 +99,29 @@ customization {
 }
 
 customization {
+  identifier = %id=400394%
+  action = setbuttondescription
+  description = Options!%n%Basically settings
+}
+
+customization {
   identifier = %id=502394%
   orientation = mid-centered
   x = 2
   action = movebutton
   y = 76
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttonlabel
+  value = Rage Quit
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttondescription
+  description = Rage Quit
 }
 
 customization {
@@ -91,28 +133,35 @@ customization {
 }
 
 customization {
+  identifier = %id=376394%
+  action = setbuttondescription
+  description = Language!%n%If you want to change the language.
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  description = Changelog%n%Shows the changes for the current update to Survival Remastered
+  label = Changelog
+  loopbackgroundanimations = true
+  x = -71
+  width = 69
+  actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
+  action = addbutton
+  y = -22
+  value = changelog
+  height = 20
+}
+
+customization {
   path = SR_Resources/survival-remastered-title.png
   orientation = top-centered
   x = -151
   width = 302
   action = addtexture
   actionid = 9e005b73-b702-4ced-a6fe-246c320f6a5a1638046106120
-  y = -9
+  y = -11
   height = 170
-}
-
-customization {
-  orientation = bottom-right
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = opencustomgui
-  x = -71
-  width = 69
-  actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
-  action = addbutton
-  y = -22
-  label = Changelog
-  value = changelog
-  height = 20
 }
 

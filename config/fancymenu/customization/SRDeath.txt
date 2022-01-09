@@ -1,0 +1,39 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_418
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Try Again!
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttondescription
+  description = Try Again!%n%Respawn and hopefully get your stuff back!
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = Rage Quit
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttondescription
+  description = Rage Quit
+}
+

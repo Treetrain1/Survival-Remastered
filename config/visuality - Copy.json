@@ -18,20 +18,10 @@
       "betternether:jungle_skeleton|visuality:bone",
       "adventurez:skeleton_vanguard|visuality:bone",
       "earthtojavamobs:skeleton_wolf|visuality:bone",
-      "graveyard:skeleton_creeper|visuality:bone",
-      "promenade:sunken_skeleton|visuality:bone",
+      "graveyard:skeleton_creeper",
+      "promenade:sunken_skeleton",
       "minecraft:wither_skeleton|visuality:wither_bone",
-      "adventurez:wither_puppet|visuality:wither_bone",
       "minecraft:chicken|visuality:feather",
-      "earthtojavamobs:amber_chicken|visuality:feather",
-      "earthtojavamobs:bronzed_chicken|visuality:feather",
-      "earthtojavamobs:cluckshroom|visuality:feather",
-      "earthtojavamobs:fancy_chicken|visuality:feather",
-      "earthtojavamobs:gold_crested_chicken|visuality:feather",
-      "earthtojavamobs:midnight_chicken|visuality:feather",
-      "earthtojavamobs:skewbald_chicken|visuality:feather",
-      "earthtojavamobs:stormy_chicken|visuality:feather",
-      "promenade:duck|visuality:feather",
       "minecraft:villager|visuality:emerald"
     ]
   },
@@ -77,11 +67,7 @@
       "gobber2:gobber2_helmet_dragon",
       "gobber2:gobber2_chestplate_dragon",
       "gobber2:gobber2_leggings_dragon",
-      "gobber2:gobber2_boots_dragon",
-      "mythicmetals:midas_gold_helmet",
-      "mythicmetals:midas_gold_chestplate",
-      "mythicmetals:midas_gold_leggings",
-      "mythicmetals:midas_gold_boots"
+      "gobber2:gobber2_boots_dragon"
     ]
   },
   "shiny_blocks": {
@@ -93,8 +79,7 @@
       "minecraft:diamond_ore",
       "minecraft:deepslate_diamond_ore",
       "minecraft:emerald_ore",
-      "minecraft:deepslate_emerald_ore",
-      "mythicmetals:midas_gold_ore"
+      "minecraft:deepslate_emerald_ore"
     ]
   }
 }

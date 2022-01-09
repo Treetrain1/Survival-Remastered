@@ -22,11 +22,11 @@ customization {
   orientation = mid-centered
   shadow = true
   multiline = true
-  x = -287
+  x = -191
   actionid = 63706643-9700-41d7-a523-a8fa9719db321641680594094
   action = addwebtext
-  y = -61
-  scale = 1.5
+  y = -101
+  scale = 1.0
   alignment = left
   url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/main/resources/Beta%207.txt
 }
@@ -47,12 +47,12 @@ customization {
 }
 
 customization {
-  orientation = top-centered
+  orientation = mid-centered
   shadow = true
-  x = -234
+  x = -207
   actionid = 7a0e8e1c-8e3d-4d4f-b4d9-2cec63d635c81641689815623
   action = addtext
-  y = 101
+  y = -131
   scale = 1.0
   alignment = left
   value = Requires an internet connection because it receives information from a server

@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_526
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = Play
+}
+
+customization {
+  identifier = %id=504948%
+  action = setbuttonlabel
+  value = Create a World
+}
+
+customization {
+  identifier = %id=582972%
+  action = setbuttonlabel
+  value = Back
+}
+

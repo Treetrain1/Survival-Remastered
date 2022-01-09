@@ -18,3 +18,13 @@ Fixed music not playing in the nether
 More blocks are now breakable with arrows and tridents
 Removed Lava Clear View
 Added Legendary Tooltips
+Added Artifality (From SR 1.17.1)
+Added Dungeon Plus
+Added Mythic Metals
+Added Alloy Forgery
+Removed No Enchant Cap
+Visual improvements
+Removed Expanded Weapon Enchanting
+Added Botania
+Renamed the Quit Game button to Rage Quit
+Improved some GUI's

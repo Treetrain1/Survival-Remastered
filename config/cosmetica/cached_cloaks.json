@@ -1365,11 +1365,6 @@
     "cloak": "pumpkin"
   },
   {
-    "name": "Mediocre___",
-    "uuid": "4637078c-9feb-42f3-bc60-1e5ff06e9dc5",
-    "cloak": "azure"
-  },
-  {
     "name": "Ketxhup215",
     "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
     "cloak": "pride"
@@ -1667,6 +1662,11 @@
   {
     "name": "EEGAR",
     "uuid": "ac346bac-cea2-4baf-9db8-520732efd23a",
+    "cloak": "void"
+  },
+  {
+    "name": "Mediocre___",
+    "uuid": "4637078c-9feb-42f3-bc60-1e5ff06e9dc5",
     "cloak": "void"
   }
 ]
