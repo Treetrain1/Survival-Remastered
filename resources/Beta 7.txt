@@ -9,3 +9,12 @@ Added Awesome Dungeon Edition Ocean
 Added Very Many Players
 Added Industrial Revolution
 Added Changelog button
+Added MC Dungeons Weapons
+Added MC Dungeons Armors
+Added MC Dungeons Artifacts
+Removed Auth Me
+Added Homabric
+Fixed music not playing in the nether
+More blocks are now breakable with arrows and tridents
+Removed Lava Clear View
+Added Legendary Tooltips

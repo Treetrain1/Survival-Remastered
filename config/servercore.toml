@@ -32,7 +32,7 @@
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
-	enabled = true
+	enabled = false
 	# (Default = 35) The average MSPT to target.
 	target_mspt = 30
 	# (Default = 15) The amount of seconds between dynamic performance updates.
@@ -47,7 +47,7 @@
 	max_simulation_distance = 6
 	min_simulation_distance = 2
 	# (Default = [Max: 10, Min: 2]) Distance in which the world will render.
-	max_view_distance = 13
+	max_view_distance = 10
 	min_view_distance = 2
 	# (Default = [Max: 1.0, Min: 0.3]) Global multiplier that decides the percentage of the mobcap to be used.
 	max_mobcap = 1.0
@@ -56,12 +56,12 @@
 # Stops animals / villagers from breeding if there are too many of the same type nearby.
 [entity_limits]
 	# (Default = false) Enables this feature.
-	enabled = false
+	enabled = true
 	# (Default = [Villager: 24, Animals: 32]) Maximum count before stopping entities of the same type from breeding.
-	villager_count = 24
+	villager_count = 30
 	animal_count = 32
 	# (Default = [Villager: 64, Animals: 64]) The range it will check for entities of the same type.
-	villager_range = 64
+	villager_range = 24
 	animal_range = 64
 
 # Allows you to disable specific commands and modify the way some of them are formatted.
@@ -80,10 +80,10 @@
 # Stops entities from ticking if they are too far away.
 [activation_range]
 	# (Default = false) Enables this feature.
-	enabled = false
+	enabled = true
 	# (Default = false) Enables vertical range checks. By default, activation ranges only work horizontally.
 	# This can greatly improve performance on taller worlds, but might break a few very specific ai-based mobfarms.
-	use_vertical_range = false
+	use_vertical_range = true
 	# (Default = true) Allows villagers to tick regardless of the activation range when panicking.
 	villager_tick_panic = true
 	# (Default = false) Allows villagers to tick regardless of the activation range.
@@ -107,9 +107,9 @@
 	monster_wakeup_max = 8
 	monster_wakeup_interval = 20
 	# Activation range settings for animals.
-	animal_activation_range = 16
+	animal_activation_range = 24
 	animal_tick_inactive = true
-	animal_wakeup_max = 4
+	animal_wakeup_max = 6
 	animal_wakeup_interval = 60
 	# Activation range settings for flying mobs.
 	flying_activation_range = 48
@@ -117,13 +117,13 @@
 	flying_wakeup_interval = 10
 	flying_tick_inactive = true
 	# Activation range settings for water mobs.
-	water_activation_range = 16
+	water_activation_range = 24
 	water_tick_inactive = true
 	# Activation range settings for neutral mobs.
 	neutral_activation_range = 24
 	neutral_tick_inactive = true
 	# Activation range settings for zombies.
-	zombie_activation_range = 16
+	zombie_activation_range = 24
 	zombie_tick_inactive = true
 	# Activation range settings for raider mobs.
 	raider_activation_range = 48

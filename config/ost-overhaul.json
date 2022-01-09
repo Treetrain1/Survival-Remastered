@@ -120,6 +120,13 @@
         "priority": 1.0
       }
     },
+    "survival_remastered:music.nether": {
+      "condition0": {
+        "dimension": "minecraft:the_nether",
+        "randUntilNextSong": 250.0,
+        "priority": 4.0
+      }
+    },
     "minecraft:music.nether.soul_sand_valley": {
       "condition0": {
         "biome": "minecraft:soul_sand_valley",

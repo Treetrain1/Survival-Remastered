@@ -19,7 +19,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5023474178403758
+mouseSensitivity:0.01971830985915501
 fov:0.625
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -27,7 +27,7 @@ gamma:1.0
 renderDistance:7
 simulationDistance:5
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:5
 particles:0
 maxFps:240
 difficulty:2
@@ -74,7 +74,7 @@ syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 soundCategory_master:0.6768212
-soundCategory_music:0.15211268
+soundCategory_music:0.15774648
 soundCategory_record:1.0
 soundCategory_weather:0.21549296
 soundCategory_block:1.0

@@ -65,6 +65,7 @@ fpsreducer.key.openGui:key.keyboard.end
 fpsreducer.key.forceIdle:key.keyboard.pause
 key.origins.arcanite_toggle:key.keyboard.unknown
 key.guild.quest_screen:key.keyboard.j
+key.indrev.modular:key.keyboard.unknown
 key.inventoryhud.toggle:key.keyboard.i
 key.inventoryhud.openconfig:key.keyboard.o
 key.inventoryhud.togglepot:key.keyboard.unknown

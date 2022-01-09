@@ -1395,11 +1395,6 @@
     "cloak": "bi"
   },
   {
-    "name": "EEGAR",
-    "uuid": "ac346bac-cea2-4baf-9db8-520732efd23a",
-    "cloak": "cosmic"
-  },
-  {
     "name": "VendixDilan",
     "uuid": "2bb1c666-676f-4154-a185-1d0b1f490a22",
     "cloak": "pumpkin"
@@ -1668,5 +1663,10 @@
     "name": "Monkeygogobeans",
     "uuid": "80304cae-bee0-4123-8eaf-62e731808b78",
     "cloak": "lapis"
+  },
+  {
+    "name": "EEGAR",
+    "uuid": "ac346bac-cea2-4baf-9db8-520732efd23a",
+    "cloak": "void"
   }
 ]

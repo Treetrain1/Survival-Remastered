@@ -626,3 +626,6 @@ mode = "fancy"
 				snowy_creeper = true
 				bamboo_creeper = true
 
+			[light_sources.settings.entities.sit]
+				entity_sit = true
+
