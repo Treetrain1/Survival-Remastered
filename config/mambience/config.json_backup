@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 2,
     "debugLogging": false,
     "scanner": {
         "sizeX": 11,
@@ -9,7 +9,7 @@
     },
     "ambientEvents": {
         "enabled": true,
-        "volume": 0.5,
+        "volume": 0.45,
         "stopSounds": false
     },
     "effects": {

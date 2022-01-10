@@ -1,5 +1,5 @@
 ticksUntilDeath = 2400
-continueTimerWhileOffline = true
+continueTimerWhileOffline = false
 rescueActionTicks = 40
 rescueRespawnHealth = 3
 rescueRespawnFoodLevel = 5

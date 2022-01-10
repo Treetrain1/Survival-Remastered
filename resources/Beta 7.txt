@@ -25,7 +25,7 @@ Removed No Enchant Cap
 Visual improvements
 Removed Expanded Weapon Enchanting
 Added Botania
-Renamed the Quit Game button to Rage Quit
 Remastered GUIs and menus
 Added Harder Zombies
 Added Hardcore Revival
+Added MAmbience

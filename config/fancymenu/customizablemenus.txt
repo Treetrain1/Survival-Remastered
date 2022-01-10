@@ -168,3 +168,6 @@ net.minecraft.class_422 {
 net.minecraft.class_419 {
 }
 
+net.blay09.mods.hardcorerevival.client.KnockoutScreen {
+}
+
