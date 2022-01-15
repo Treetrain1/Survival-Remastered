@@ -40,6 +40,15 @@
         "priority": 1.0
       }
     },
+    "survival_remastered:music.sommerregen": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": 45.0,
+          "compareWith": "moreThan"
+        }
+      }
+    },
     "minecraft:music.dragon": {
       "condition0": {
         "randUntilNextSong": 250.0,
@@ -263,6 +272,16 @@
         "priority": 1.0
       }
     },
+    "survival_remastered:music.the_introvert": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": -20.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0
+      }
+    },
     "minecraft:music.overworld.meadow": {
       "condition0": {
         "biome": "minecraft:meadow",
@@ -289,7 +308,7 @@
     "survival_remastered:music.deepdark": {
       "condition0": {
         "dimension": "minecraft:overworld",
-        "randUntilNextSong": 1500.0,
+        "randUntilNextSong": 1350.0,
         "y": {
           "number": -47.0,
           "compareWith": "lessThan"

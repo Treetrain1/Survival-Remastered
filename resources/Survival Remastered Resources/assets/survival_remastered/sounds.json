@@ -90,7 +90,7 @@
     ]
   },
   "music.deepdark": {
-    "category" : "music",
+    "category": "music",
     "sounds": [
       {
           "name": "twm:music/game/ancestry",
@@ -102,6 +102,24 @@
       },
       {
           "name": "twm:music/game/end_shrine",
+          "stream": true
+      }
+    ]
+  },
+  "music.the_introvert": {
+    "category": "music",
+    "sounds": [
+      {
+          "name": "survival_remastered:the_introvert",
+          "stream": true
+      }
+    ]
+  },
+  "music.sommerregen": {
+    "category": "music",
+    "sounds": [
+      {
+          "name": "survival_remastered:sommerregen",
           "stream": true
       }
     ]

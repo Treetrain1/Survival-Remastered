@@ -85,6 +85,14 @@
 			"stream": true
 		},
 		{
+			"name": "survival_remastered:music/the_introvert",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/sommerregen",
+			"stream": true
+		},
+		{
 			"name": "ostoverhaul:music/quiet",
 			"stream": true
 		},
