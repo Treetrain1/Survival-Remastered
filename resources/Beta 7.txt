@@ -6,7 +6,6 @@ If you find any issues or crashes, report it on the GitHub issue tracker.
 
 Updated Mods
 Added Awesome Dungeon Edition Ocean
-Added Very Many Players
 Added Industrial Revolution
 Added MC Dungeons Weapons
 Added MC Dungeons Armors
@@ -18,7 +17,7 @@ More blocks are now breakable with arrows and tridents
 Removed Lava Clear View
 Added Legendary Tooltips
 Added Artifality (From SR 1.17.1)
-Added Dungeon Plus
+Added Dungeon Clusters
 Added Mythic Metals
 Added Alloy Forgery
 Removed No Enchant Cap
@@ -29,3 +28,28 @@ Remastered GUIs and menus
 Added Harder Zombies
 Added Hardcore Revival
 Added MAmbience
+Added Stemaria
+Added ChatLagRemover
+Added Draggable Resource Packs
+Added Better Resource Pack Sorting
+Removed Forgotten Recipes
+Added Extra Classes - Origins (From SR 1.17.1)
+Added MemeSounds (gotta have some laughs here and there)
+Added What's That Slot?
+Added Farsight
+Raised FPS Limit on menus to 120
+Added Smooth Swapping
+Added Lithereal
+Added Continuity
+Updated Resource Packs
+Removed Colormatic
+Removed Discontinuous Beacon Beams
+Added Eden Ring
+Added Floral Flair
+Added Xaero's Minimap - Modded Support
+Added CaveTweaks
+Added Amplified Nether
+Added Direbats
+Added Chipped (From SR 1.17.1)
+Added Medieval Entity
+Removed Greater Eye of Ender

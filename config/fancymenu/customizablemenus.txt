@@ -15,9 +15,6 @@ net.minecraft.class_433 {
 net.minecraft.class_526 {
 }
 
-net.minecraft.class_429 {
-}
-
 net.minecraft.class_5289 {
 }
 
@@ -27,19 +24,7 @@ com.terraformersmc.modmenu.gui.ModsScreen {
 io.github.apace100.origins.screen.ChooseOriginScreen {
 }
 
-net.minecraft.class_410 {
-}
-
 net.minecraft.class_418 {
-}
-
-net.diebuddies.physics.settings.PhysicsSettingsScreen {
-}
-
-net.diebuddies.physics.settings.GeneralSettingsScreen {
-}
-
-net.diebuddies.physics.settings.BlocksSettingsScreen {
 }
 
 net.diebuddies.physics.settings.cloth.ClothSettingsScreen {
@@ -63,31 +48,7 @@ net.diebuddies.physics.settings.ItemsSettingsScreen {
 net.diebuddies.physics.settings.ServerSettingsScreen {
 }
 
-net.puzzlemc.gui.screen.PuzzleOptionsScreen {
-}
-
-net.puzzlemc.gui.screen.page.GraphicsPage {
-}
-
-net.puzzlemc.gui.screen.page.PerformancePage {
-}
-
-net.puzzlemc.gui.screen.page.ResourcesPage {
-}
-
-net.puzzlemc.gui.screen.page.MiscPage {
-}
-
 eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen {
-}
-
-net.minecraft.class_440 {
-}
-
-me.cael.capes.CapeMenu {
-}
-
-net.minecraft.class_446 {
 }
 
 foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
@@ -102,33 +63,6 @@ dev.lambdaurora.lambdynlights.gui.SettingsScreen {
 me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
-net.minecraft.class_443 {
-}
-
-net.minecraft.class_426 {
-}
-
-net.minecraft.class_5375 {
-}
-
-me.hypherionmc.simplerpc.gui.ConfigGui {
-}
-
-net.minecraft.class_4189 {
-}
-
-net.minecraft.class_404 {
-}
-
-net.minecraft.class_458 {
-}
-
-net.minecraft.class_4288 {
-}
-
-com.blamejared.controlling.client.NewKeyBindsScreen {
-}
-
 net.minecraft.class_6777 {
 }
 
@@ -136,9 +70,6 @@ eu.midnightdust.core.screen.MidnightConfigOverviewScreen {
 }
 
 net.diebuddies.physics.settings.MobsCustomizeSettingsScreen {
-}
-
-net.diebuddies.physics.settings.GravityCustomizeSettingsScreen {
 }
 
 net.diebuddies.physics.settings.BlocksCustomizeSettingsScreen {
@@ -169,5 +100,56 @@ net.minecraft.class_419 {
 }
 
 net.blay09.mods.hardcorerevival.client.KnockoutScreen {
+}
+
+net.diebuddies.physics.settings.GeneralSettingsScreen {
+}
+
+net.diebuddies.physics.settings.GravityCustomizeSettingsScreen {
+}
+
+net.diebuddies.physics.settings.BlocksSettingsScreen {
+}
+
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_5375 {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_447 {
+}
+
+net.minecraft.class_436 {
+}
+
+net.minecraft.class_446 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_525 {
+}
+
+net.minecraft.class_413 {
+}
+
+net.minecraft.class_430 {
+}
+
+net.minecraft.class_415 {
 }
 

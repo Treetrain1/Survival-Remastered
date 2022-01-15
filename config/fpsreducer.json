@@ -2,7 +2,7 @@
   "enableFpsReducer": true,
   "waitingTime": 90,
   "idleFps": 5,
-  "guiScreenFps": 60,
+  "guiScreenFps": 120,
   "detectMoving": 1,
   "ignoreHoldButton": true,
   "reducingInBackground": true,

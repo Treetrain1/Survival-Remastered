@@ -1,7 +1,5 @@
 #Plays ambient background sound according to the biome and time of day.
 "BiomeAmbience Enabled" = true
-#Plays creative music tracks in survival mode and enables other mods to add custom music.
-"ExtraMusic Enabled" = true
 #Plays specific ambient sound according to the situation or location.
 "SituationalAmbience Enabled" = true
 #Plays ambient background sound when the player is underground at different depths and light levels.
@@ -30,6 +28,8 @@
 	"Ocean ambience" = true
 	#If true, plays ambient sounds in plains biomes.
 	"Plains ambience" = true
+	#If true, plays ambient sounds when in rivers and frozen rivers.
+	"River ambience" = true
 	#If true, plays ambient sounds in savanna biomes.
 	"Savanna ambience" = true
 	#If true, plays ambient sounds in swamp biomes.
@@ -38,10 +38,8 @@
 	"Taiga ambience" = true
 	#If true, plays ambient sounds in the End biomes.
 	"The End ambience" = true
-
-[ExtraMusic]
-	#Chance (out of 1.0) of a Creative music track playing in survival mode whenever a new track is ready to play.
-	"Creative music chance" = 0.25
+	#Dimensions in which biome ambience will be played.
+	"Valid dimensions" = ["minecraft:overworld", "minecraft:the_end"]
 
 [SituationalAmbience]
 	#Affects the volume of all situational ambient sounds. 1.0 is full volume.

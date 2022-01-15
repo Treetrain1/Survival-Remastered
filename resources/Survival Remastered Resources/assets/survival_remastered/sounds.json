@@ -1,17 +1,107 @@
 {
-  "music.nether": {
-      "category" : "music",
-      "sounds": [
-    {
+  "music.olympus": {
+    "category": "music",
+    "sounds": [
+      {
           "name": "survival_remastered:music/olympus",
           "stream": true
-      },
+      }
+    ]
+  },
+  "music.flight_hymn": {
+    "category": "music",
+    "sounds": [
       {
           "name": "survival_remastered:music/flight_hymn",
           "stream": true
+      }
+    ]
+  },
+  "music.amazing_sad_song": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/amazing_sad_song",
+		    "stream": true
+	    }
+    ]
+  },
+  "music.estavius": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/estavius",
+        "stream": true
+      }
+    ]
+  },
+  "music.megalovania": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/megalovania",
+        "stream": true
+      }
+    ]
+  },
+  "music.ambient": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/ambient",
+        "stream": true
+      }
+    ]
+  },
+  "music.hope": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/hope",
+        "stream": true
+      }
+    ]
+  },
+  "music.knights_of_camelot": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/knights_of_camelot",
+        "stream": true
+      }
+    ]
+  },
+  "music.the_sound_of_light": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/the_sound_of_light",
+        "stream": true
+      }
+    ]
+  },
+  "music.cinematic_chillhop_main": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/cinematic_chillhop_main",
+        "stream": true
+      }
+    ]
+  },
+  "music.deepdark": {
+    "category" : "music",
+    "sounds": [
+      {
+          "name": "twm:music/game/ancestry",
+          "stream": true
       },
       {
-          "name": "survival_remastered:music/hope",
+          "name": "twm:music/game/astray_archipelago",
+          "stream": true
+      },
+      {
+          "name": "twm:music/game/end_shrine",
           "stream": true
       }
     ]

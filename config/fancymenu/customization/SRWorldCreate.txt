@@ -1,0 +1,98 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_525
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = SR_Resources/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=3451511%
+  action = setbuttondescription
+  description = Bonus Chest
+}
+
+customization {
+  identifier = %id=505185%
+  action = setbuttondescription
+  description = More World Options
+}
+
+customization {
+  identifier = %id=505120%
+  action = setbuttondescription
+  description = Customize%n%Customize World
+}
+
+customization {
+  identifier = %id=505100%
+  action = setbuttondescription
+  description = Difficulty
+}
+
+customization {
+  identifier = %id=3451001%
+  action = setbuttondescription
+  description = Generate Structures
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttonlabel
+  value = Create World
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttondescription
+  description = Create World
+}
+
+customization {
+  identifier = %id=505972%
+  action = setbuttondescription
+  description = Cancel%n%Go back
+}
+
+customization {
+  identifier = %id=5051001%
+  action = setbuttondescription
+  description = World Type
+}
+
+customization {
+  identifier = %id=505151%
+  action = setbuttondescription
+  description = Data packs
+}
+
+customization {
+  identifier = %id=50510011%
+  action = setbuttondescription
+  description = World Type
+}
+
+customization {
+  identifier = %id=345151%
+  action = setbuttondescription
+  description = Allow Cheats
+}
+
+customization {
+  identifier = %id=3451851%
+  action = setbuttondescription
+  description = Import Settings
+}
+

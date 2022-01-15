@@ -110,7 +110,7 @@ customization {
 customization {
   identifier = %id=504342%
   action = setbuttondescription
-  description = Open to LAN%n%Opens the world to devices in your home
+  description = Open to LAN%n%Opens the world to other devices in your home
 }
 
 customization {
@@ -165,15 +165,16 @@ customization {
 
 customization {
   orientation = mid-centered
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
+  description = Discord%n%Join the Survival Remastered Discord
+  label = Discord
+  loopbackgroundanimations = true
   x = -102
   width = 98
   actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
   action = addbutton
   y = -64
-  label = Discord
   value = https://discord.gg/C7bZ5kGGBA
   height = 20
 }

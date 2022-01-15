@@ -13,7 +13,7 @@
   "enableRotationLocking": true,
   "enableLadderAnimation": false,
   "enableRotateToLadder": true,
-  "enableEatDrinkAnimation": false,
+  "enableEatDrinkAnimation": true,
   "enableRowBoatAnimation": true,
   "enableHorseAnimation": true,
   "dontHoldItemsInBed": true,

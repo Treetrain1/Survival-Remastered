@@ -15,9 +15,7 @@
   "mcdw:bow_lost_souls": {
     "minecraft:multishot": 1
   },
-  "universal_graves:grave_compass": {
-    "minecraft:riptide": 4
-  },
+  "universal_graves:grave_compass": {},
   "mcdw:crossbow_lightning_harp_crossbow": {
     "mcdw:ricochet": 1,
     "minecraft:multishot": 1

@@ -1,57 +1,4 @@
 {
-  "music.game": {
-	  "category": "music",
-	  "sounds": [
-	{
-        "name": "survival_remastered:music/amazing_sad_song",
-		"stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/estavius",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/killer",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/megalovania",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/the_lord_of_the_ring",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/try",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/ambient",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/hope",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/knights_of_camelot",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/the_sound_of_light",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/cinematic_chillhop_main",
-		  "stream": true
-	  },
-	  {
-		  "name": "survival_remastered:music/wet_hands",
-		  "stream": true
-	  }
-	]
-  },
   "music.end": {
 	"category": "music",
 	"sounds": [
@@ -98,19 +45,7 @@
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/killer",
-			"stream": true
-		},
-		{
 			"name": "survival_remastered:music/megalovania",
-			"stream": true
-		},
-		{
-			"name": "survival_remastered:music/the_lord_of_the_ring",
-			"stream": true
-		},
-		{
-			"name": "survival_remastered:music/try",
 			"stream": true
 		},
 		{

@@ -1,9 +1,9 @@
 {
   "blurExclusions": [
-    "net.minecraft.class_408",
     "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiOverlay$UserInputGuiScreen",
     "ai.arcblroth.projectInception.client.InceptionInterfaceScreen",
-    "net.optifine.gui.GuiChatOF"
+    "net.optifine.gui.GuiChatOF",
+    "net.minecraft.class_408"
   ],
   "fadeTimeMillis": 200,
   "radius": 8,

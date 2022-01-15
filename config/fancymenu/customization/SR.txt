@@ -34,7 +34,7 @@ customization {
 customization {
   identifier = %id=400310%
   orientation = mid-centered
-  x = -100
+  x = -101
   action = movebutton
   y = 28
 }

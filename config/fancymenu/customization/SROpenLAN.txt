@@ -1,0 +1,45 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_436
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345100%
+  action = setbuttondescription
+  description = Game Mode
+}
+
+customization {
+  identifier = %id=505100%
+  action = setbuttondescription
+  description = Allow Cheats
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttonlabel
+  value = Open to LAN
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttondescription
+  description = Open to LAN%n%Opens the world to other devices in your home
+}
+
+customization {
+  identifier = %id=505972%
+  action = setbuttondescription
+  description = Cancel%n%Go back
+}
+

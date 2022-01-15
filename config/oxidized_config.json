@@ -1,5 +1,6 @@
 {
   "copper_rail_range": 50,
+  "enable_copper_pulsar": true,
   "pulsar_reach": 10,
   "iron_nugget_chance": 0.15,
   "gold_nugget_chance": 0.15,
