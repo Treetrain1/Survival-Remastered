@@ -14,6 +14,18 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  shadow = false
+  x = 255
+  actionid = ba4f3f44-9584-4fea-9914-89a9287c8f2b1642308482342
+  action = addtext
+  y = 155
+  scale = 1.0
+  alignment = left
+  value = This functionality only has a purpose in multiplayer
+}
+
+customization {
   identifier = %id=400470%
   action = setbuttondescription
   description = Accept your Fate%n%Accept death

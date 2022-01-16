@@ -1,7 +1,7 @@
 {
   "simpleMode": true,
   "quasiConnectivity": false,
-  "redirectsRedstone": false,
-  "craftContinuously": false,
+  "redirectsRedstone": true,
+  "craftContinuously": true,
   "comparatorReadsOutput": false
 }

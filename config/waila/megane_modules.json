@@ -8,6 +8,7 @@
       "badasintended.megane.impl.IndustrialRevolution": true
     },
     "megane-reborn-core": {
+      "lol.bai.megane.module.reborncore.MeganeRebornCore": true,
       "badasintended.megane.impl.RebornCore": true
     },
     "megane-fabric-transfer": {
@@ -18,6 +19,7 @@
       "badasintended.megane.impl.ModernIndustrialization": true
     },
     "megane-tech-reborn": {
+      "lol.bai.megane.module.techreborn.MeganeTechReborn": true,
       "badasintended.megane.impl.TechReborn": true
     },
     "megane-lib-block-attributes": {

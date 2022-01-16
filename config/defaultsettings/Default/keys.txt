@@ -56,6 +56,15 @@ key.boosted-brightness.select2:key.keyboard.unknown
 key.boosted-brightness.select3:key.keyboard.unknown
 key.boosted-brightness.select4:key.keyboard.unknown
 key.boosted-brightness.select5:key.keyboard.unknown
+key.botania_corporea_request:key.keyboard.c
+key.buildinggadgets.settings_menu:key.keyboard.g
+key.buildinggadgets.range:key.keyboard.r
+key.buildinggadgets.undo:key.keyboard.u
+key.buildinggadgets.anchor:key.keyboard.h
+key.buildinggadgets.fuzzy:key.keyboard.unknown
+key.buildinggadgets.connected_area:key.keyboard.unknown
+key.buildinggadgets.rotate_mirror:key.keyboard.unknown
+key.buildinggadgets.material_list:key.keyboard.m
 carrier.key:key.keyboard.unknown
 key.crawl:key.keyboard.x
 key.entityculling.toggle:key.keyboard.unknown
@@ -66,11 +75,6 @@ fpsreducer.key.forceIdle:key.keyboard.pause
 key.origins.arcanite_toggle:key.keyboard.unknown
 key.guild.quest_screen:key.keyboard.j
 key.indrev.modular:key.keyboard.unknown
-key.inventoryhud.toggle:key.keyboard.i
-key.inventoryhud.openconfig:key.keyboard.o
-key.inventoryhud.togglepot:key.keyboard.unknown
-key.inventoryhud.togglearm:key.keyboard.unknown
-key.inventoryhud.toggleall:key.keyboard.unknown
 iris.keybind.reload:key.keyboard.unknown
 iris.keybind.toggleShaders:key.keyboard.minus
 iris.keybind.shaderPackSelection:key.keyboard.unknown

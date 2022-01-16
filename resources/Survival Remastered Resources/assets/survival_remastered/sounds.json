@@ -93,16 +93,16 @@
     "category": "music",
     "sounds": [
       {
-          "name": "twm:music/game/ancestry",
-          "stream": true
+        "name": "twm:music/game/ancestry",
+        "stream": true
       },
       {
-          "name": "twm:music/game/astray_archipelago",
-          "stream": true
+        "name": "twm:music/game/astray_archipelago",
+        "stream": true
       },
       {
-          "name": "twm:music/game/end_shrine",
-          "stream": true
+        "name": "twm:music/game/end_shrine",
+        "stream": true
       }
     ]
   },
@@ -110,7 +110,7 @@
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:the_introvert",
+          "name": "survival_remastered:music/the_introvert",
           "stream": true
       }
     ]
@@ -119,7 +119,7 @@
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:sommerregen",
+          "name": "survival_remastered:music/sommerregen",
           "stream": true
       }
     ]

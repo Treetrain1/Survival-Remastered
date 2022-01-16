@@ -2,14 +2,23 @@ version = 2
 # (Default: 8) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
+# Configuration for io system
+[ioSystem]
+	# (Default: true) Whether to use async chunk loading & unloading
+	async = "default"
+	# (Default: 1536) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# (Default: 6144) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"
+
 # Configuration for threaded world generation
 [threadedWorldGen]
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel 
 	# (may cause incompatibility with other mods)
-	allowThreadedFeatures = true
+	allowThreadedFeatures = "default"
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
-	reduceLockRadius = false
+	reduceLockRadius = "default"
 	# (Default: true) Whether to enable this feature
 	enabled = "default"
 
@@ -28,7 +37,7 @@ globalExecutorParallelism = "default"
 	# This is included in lithium-fabric 
 	# (may cause incompatibility with other mods)  
 	# INCOMPATIBILITY: Set to false forcefully by: lithium
-	useEndBiomeCache = false
+	useEndBiomeCache = "default"
 
 # Configuration for general optimizations
 [generalOptimizations]
@@ -44,7 +53,7 @@ globalExecutorParallelism = "default"
 	# Other values can result in crashes when starting minecraft  
 	# to prevent further damage
 	#
-	chunkStreamVersion = 3
+	chunkStreamVersion = "default"
 	# (Default: true) Whether to enable mid-tick chunk tasks  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
@@ -56,13 +65,13 @@ globalExecutorParallelism = "default"
 	doMidTickChunkTasks = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread 
 	# (may cause incompatibility with other mods) 
-	optimizeAsyncChunkRequest = true
+	optimizeAsyncChunkRequest = "default"
 
 # Configuration for no-tick view distance
 [noTickViewDistance]
 	# (Default: false) Whether to use compatibility mode to send chunks 
 	# This may fix some mod compatibility issues
-	compatibilityMode = false
+	compatibilityMode = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	# This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -70,7 +79,7 @@ globalExecutorParallelism = "default"
 	# Lower this for a better latency and higher this for a faster loading
 	updatesPerTick = "default"
 	# (Default: true) Weather to enable no-tick view distance
-	enabled = false
+	enabled = "default"
 
 # Configuration for clientside functions
 [clientSide]
@@ -80,14 +89,5 @@ globalExecutorParallelism = "default"
 		# (Default: true) Weather to enable c2me clientside features
 		enabled = "default"
 		# (Default: 128) Max render distance allowed in game options
-		maxViewDistance = 40
-
-# Configuration for io system
-[ioSystem]
-	# (Default: true) Whether to use async chunk loading & unloading
-	async = "default"
-	# (Default: 1536) Soft limit for io worker nbt cache
-	chunkDataCacheSoftLimit = "default"
-	# (Default: 6144) Hard limit for io worker nbt cache
-	chunkDataCacheLimit = "default"
+		maxViewDistance = "default"
 

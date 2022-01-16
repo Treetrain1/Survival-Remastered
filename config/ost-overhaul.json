@@ -40,15 +40,6 @@
         "priority": 1.0
       }
     },
-    "survival_remastered:music.sommerregen": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": 45.0,
-          "compareWith": "moreThan"
-        }
-      }
-    },
     "minecraft:music.dragon": {
       "condition0": {
         "randUntilNextSong": 250.0,

@@ -50,6 +50,20 @@ Added Xaero's Minimap - Modded Support
 Added CaveTweaks
 Added Amplified Nether
 Added Direbats
-Added Chipped (From SR 1.17.1)
-Added Medieval Entity
 Removed Greater Eye of Ender
+Added Fast Furnace for Fabric
+Added TerraBlender
+Added Colytra
+Added Llamarama
+Added Ksyxis
+Removed Expanded Trident Enchanting
+Added Sodium Shadowy Path Blocks
+Added Flonters
+Added Squirting syringe
+Added Vanilla Parts
+Added Tech Reborn
+Added Bedrock Features
+Added Tierability
+Added Towers of the Wild: Additions
+Added An Origins Addon - Apocalypse
+Added Big Extras

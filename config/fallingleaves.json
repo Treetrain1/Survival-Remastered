@@ -532,6 +532,10 @@
     "edenring:auritis_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "techreborn:rubber_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

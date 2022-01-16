@@ -8,7 +8,7 @@
     "breakMode": "INSTANTANEOUS",
     "detectionMode": "WHOLE_TREE",
     "maxScanSize": 800,
-    "maxSize": 300,
+    "maxSize": 500,
     "maxSizeAction": "ABORT",
     "breakOrder": "FURTHEST_FIRST",
     "minimumLeavesAroundRequired": 1,

@@ -397,6 +397,8 @@ mode = "fancy"
 				skeleton_creeper = true
 				ghoul = true
 				reaper = true
+				revenant = true
+				nightmare = true
 
 			[light_sources.settings.entities.goblintraders]
 				vein_goblin_trader = true
@@ -745,4 +747,10 @@ mode = "fancy"
 			[light_sources.settings.entities.medievalentity]
 				knigh_mountain = true
 				knight_forest = true
+				knight_desert = true
+				knight_swamp = true
+
+			[light_sources.settings.entities.llamarama]
+				caravan_trader = true
+				bumble_llama = true
 

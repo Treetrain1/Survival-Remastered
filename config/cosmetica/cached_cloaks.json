@@ -615,11 +615,6 @@
     "cloak": "azure"
   },
   {
-    "name": "Spusik",
-    "uuid": "c3de6046-0102-4f2c-a689-cda17d5b2da2",
-    "cloak": "crimson"
-  },
-  {
     "name": "BOBY_JOE_THE_3",
     "uuid": "5251ae59-6fae-4272-a547-87c1ed252e7e",
     "cloak": "cosmic"
@@ -1340,11 +1335,6 @@
     "cloak": "pumpkin"
   },
   {
-    "name": "Ketxhup215",
-    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
-    "cloak": "pride"
-  },
-  {
     "name": "flagz_",
     "uuid": "059dafec-9c00-485b-bf42-2883fb5c166b",
     "cloak": "jeb"
@@ -1635,11 +1625,6 @@
     "cloak": "trans"
   },
   {
-    "name": "Dat_Kat32",
-    "uuid": "42a7cb70-40d9-4e84-b306-281451e18548",
-    "cloak": "demiromantic"
-  },
-  {
     "name": "PeachMimosa",
     "uuid": "b4b0a9e8-c151-4c55-b177-11805147fd19",
     "cloak": "golden"
@@ -1678,5 +1663,30 @@
     "name": "LJC_100",
     "uuid": "7fc03234-006a-47db-8f6b-552f2c2c9c4a",
     "cloak": "swirly"
+  },
+  {
+    "name": "ketxhup215",
+    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
+    "cloak": "bi"
+  },
+  {
+    "name": "smileystingray",
+    "uuid": "15976cd6-a3db-4480-ada1-47051bd5d8aa",
+    "cloak": "azure"
+  },
+  {
+    "name": "Ketxhup215",
+    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
+    "cloak": "mint"
+  },
+  {
+    "name": "Dat_Kat32",
+    "uuid": "42a7cb70-40d9-4e84-b306-281451e18548",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "Spusik",
+    "uuid": "c3de6046-0102-4f2c-a689-cda17d5b2da2",
+    "cloak": "void"
   }
 ]

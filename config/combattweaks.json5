@@ -1,6 +1,6 @@
 {
 	"general": {
-		"minAttackCooldown": 0.6700000166893005,
+		"minAttackCooldown": 0.800000011920929,
 		"undo1dot8Jank": true,
 		"itemCooldownAffectsLMB": true,
 		"playersBypassInvulTicks": true,

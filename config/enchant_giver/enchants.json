@@ -181,6 +181,9 @@
   "mcdw:dagger_backstabber": {
     "mcdw:ambush": 1
   },
+  "minecraft:netherite_sword": {
+    "minecraft:sharpness": 1000
+  },
   "mcdw:axe_encrusted_anchor": {
     "mcdw:jungle_poison": 1,
     "mcdw:gravity": 1

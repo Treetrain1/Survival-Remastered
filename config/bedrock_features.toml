@@ -1,0 +1,12 @@
+areDyeCauldronsEnabled = true
+arePotionCauldronsEnabled = true
+areCakesStackable = true
+arePufferfishBuffed = true
+isSharpnessBuffed = true
+areShulkersDyeable = true
+areShulkersDyeableInSurvival = false
+doesMagicBypassProtection = false
+isSugarcaneBonemealable = true
+areAnvilsPushable = true
+jukeboxEmitRedstoneWhenPlaying = true
+chargedCreeperHeadLimit = -1

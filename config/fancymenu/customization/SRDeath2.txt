@@ -9,24 +9,31 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
   identifier = %id=505262%
+  action = setbuttonlabel
+  value = Try Again/Spectate Wrold
+}
+
+customization {
+  identifier = %id=505262%
   action = setbuttondescription
-  description = Cancel%n%Go back
+  description = Try Again/Spectate World%n%Respawn and hopefully get your stuff back!%n%Spectate World if in Hardcore
+}
+
+customization {
+  identifier = %id=345262%
+  action = setbuttonlabel
+  value = Rage Quit
 }
 
 customization {
   identifier = %id=345262%
   action = setbuttondescription
-  description = Delete%n%Delete the world
+  description = Rage Quit%n%Quit to title screen
 }
 

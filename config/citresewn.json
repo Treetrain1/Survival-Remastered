@@ -4,5 +4,5 @@
     "mute_warns": false,
     "citenchantment_scroll_multiplier": 8.0,
     "cache_ms": 50,
-    "broken_paths": false
+    "broken_paths": true
 }
