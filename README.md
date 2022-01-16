@@ -31,7 +31,7 @@ Tons of crazy structures!
 
 Complementary Shaders https://www.curseforge.com/minecraft/customization/complementary-shaders
 
-Features from the Wild Update
+1.19 Features
 
 So much more!
 
