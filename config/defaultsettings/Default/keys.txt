@@ -75,6 +75,11 @@ fpsreducer.key.forceIdle:key.keyboard.pause
 key.origins.arcanite_toggle:key.keyboard.unknown
 key.guild.quest_screen:key.keyboard.j
 key.indrev.modular:key.keyboard.unknown
+key.inventoryhud.toggle:key.keyboard.i
+key.inventoryhud.openconfig:key.keyboard.o
+key.inventoryhud.togglepot:key.keyboard.unknown
+key.inventoryhud.togglearm:key.keyboard.unknown
+key.inventoryhud.toggleall:key.keyboard.unknown
 iris.keybind.reload:key.keyboard.unknown
 iris.keybind.toggleShaders:key.keyboard.minus
 iris.keybind.shaderPackSelection:key.keyboard.unknown

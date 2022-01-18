@@ -36,7 +36,7 @@
     "item_frame": true,
     "armor_stand": true,
     "painting": true,
-    "piston": true
+    "piston": false
   },
   "extra_settings": {
     "show_fps": false,

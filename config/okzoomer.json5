@@ -25,7 +25,7 @@
 		// "VIGNETTE" uses a vignette as the overlay.
 		// "SPYGLASS" uses the spyglass overlay with the vignette texture.
 		// The vignette texture can be found at: assets/okzoomer/textures/misc/zoom_overlay.png
-		zoom_overlay: "OFF"
+		zoom_overlay: "VIGNETTE"
 	},
 	values: {
 		// The divisor applied to the FOV when zooming.

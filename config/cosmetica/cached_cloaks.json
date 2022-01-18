@@ -355,11 +355,6 @@
     "cloak": "cosmic"
   },
   {
-    "name": "_Volv",
-    "uuid": "87686f48-c3cc-41fc-b757-16637d69bd1b",
-    "cloak": "non-binary"
-  },
-  {
     "name": "SunJustice",
     "uuid": "abac03cd-056c-4e91-9a66-9e526f626b15",
     "cloak": "lapis"
@@ -1665,21 +1660,6 @@
     "cloak": "swirly"
   },
   {
-    "name": "ketxhup215",
-    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
-    "cloak": "bi"
-  },
-  {
-    "name": "smileystingray",
-    "uuid": "15976cd6-a3db-4480-ada1-47051bd5d8aa",
-    "cloak": "azure"
-  },
-  {
-    "name": "Ketxhup215",
-    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
-    "cloak": "mint"
-  },
-  {
     "name": "Dat_Kat32",
     "uuid": "42a7cb70-40d9-4e84-b306-281451e18548",
     "cloak": "cosmic"
@@ -1688,5 +1668,45 @@
     "name": "Spusik",
     "uuid": "c3de6046-0102-4f2c-a689-cda17d5b2da2",
     "cloak": "void"
+  },
+  {
+    "name": "seththecheetah",
+    "uuid": "5a9dbc72-70bf-4b20-bec4-e427f98b76d2",
+    "cloak": "gay"
+  },
+  {
+    "name": "ketxhup215",
+    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
+    "cloak": "bi"
+  },
+  {
+    "name": "CyaLaterAllRight",
+    "uuid": "86633fa9-06dc-4de2-86dd-d0a7f3569599",
+    "cloak": "bi"
+  },
+  {
+    "name": "smileystingray",
+    "uuid": "15976cd6-a3db-4480-ada1-47051bd5d8aa",
+    "cloak": "jeb"
+  },
+  {
+    "name": "Ketxhup215",
+    "uuid": "6d748567-8362-4093-a481-8ff8120a8610",
+    "cloak": "mint"
+  },
+  {
+    "name": "_Volv",
+    "uuid": "87686f48-c3cc-41fc-b757-16637d69bd1b",
+    "cloak": "trans"
+  },
+  {
+    "name": "Leeko",
+    "uuid": "4f4a00a5-4b59-4267-a6ac-829e09fea408",
+    "cloak": "uni"
+  },
+  {
+    "name": "Leekos",
+    "uuid": "5f099141-9cbe-41c4-9c71-f80c1d29a3de",
+    "cloak": "uni"
   }
 ]

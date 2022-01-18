@@ -8,12 +8,12 @@
         "interval": 20
     },
     "ambientEvents": {
-        "enabled": false,
+        "enabled": true,
         "volume": 0.5,
         "stopSounds": false
     },
     "effects": {
-        "enabled": false,
+        "enabled": true,
         "sizeX": 36,
         "sizeY": 18,
         "sizeZ": 36,

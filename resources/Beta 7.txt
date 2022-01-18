@@ -30,8 +30,6 @@ Added Hardcore Revival
 Added MAmbience
 Added Stemaria
 Added ChatLagRemover
-Added Draggable Resource Packs
-Added Better Resource Pack Sorting
 Removed Forgotten Recipes
 Added Extra Classes - Origins (From SR 1.17.1)
 Added MemeSounds (gotta have some laughs here and there)
@@ -57,7 +55,6 @@ Added Colytra
 Added Llamarama
 Added Ksyxis
 Removed Expanded Trident Enchanting
-Added Sodium Shadowy Path Blocks
 Added Flonters
 Added Squirting syringe
 Added Vanilla Parts
@@ -67,3 +64,16 @@ Added Tierability
 Added Towers of the Wild: Additions
 Added An Origins Addon - Apocalypse
 Added Big Extras
+Removed Automated Crafting
+Removed Bedspreads
+Removed SilkSpawners
+Removed Quick Paths
+Removed Trading Post
+Removed Villager Names (Duplicate mod)
+Removed Elytra Trinket
+Added PluckableArrows
+Fixed piston crash
+Removed BedrockWaters
+Removed Carpet
+Removed Carpet Extra
+Removed Carpet TIS Additon

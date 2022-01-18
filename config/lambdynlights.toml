@@ -753,4 +753,6 @@ mode = "fancy"
 			[light_sources.settings.entities.llamarama]
 				caravan_trader = true
 				bumble_llama = true
+				woolly_llama = true
+				mossy_llama = true
 

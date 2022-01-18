@@ -4,7 +4,7 @@
 		"undo1dot8Jank": true,
 		"itemCooldownAffectsLMB": true,
 		"playersBypassInvulTicks": true,
-		"minAttackCooldownForQueue": 0.6600000262260437,
+		"minAttackCooldownForQueue": 0.699999988079071,
 		"playersCanCrouchJump": true
 	},
 	"swords": {

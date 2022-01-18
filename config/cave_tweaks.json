@@ -1,0 +1,35 @@
+{
+  "Cave Tweaks": {
+    "Global Toggles": {
+      "enable_spaghetti_2d": true,
+      "enable_spaghetti_3d": true,
+      "enable_cheese": true,
+      "enable_big_entrance": true
+    },
+    "Cave Entrances": {
+      "bonus_factor": 0.135,
+      "limiting_factor": 0.3325,
+      "noise_factor": 1.92,
+      "layer_factor": 1.15,
+      "reduce_pillars": true,
+      "pillar_threshold": 0.075,
+      "pillar_reduction_factor": 5.0,
+      "max_pillar_reduction": 0.6
+    },
+    "Spaghetti Surface Behavior": {
+      "expand_factor": -0.6125,
+      "contract_factor": 1.525,
+      "primary_offset": 0.265,
+      "secondary_offset": 0.1725,
+      "per_block_factor": 0.005,
+      "start_depth": 32
+    },
+    "Spaghetti Twist": {
+      "vanilla_bias": 0.2,
+      "bias_power": 0.66,
+      "modulator_scale": 2.1,
+      "limiter": 0.725,
+      "bonus_factor": 1.66
+    }
+  }
+}

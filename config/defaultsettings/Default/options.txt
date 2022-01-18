@@ -24,10 +24,10 @@ fov:0.625
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
-renderDistance:7
+renderDistance:6
 simulationDistance:5
-entityDistanceScaling:1.0
-guiScale:5
+entityDistanceScaling:1.5
+guiScale:3
 particles:0
 maxFps:260
 difficulty:2
@@ -36,9 +36,9 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","artifality/fancyclusters","file/Xaero\u0027s Minimap - Mod Icons.zip","Black Icons","file/§aReimagined§8-[v1.22].zip","file/Stay_True_1.18.zip","file/§aReimagined-3D+§8-[v1.1.1].zip","file/§cIcons+Reimagined§8[v1.3].zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Better-Leaves-6.1-1.13+.zip","file/Survival Remastered Resources.zip"]
-incompatibleResourcePacks:["artifality/fancyclusters","file/§aReimagined-3D+§8-[v1.1.1].zip","file/§cIcons+Reimagined§8[v1.3].zip"]
-lastServer:treesmp.ga
+resourcePacks:["vanilla","Fabric Mods","file/Xaero\u0027s Minimap - Mod Icons.zip","Black Icons","file/§aReimagined§8-[v1.23.1].zip","file/Stay_True_1.18.zip","file/§aReimagined-3D+§8-[v1.1.1].zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Better-Leaves-6.1-1.13+.zip","file/Survival Remastered Resources.zip"]
+incompatibleResourcePacks:["file/§aReimagined§8-[v1.23.1].zip","file/Stay_True_1.18.zip","file/§aReimagined-3D+§8-[v1.1.1].zip"]
+lastServer:
 lang:en_us
 soundDevice:
 chatVisibility:0
@@ -73,16 +73,16 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.6768212
-soundCategory_music:0.15492958
-soundCategory_record:1.0
-soundCategory_weather:0.21549296
-soundCategory_block:1.0
+soundCategory_master:0.67483443
+soundCategory_music:0.15352112
+soundCategory_record:0.90704226
+soundCategory_weather:0.15633802
+soundCategory_block:0.9521127
 soundCategory_hostile:1.0
 soundCategory_neutral:0.90704226
-soundCategory_player:1.0
-soundCategory_ambient:0.5028169
-soundCategory_voice:1.0
+soundCategory_player:0.9056338
+soundCategory_ambient:0.40140846
+soundCategory_voice:0.9056338
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
