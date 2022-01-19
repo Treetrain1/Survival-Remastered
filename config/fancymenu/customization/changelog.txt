@@ -30,7 +30,7 @@ customization {
   x = 2
   actionid = 63706643-9700-41d7-a523-a8fa9719db321641680594094
   action = addwebtext
-  y = -132
+  y = -178
   scale = 0.5
   alignment = left
   url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/main/resources/Beta%207.txt
@@ -69,7 +69,7 @@ customization {
   x = 1
   actionid = a6f14830-60e8-44c7-a943-91fb9b51c3a31642447628027
   action = addtext
-  y = -149
+  y = -185
   scale = 0.7
   alignment = left
   value = the list is over here because i ran out of room
