@@ -95,9 +95,6 @@ key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key.mousewheelie.pick_tool:key.keyboard.unknown
 key.okzoomer.zoom:key.keyboard.c
-key.okzoomer.decrease_zoom:key.keyboard.unknown
-key.okzoomer.increase_zoom:key.keyboard.unknown
-key.okzoomer.reset_zoom:key.keyboard.unknown
 key.origins.primary_active:key.keyboard.g
 key.origins.secondary_active:key.keyboard.r
 key.origins.view_origin:key.keyboard.o

@@ -20,12 +20,12 @@
 		// Allows to increase or decrease zoom by scrolling.
 		zoom_scrolling: true,
 		// Adds zoom manipulation keys along with the zoom key.
-		extra_keybinds: true,
+		extra_keybinds: false,
 		// Adds an overlay in the screen during zoom.
 		// "VIGNETTE" uses a vignette as the overlay.
 		// "SPYGLASS" uses the spyglass overlay with the vignette texture.
 		// The vignette texture can be found at: assets/okzoomer/textures/misc/zoom_overlay.png
-		zoom_overlay: "VIGNETTE"
+		zoom_overlay: "OFF"
 	},
 	values: {
 		// The divisor applied to the FOV when zooming.

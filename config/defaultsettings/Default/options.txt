@@ -19,7 +19,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.01971830985915501
+mouseSensitivity:0.5023474178403758
 fov:0.625
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","file/Xaero\u0027s Minimap - Mod Icons.zip","Black Icons","file/§aReimagined§8-[v1.23.1].zip","file/Stay_True_1.18.zip","file/§aReimagined-3D+§8-[v1.1.1].zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Better-Leaves-6.1-1.13+.zip","file/Survival Remastered Resources.zip"]
-incompatibleResourcePacks:["file/§aReimagined§8-[v1.23.1].zip","file/Stay_True_1.18.zip","file/§aReimagined-3D+§8-[v1.1.1].zip"]
+resourcePacks:["vanilla","Fabric Mods","file/Xaero\u0027s Minimap - Mod Icons.zip","Black Icons","file/Stay_True_1.18.zip","file/§aReimagined§8-[v1.23.1].zip","file/§aReimagined-3D+§8-[v1.1.1].zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Better-Leaves-6.1-1.13+.zip","file/Survival Remastered Resources.zip"]
+incompatibleResourcePacks:["file/Stay_True_1.18.zip","file/§aReimagined§8-[v1.23.1].zip","file/§aReimagined-3D+§8-[v1.1.1].zip"]
 lastServer:
 lang:en_us
 soundDevice:
