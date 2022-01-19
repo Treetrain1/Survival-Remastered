@@ -150,3 +150,6 @@ net.minecraft.class_430 {
 net.minecraft.class_415 {
 }
 
+net.minecraft.class_434 {
+}
+
