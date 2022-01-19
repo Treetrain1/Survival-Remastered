@@ -19,7 +19,7 @@ Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
 Survival Remastered Features:
 
-300+ Mods
+350+ Mods
 
 Terralith 2.0
 
