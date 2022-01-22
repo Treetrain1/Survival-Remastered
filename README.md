@@ -31,6 +31,8 @@ Tons of crazy structures!
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
+Effective
+
 1.19 Features
 
 So much more!
