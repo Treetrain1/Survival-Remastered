@@ -539,7 +539,7 @@
       }
     },
     "disableWallUnsprint": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }

@@ -822,3 +822,6 @@ mode = "fancy"
 				nightmare = true
 				direwolf = true
 
+			[light_sources.settings.entities.capybara]
+				capybara = true
+

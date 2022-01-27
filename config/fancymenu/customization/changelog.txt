@@ -24,19 +24,6 @@ customization {
 }
 
 customization {
-  orientation = mid-left
-  shadow = true
-  multiline = true
-  x = 2
-  actionid = 63706643-9700-41d7-a523-a8fa9719db321641680594094
-  action = addwebtext
-  y = -178
-  scale = 0.5
-  alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/main/resources/Beta%207.txt
-}
-
-customization {
   orientation = bottom-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -65,13 +52,27 @@ customization {
 
 customization {
   orientation = mid-left
-  shadow = false
-  x = 1
-  actionid = a6f14830-60e8-44c7-a943-91fb9b51c3a31642447628027
-  action = addtext
-  y = -185
-  scale = 0.7
+  shadow = true
+  multiline = true
+  x = 2
+  actionid = 88b9acc5-38d9-4596-a00f-da40e17a630b1643245101025
+  action = addwebtext
+  y = -95
+  scale = 0.75
   alignment = left
-  value = the list is over here because i ran out of room
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208.txt
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  multiline = true
+  x = 2
+  actionid = 665bfeaf-c9c2-45e7-94af-cca9fe209e4a1643245590227
+  action = addwebtext
+  y = -24
+  scale = 0.8
+  alignment = left
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208%20Addon.txt
 }
 
