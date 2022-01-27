@@ -31,8 +31,3 @@ Added Entity Texture Features
 Added Global Data- & Resourcepacks
 Fixed a few inconsistent GUI textures
 Added MCPPPP
-
-
-Pending changes decided by Discord polls
-Remove in-game changelog
-Talking Villagers https://www.curseforge.com/minecraft/mc-mods/talking-villagers
