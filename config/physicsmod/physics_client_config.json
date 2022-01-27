@@ -42,6 +42,7 @@
   "impactSounds": true,
   "soundVolume": 1.0,
   "blockPhysicsRange": 10.0,
+  "vineRange": 32.0,
   "waterDensity": 3,
   "customizedGravities": [
     "the_bumblezone:the_bumblezone",
@@ -141,6 +142,10 @@
     -9.81,
     0.0,
     "mining_dims:hunting_dim",
+    0.0,
+    -9.81,
+    0.0,
+    "nullscape:end_island",
     0.0,
     -9.81,
     0.0
@@ -243,6 +248,10 @@
     2.0,
     0.0,
     "mining_dims:hunting_dim",
+    0.0,
+    2.0,
+    0.0,
+    "nullscape:end_island",
     0.0,
     2.0,
     0.0

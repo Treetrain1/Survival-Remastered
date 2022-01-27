@@ -18,3 +18,9 @@ customization {
   action = backgroundoptions
 }
 
+customization {
+  identifier = %id=450596%
+  action = setbuttondescription
+  description = Select
+}
+

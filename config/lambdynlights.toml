@@ -54,6 +54,8 @@ mode = "fancy"
 				mob_spawner = true
 				trapped_chest = true
 				blast_furnace = true
+				underwater_campfire = true
+				mover = true
 
 			[light_sources.settings.block_entities.seasons]
 				greenhouse_glass = true
@@ -218,6 +220,53 @@ mode = "fancy"
 				mana_pool = true
 				runic_altar = true
 				mana_pylon = true
+				mana_distributor = true
+				mana_void = true
+				enchanter = true
+				turntable = true
+				tiny_planet_block = true
+				open_crate = true
+				crafty_crate = true
+				forest_eye = true
+				platform = true
+				alfheim_portal = true
+				bifrost = true
+				mini_island = true
+				tiny_potato = true
+				spawner_claw = true
+				ender_eye_block = true
+				starfield = true
+				mana_fluxfield = true
+				brewery = true
+				terra_plate = true
+				red_string_container = true
+				red_string_dispenser = true
+				red_string_fertilizer = true
+				red_string_comparator = true
+				red_string_relay = true
+				mana_flame = true
+				prism = true
+				corporea_index = true
+				corporea_funnel = true
+				pump = true
+				fake_air = true
+				corporea_interceptor = true
+				corporea_crystal_cube = true
+				incense_plate = true
+				hourglass = true
+				spark_changer = true
+				cocoon = true
+				light_relay = true
+				cacophonium_block = true
+				bellows = true
+				cell_block = true
+				red_string_interceptor = true
+				gaia_head = true
+				corporea_retainer = true
+
+			[light_sources.settings.block_entities.bedrock_features]
+				dye_cauldron = true
+				potion_cauldron = true
 
 		[light_sources.settings.entities]
 
@@ -743,6 +792,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
+				direbat_fang_arrow = true
 
 			[light_sources.settings.entities.medievalentity]
 				knigh_mountain = true
@@ -755,4 +805,20 @@ mode = "fancy"
 				bumble_llama = true
 				woolly_llama = true
 				mossy_llama = true
+
+			[light_sources.settings.entities.edenring]
+				lightning_ray = true
+
+			[light_sources.settings.entities.mythicmounts]
+				geckotoalizard = true
+				dragon = true
+				archelon = true
+				nudibranch = true
+				moth = true
+				griffon = true
+				acencia = true
+				ridinglizard = true
+				courierbird = true
+				nightmare = true
+				direwolf = true
 

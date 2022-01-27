@@ -1,5 +1,7 @@
 areDyeCauldronsEnabled = true
+doDyeCauldronsObeyPrecipitation = false
 arePotionCauldronsEnabled = true
+doPotionCauldronsObeyPrecipitation = false
 areCakesStackable = true
 arePufferfishBuffed = true
 isSharpnessBuffed = true

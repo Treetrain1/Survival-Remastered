@@ -1,0 +1,38 @@
+Survival Remastered 2.0 Beta 8
+
+WARNING: I guarantee you will experience crashes and bugs with this beta.
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+Updated Mods
+Enabled compatibility mode for Complementary Shaders to fix some texture issues
+Changed Complementary Shaders profile to Vanilla / RTX-ish to fix a few more issues
+Slight music changes
+Added Beacons For All
+Added Paintings ++
+Added CommandStructures
+Disabled Mob ID nametag in F3 in Creative
+Disabled /mods command (why would you need this)
+Removed No Telemetry as Kiwi now cancels telemetry
+Tweaked caves with Cave Tweaks
+Added Skinned Lanterns
+Added Capybara
+Added Farming for Blockheads
+Added Replant Swamp Trees
+Added Improved Stations
+Added Farmer's Delight
+Added Mythic Mounts
+Added CraftTweaker
+Added TerraBlender
+Added Oh The Biomes You'll Go Refabricated
+Added TieFix
+Added Fabric Emotes
+Added Entity Texture Features
+Added Global Data- & Resourcepacks
+Fixed a few inconsistent GUI textures
+Added MCPPPP
+
+
+Pending changes decided by Discord polls
+Remove in-game changelog
+Talking Villagers https://www.curseforge.com/minecraft/mc-mods/talking-villagers

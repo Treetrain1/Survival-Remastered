@@ -1,10 +1,10 @@
 {
 	"general": {
-		"minAttackCooldown": 0.800000011920929,
+		"minAttackCooldown": 0.75,
 		"undo1dot8Jank": true,
 		"itemCooldownAffectsLMB": true,
 		"playersBypassInvulTicks": true,
-		"minAttackCooldownForQueue": 0.699999988079071,
+		"minAttackCooldownForQueue": 0.6600000262260437,
 		"playersCanCrouchJump": true
 	},
 	"swords": {

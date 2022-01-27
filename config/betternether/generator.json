@@ -66,7 +66,8 @@
       "cities": {
         "distance [default: 64]": 64,
         "overworld [default: false]": false
-      }
+      },
+      "dither_scale [default: 4.0]": 4.0
     }
   },
   "generator_world": {

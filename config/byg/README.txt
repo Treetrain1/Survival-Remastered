@@ -1,3 +1,1 @@
-If you need help understanding what the byg-biomes or byg-sub-biomes configs allow you to do, please watch this video: https://youtu.be/iq0q09O7ZYo
-
-If you need help with datapacking, please watch this: https://youtu.be/TF_p8OeB-hc
+For information on how BYG configs work, you can find that here: https://github.com/AOCAWOL/BYG/wiki/Configs

@@ -1,8 +1,8 @@
 {
   "auto_sync": {
     "enabled [default: true]": true,
-    "acceptConfigs [default: true]": true,
-    "acceptFiles [default: true]": true,
+    "acceptConfigs [default: true]": false,
+    "acceptFiles [default: true]": false,
     "acceptMods [default: false]": false,
     "displayModInfo [default: true]": true,
     "debugHashes [default: false]": false

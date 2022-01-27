@@ -80,26 +80,27 @@
       }
     ]
   },
-  "music.cinematic_chillhop_main": {
-    "category": "music",
-    "sounds": [
-      {
-        "name": "survival_remastered:music/cinematic_chillhop_main",
-        "stream": true
-      }
-    ]
-  },
-  "music.deepdark": {
+  "music.ancestry": {
     "category": "music",
     "sounds": [
       {
         "name": "twm:music/game/ancestry",
         "stream": true
-      },
+      }
+    ]
+  },
+  "music.astray_archipelago": {
+    "category": "music",
+    "sounds": [
       {
         "name": "twm:music/game/astray_archipelago",
         "stream": true
-      },
+      }
+    ]
+  },
+  "end_shrine": {
+    "category": "music",
+    "sounds": [
       {
         "name": "twm:music/game/end_shrine",
         "stream": true

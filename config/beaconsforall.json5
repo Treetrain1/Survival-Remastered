@@ -1,0 +1,6 @@
+{
+	// Set which creatures can be affected by beacons
+	"creatureType": "TAMED",
+	// List of specific additional creatures by registry name that can be affected by beacons
+	"additionalCreatures": []
+}

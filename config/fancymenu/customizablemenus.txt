@@ -51,9 +51,6 @@ eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen {
 foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
 }
 
-net.coderbot.iris.gui.screen.ShaderPackScreen {
-}
-
 dev.lambdaurora.lambdynlights.gui.SettingsScreen {
 }
 
