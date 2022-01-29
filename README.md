@@ -21,19 +21,19 @@ Survival Remastered Features:
 
 350+ Mods
 
-Terralith 2.0
+[Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) + [Cave Tweaks](https://www.curseforge.com/minecraft/mc-mods/cave-tweaks)
 
-Better Nether
+[Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 
-Better End
+[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
 
 Tons of crazy structures!
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
-Effective
+[Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 
-1.19 Features
+1.19 Features from [The Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
 
 So much more!
 
