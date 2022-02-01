@@ -821,7 +821,23 @@ mode = "fancy"
 				courierbird = true
 				nightmare = true
 				direwolf = true
+				netherbat = true
 
 			[light_sources.settings.entities.capybara]
 				capybara = true
+
+			[light_sources.settings.entities.terrarianslimes]
+				mother_slime = true
+				black_slime = true
+				yellow_slime = true
+				red_slime = true
+				sand_slime = true
+				ice_slime = true
+				lava_slime = true
+				green_slime = true
+				blue_slime = true
+				baby_slime = true
+
+			[light_sources.settings.entities.earth]
+				carboranea = true
 

@@ -1,6 +1,6 @@
 {
 	"clientOnlyMode": false,
-	// Whether players can pick up items by clicking them
+	// Whether players can pick up items by clicking them. This also affects the keybind
 	"rightClickPickup": true,
 	// Whether players can throw items farther than normal by holding down the drop key
 	"itemThrowing": true,

@@ -1,10 +1,10 @@
 areDyeCauldronsEnabled = true
-doDyeCauldronsObeyPrecipitation = false
+doDyeCauldronsObeyPrecipitation = true
 arePotionCauldronsEnabled = true
-doPotionCauldronsObeyPrecipitation = false
+doPotionCauldronsObeyPrecipitation = true
 areCakesStackable = true
 arePufferfishBuffed = true
-isSharpnessBuffed = true
+isSharpnessBuffed = false
 areShulkersDyeable = true
 areShulkersDyeableInSurvival = false
 doesMagicBypassProtection = false

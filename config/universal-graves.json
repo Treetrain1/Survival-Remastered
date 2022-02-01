@@ -38,6 +38,7 @@
   "replaceAnyBlock": false,
   "maxPlacementDistance": 8,
   "useRealTime": false,
+  "useAlternativeXPEntity": true,
   "createFromPvP": true,
   "createFromVoid": true,
   "createFromCommandDeaths": true,

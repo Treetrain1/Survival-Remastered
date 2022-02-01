@@ -9,17 +9,23 @@ customization-meta {
 }
 
 customization {
+  baseheight = 2160
+  action = autoscale
+  basewidth = 3840
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   shadow = false
-  x = 255
+  x = -129
   actionid = ba4f3f44-9584-4fea-9914-89a9287c8f2b1642308482342
   action = addtext
-  y = 155
+  y = -56
   scale = 1.0
   alignment = left
   value = This functionality only has a purpose in multiplayer

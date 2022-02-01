@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_420
+  identifier = dev.tr7zw.skinlayers.SkinLayersModBase$1
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -25,14 +25,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400358%
+  identifier = %id=400973%
   action = setbuttondescription
-  description = Join Server%n%Join server entered in the text box
+  description = Done%n%Apply changes and exit
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=610973%
   action = setbuttondescription
-  description = Cancel%n%Go back
+  description = Default%n%Restore to Default
 }
 

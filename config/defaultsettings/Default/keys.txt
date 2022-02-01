@@ -32,8 +32,9 @@ key.hotbar.6:key.keyboard.6
 key.hotbar.7:key.keyboard.7
 key.hotbar.8:key.keyboard.8
 key.hotbar.9:key.keyboard.9
+key.boatcam.toggle:key.keyboard.b
+key.boatcam.lookbehind:key.keyboard.unknown
 Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
-[Fabrication] Toggle Stance:key.keyboard.unknown
 key.fabrishot.screenshot:key.keyboard.f9
 Reload Menu | CTRL + ALT + :key.keyboard.r
 Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
@@ -47,6 +48,7 @@ key.ae2wtlib.wpt:key.keyboard.unknown
 key.ae2wtlib.wit:key.keyboard.unknown
 key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key.ae2wtlib.toggleMagnet:key.keyboard.unknown
+key.antighost.reveal:key.keyboard.g
 bedrockIfy.key.settings:key.keyboard.b
 key.boosted-brightness.next:key.keyboard.b
 key.boosted-brightness.raise:key.keyboard.unknown
@@ -64,7 +66,7 @@ key.buildinggadgets.anchor:key.keyboard.h
 key.buildinggadgets.fuzzy:key.keyboard.unknown
 key.buildinggadgets.connected_area:key.keyboard.unknown
 key.buildinggadgets.rotate_mirror:key.keyboard.unknown
-key.buildinggadgets.material_list:key.keyboard.m
+key.buildinggadgets.material_list:key.keyboard.left.bracket
 carrier.key:key.keyboard.unknown
 key.crawl:key.keyboard.x
 key.entityculling.toggle:key.keyboard.unknown
@@ -103,7 +105,7 @@ presencefootsteps.settings.key:key.keyboard.f10
 key.small_artifacts.ender_sack:key.keyboard.x
 key.push_to_talk:key.keyboard.caps.lock
 key.whisper:key.keyboard.unknown
-key.mute_microphone:key.keyboard.m
+key.mute_microphone:key.keyboard.unknown
 key.disable_voice_chat:key.keyboard.unknown
 key.hide_icons:key.keyboard.unknown
 key.voice_chat:key.keyboard.v

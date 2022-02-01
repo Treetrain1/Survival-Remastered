@@ -153,3 +153,15 @@ net.minecraft.class_434 {
 net.minecraft.class_412 {
 }
 
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_457 {
+}
+
+dev.tr7zw.skinlayers.SkinLayersModBase$1 {
+}
+
+dqu.additionaladditions.config.ModMenuImpl$1 {
+}
+

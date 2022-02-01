@@ -520,6 +520,12 @@
         "keys": ""
       }
     },
+    "disableStatusEffectHud": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableTileEntityRendering": {
       "enabled": false,
       "hotkey": {
@@ -658,6 +664,9 @@
       "keys": ""
     },
     "disableSlimeBlockSlowdown": {
+      "keys": ""
+    },
+    "disableStatusEffectHud": {
       "keys": ""
     },
     "disableTileEntityRendering": {

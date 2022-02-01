@@ -9,6 +9,12 @@ customization-meta {
 }
 
 customization {
+  baseheight = 2160
+  action = autoscale
+  basewidth = 3840
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }

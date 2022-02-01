@@ -14,13 +14,13 @@ customization {
 }
 
 customization {
-  keepaspectratio = false
-  action = backgroundoptions
+  baseheight = 2160
+  action = autoscale
+  basewidth = 3840
 }
 
 customization {
-  identifier = %id=400513%
-  action = setbuttondescription
-  description = Back to Server List
+  keepaspectratio = false
+  action = backgroundoptions
 }
 

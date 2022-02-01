@@ -5,7 +5,6 @@ WARNING: I guarantee you will experience crashes and bugs with this beta.
 If you find any issues or crashes, report it on the GitHub issue tracker.
 
 Updated Mods
-Enabled compatibility mode for Complementary Shaders to fix some texture issues
 Changed Complementary Shaders profile to Vanilla / RTX-ish to fix a few more issues
 Slight music changes
 Added Beacons For All
@@ -30,5 +29,17 @@ Added Fabric Emotes
 Added Entity Texture Features
 Added Global Data- & Resourcepacks
 Fixed a few inconsistent GUI textures
+Fixed death screen text placement
 Added MCPPPP
 Added Delete Worlds To Trash
+Added Boat Containers
+Disabled crafting recipes that were replaced by other items or seem too powerful
+Added Candlestick
+Added Star Ore
+Added Spelunker
+Added CameraOverhaul
+Added BoatCam
+Removed Effective (for now)
+Added AntiGhost
+Added Smooth Scrolling Everywhere
+Added Awesome Dungeon Edition Nether

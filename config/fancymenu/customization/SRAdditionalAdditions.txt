@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_429
+  identifier = dqu.additionaladditions.config.ModMenuImpl$1
   randomgroup = 1
   renderorder = foreground
   randommode = false

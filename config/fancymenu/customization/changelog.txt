@@ -19,6 +19,12 @@ customization {
 }
 
 customization {
+  baseheight = 2160
+  action = autoscale
+  basewidth = 3840
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -67,10 +73,10 @@ customization {
   orientation = bottom-left
   shadow = true
   multiline = true
-  x = 2
+  x = 0
   actionid = 665bfeaf-c9c2-45e7-94af-cca9fe209e4a1643245590227
   action = addwebtext
-  y = -24
+  y = -32
   scale = 0.8
   alignment = left
   url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208%20Addon.txt
