@@ -837,7 +837,15 @@ mode = "fancy"
 				green_slime = true
 				blue_slime = true
 				baby_slime = true
+				spiked_ice_slime = true
+				purple_slime = true
 
 			[light_sources.settings.entities.earth]
 				carboranea = true
+
+			[light_sources.settings.entities.biomemakeover]
+				toad = true
+				dragonfly = true
+				lightning_bug = true
+				lightning_bug_alternate = true
 

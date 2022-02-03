@@ -34,3 +34,6 @@ craftingTable.remove(<item:twm:dark_oak_chest_boat>);
 craftingTable.remove(<item:twm:mangrove_boat>);
 craftingTable.remove(<item:twm:mangrove_chest_boat>);
 craftingTable.remove(<item:small_artifacts:ender_sack>);
+craftingTable.remove(<item:bigextras:tinted_slab>);
+craftingTable.remove(<item:bigextras:tinted_stairs>);
+craftingTable.remove(<item:botania:animated_torch>);

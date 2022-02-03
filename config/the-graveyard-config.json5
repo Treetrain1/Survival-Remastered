@@ -171,133 +171,37 @@
       "enabled": true,
       "weight": 0,
       "minGroup": 2,
-      "maxGroup": 3,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 3
     },
     "revenant": {
       "enabled": true,
       "weight": 45,
       "minGroup": 5,
-      "maxGroup": 8,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 8
     },
     "skeleton_creeper": {
       "enabled": true,
       "weight": 35,
       "minGroup": 1,
-      "maxGroup": 4,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 4
     },
     "ghoul": {
       "enabled": true,
       "weight": 45,
       "minGroup": 2,
-      "maxGroup": 5,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 5
     },
     "reaper": {
       "enabled": true,
       "weight": 0,
       "minGroup": 2,
-      "maxGroup": 3,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 3
     },
     "nightmare": {
       "enabled": true,
       "weight": 15,
       "minGroup": 1,
-      "maxGroup": 1,
-      "allowedBiomesAndBiomeCategories": [
-        "taiga",
-        "extreme_hills",
-        "jungle",
-        "mesa",
-        "plains",
-        "savanna",
-        "icy",
-        "beach",
-        "forest",
-        "desert",
-        "swamp",
-        "mushroom",
-        "underground",
-        "mountain"
-      ]
+      "maxGroup": 1
     }
   },
   "hordeConfigEntries": {

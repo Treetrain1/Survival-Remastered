@@ -5,7 +5,7 @@ WARNING: I guarantee you will experience crashes and bugs with this beta.
 If you find any issues or crashes, report it on the GitHub issue tracker.
 
 Updated Mods
-Changed Complementary Shaders profile to Vanilla / RTX-ish to fix a few more issues
+Fixed a few shader issues
 Slight music changes
 Added Beacons For All
 Added Paintings ++
@@ -43,3 +43,6 @@ Removed Effective (for now)
 Added AntiGhost
 Added Smooth Scrolling Everywhere
 Added Awesome Dungeon Edition Nether
+Added Inmis
+Added ShulkerBoxTooltip
+Added Revamped Phantoms

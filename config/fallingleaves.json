@@ -968,6 +968,38 @@
     "lithereal:shifted_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "biomemakeover:swamp_cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "biomemakeover:ancient_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:blighted_balsa_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:willow_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:blighted_balsa_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:ancient_oak_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:willow_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:swamp_cypress_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

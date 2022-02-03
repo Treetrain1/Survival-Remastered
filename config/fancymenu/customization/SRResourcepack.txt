@@ -20,12 +20,6 @@ customization {
 }
 
 customization {
-  identifier = %id=346952%
-  action = setbuttondescription
-  description = Open Folder%n%Opens the resource pack folder
-}
-
-customization {
   identifier = %id=504952%
   action = setbuttondescription
   description = Done%n%Go back

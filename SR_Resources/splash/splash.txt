@@ -11,7 +11,6 @@ Bedrock Edition
 Windows or Mac?
 Backup your worlds!
 Upgraded Minecraft
-'shaders look good'
 hello
 I am Joe
 What's 9 + 10?
@@ -48,7 +47,6 @@ OOF
 Im Minecrafting!
 No Road Blocks
 Ender Dragon... Please return my lost items, thanks!
-MoonCraft
 Milk
 Moo?
 Who even makes these?
@@ -56,11 +54,8 @@ What are you up to this weekend?
 Sodium is for salty times!
 y=2121x+21
 1x+21
-Guilded...
 Floating Islands!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-NetFloox and chill?
-Windows 13
+Windows 12
 Windows 21
 If Apple made a car would it have Windows?
 what happens if chicken nugget = yes?
@@ -106,4 +101,8 @@ The Warden sounds like a weapon from a FPS ngl
 Shallow Light
 Remastered Survival
 Minecraft Remastered
-report issues to the issue tracker
+Please report issues to the Issue Tracker
+gaming
+You launched the game, now play
+Choose Singleplayer or Multiplayer now
+Join the Discord!
