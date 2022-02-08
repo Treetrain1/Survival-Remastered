@@ -25,7 +25,7 @@ Survival Remastered Features:
 
 [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 
-[BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
+[Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)
 
 Tons of crazy structures!
 
