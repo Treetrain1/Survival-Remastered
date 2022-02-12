@@ -90,7 +90,7 @@ mod incompatibilities are so fun
 Multiplayer here = Survival Multiplayer Remastered, SMP Remastered
 This is splash text.
 Am I intimidating?
-Please report bugs to GitHub
+Please report bugs to the GitHub issue tracker
 I hope this is stable
 sheeeeeeeeeeeeeeeeeeeesh
 help me

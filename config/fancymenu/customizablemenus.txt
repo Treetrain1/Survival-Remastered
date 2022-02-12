@@ -6,9 +6,6 @@ net.minecraft.class_3928 {
 net.minecraft.class_424 {
 }
 
-net.minecraft.class_442 {
-}
-
 net.minecraft.class_433 {
 }
 
@@ -153,9 +150,6 @@ net.minecraft.class_434 {
 net.minecraft.class_412 {
 }
 
-net.minecraft.class_429 {
-}
-
 net.minecraft.class_457 {
 }
 
@@ -163,5 +157,14 @@ dev.tr7zw.skinlayers.SkinLayersModBase$1 {
 }
 
 dqu.additionaladditions.config.ModMenuImpl$1 {
+}
+
+net.minecraft.class_429 {
+}
+
+com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen {
+}
+
+net.minecraft.class_442 {
 }
 

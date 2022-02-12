@@ -75,6 +75,9 @@
   "mcdw:crossbow_firebolt_thrower": {
     "mcdw:chain_reaction": 1
   },
+  "minecraft:netherite_boots": {
+    "minecraft:depth_strider": 100
+  },
   "mcdw:dagger_moon": {
     "mcdw:enigma_resonator": 1
   },

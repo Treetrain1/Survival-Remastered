@@ -280,7 +280,7 @@
         "dimension": "minecraft:overworld",
         "randUntilNextSong": 1350.0,
         "y": {
-          "number": -54.0,
+          "number": -52.5,
           "number2": -64.0,
           "compareWith": "between"
         },

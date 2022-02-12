@@ -53,7 +53,7 @@ globalExecutorParallelism = "default"
 	# Other values can result in crashes when starting minecraft  
 	# to prevent further damage
 	#
-	chunkStreamVersion = "default"
+	chunkStreamVersion = 3
 	# (Default: true) Whether to enable mid-tick chunk tasks  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
@@ -89,5 +89,5 @@ globalExecutorParallelism = "default"
 		# (Default: true) Weather to enable c2me clientside features
 		enabled = "default"
 		# (Default: 128) Max render distance allowed in game options
-		maxViewDistance = "default"
+		maxViewDistance = 32
 

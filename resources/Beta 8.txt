@@ -22,8 +22,6 @@ Added Improved Stations
 Added Farmer's Delight
 Added Mythic Mounts
 Added CraftTweaker
-Added TerraBlender
-Added Oh The Biomes You'll Go Refabricated
 Added TieFix
 Added Fabric Emotes
 Added Entity Texture Features
@@ -46,3 +44,12 @@ Added Awesome Dungeon Edition Nether
 Added Inmis
 Added ShulkerBoxTooltip
 Added Revamped Phantoms
+Added MegaParrot
+Removed Mouse Wheelie
+Added Mouse Tweaks
+Removed Capybara
+Added Concurrent Chunk Management Engine
+Added Immersive Weathering
+Added Lava Clear View
+Added Buried Barrels
+Removed PluckableArrows

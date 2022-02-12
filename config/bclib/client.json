@@ -9,5 +9,8 @@
   },
   "ui": {
     "suppressExperimentalDialogOnLoad [default: false]": false
+  },
+  "rendering": {
+    "netherThickFog [default: true]": true
   }
 }

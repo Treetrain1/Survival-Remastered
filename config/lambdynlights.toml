@@ -90,6 +90,7 @@ mode = "fancy"
 			[light_sources.settings.block_entities.graveyard]
 				urn_block_entity = true
 				gravestone_block_entity = true
+				sarcophagus_block_entity = true
 
 			[light_sources.settings.block_entities.blockus]
 				wooden_barrel = true
@@ -194,6 +195,7 @@ mode = "fancy"
 				drawer = true
 				kitchen_cupboard = true
 				trading_station = true
+				brewer = true
 
 			[light_sources.settings.block_entities.alloy_forgery]
 				forge_controller = true
@@ -263,10 +265,116 @@ mode = "fancy"
 				red_string_interceptor = true
 				gaia_head = true
 				corporea_retainer = true
+				teru_teru_bozu = true
+				avatar = true
+				animated_torch = true
+				pure_daisy = true
+				manastar = true
+				hydroangeas = true
+				endoflame = true
+				thermalily = true
+				rosa_arcana = true
+				munchdew = true
+				entropinnyum = true
+				kekimurus = true
+				gourmaryllis = true
+				narslimmus = true
+				spectrolus = true
+				dandelifeon = true
+				rafflowsia = true
+				shulk_me_not = true
+				bellethorn = true
+				bellethorn_chibi = true
+				bergamute = true
+				dreadthorn = true
+				heisei_dream = true
+				tigerseye = true
+				jaded_amaranthus = true
+				orechid = true
+				fallen_kanade = true
+				exoflame = true
+				agricarnation = true
+				agricarnation_chibi = true
+				hopperhock = true
+				hopperhock_chibi = true
+				tangleberrie = true
+				tangleberrie_chibi = true
+				jiyuulia = true
+				jiyuulia_chibi = true
+				rannuncarpus = true
+				rannuncarpus_chibi = true
+				hyacidus = true
+				pollidisiac = true
+				clayconia = true
+				clayconia_chibi = true
+				loonium = true
+				daffomill = true
+				vinculotus = true
+				spectranthemum = true
+				medumone = true
+				marimorphosis = true
+				marimorphosis_chibi = true
+				bubbell = true
+				bubbell_chibi = true
+				solegnolia = true
+				solegnolia_chibi = true
+				orechid_ignem = true
+				labellia = true
 
 			[light_sources.settings.block_entities.bedrock_features]
 				dye_cauldron = true
 				potion_cauldron = true
+
+			[light_sources.settings.block_entities.cauldrons]
+				suspicious_stew_cauldron = true
+
+			[light_sources.settings.block_entities.cyti]
+				trashcan_item = true
+				trashcan_fluid = true
+				trashcan_energy = true
+
+			[light_sources.settings.block_entities.dark-enchanting]
+				dark_enchanter = true
+
+			[light_sources.settings.block_entities.edenring]
+				eden_portal = true
+
+			[light_sources.settings.block_entities.farmersdelight]
+				stove = true
+				cooking_pot = true
+				basket = true
+				cutting_board = true
+				pantry = true
+
+			[light_sources.settings.block_entities.farmingforblockheads]
+				chicken_nest = true
+				feeding_trough = true
+				market = true
+
+			[light_sources.settings.block_entities.improved-stations]
+				crafting_station = true
+
+			[light_sources.settings.block_entities.indrev]
+				biomass_composter = true
+				cabinet = true
+				drill = true
+				tank = true
+				capsule = true
+				cable_mk1 = true
+				cable_mk2 = true
+				cable_mk3 = true
+				cable_mk4 = true
+				heliostat = true
+				solar_receiver = true
+				steam_turbine_steam_input_valve = true
+				solar_power_plant_tower = true
+				coal_generator_mk1 = true
+				solar_generator_mk1 = true
+				solar_generator_mk3 = true
+				biomass_generator_mk3 = true
+				heat_generator_mk4 = true
+				gas_generator_mk4 = true
+				lazuli_flux_container_mk1 = true
 
 		[light_sources.settings.entities]
 
@@ -542,6 +650,7 @@ mode = "fancy"
 				gauntlet = true
 				soul_star = true
 				void_blossom = true
+				charged_ender_pearl = true
 
 			[light_sources.settings.entities.immersive_portals]
 				loading_indicator = true
@@ -808,6 +917,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.edenring]
 				lightning_ray = true
+				diskwing = true
 
 			[light_sources.settings.entities.mythicmounts]
 				geckotoalizard = true
@@ -839,6 +949,23 @@ mode = "fancy"
 				baby_slime = true
 				spiked_ice_slime = true
 				purple_slime = true
+				illuminant_slime = true
+				jungle_slime = true
+				pinky = true
+				spiked_jungle_slime = true
+				king_slime = true
+				spiked_slime = true
+				umbrella_slime = true
+				corrupt_slime = true
+				slimeling = true
+				crimslime = true
+				rainbow_slime = true
+				spike = true
+				grenade = true
+				bomb = true
+				dirt_bomb = true
+				dynamite = true
+				glowstick = true
 
 			[light_sources.settings.entities.earth]
 				carboranea = true
@@ -848,4 +975,19 @@ mode = "fancy"
 				dragonfly = true
 				lightning_bug = true
 				lightning_bug_alternate = true
+
+			[light_sources.settings.entities.megaparrot]
+				megaparrot = true
+
+			[light_sources.settings.entities.revamped_phantoms]
+				shockwave = true
+
+			[light_sources.settings.entities.farmingforblockheads]
+				merchant = true
+
+			[light_sources.settings.entities.universal_graves]
+				xp = true
+
+			[light_sources.settings.entities.mcda]
+				summoned_bee = true
 

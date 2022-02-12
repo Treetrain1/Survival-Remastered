@@ -7,7 +7,7 @@
       "enable_big_entrance": true
     },
     "Cave Modifiers": {
-      "cheese_limiter": 0.21,
+      "cheese_limiter": 0.215,
       "cheese_scale": 1.65,
       "cheese_y_stretch": 1.35,
       "entrance_limiter": 0.32,
