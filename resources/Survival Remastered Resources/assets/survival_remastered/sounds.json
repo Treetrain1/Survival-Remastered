@@ -89,15 +89,6 @@
       }
     ]
   },
-  "music.astray_archipelago": {
-    "category": "music",
-    "sounds": [
-      {
-        "name": "twm:music/game/astray_archipelago",
-        "stream": true
-      }
-    ]
-  },
   "end_shrine": {
     "category": "music",
     "sounds": [

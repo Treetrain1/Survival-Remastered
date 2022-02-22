@@ -5,7 +5,6 @@
   "mcdw:sickle_soul_scythe": {
     "mcdw:soul_devourer": 1
   },
-  "minecraft:trident": {},
   "mcdw:bow_hunters_promise": {
     "mcdw:replenish": 1
   },
@@ -15,7 +14,6 @@
   "mcdw:bow_lost_souls": {
     "minecraft:multishot": 1
   },
-  "universal_graves:grave_compass": {},
   "mcdw:crossbow_lightning_harp_crossbow": {
     "mcdw:ricochet": 1,
     "minecraft:multishot": 1
@@ -74,9 +72,6 @@
   },
   "mcdw:crossbow_firebolt_thrower": {
     "mcdw:chain_reaction": 1
-  },
-  "minecraft:netherite_boots": {
-    "minecraft:depth_strider": 100
   },
   "mcdw:dagger_moon": {
     "mcdw:enigma_resonator": 1
@@ -184,7 +179,6 @@
   "mcdw:dagger_backstabber": {
     "mcdw:ambush": 1
   },
-  "minecraft:netherite_sword": {},
   "mcdw:axe_encrusted_anchor": {
     "mcdw:jungle_poison": 1,
     "mcdw:gravity": 1

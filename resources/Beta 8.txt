@@ -1,9 +1,7 @@
 Survival Remastered 2.0 Beta 8
-
-WARNING: I guarantee you will experience crashes and bugs with this beta.
-
 If you find any issues or crashes, report it on the GitHub issue tracker.
 
+Updated Fabric Loader to 0.13.3
 Updated Mods
 Fixed a few shader issues
 Slight music changes
@@ -15,25 +13,20 @@ Disabled /mods command (why would you need this)
 Removed No Telemetry as Kiwi now cancels telemetry
 Tweaked caves with Cave Tweaks
 Added Skinned Lanterns
-Added Capybara
-Added Farming for Blockheads
 Added Replant Swamp Trees
 Added Improved Stations
 Added Farmer's Delight
 Added Mythic Mounts
 Added CraftTweaker
 Added TieFix
-Added Fabric Emotes
 Added Entity Texture Features
 Added Global Data- & Resourcepacks
 Fixed a few inconsistent GUI textures
 Fixed death screen text placement
-Added MCPPPP
 Added Delete Worlds To Trash
 Added Boat Containers
 Disabled crafting recipes that were replaced by other items or seem too powerful
 Added Candlestick
-Added Star Ore
 Added Spelunker
 Added CameraOverhaul
 Added BoatCam
@@ -47,9 +40,21 @@ Added Revamped Phantoms
 Added MegaParrot
 Removed Mouse Wheelie
 Added Mouse Tweaks
-Removed Capybara
 Added Concurrent Chunk Management Engine
 Added Immersive Weathering
 Added Lava Clear View
 Added Buried Barrels
 Removed PluckableArrows
+Added Crimson Moon
+Added Paradise Lost - The Aether Reborn
+Added Awesome Dungeon The End Edition
+Added Enderite Reinforced Storage
+Added Enderite Mod
+Removed LambdaControls
+Removed Craftable Horse Armour & Saddle
+Removed Eroding Stone Entities
+Changed max item stack from 999 to 300
+By Discord Poll: Moved Stay True above Reimagined
+Added Talking Villagers (TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING)
+Added Oh The Biomes You'll Go Refabricated
+Added Fabulous Clouds

@@ -1048,6 +1048,70 @@
     "edenring:aquatus_sapling": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "the_aether:frost_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:rose_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:skyroot_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:boreal_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:lavender_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:orange_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:golden_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:crystal_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:golden_oak_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:rose_wisteria_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:skyroot_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:lavender_wisteria_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:boreal_wisteria_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:crystal_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:orange_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:frost_wisteria_sapling": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

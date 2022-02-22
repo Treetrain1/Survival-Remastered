@@ -168,3 +168,6 @@ com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$Minecra
 net.minecraft.class_442 {
 }
 
+xaero.common.gui.GuiWidgetUpdateAll {
+}
+

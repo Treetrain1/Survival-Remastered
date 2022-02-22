@@ -1,5 +1,5 @@
 {
-  "maxStacker": 999,
+  "maxStacker": 300,
   "variableOverride": true,
   "itemCountScaleInt": 25
 }

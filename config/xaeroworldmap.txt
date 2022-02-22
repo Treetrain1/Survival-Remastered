@@ -28,4 +28,6 @@ showDisabledWaypoints:false
 closeWaypointsWhenHopping:true
 adjustHeightForCarpetLikeBlocks:true
 onlyCurrentMapWaypoints:false
+minZoomForLocalWaypoints:0.0
+arrowColour:-2
 globalVersion:1

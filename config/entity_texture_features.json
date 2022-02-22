@@ -1,0 +1,5 @@
+{
+  "alwaysCheckVanillaEmissiveSuffix": true,
+  "doShadersEmissiveFix": false,
+  "enchantedPotionEffects": "NONE"
+}

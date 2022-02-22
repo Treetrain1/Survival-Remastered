@@ -6,6 +6,8 @@ globalExecutorParallelism = "default"
 [ioSystem]
 	# (Default: true) Whether to use async chunk loading & unloading
 	async = "default"
+	# (Default: false) Whether to use optimized implementation of IO system
+	replaceImpl = "default"
 	# (Default: 1536) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 6144) Hard limit for io worker nbt cache
@@ -30,13 +32,13 @@ globalExecutorParallelism = "default"
 
 # Configuration for vanilla worldgen optimizations
 [vanillaWorldGenOptimizations]
-	# (Default: true) Whether to enable this feature 
-	# (may cause incompatibility with other mods)
-	enabled = "default"
-	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
-	# This is included in lithium-fabric 
+	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen 
 	# (may cause incompatibility with other mods)  
-	# INCOMPATIBILITY: Set to false forcefully by: lithium
+	# INCOMPATIBILITY: Set to false forcefully by: cavetweaks
+	optimizeAquifer = "default"
+	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
+	# This is no longer included in lithium-fabric 
+	# (may cause incompatibility with other mods) 
 	useEndBiomeCache = "default"
 
 # Configuration for general optimizations
@@ -67,6 +69,21 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods) 
 	optimizeAsyncChunkRequest = "default"
 
+	# Configuration for auto-save
+	[generalOptimizations.autoSave]
+		# (Default: ENHANCED) Defines how auto save should be handled  
+		# VANILLA: Use vanilla auto-save behavior (auto-save performed every tick during ticking)  
+		# ENHANCED: Use C2ME enhanced auto-save (auto-save performed when the server have spare time after ticking)  
+		# PERIODIC: Use pre-1.18 vanilla auto-save behavior (auto-save performed every 6000 ticks during ticking)  
+		#  
+		# Please preserve quotes so this config don't break
+		#
+		mode = "default"
+		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
+		# This is only used when mode is set to ENHANCED
+		#
+		delay = "default"
+
 # Configuration for no-tick view distance
 [noTickViewDistance]
 	# (Default: false) Whether to use compatibility mode to send chunks 
@@ -86,7 +103,7 @@ globalExecutorParallelism = "default"
 
 	# Configuration for modifying clientside max view distance
 	[clientSide.modifyMaxVDConfig]
-		# (Default: true) Weather to enable c2me clientside features
+		# (Default: true) Weather to enable this feature
 		enabled = "default"
 		# (Default: 128) Max render distance allowed in game options
 		maxViewDistance = 32
