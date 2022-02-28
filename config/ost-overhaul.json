@@ -45,13 +45,6 @@
         "priority": 1.0
       }
     },
-    "twm:music.overworld.deep_dark": {
-      "condition0": {
-        "biome": "twm:deep_dark",
-        "randUntilNextSong": 12000,
-        "priority": 1
-      }
-    },
     "edenring:edenring.music.common": {
       "condition0": {
         "biome": "edenring:stone_garden",
