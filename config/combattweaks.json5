@@ -34,23 +34,18 @@
 	},
 	"potions": {
 		"speedIncreasesAirStrafingSpeed": true,
-		"slownessDecreasesAirStrafingSpeed": true
+		"slownessDecreasesAirStrafingSpeed": true,
+		"regenBaseTimer": 50,
+		"poisonBaseTimer": 25,
+		"witherBaseTimer": 40
 	},
 	"enchantments": {
-		// Doesn't show up in ModMenu
-		"unbreakableRequiredEnchants": {
-			"minecraft:mending": 1
-		},
-		"unbreakableRemovesEnchants": [
-			"minecraft:mending",
-			"minecraft:unbreaking"
-		],
-		"unbreakableBeaconLevel": 4,
-		"canMakeUnbreakableTools": true,
 		"maxSweepingEdgeMult": 1.0,
 		"thornsDealsNoKnockback": true
 	},
 	"regen": {
-		"minHungerForRegen": 11
+		"minHungerForRegen": 11,
+		"saturationRegenTicks": 20,
+		"hungerRegenTicks": 20
 	}
 }

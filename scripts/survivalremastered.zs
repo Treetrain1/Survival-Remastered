@@ -37,3 +37,8 @@ craftingTable.remove(<item:small_artifacts:ender_sack>);
 craftingTable.remove(<item:bigextras:tinted_slab>);
 craftingTable.remove(<item:bigextras:tinted_stairs>);
 craftingTable.remove(<item:botania:animated_torch>);
+craftingTable.remove(<item:sculk_worm:sensor_helmet>);
+craftingTable.remove(<item:gobber2:gobber2_tree_axe>);
+craftingTable.remove(<item:gobber2:gobber2_tree_axe_nether>);
+craftingTable.remove(<item:gobber2:gobber2_tree_axe_end>);
+craftingTable.remove(<item:mcdw:pick_diamond_pickaxe_var>);

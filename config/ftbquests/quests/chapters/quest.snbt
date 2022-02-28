@@ -1,0 +1,11 @@
+{
+	id: "4C2BF3CE6B69A09F"
+	group: ""
+	order_index: 2
+	filename: "quest"
+	title: "Quest"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

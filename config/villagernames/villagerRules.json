@@ -11,5 +11,7 @@
   "wanderingTraderText": "Wandering Trader",
   "surNames": true,
   "reverseLastNames": false,
-  "nameTagNames": true
+  "nameTagNames": true,
+  "piglinNames": true,
+  "piglinSurnames": true
 }

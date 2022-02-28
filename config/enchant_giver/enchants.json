@@ -14,6 +14,7 @@
   "mcdw:bow_lost_souls": {
     "minecraft:multishot": 1
   },
+  "universal_graves:grave_compass": {},
   "mcdw:crossbow_lightning_harp_crossbow": {
     "mcdw:ricochet": 1,
     "minecraft:multishot": 1
@@ -39,6 +40,7 @@
   "mythicmetals:aquarium_leggings": {
     "minecraft:respiration": 2
   },
+  "minecraft:golden_sword": {},
   "mcdw:crossbow_exploding_crossbow": {
     "mcdw:fuse_shot": 1
   },
@@ -121,6 +123,7 @@
   "mcdw:bow_green_menace": {
     "mcdw:poison_cloud": 1
   },
+  "minecraft:gravel": {},
   "mythicmetals:prometheum_sword": {
     "minecraft:mending": 1
   },
@@ -179,6 +182,7 @@
   "mcdw:dagger_backstabber": {
     "mcdw:ambush": 1
   },
+  "minecraft:netherite_sword": {},
   "mcdw:axe_encrusted_anchor": {
     "mcdw:jungle_poison": 1,
     "mcdw:gravity": 1

@@ -4,9 +4,9 @@
     "enable_default_cloud_layer": true,
     "cloud_layers": [
         {
-            "offset": 96.0,
-            "scale": 1.25,
-            "speed": -1.0
+            "offset": 128.0,
+            "scale": 1.5,
+            "speed": -1.5
         }
     ],
     "noise_clouds": true,

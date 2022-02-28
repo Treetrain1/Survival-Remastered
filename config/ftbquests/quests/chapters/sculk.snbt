@@ -1,0 +1,514 @@
+{
+	id: "12E6A4457C7B8115"
+	group: ""
+	order_index: 0
+	filename: "sculk"
+	title: "Sculk"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Slay The Warden"
+			x: -11.5d
+			y: -6.5d
+			dependencies: ["45ACF92E7B1D1B32"]
+			id: "4FB6AEC0AE71E536"
+			tasks: [{
+				id: "406FEBEF79E3B664"
+				type: "kill"
+				icon: "twm:warden_spawn_egg"
+				entity: "twm:warden"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "481B50FD7D8E4C11"
+					type: "xp"
+					auto: "no_toast"
+					xp: 500
+				}
+				{
+					id: "5465A45BDD1A9D06"
+					type: "item"
+					auto: "no_toast"
+					item: "sculk_worm:spawn_sculk_worm_entity"
+				}
+				{
+					id: "0EE277F6404EFEE4"
+					type: "command"
+					auto: "no_toast"
+					command: "/msg @p Congratulations on slaying the Warden. Now, you shoul.d probably get some more gear."
+					player_command: false
+				}
+			]
+		}
+		{
+			x: -24.0d
+			y: -5.0d
+			id: "49C4F9D41CFA4DCA"
+			tasks: [{
+				id: "5B4340A1AEC0A853"
+				type: "biome"
+				biome: "minecraft:dripstone_caves"
+			}]
+		}
+		{
+			x: -24.0d
+			y: -7.5d
+			id: "116C40D941F05D11"
+			tasks: [{
+				id: "46CFF4B5559D76AB"
+				type: "biome"
+				biome: "minecraft:lush_caves"
+			}]
+		}
+		{
+			x: -21.0d
+			y: -10.5d
+			id: "5284E87DE28484BE"
+			tasks: [{
+				id: "2F9B3694562B4417"
+				type: "biome"
+				biome: "terralith:cave/thermal_caves"
+			}]
+			rewards: [{
+				id: "2B74D2AE9C3C29B1"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			x: -23.0d
+			y: -9.5d
+			id: "6C20BF4482D8BFFD"
+			tasks: [{
+				id: "3A46AA41395BD4FE"
+				type: "biome"
+				biome: "terralith:cave/frostfire_caves"
+			}]
+		}
+		{
+			x: -22.5d
+			y: -3.5d
+			id: "4B82EFA398F4C6DB"
+			tasks: [{
+				id: "481408DF8D20DAF7"
+				type: "structure"
+				structure: "minecraft:mineshaft"
+			}]
+		}
+		{
+			x: -19.5d
+			y: -6.5d
+			dependencies: [
+				"4B82EFA398F4C6DB"
+				"49C4F9D41CFA4DCA"
+				"116C40D941F05D11"
+				"6C20BF4482D8BFFD"
+				"5284E87DE28484BE"
+				"5EEE2AF02A23B1D4"
+				"06A5F9A3F416EE43"
+				"726AA8488D627076"
+				"5F4973246E6FD43D"
+				"719BC565F7E28A81"
+				"0FD6467880F1D19F"
+				"711F3A9A9DA9D09E"
+				"5DC8DAF531B11BEB"
+			]
+			dependency_requirement: "all_started"
+			id: "6999614AFFEDDA56"
+			tasks: [{
+				id: "7113F97D25E883A8"
+				type: "xp"
+				value: 100L
+				points: false
+			}]
+			rewards: [{
+				id: "2066407A309939B7"
+				type: "command"
+				auto: "no_toast"
+				command: "/say Now, go to a deep cave and slay <red><bold>The Warden</bold></red>."
+				player_command: false
+			}]
+		}
+		{
+			title: "1k Sneak Time (in ticks)"
+			x: -20.5d
+			y: -3.5d
+			id: "5EEE2AF02A23B1D4"
+			tasks: [{
+				id: "03C0E45D8B57B1E5"
+				type: "stat"
+				stat: "minecraft:sneak_time"
+				value: 1000
+			}]
+		}
+		{
+			x: -18.0d
+			y: -4.0d
+			id: "726AA8488D627076"
+			tasks: [{
+				id: "3E18E861A507C26D"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -19.0d
+			y: -3.5d
+			id: "06A5F9A3F416EE43"
+			tasks: [{
+				id: "73FEEB3EDC51CA39"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -17.0d
+			y: -4.5d
+			id: "5F4973246E6FD43D"
+			tasks: [{
+				id: "05142300D387F514"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -16.0d
+			y: -5.5d
+			id: "719BC565F7E28A81"
+			tasks: [{
+				id: "3F536A677D98C5AA"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -16.0d
+			y: -8.0d
+			id: "0FD6467880F1D19F"
+			tasks: [{
+				id: "50E72C9FC4DA2BA8"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -18.0d
+			y: -9.5d
+			id: "711F3A9A9DA9D09E"
+			tasks: [{
+				id: "6F22602F9988A9F3"
+				type: "item"
+				item: "minecraft:totem_of_undying"
+			}]
+		}
+		{
+			title: "Slay the Sculk Worm"
+			x: 1.0d
+			y: -6.5d
+			dependencies: ["2A18B4FF8D210FC3"]
+			id: "45C2CA6B185523DD"
+			tasks: [{
+				id: "0F79926595984CC4"
+				type: "kill"
+				entity: "sculk_worm:sculk_worm_entity"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "72436F0EF33F850B"
+					type: "xp"
+					auto: "no_toast"
+					xp: 2500
+				}
+				{
+					id: "4D13040AC9DC2CD6"
+					type: "command"
+					auto: "no_toast"
+					command: "/msg @p Congratulations, @p, you have killed the Sculk Worm and have received the Sculk Crown. With the crown equipped, you can see hostile mob vibrations through walls."
+					player_command: false
+				}
+			]
+		}
+		{
+			x: -5.5d
+			y: -6.5d
+			dependencies: [
+				"4FB6AEC0AE71E536"
+				"05DE10DCD6FCEAB6"
+				"42F27B559FDE964D"
+				"5877EDBBC9665B8C"
+				"6B8BBF17A667ECC4"
+				"0E0447393774189D"
+				"1F26DBE560A5A88E"
+				"69CF64106F1A1BF4"
+				"652C77589E2FA09B"
+				"5C0C8773282F9CD6"
+				"640DD7DDA51FAD95"
+				"7B27AEC00CBA7203"
+			]
+			id: "2A18B4FF8D210FC3"
+			tasks: [{
+				id: "23F99AB65CE5F2A5"
+				type: "xp"
+				value: 150L
+				points: false
+			}]
+			rewards: [
+				{
+					id: "7F284767045D3A47"
+					type: "item"
+					item: "sculk_worm:spawn_sculk_worm_entity"
+				}
+				{
+					id: "6F1E24E4D0D2050F"
+					type: "command"
+					command: "/msg @p @p, you are now ready to face.. The Sculk Worm. You have been granted a spawn egg in your inventory. Make sure to place it on the outside part of your reach so the sculk worm doesn't become immediately angry at you. You have been warned."
+					player_command: false
+				}
+			]
+		}
+		{
+			x: -19.5d
+			y: -10.5d
+			id: "5DC8DAF531B11BEB"
+			tasks: [{
+				id: "745AC398170F34DF"
+				type: "item"
+				item: {
+					id: "enderitemod:enderite_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -6.5d
+			dependencies: ["2C4EE088E4605167"]
+			id: "45ACF92E7B1D1B32"
+			tasks: [{
+				id: "5DE66B34D06F1B4B"
+				type: "questsadditions:place"
+				disable_toast: true
+				block: "twm:sculk_shrieker"
+				replaced: "minecraft:air"
+				value: 1L
+				replace: false
+			}]
+			rewards: [{
+				id: "4B5B9B4EE3D76A52"
+				type: "command"
+				auto: "no_toast"
+				command: "/msg @p @p, Step on the shrieker and SUMMON THE WARDEN!!"
+				player_command: false
+			}]
+		}
+		{
+			x: -15.0d
+			y: -6.5d
+			dependencies: ["6999614AFFEDDA56"]
+			id: "2C4EE088E4605167"
+			tasks: [{
+				id: "3F18685D9778F0DA"
+				type: "biome"
+				biome: "terralith:cave/frostfire_caves"
+			}]
+			rewards: [{
+				id: "2BABF5C89038DD7F"
+				type: "item"
+				item: "twm:sculk_shrieker"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -8.0d
+			id: "05DE10DCD6FCEAB6"
+			tasks: [{
+				id: "478644004A162C25"
+				type: "item"
+				item: "minecraft:totem_of_undying"
+				count: 5L
+			}]
+		}
+		{
+			x: -2.5d
+			y: -8.0d
+			id: "42F27B559FDE964D"
+			tasks: [{
+				id: "5837D680EF825390"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+				count: 2L
+			}]
+		}
+		{
+			x: -4.5d
+			y: -3.0d
+			id: "69CF64106F1A1BF4"
+			tasks: [{
+				id: "0B537F270286924A"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -5.5d
+			id: "5877EDBBC9665B8C"
+			tasks: [{
+				id: "634E59A0AA453725"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_helmet_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -4.0d
+			id: "6B8BBF17A667ECC4"
+			tasks: [{
+				id: "5B99F89FE9CBF615"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_chestplate_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -3.0d
+			id: "0E0447393774189D"
+			tasks: [{
+				id: "5B33C49FC190CBA1"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_leggings_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -3.0d
+			id: "1F26DBE560A5A88E"
+			tasks: [{
+				id: "0D646773F15C29DB"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_boots_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.5d
+			id: "652C77589E2FA09B"
+			tasks: [{
+				id: "29CBD34899C135F3"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -5.0d
+			id: "5C0C8773282F9CD6"
+			tasks: [{
+				id: "13531F55B3CEF41F"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_hoe_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "20k Sneak Time (in ticks)"
+			x: -7.5d
+			y: -9.0d
+			id: "640DD7DDA51FAD95"
+			tasks: [{
+				id: "0E32F001406D1B96"
+				type: "stat"
+				stat: "minecraft:sneak_time"
+				value: 20000
+			}]
+		}
+		{
+			x: -5.0d
+			y: -9.5d
+			id: "7B27AEC00CBA7203"
+			tasks: [{
+				id: "23B19F5D82A5A573"
+				type: "kill"
+				entity: "twm:warden"
+				value: 3L
+			}]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	id: "79AA9032B3543E80"
+	group: ""
+	order_index: 1
+	filename: "on_join"
+	title: "On Join"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -4.0d
+		y: -2.5d
+		id: "5D85FEAC1C15133F"
+		tasks: [{
+			id: "151F5F6DAE97F4FD"
+			type: "advancement"
+			disable_toast: true
+			advancement: "soaringstructures2:soaringstart"
+			criterion: ""
+		}]
+		rewards: [{
+			id: "6E8F2A709193D806"
+			type: "command"
+			auto: "no_toast"
+			command: "/say Hi, @p! Welcome to Survival Remastered!"
+			player_command: false
+		}]
+	}]
+}

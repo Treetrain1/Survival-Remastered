@@ -10,7 +10,7 @@ Added Paintings ++
 Added CommandStructures
 Disabled Mob ID nametag in F3 in Creative
 Disabled /mods command (why would you need this)
-Removed No Telemetry as Kiwi now cancels telemetry
+Removed No Telemetry (The Kiwi library now cancels telemetry)
 Tweaked caves with Cave Tweaks
 Added Skinned Lanterns
 Added Replant Swamp Trees
@@ -22,10 +22,10 @@ Added TieFix
 Added Entity Texture Features
 Added Global Data- & Resourcepacks
 Fixed a few inconsistent GUI textures
-Fixed death screen text placement
+Fixed GUI scaling issues
 Added Delete Worlds To Trash
 Added Boat Containers
-Disabled crafting recipes that were replaced by other items or seem too powerful
+Disabled some crafting recipes
 Added Candlestick
 Added Spelunker
 Added CameraOverhaul
@@ -40,7 +40,6 @@ Added Revamped Phantoms
 Added MegaParrot
 Removed Mouse Wheelie
 Added Mouse Tweaks
-Added Concurrent Chunk Management Engine
 Added Immersive Weathering
 Added Lava Clear View
 Added Buried Barrels
@@ -55,6 +54,21 @@ Removed Craftable Horse Armour & Saddle
 Removed Eroding Stone Entities
 Changed max item stack from 999 to 300
 By Discord Poll: Moved Stay True above Reimagined
-Added Talking Villagers (TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING)
-Added Oh The Biomes You'll Go Refabricated
-Added Fabulous Clouds
+Added Talking Villagers
+Removed Hardcore Revival
+Added ExtraSounds
+Added FTB Quests
+Removed Ring of Enderchest
+Removed FPS - Display
+Added Sculk Worm (For Quests)
+Removed Skin Layers 3D
+Removed Armor Sound Tweak
+Removed Dungeon Clusters
+Added Redstone Bits
+Removed Perfect Accuracy
+Added Quests Additions
+Added Styled Chat
+Added Creatures From The Jungle!
+Added Creatrues From The Snow!
+Added TerraBlender (Experimental, may cause bugs)
+Added Oh The Biomes You'll Go Refabricated (Experimental, may cause bugs)

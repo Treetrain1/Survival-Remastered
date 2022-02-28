@@ -115,5 +115,23 @@
           "stream": true
       }
     ]
+  },
+  "music.battle_of_the_dragons": {
+    "category": "music",
+    "sounds": [
+      {
+          "name": "survival_remastered:music/battle_of_the_dragons",
+          "stream": true
+      }
+    ]
+  },
+  "music.draconis": {
+    "category": "music",
+    "sounds": [
+      {
+          "name": "survival_remastered:music/draconis",
+          "stream": true
+      }
+    ]
   }
 }

@@ -113,7 +113,7 @@ Dragon SpawnBiomes: All Overworld
 Dragon SpawnYCeiling: 40
 Dragon SpawnYFloor: -50000
 Dragon SpawnBlocks: All
-Dragon SpawnWeight: 100
+Dragon SpawnWeight: 25
 Dragon SpawnRandomChance: 10
 Dragon SpawnType: subterranean
 Dragon MinSpawnGroupSize: 1
@@ -166,7 +166,7 @@ GeckotoaLizard SpawnBiomes: All Overworld
 GeckotoaLizard SpawnYCeiling: 5000
 GeckotoaLizard SpawnYFloor: 60
 GeckotoaLizard SpawnBlocks: All
-GeckotoaLizard SpawnWeight: 50
+GeckotoaLizard SpawnWeight: 40
 GeckotoaLizard SpawnRandomChance: 100
 GeckotoaLizard SpawnType: subterranean
 GeckotoaLizard MinSpawnGroupSize: 1

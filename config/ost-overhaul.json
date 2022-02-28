@@ -45,13 +45,6 @@
         "priority": 1.0
       }
     },
-    "twm:music.overworld.deep_dark": {
-      "condition0": {
-        "biome": "twm:deep_dark",
-        "randUntilNextSong": 12000,
-        "priority": 1
-      }
-    },
     "edenring:edenring.music.common": {
       "condition0": {
         "biome": "edenring:stone_garden",
@@ -113,7 +106,7 @@
           "number": 100.0,
           "compareWith": "moreThan"
         },
-        "structure": "stoneholm:skyvillages:sky_village",
+        "structure": "skyvillages:sky_village",
         "priority": 0.0,
         "dimension": "minecraft:overworld"
       },
@@ -275,11 +268,21 @@
       "condition0": {
         "randUntilNextSong": 250.0,
         "y": {
-          "number": 50.0,
+          "number": 20.0,
           "compareWith": "moreThan"
         },
         "priority": 0.0,
         "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end"
       }
     },
     "minecraft:music.nether.crimson_forest": {
@@ -297,6 +300,17 @@
           "compareWith": "moreThan"
         },
         "priority": 0.0
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end",
+        "playOnDragon": false
       }
     },
     "minecraft:music.overworld.meadow": {
@@ -313,6 +327,18 @@
         "playOnCredits": true,
         "forceSwitchIn": true,
         "forceSwitchOut": true
+      }
+    },
+    "survival_remastered:music.draconis": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
       }
     },
     "minecraft:music.overworld.dripstone_caves": {
@@ -362,6 +388,11 @@
         "randUntilNextSong": 250.0,
         "priority": 0.0,
         "dimension": "minecraft:the_nether"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
       }
     },
     "survival_remastered:music.the_sound_of_light": {
@@ -373,11 +404,21 @@
         },
         "priority": 0.0,
         "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "dimension": "edenring:edenring",
+        "priority": 0.0
       }
     },
     "survival_remastered:music.olympus": {
       "condition0": {
         "dimension": "minecraft:the_nether",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
+      },
+      "condition1": {
+        "dimension": "edenring:edenring",
         "randUntilNextSong": 250.0,
         "priority": 0.0
       }
@@ -398,6 +439,11 @@
         },
         "priority": 0.0,
         "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
       }
     },
     "minecraft:music.nether.soul_sand_valley": {
@@ -446,6 +492,11 @@
         },
         "priority": 0.0,
         "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
       }
     },
     "ostoverhaul:frosty": {
@@ -472,6 +523,13 @@
         "priority": 1.0,
         "precipitation": "snow",
         "dimension": "minecraft:overworld"
+      }
+    },
+    "survival_remastered:music.battle_of_the_dragons": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "priority": 3.0,
+        "dimension": "minecraft:the_end"
       }
     },
     "ostoverhaul:minecraft.stronghold": {
@@ -519,6 +577,11 @@
     "survival_remastered:music.flight_hymn": {
       "condition0": {
         "dimension": "minecraft:the_nether",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
+      },
+      "condition1": {
+        "dimension": "edenring:edenring",
         "randUntilNextSong": 250.0,
         "priority": 0.0
       }

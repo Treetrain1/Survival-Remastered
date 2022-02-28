@@ -991,3 +991,8 @@ mode = "fancy"
 			[light_sources.settings.entities.mcda]
 				summoned_bee = true
 
+			[light_sources.settings.entities.creatures_of_the_jungle]
+				manatee = true
+				chameleon = true
+				monkey = true
+

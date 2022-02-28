@@ -1,8 +1,8 @@
 {
   //Delay in seconds between each attempt to spawn a new mob in every loaded chunk during a crimson mood. Values less than 5 seconds may start to cause lag.
-  "spawnDelaySeconds": 5,
+  "spawnDelaySeconds": 15,
   //Maximum amount of mobs allowed in a chunk when spawning new ones during a crimson moon.
-  "maxMobCountPerChunk": 3,
+  "maxMobCountPerChunk": 4,
   //Whether or not beds are disabled during a crimson moon.
   "disableBeds": true,
   //Whether or not the moon should have a red-tinted texture during a crimson moon.

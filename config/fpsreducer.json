@@ -8,8 +8,8 @@
   "reducingInBackground": true,
   "suppressSound": true,
   "suppressedVolume": 21,
-  "hudEnabled": false,
-  "hudReferencePos": 3,
+  "hudEnabled": true,
+  "hudReferencePos": 1,
   "hudPos": [
     {
       "id": 0,
@@ -19,8 +19,8 @@
     },
     {
       "id": 1,
-      "offsetX": 2,
-      "offsetY": 2,
+      "offsetX": 0,
+      "offsetY": 27,
       "alignment": 0
     },
     {
