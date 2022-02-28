@@ -996,3 +996,8 @@ mode = "fancy"
 				chameleon = true
 				monkey = true
 
+			[light_sources.settings.entities.creatures_of_the_snow]
+				narwhal = true
+				beluga = true
+				penguin = true
+

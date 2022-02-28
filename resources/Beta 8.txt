@@ -1,6 +1,6 @@
 Survival Remastered 2.0 Beta 8
 If you find any issues or crashes, report it on the GitHub issue tracker.
-IT IS RECOMMENDED THAT YOU UPDATE TO A NEW PROFILE. THERE ARE MANY BREAKING CHANGES IN THIS UPDATE.
+WARNING: THIS UPDATE CONTAINS BREAKING CHANGES AND CAN BREAK OR CORRUPT YOUR WORLDS.
 
 Updated Fabric Loader to 0.13.3
 Updated Mods
@@ -48,14 +48,12 @@ Removed PluckableArrows
 Added Crimson Moon
 Added Paradise Lost - The Aether Reborn
 Added Awesome Dungeon The End Edition
-Added Enderite Reinforced Storage
 Added Enderite Mod
+Added Enderite Reinforced Storage
 Removed LambdaControls
 Removed Craftable Horse Armour & Saddle
 Removed Eroding Stone Entities
 Changed max item stack from 999 to 300
-By Discord Poll: Moved Stay True above Reimagined
-Added Talking Villagers
 Removed Hardcore Revival
 Added ExtraSounds
 Added FTB Quests
@@ -71,5 +69,5 @@ Added Quests Additions
 Added Styled Chat
 Added Creatures From The Jungle!
 Added Creatrues From The Snow!
-Added TerraBlender (Experimental, may cause bugs)
-Added Oh The Biomes You'll Go Refabricated (Experimental, may cause bugs)
+By Discord Poll: Moved Stay True above Reimagined
+By Discord Poll: Added Talking Villagers
