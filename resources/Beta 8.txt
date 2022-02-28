@@ -1,5 +1,6 @@
 Survival Remastered 2.0 Beta 8
 If you find any issues or crashes, report it on the GitHub issue tracker.
+IT IS RECOMMENDED THAT YOU UPDATE TO A NEW PROFILE. THERE ARE MANY BREAKING CHANGES IN THIS UPDATE.
 
 Updated Fabric Loader to 0.13.3
 Updated Mods
