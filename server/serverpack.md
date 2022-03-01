@@ -15,8 +15,8 @@ Accept the eula and start the server
 
 
 
-When the server is finished starting, go into the mods folder and ctrl + a then press the delete key. Skip files that are in use
-Repeat the process for the resourcepacks and config folders
+When the server is finished starting, go into the mods folder and ctrl + a then press the delete key. Skip files that are in use.
+Do the same for the resourcepack folder.
 
 
 # Join the server to make sure it loads
