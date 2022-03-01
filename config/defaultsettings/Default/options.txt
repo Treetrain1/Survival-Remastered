@@ -19,7 +19,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5
+mouseSensitivity:0.5046948356807509
 fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -38,7 +38,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla","Fabric Mods","Black Icons","continuity/glass_pane_culling_fix","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.26].zip","file/Stay_True_1.18.zip","file/Stay True Compats v2 [1.18].zip","file/Better-Leaves-6.1-1.13+.zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.4.zip","file/Survival Remastered Resources.zip"]
 incompatibleResourcePacks:["file/§aReimagined§8-[v1.26].zip","file/Stay_True_1.18.zip"]
-lastServer:
+lastServer:treesmp.ga
 lang:en_us
 soundDevice:
 chatVisibility:0
@@ -73,8 +73,8 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.6721854
-soundCategory_music:0.13098592
+soundCategory_master:0.707947
+soundCategory_music:0.15352112
 soundCategory_record:0.90704226
 soundCategory_weather:0.15211268
 soundCategory_block:0.9521127
