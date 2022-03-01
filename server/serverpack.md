@@ -26,6 +26,7 @@ If the server loads:
 Test actions and make sure there are no major bugs.
 Test performance.
 
+
 If the server crashes on load:
 
 Go into latest.log and find the location where it crashed
