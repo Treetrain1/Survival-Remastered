@@ -23,13 +23,17 @@ Do the same for the resourcepack folder.
 
 
 If the server loads:
-Test actions and make sure there are no major bugs
-Test performance
+Test actions and make sure there are no major bugs.
+Test performance.
 
 If the server crashes on load:
+
 Go into latest.log and find the location where it crashed
+
 Find what mod causes the crash
+
 If the mod is new, remove it. If it was recently updated, revert versions
+
 Test until it loads, then go back to "If the server loads:" above
 
 
