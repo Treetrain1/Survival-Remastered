@@ -14,7 +14,7 @@ To download the modpack, you can get it from either CurseForge or GitHub.
 
 GitHub:
 
-    Go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
+    Go to the releases tab, click on "Assets" on the latest release, then click the zip file!
 
     To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
 
