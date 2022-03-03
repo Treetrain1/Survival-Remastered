@@ -8,10 +8,22 @@ Survival Remastered is the Ultimate Minecraft Experience.
 Warning: Low-End computers may suffer from running Survival Remastered
 
 
-To download, go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
+To download the modpack, you can get it from either CurseForge or GitHub.
 
-To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
-Note: The game may take longer to start due to mods
+
+
+GitHub:
+
+    Go to the releases tab on the right or click [here](https://github.com/Treetrain1/Survival-Remastered/releases), click on "Assets" on the latest release, then click the zip file!
+
+    To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
+
+
+
+CurseForge:
+
+    Download the CurseForge app, set up your Minecraft installation, browse mod packs, search "Survival Remastered" and sort by version 1.18.1. You can either click install on the result or click on the modpack and go to versions to download a specific version.
+
 
 If you want to support me, my donation link is [here](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/523374&cn=Add+special+instructions+to+the+addon+author()&business=treetrain1%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/523374&lc=US&item_name=Survival+Remastered+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)
 
@@ -30,8 +42,6 @@ Survival Remastered Features:
 Tons of crazy structures!
 
 [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
-
-[Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 
 1.19 Features from [The Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
 
