@@ -12,17 +12,18 @@ To download the modpack, you can get it from either CurseForge or GitHub.
 
 
 
+CurseForge:
+
+    Download the CurseForge app, set up your Minecraft installation, browse mod packs, search "Survival Remastered" and sort by version 1.18.1. You can either click install on the result or click on the modpack and go to versions to download a specific version.
+
+
+
 GitHub:
 
     Go to the releases tab, click on "Assets" on the latest release, then click the zip file!
 
     To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
 
-
-
-CurseForge:
-
-    Download the CurseForge app, set up your Minecraft installation, browse mod packs, search "Survival Remastered" and sort by version 1.18.1. You can either click install on the result or click on the modpack and go to versions to download a specific version.
 
 
 If you want to support me, my donation link is [here](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/523374&cn=Add+special+instructions+to+the+addon+author()&business=treetrain1%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/523374&lc=US&item_name=Survival+Remastered+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)
