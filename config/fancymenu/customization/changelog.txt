@@ -31,15 +31,16 @@ customization {
 
 customization {
   orientation = bottom-centered
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui
+  description = Back%n%Go back to Main Menu
+  label = Back
+  loopbackgroundanimations = true
   x = -50
   width = 100
   actionid = d3784e55-9309-470b-92c1-73afffddf4981641680810182
   action = addbutton
   y = -22
-  label = Back
   value = 
   height = 20
 }
@@ -57,19 +58,6 @@ customization {
 }
 
 customization {
-  orientation = mid-left
-  shadow = true
-  multiline = true
-  x = 2
-  actionid = 88b9acc5-38d9-4596-a00f-da40e17a630b1643245101025
-  action = addwebtext
-  y = -196
-  scale = 0.5
-  alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208.txt
-}
-
-customization {
   orientation = bottom-left
   shadow = true
   multiline = true
@@ -80,5 +68,18 @@ customization {
   scale = 0.8
   alignment = left
   url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208%20Addon.txt
+}
+
+customization {
+  orientation = mid-left
+  shadow = true
+  multiline = true
+  x = 0
+  actionid = 673e164c-484d-4ba3-8821-4e1f370666481646465623698
+  action = addwebtext
+  y = -68
+  scale = 1.5
+  alignment = left
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208.1.txt
 }
 
