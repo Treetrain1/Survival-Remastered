@@ -30,6 +30,12 @@ If you want to support me, my donation link is [here](https://www.paypal.com/cgi
 
 Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
+
+
+[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/efceff4c-e99f-4e29-97aa-198488cbe2ae.png)](https://bisecthosting.com/treetrain1 "BisectHosting")
+
+
+
 Survival Remastered Features:
 
 350+ Mods
