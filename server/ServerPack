@@ -1,0 +1,66 @@
+# Path to your modpack. Can be either relative or absolute.
+# Example: "./Some Modpack" or "C:/Minecraft/Some Modpack"
+modpackDir = "C:/Users/Treetrain1/curseforge/minecraft/Survival Remastered"
+
+# List of client-only mods to delete from serverpack.
+# No need to include version specifics. Must be the filenames of the mods, not their project names on CurseForge!
+# Example: [AmbientSounds,ClientTweaks,PackMenu,BetterAdvancement,jeiintegration]
+clientMods = ["Animatica-","antighost-","extrasounds-","AmbientEnvrionment-","sodium-","sodium-extra-","bhmenu-","blur-","boatcam-","boosted-brightness-","borderless-mining-","breakprogress-","CameraOverhaul-","cherishedworlds-","CITResewn-","clear-skies-","CompactStatusEffects-","continuity-","Controlling-","cullleaves-","cem-","DeleteWorldsToTrash-","DripSounds-","drippyloadingscreen_","eating-animation-","entity-texture-features-","EquipmentCompare-","fabrishot-","fallingleaves-","fancymenu_","farsight.","firstperson-","FpsReducer-","illuminations-","indium-","InventoryHUD-","iris-mc-","Highlighter-","lowfire-","notenoughanimations-","notenoughcrashes-","okzoomer-","physics-mod-","pling-","PresenceFootsteps-","puzzle-","simple-rpc-","SmoothScrollingEverywhere-","Fabric-1.18-SmoothSwapping-","visuality-","wmch-","accurate-block-placement-","advancementinfo-","axolotl-item-fix-","BetterThirdPerson-","bsvsb-","Capes-","cherishedworlds-","clientsidenoteblocks-","colorfulsubtitles-","DefaultSettings-","DisableCustomWorldsAdvice-","enhancedblockentities-","entityculling-","item-model-fix-","lambdynamiclights-","LavaClearView-","lazy-language-loader-","LegendaryTooltips-","malilib-","modmenu-","MouseTweaks-","PetOwner-","reeses_sodium_options-","TieFix-","titlefixer-","tooltipfix-","torohealth-","tweakeroo-","whats-that-slot-","wmitaf-","3dSkinLayers-","AdvancementPlaques-","AmbientSounds_","armorchroma-","backtools-","BetterAdvancements-","BetterAnimationsCollection-","BetterDarkMode-","BetterF3-","BetterF3-","BetterFoliage-","BetterPingDisplay-","BetterPlacement-","Blur-","catalogue-","cherishedworlds-","classicbar-","clickadv-","ClientTweaks_","configured-","Controlling-","CraftPresence-","CTM-","customdiscordrpc-","CustomMainMenu-","DefaultOptions_","defaultoptions-","desiredservers-","Ding-","drippyloadingscreen_","drippyloadingscreen-","Durability101-","dynamic-music-","DynamicSurroundings-","DynamicSurroundingsHuds-","dynmus-","EiraMoticons_","eiramoticons-","EnchantmentDescriptions-","EquipmentCompare-","extremesoundmuffler-","extremeSoundMuffler-","Fallingleaves-","fallingleaves-","fancymenu_","findme-","flickerfix-","FpsReducer-","FullscreenWindowed-","InventoryEssentials_","InventorySpam-","InventoryTweaks-","invtweaks-","ItemBorders-","itemzoom","itlt-","jeed-","jehc-","jeiintegration_","JEITweaker-","just-enough-harvestcraft-","justenoughbeacons-","JustEnoughCalculation-","JustEnoughProfessions-","JustEnoughProfessions-","JustEnoughResources-","keywizard-","konkrete_","lazydfu-","LegendaryTooltips-","light-overlay-","LightOverlay-","LLOverlayReloaded-","loadmyresources_","lootbeams-","mcbindtype-","medievalmusic-","modnametooltip_","modnametooltip-","moreoverlays-","MouseTweaks-","multihotbar-","MyServerIsCompatible-","Neat ","NotifMod-","OldJavaWarning-","OptiFine","OptiForge","ornaments-","overloadedarmorbar-","PackMenu-","PickUpNotifier-","Ping-","preciseblockplacing-","presencefootsteps-","PresenceFootsteps-","ReAuth-","ResourceLoader-","shutupexperimentalsettings-","SimpleDiscordRichPresence-","smoothboot-","sounddeviceoptions-","SpawnerFix-","spoticraft-","tconplanner-","timestamps-","Tips-","TipTheScales-","Toast Control-","Toast-Control-","ToastControl-","torchoptimizer-","torohealth-","toughnessbar-","TravelersTitles-","WindowedFullscreen-","WorldNameRandomizer-","yisthereautojump-"]
+
+# Name of directories or files to include in serverpack.
+# When specifying "saves/world_name", "world_name" will be copied to the base directory of the serverpack
+# for immediate use with the server. Automatically set when projectID,fileID for modpackDir has been specified.
+# Example: [config,mods,scripts]
+copyDirs = ["mods","config","kubejs","scripts","resourcepacks","READ.txt"]
+
+# Path to a custom server-icon.png-file to include in the server pack.
+serverIconPath = "C:/Users/Treetrain1/Documents/GitHub/Survival-Remastered/server/server-icon.png"
+
+# Path to a custom server.properties-file to include in the server pack.
+serverPropertiesPath = "C:/Users/Treetrain1/Documents/GitHub/Survival-Remastered/server/server.properties"
+
+# Whether to install a Forge/Fabric server for the serverpack. Must be true or false.
+# Default value is true.
+includeServerInstallation = false
+
+# Path to the Java executable. On Linux systems it would be something like "/usr/bin/java".
+# Only needed if includeServerInstallation is true.
+javaPath = "C:/Program Files/Java/jre1.8.0_321/bin/java.exe"
+
+# Which Minecraft version to use. Example: "1.16.5".
+# Automatically set when projectID,fileID for modpackDir has been specified.
+# Only needed if includeServerInstallation is true.
+minecraftVersion = "1.18.1"
+
+# Which modloader to install. Must be either "Forge" or "Fabric".
+# Automatically set when projectID,fileID for modpackDir has been specified.
+# Only needed if includeServerInstallation is true.
+modLoader = "Fabric"
+
+# The version of the modloader you want to install. Example for Fabric="0.7.3", example for Forge="36.0.15".
+# Automatically set when projectID,fileID for modpackDir has been specified.
+# Only needed if includeServerInstallation is true.
+modLoaderVersion = "0.13.3"
+
+# Include a server-icon.png in your serverpack. Must be true or false.
+# Customize server-icon.png in ./server_files.
+# Dimensions must be 64x64!
+# Default value is true.
+includeServerIcon = true
+
+# Include a server.properties in your serverpack. Must be true or false.
+# Customize server.properties in ./server_files.
+# If no server.properties is provided but is set to true, a default one will be provided.
+# Default value is true.
+includeServerProperties = true
+
+# Create zip-archive of serverpack. Must be true or false.
+# Default value is true.
+includeZipCreation = false
+
+# Java arguments to set in the start-scripts for the generated server pack. Default value is "empty".
+# Leave as "empty" to not have Java arguments in your start-scripts.
+javaArgs = "empty"
+
+# Suffix to append to the server pack to be generated. Can be left blank/empty.
+serverPackSuffix = " Server 2.0 Beta 8.1"

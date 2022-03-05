@@ -6,3 +6,4 @@ Updated mods
 Added BisectHosting Server Integration Menu
 Removed Immersive Weathering (May have been causing major server-side performance issues)
 Added Better Ping Display
+Removed Creatures From The Jungle (Removed from CurseForge, renamed to Creatures From The Warmth)
