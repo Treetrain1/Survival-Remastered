@@ -74,7 +74,7 @@ syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 soundCategory_master:0.707947
-soundCategory_music:0.15352112
+soundCategory_music:0.15492958
 soundCategory_record:0.90704226
 soundCategory_weather:0.15211268
 soundCategory_block:0.9521127
@@ -89,7 +89,7 @@ soundCategory_chat:1.0
 soundCategory_chat_mention:1.0
 soundCategory_effects:1.0
 soundCategory_scroll:1.0
-soundCategory_typing:0.5013245
+soundCategory_typing:0.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

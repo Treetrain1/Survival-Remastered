@@ -54,7 +54,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Survival Remastered 2.0 Beta 8';
+S:customwindowtitle = 'Survival Remastered 2.0 Beta 8.1';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

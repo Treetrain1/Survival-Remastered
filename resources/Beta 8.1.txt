@@ -1,0 +1,9 @@
+Survival Remastered 2.0 Beta 8.1
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THIS UPDATE CAN BREAK YOUR WORLDS. PLEASE BACKUP YOUR WORLDS.
+
+Updated mods
+Added BisectHosting Server Integration Menu
+Removed Immersive Weathering (May have been causing major server-side performance issues)
+Added Better Ping Display
