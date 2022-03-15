@@ -55,7 +55,7 @@ Files: server-icon.png, server.properties, READ.txt
 Go back to the parent folder of the server folder
 Right click the server folder and compress it to a zip file
 Name the zip file "Survival Remastered Server [version]" (e.g. Survival Remastered Server 2.0)
-If the version is a beta, name it "Survival Remastered Server [version + Beta [betaversion]]" (e.g. Survival Remastered Server 2.0 Beta 1)
+If the version is a beta, name it "Survival Remastered Server [version] Beta [betaversion]" (e.g. Survival Remastered Server 2.0 Beta 1)
 
 
 # Shipping (for dev)
