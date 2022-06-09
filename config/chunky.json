@@ -5,13 +5,13 @@
   "tasks": {
     "minecraft:overworld": {
       "cancelled": true,
-      "radius": 500.0,
-      "centerX": 69.23169397414044,
-      "centerZ": 420.58679399564664,
+      "radius": 250.0,
+      "centerX": -138.12622637501323,
+      "centerZ": -32.5580184508683,
       "iterator": "concentric",
-      "shape": "circle",
-      "count": 4175,
-      "time": 20739
+      "shape": "square",
+      "count": 1039,
+      "time": 15491
     },
     "minecraft:the_nether": {
       "cancelled": true,

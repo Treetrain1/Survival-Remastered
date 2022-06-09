@@ -18,35 +18,12 @@
 			advancement: "soaringstructures2:soaringstart"
 			criterion: ""
 		}]
-		rewards: [
-			{
-				id: "6E8F2A709193D806"
-				type: "command"
-				auto: "invisible"
-				command: "/say Hi, @p! Welcome to Survival Remastered!"
-				player_command: false
-			}
-			{
-				id: "7C23B62491DAA4B7"
-				type: "command"
-				auto: "invisible"
-				command: "/title @p times 20 100 20"
-				player_command: false
-			}
-			{
-				id: "7B7F2B2A307D2D44"
-				type: "command"
-				auto: "invisible"
-				command: "/title @p subtitle [\"\",{\"text\":\"TO \",\"bold\":true},{\"text\":\"SURVIVAL\",\"bold\":true,\"color\":\"dark_red\"},{\"text\":\" REMASTERED\",\"bold\":true,\"color\":\"yellow\"}]"
-				player_command: false
-			}
-			{
-				id: "2879CD389533CE41"
-				type: "command"
-				auto: "invisible"
-				command: "/title @p title {\"text\":\"WELCOME\",\"bold\":true}"
-				player_command: false
-			}
-		]
+		rewards: [{
+			id: "6E8F2A709193D806"
+			type: "command"
+			auto: "no_toast"
+			command: "/say Hi, @p! Welcome to Survival Remastered!"
+			player_command: false
+		}]
 	}]
 }

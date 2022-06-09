@@ -8,5 +8,6 @@
 	"ringMinerCooldown": 120,
 	"ringMinerRange": 5,
 	"ringMinerVerticalRange": 4,
-	"ringMinerDelayedBreak": true
+	"ringMinerSharedBreaking": false,
+	"ringMinerBreakDelay": true
 }

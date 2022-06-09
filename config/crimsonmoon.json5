@@ -5,6 +5,8 @@
   "maxMobCountPerChunk": 4,
   //Whether or not beds are disabled during a crimson moon.
   "disableBeds": true,
+  //Whether the red shader is enabled. Set this to false to disable the shader.
+  "enableShader": true,
   //Whether or not the moon should have a red-tinted texture during a crimson moon.
   "customMoonTexture": true,
   //Whether or not rain should have a red-tinted texture during a crimson moon.
@@ -14,5 +16,15 @@
   //Intensity of the red glow of the Crimson Moon. 0.4 is default, 1.0 is none.
   "glowIntensity": 0.4,
   //If true, custom items are enabled. Make sure the values are the same on the client & server. Do not toggle this if you do not want to lose your custom items.
-  "enableCustomItems": true
+  "enableCustomItems": true,
+  //Base damage of the Carnage Weapon.
+  "carnageDamage": 5,
+  //A list of blocked mod IDs for Crimson Moon entity spawns.
+  "blacklistModid": [
+    "mythicmounts"
+  ],
+  //Blacklist of entity spawn IDs.
+  "blacklistedEntityID": [
+    "minecraft:slime"
+  ]
 }

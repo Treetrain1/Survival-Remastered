@@ -8,9 +8,10 @@
         "interval": 20
     },
     "ambientEvents": {
-        "enabled": true,
+        "enabled": false,
         "volume": 0.5,
-        "stopSounds": false
+        "stopSounds": false,
+        "disableWind": false
     },
     "effects": {
         "enabled": true,
@@ -20,7 +21,7 @@
         "randomTicks": 384
     },
     "footsteps": {
-        "enabled": false,
-        "volume": 0.0
+        "enabled": true,
+        "volume": 0.2
     }
 }

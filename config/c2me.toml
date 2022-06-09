@@ -1,5 +1,5 @@
 version = 2
-# (Default: 8) Configures the parallelism of global executor
+# (Default: 3) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 # Configuration for io system
@@ -7,7 +7,7 @@ globalExecutorParallelism = "default"
 	# (Default: true) Whether to use async chunk loading & unloading
 	async = "default"
 	# (Default: false) Whether to use optimized implementation of IO system
-	replaceImpl = "default"
+	replaceImpl = true
 	# (Default: 1536) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 6144) Hard limit for io worker nbt cache
@@ -33,8 +33,7 @@ globalExecutorParallelism = "default"
 # Configuration for vanilla worldgen optimizations
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen 
-	# (may cause incompatibility with other mods)  
-	# INCOMPATIBILITY: Set to false forcefully by: cavetweaks
+	# (may cause incompatibility with other mods) 
 	optimizeAquifer = "default"
 	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
 	# This is no longer included in lithium-fabric 
@@ -104,7 +103,7 @@ globalExecutorParallelism = "default"
 	# Configuration for modifying clientside max view distance
 	[clientSide.modifyMaxVDConfig]
 		# (Default: true) Weather to enable this feature
-		enabled = "default"
+		enabled = false
 		# (Default: 128) Max render distance allowed in game options
 		maxViewDistance = 32
 

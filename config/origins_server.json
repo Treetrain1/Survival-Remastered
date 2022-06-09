@@ -1,0 +1,282 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "apocalypse:myconoid_warped": {
+      "enabled": true,
+      "apocalypse:myconoids/warped_callback": true,
+      "apocalypse:myconoids/warped_passives": true,
+      "apocalypse:myconoids/warped_primary": true,
+      "apocalypse:myconoids/warped_secondary": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:myconoid_wart": {
+      "enabled": true,
+      "apocalypse:myconoids/wart_callback": true,
+      "apocalypse:myconoids/wart_passives": true,
+      "apocalypse:myconoids/wart_primary": true,
+      "apocalypse:myconoids/wart_secondary": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:myconoid_chorus": {
+      "enabled": true,
+      "apocalypse:myconoids/chorus_callback": true,
+      "apocalypse:myconoids/chorus_passives": true,
+      "apocalypse:myconoids/chorus_primary": true,
+      "apocalypse:myconoids/chorus_secondary": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/chorus_void_bounce": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:myconoid_berry": {
+      "enabled": true,
+      "apocalypse:myconoids/berry_callback": true,
+      "apocalypse:myconoids/berry_passives": true,
+      "apocalypse:myconoids/berry_primary": true,
+      "apocalypse:myconoids/overworld_secondaries": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "apocalypse:myconoid_brown": {
+      "enabled": true,
+      "apocalypse:myconoids/brown_callback": true,
+      "apocalypse:myconoids/brown_passives": true,
+      "apocalypse:myconoids/brown_primary": true,
+      "apocalypse:myconoids/overworld_secondaries": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:nitwit": {
+      "enabled": true,
+      "apocalypse:classes/nitwit": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "apocalypse:myconoid_desert": {
+      "enabled": true,
+      "apocalypse:myconoids/cactus_callback": true,
+      "apocalypse:myconoids/cactus_passives": true,
+      "apocalypse:myconoids/cactus_primary": true,
+      "apocalypse:myconoids/overworld_secondaries": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:refractor": {
+      "enabled": true,
+      "apocalypse:refractor/refractor_callback": true,
+      "apocalypse:refractor/description_crystalline_structure": true,
+      "apocalypse:refractor/description_brittle": true,
+      "apocalypse:refractor/description_purity_of_ideals": true,
+      "apocalypse:refractor/description_inorganic": true,
+      "apocalypse:refractor/description_blinding_glare": true,
+      "apocalypse:refractor/description_trapped_light": true,
+      "apocalypse:refractor/refractor_trapped_light_charge": true,
+      "apocalypse:refractor/refractor_passives": true,
+      "apocalypse:refractor/refractor_dash": true,
+      "apocalypse:refractor/description_ftl_blink": true,
+      "apocalypse:refractor/description_magic_mirror": true,
+      "apocalypse:refractor/description_mirror_gates": true,
+      "apocalypse:refractor/refractor_attunement_teleport": true,
+      "apocalypse:refractor/refractor_resource_dashing": true,
+      "apocalypse:refractor/refractor_resource_select": true,
+      "apocalypse:refractor/refractor_secondaries": true,
+      "apocalypse:refractor/refractor_cycle": true,
+      "apocalypse:refractor/refractor_veil_of_illusions": true,
+      "apocalypse:refractor/description_veil_of_illusions": true,
+      "apocalypse:refractor/description_reflect_item": true,
+      "apocalypse:refractor/description_reflect_injury": true,
+      "apocalypse:refractor/refractor_reflect_injury": true,
+      "apocalypse:refractor/refractor_reflect_injury_left_click": true,
+      "apocalypse:refractor/description_tricks_of_the_light": true,
+      "apocalypse:refractor/credits": true
+    },
+    "apocalypse:myconoid_crimson": {
+      "enabled": true,
+      "apocalypse:myconoids/crimson_callback": true,
+      "apocalypse:myconoids/crimson_passives": true,
+      "apocalypse:myconoids/crimson_primary": true,
+      "apocalypse:myconoids/crimson_secondary": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:hex_warrior": {
+      "enabled": true,
+      "apocalypse:classes/hex_warrior": true
+    },
+    "apocalypse:fungal_healer": {
+      "enabled": true,
+      "apocalypse:classes/fungal_healer": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "apocalypse:myconoid_red": {
+      "enabled": true,
+      "apocalypse:myconoids/red_callback": true,
+      "apocalypse:myconoids/red_passives": true,
+      "apocalypse:myconoids/red_primary": true,
+      "apocalypse:myconoids/overworld_secondaries": true,
+      "apocalypse:myconoids/cold_weakness": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "apocalypse:myconoid_spore": {
+      "enabled": true,
+      "apocalypse:myconoids/spore_callback": true,
+      "apocalypse:myconoids/spore_passives": true,
+      "apocalypse:myconoids/spore_secondaries": true,
+      "apocalypse:myconoids/turf_penalty": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "apocalypse:myconoid_moss": {
+      "enabled": true,
+      "apocalypse:myconoids/moss_callback": true,
+      "apocalypse:myconoids/moss_passives": true,
+      "apocalypse:myconoids/moss_primary": true,
+      "apocalypse:myconoids/overworld_secondaries": true,
+      "apocalypse:myconoids/heat_weakness": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/universal_toggle": true
+    },
+    "apocalypse:hex_hunter": {
+      "enabled": true,
+      "apocalypse:classes/hex_hunter": true
+    },
+    "apocalypse:smallbane": {
+      "enabled": true,
+      "apocalypse:classes/smallbane_callback": true,
+      "apocalypse:classes/stomp": true,
+      "apocalypse:classes/extra_jump": true
+    },
+    "apocalypse:hexblade": {
+      "enabled": true,
+      "apocalypse:hexblade/hexblade_callback": true,
+      "apocalypse:hexblade/hexblade_passives": true,
+      "apocalypse:hexblade/hexblade_resource_risk": true,
+      "apocalypse:hexblade/hexblade_resource_nostalgia": true,
+      "apocalypse:hexblade/hexblade_primary": true,
+      "apocalypse:hexblade/hexblade_primary_b": true,
+      "apocalypse:hexblade/hexblade_secondary": true,
+      "apocalypse:hexblade/hexblade_right_click": true,
+      "apocalypse:hexblade/hexblade_resource_ultimates": true,
+      "apocalypse:hexblade/description_soul_barrier": true,
+      "apocalypse:hexblade/description_risk": true,
+      "apocalypse:hexblade/description_nostalgia": true,
+      "apocalypse:hexblade/description_buoyancy": true,
+      "apocalypse:hexblade/description_one_soul": true,
+      "apocalypse:hexblade/description_item_curse": true,
+      "apocalypse:hexblade/description_smite_of_radiance": true,
+      "apocalypse:hexblade/description_hunters": true,
+      "apocalypse:hexblade/description_inanimate": true,
+      "apocalypse:hexblade/description_intangible": true,
+      "apocalypse:hexblade/description_timeless": true,
+      "apocalypse:hexblade/description_dash_slash": true,
+      "apocalypse:hexblade/description_parry": true,
+      "apocalypse:hexblade/description_secondary": true
+    }
+  }
+}

@@ -3,7 +3,7 @@
 	#Enable/Disable Serverside Overrides
 	enabled = false
 	#Internal Version Number. NO TOUCHY!
-	version = 1
+	version = 2
 
 #The Multi Player Event
 [multi_player]
@@ -24,10 +24,10 @@
 	#The buttons to display on Discord
 	buttons = []
 
-#World/Dimension Image Overrides
-[world_images]
-	#Enabled/Disable custom images for Worlds/Biomes
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
 	enabled = false
-	#The Worlds/Biomes to override
-	worlds = []
+	#The Dimensions to override
+	dimensions = []
 
