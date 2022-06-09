@@ -2,15 +2,6 @@
 	/* 
 	   
 	   ***********************
-	   No worldgen options
-	   ***********************
-	*/
-	"enableGobberAlternateDrops": false,
-	"diamondGobberDropChance": 0.15000000596046448,
-	"netherGoldGobberDropChance": 0.15000000596046448,
-	/* 
-	   
-	   ***********************
 	   Lucky Block
 	   ***********************
 	*/

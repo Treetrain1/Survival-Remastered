@@ -57,28 +57,15 @@ customization {
 }
 
 customization {
-  orientation = mid-left
+  orientation = mid-centered
   shadow = true
   multiline = true
-  x = 2
-  actionid = 88b9acc5-38d9-4596-a00f-da40e17a630b1643245101025
+  x = -322
+  actionid = 2c8d8717-e36b-445e-8e05-1e6d3e6e491b1654742866043
   action = addwebtext
-  y = -196
-  scale = 0.5
+  y = -27
+  scale = 1.0
   alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208.txt
-}
-
-customization {
-  orientation = bottom-left
-  shadow = true
-  multiline = true
-  x = 0
-  actionid = 665bfeaf-c9c2-45e7-94af-cca9fe209e4a1643245590227
-  action = addwebtext
-  y = -21
-  scale = 0.8
-  alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/master/resources/Beta%208%20Addon.txt
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/1.19/resources/1.19%20Alpha%202.1
 }
 

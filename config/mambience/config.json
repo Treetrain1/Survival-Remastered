@@ -21,7 +21,7 @@
         "randomTicks": 384
     },
     "footsteps": {
-        "enabled": true,
+        "enabled": false,
         "volume": 0.2
     }
 }

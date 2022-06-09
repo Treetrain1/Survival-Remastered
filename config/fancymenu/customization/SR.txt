@@ -32,7 +32,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400358%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -40,13 +40,13 @@ customization {
 }
 
 customization {
-  identifier = %id=400358%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = setbuttondescription
   description = Mods!%n%A list of mods!
 }
 
 customization {
-  identifier = %id=604394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 104
   action = movebutton
@@ -54,18 +54,18 @@ customization {
 }
 
 customization {
-  identifier = %id=604394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = setbuttondescription
   description = Accessibility!%n%Accessibility Settings
 }
 
 customization {
-  identifier = %id=400334%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=400394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -73,13 +73,13 @@ customization {
 }
 
 customization {
-  identifier = %id=400394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttondescription
   description = Options!%n%Preferences
 }
 
 customization {
-  identifier = %id=376394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
   x = -124
   action = movebutton
@@ -87,13 +87,13 @@ customization {
 }
 
 customization {
-  identifier = %id=376394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = setbuttondescription
   description = Language!%n%If you want to change the language.
 }
 
 customization {
-  identifier = %id=400310%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -101
   action = movebutton
@@ -101,13 +101,13 @@ customization {
 }
 
 customization {
-  identifier = %id=400310%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = setbuttondescription
   description = Multiplayer!%n%Go play with friends!
 }
 
 customization {
-  identifier = %id=400286%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -115,13 +115,13 @@ customization {
 }
 
 customization {
-  identifier = %id=400286%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = setbuttondescription
   description = Singleplayer!%n%Go play alone!
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
   x = 2
   action = movebutton
@@ -129,25 +129,25 @@ customization {
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttonlabel
   value = Rage Quit
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to Desktop
 }
 
 customization {
-  orientation = bottom-right
+  orientation = bottom-left
   restartbackgroundanimations = true
   buttonaction = opencustomgui
   description = Changelog%n%Shows the changes for the current update to Survival Remastered
   label = Changelog
   loopbackgroundanimations = true
-  x = -71
+  x = 2
   width = 69
   actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
   action = addbutton

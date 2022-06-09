@@ -30,7 +30,7 @@ javaPath = "C:/Program Files/Java/jre1.8.0_321/bin/java.exe"
 # Which Minecraft version to use. Example: "1.16.5".
 # Automatically set when projectID,fileID for modpackDir has been specified.
 # Only needed if includeServerInstallation is true.
-minecraftVersion = "1.18.1"
+minecraftVersion = "1.19"
 
 # Which modloader to install. Must be either "Forge" or "Fabric".
 # Automatically set when projectID,fileID for modpackDir has been specified.
@@ -40,7 +40,7 @@ modLoader = "Fabric"
 # The version of the modloader you want to install. Example for Fabric="0.7.3", example for Forge="36.0.15".
 # Automatically set when projectID,fileID for modpackDir has been specified.
 # Only needed if includeServerInstallation is true.
-modLoaderVersion = "0.13.3"
+modLoaderVersion = "0.14.7"
 
 # Include a server-icon.png in your serverpack. Must be true or false.
 # Customize server-icon.png in ./server_files.

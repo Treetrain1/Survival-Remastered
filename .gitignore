@@ -32,4 +32,9 @@ bin/
 
 run/
 /remappedSrc/
+
+# Survival Remastered
+
+server/servers/
+client/
 mods/
