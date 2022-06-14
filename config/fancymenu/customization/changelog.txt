@@ -57,15 +57,15 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = mid-left
   shadow = true
   multiline = true
-  x = -344
-  actionid = e0917850-588d-4356-89e1-1dd80ee575e51654823123951
+  x = 0
+  actionid = 26f9cf27-db86-4ae5-b4c2-603cc3ae98fe1655241644484
   action = addwebtext
-  y = -66
-  scale = 1.0
+  y = -208
+  scale = 0.65
   alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/1.19/resources/1.19%20Alpha%203
+  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/1.19/resources/1.19%20Beta%201
 }
 
