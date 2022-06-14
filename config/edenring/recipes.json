@@ -112,7 +112,8 @@
     "balloon_mushroom_sporocarp_brown [default: true]": true,
     "balloon_mushroom_sporocarp_green [default: true]": true,
     "balloon_mushroom_sporocarp_red [default: true]": true,
-    "balloon_mushroom_sporocarp_black [default: true]": true
+    "balloon_mushroom_sporocarp_black [default: true]": true,
+    "eden_book [default: true]": true
   },
   "furnace": {
     "iron_nugget [default: true]": true,

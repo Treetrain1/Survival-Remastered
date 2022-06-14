@@ -277,6 +277,301 @@
       "apocalypse:hexblade/description_dash_slash": true,
       "apocalypse:hexblade/description_parry": true,
       "apocalypse:hexblade/description_secondary": true
+    },
+    "sculksieg:sculkinfection": {
+      "enabled": true,
+      "sculksieg:sculk_shader": true,
+      "sculksieg:particles": true,
+      "sculksieg:sculk_hurt": true,
+      "sculksieg:sculkprotection": true,
+      "sculksieg:sculk_vision": true,
+      "sculksieg:sculk_effect": true,
+      "sculksieg:sculk_echolocation": true,
+      "sculksieg:fallimmune": true,
+      "sculksieg:sixsense": true,
+      "sculksieg:sculkphase": true,
+      "sculksieg:actualrender": true,
+      "sculksieg:pulse_toggle": true,
+      "sculksieg:senserender": true,
+      "sculksieg:sculktype": true,
+      "sculksieg:overlay": true,
+      "sculksieg:sizetoggle": true,
+      "sculksieg:sculksounds": true,
+      "sculksieg:decay": true,
+      "sculksieg:essence_eater": true,
+      "sculksieg:echosense": true,
+      "sculksieg:combatsense": true,
+      "sculksieg:sculk_combateffect": true,
+      "sculksieg:sonic_damage": true,
+      "sculksieg:projectile_toggle": true,
+      "sculksieg:sculk_vibration": true,
+      "sculksieg:flyphase": true,
+      "sculksieg:sculk_life": true,
+      "sculksieg:sculk_stone": true,
+      "sculksieg:sculk_stone2": true,
+      "sculksieg:sculk_stone3": true,
+      "sculksieg:sculk_stone4": true,
+      "sculksieg:sculk_stone5": true,
+      "sculksieg:sculk_stone6": true,
+      "sculksieg:floorfungivore": true,
+      "sculksieg:foodprevent": true,
+      "sculksieg:modifyjump": true,
+      "sculksieg:modifyvision": true,
+      "sculksieg:sculkbigsounds": true,
+      "sculksieg:heartbeat": true,
+      "sculksieg:sculk_bighurt": true,
+      "sculksieg:sculk_stoneboost": true,
+      "sculksieg:sculk_proofnt": true
+    },
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins-classes:warrior": {
+      "enabled": true,
+      "origins-classes:more_attack_damage": true,
+      "origins-classes:less_shield_slowdown": true
+    },
+    "origins-classes:explorer": {
+      "enabled": true,
+      "origins-classes:explorer_kit": true,
+      "origins-classes:no_sprint_exhaustion": true
+    },
+    "origins-classes:beastmaster": {
+      "enabled": true,
+      "origins-classes:tamed_animal_boost": true,
+      "origins-classes:tamed_potion_diffusal": true
+    },
+    "origins-classes:merchant": {
+      "enabled": true,
+      "origins-classes:trade_availability": true,
+      "origins-classes:rare_wandering_loot": true
+    },
+    "origins-classes:rancher": {
+      "enabled": true,
+      "origins-classes:twin_breeding": true,
+      "origins-classes:more_animal_loot": true
+    },
+    "origins-classes:archer": {
+      "enabled": true,
+      "origins-classes:no_projectile_divergence": true,
+      "origins-classes:less_bow_slowdown": true
+    },
+    "origins-classes:farmer": {
+      "enabled": true,
+      "origins-classes:more_crop_drops": true,
+      "origins-classes:better_bone_meal": true
+    },
+    "origins-classes:miner": {
+      "enabled": true,
+      "origins-classes:more_stone_break_speed": true,
+      "origins-classes:no_mining_exhaustion": true
+    },
+    "origins-classes:cook": {
+      "enabled": true,
+      "origins-classes:better_crafted_food": true,
+      "origins-classes:more_smoker_xp": true
+    },
+    "origins-classes:lumberjack": {
+      "enabled": true,
+      "origins-classes:tree_felling": true,
+      "origins-classes:more_planks_from_logs": true
+    },
+    "origins-classes:cleric": {
+      "enabled": true,
+      "origins-classes:longer_potions": true,
+      "origins-classes:better_enchanting": true
+    },
+    "origins-classes:blacksmith": {
+      "enabled": true,
+      "origins-classes:quality_equipment": true,
+      "origins-classes:efficient_repairs": true
+    },
+    "origins-classes:rogue": {
+      "enabled": true,
+      "origins-classes:sneaky": true,
+      "origins-classes:stealth": true,
+      "origins-classes:stealth_descriptor": true
+    },
+    "moborigins:witch": {
+      "enabled": true,
+      "moborigins:better_potions": true,
+      "moborigins:potion_action": true,
+      "moborigins:witch_particles": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "moborigins:drowned": {
+      "enabled": true,
+      "moborigins:trident_expert": true,
+      "moborigins:water_vision": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:water_combatant": true,
+      "moborigins:undead": true,
+      "moborigins:zombie_hunger": true,
+      "moborigins:surface_slowness": true,
+      "origins:carnivore": true
+    },
+    "moborigins:bee": {
+      "enabled": true,
+      "moborigins:stinger": true,
+      "moborigins:flower_power": true,
+      "moborigins:queen_bee": true,
+      "moborigins:small_bug": true,
+      "moborigins:bee_wings": true,
+      "origins:vegetarian": true
+    },
+    "extraorigins:floran": {
+      "enabled": true,
+      "extraorigins:green_thumb": true,
+      "extraorigins:photosynthesis": true,
+      "extraorigins:absorbing": true,
+      "extraorigins:flammable": true,
+      "extraorigins:nectarivore": true
+    },
+    "extra:nymph": {
+      "enabled": true,
+      "extra:forest_home": true,
+      "origins-classes:more_crop_drops": true,
+      "extra:dim_weak": true
+    },
+    "extra:spellsword": {
+      "enabled": true,
+      "extra:sword_magic": true,
+      "origins-classes:better_enchanting": true,
+      "extra:weak_legs": true
+    },
+    "moborigins:wolf": {
+      "enabled": true,
+      "moborigins:wolf_body": true,
+      "moborigins:full_moon": true,
+      "moborigins:alpha_wolf": true,
+      "moborigins:wolf_howl": true,
+      "moborigins:wolf_pack": true,
+      "origins:carnivore": true
+    },
+    "moborigins:strider": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:water_vulnerability": true,
+      "moborigins:lava_walk": true,
+      "moborigins:surface_slowness": true,
+      "moborigins:rideable_creature": true,
+      "moborigins:strider_shake": true,
+      "moborigins:warped_fungus_eater": true
+    },
+    "moborigins:guardian": {
+      "enabled": true,
+      "moborigins:guardian_spikes": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "extra:scavenger": {
+      "enabled": true,
+      "extra:scavenger": true,
+      "extra:looter": true
+    },
+    "moborigins:elder_guardian": {
+      "enabled": true,
+      "moborigins:elder_spikes": true,
+      "moborigins:elder_magic": true,
+      "moborigins:mining_fatigue_immune": true,
+      "moborigins:guardian_ally": true,
+      "moborigins:prismarine_skin": true,
+      "moborigins:surface_weakness": true,
+      "moborigins:slippery": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "extra:barbarian": {
+      "enabled": true,
+      "extra:axe_boost": true,
+      "extra:bloodlust": true,
+      "extra:combo": true,
+      "extra:combo_power": true,
+      "extra:combo_power_": true,
+      "extra:combo_power__": true,
+      "extra:combo_power___": true,
+      "extra:combo_power____": true,
+      "extra:combo_timer": true,
+      "extra:countdown": true,
+      "extra:worse_enchanting": true
+    },
+    "moborigins:evoker": {
+      "enabled": true,
+      "moborigins:summon_fangs": true,
+      "moborigins:lower_totem_chance": true,
+      "moborigins:pillager_aligned": true,
+      "moborigins:illager": true
+    },
+    "extraorigins:piglin": {
+      "enabled": true,
+      "extraorigins:all_that_glitters": true,
+      "extraorigins:piglin_neutrality": true,
+      "extraorigins:crossbow_master": true,
+      "origins:nether_spawn": true,
+      "extraorigins:homesick": true,
+      "origins:carnivore": true,
+      "extraorigins:flabby": true,
+      "extraorigins:soul_spooked": true
+    },
+    "extraorigins:inchling": {
+      "enabled": true,
+      "extraorigins:bite_sized": true,
+      "extraorigins:nimble": true,
+      "extraorigins:small_appetite": true,
+      "origins:climbing": true,
+      "extraorigins:jockey": true
+    },
+    "extraorigins:truffle": {
+      "enabled": true,
+      "extraorigins:magic_spores": true,
+      "extraorigins:infestation": true,
+      "extraorigins:rooted": true,
+      "extraorigins:decomposition": true
+    },
+    "moborigins:fox": {
+      "enabled": true,
+      "moborigins:timid_creature": true,
+      "moborigins:better_berries": true,
+      "moborigins:careful_gatherer": true,
+      "moborigins:item_collector": true,
+      "moborigins:sly": true,
+      "moborigins:small_fox": true
+    },
+    "moborigins:snowgolem": {
+      "enabled": true,
+      "origins:water_vulnerability": true,
+      "moborigins:temperature": true,
+      "moborigins:overheat": true,
+      "moborigins:melting": true,
+      "moborigins:stronger_snowballs": true,
+      "moborigins:snow_trail": true,
+      "moborigins:frigid_strength": true
+    },
+    "moborigins:slime": {
+      "enabled": true,
+      "moborigins:bouncy": true,
+      "moborigins:slime_color": true,
+      "moborigins:split": true,
+      "moborigins:small_weak": true,
+      "origins:fall_immunity": true
     }
   }
 }

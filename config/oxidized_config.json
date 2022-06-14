@@ -8,6 +8,6 @@
   "gravel_chance": 0.12,
   "emerald_chance": 0.02,
   "copper_golem_button_chance": 30,
-  "enable_copper_golem": true,
+  "enable_copper_golem": false,
   "enable_rose_gold_tools": true
 }

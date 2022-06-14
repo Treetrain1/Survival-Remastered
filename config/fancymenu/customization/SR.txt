@@ -32,6 +32,20 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = Multiplayer!%n%Go play with friends!
+}
+
+customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
   x = -100
@@ -46,6 +60,11 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 104
@@ -57,6 +76,20 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = setbuttondescription
   description = Accessibility!%n%Accessibility Settings
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttondescription
+  description = Singleplayer!%n%Go play alone!
 }
 
 customization {
@@ -76,48 +109,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttondescription
   description = Options!%n%Preferences
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-centered
-  x = -124
-  action = movebutton
-  y = 75
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = setbuttondescription
-  description = Language!%n%If you want to change the language.
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -101
-  action = movebutton
-  y = 28
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = setbuttondescription
-  description = Multiplayer!%n%Go play with friends!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 5
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = setbuttondescription
-  description = Singleplayer!%n%Go play alone!
 }
 
 customization {
@@ -141,13 +132,27 @@ customization {
 }
 
 customization {
-  orientation = bottom-left
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Language!%n%If you want to change the language.
+}
+
+customization {
+  orientation = bottom-right
   restartbackgroundanimations = true
   buttonaction = opencustomgui
   description = Changelog%n%Shows the changes for the current update to Survival Remastered
   label = Changelog
   loopbackgroundanimations = true
-  x = 2
+  x = -71
   width = 69
   actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
   action = addbutton

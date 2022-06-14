@@ -3,19 +3,19 @@
 	"category": "music",
 	"sounds": [
 		{
-			"name": "survival_remastered:music/battle_of_the_dragons",
+			"name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/draconis",
+			"name": "survival_remastered:music/tommymutiu-draconis",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/olympus",
+			"name": "survival_remastered:music/ross_budgen-olympus",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/hope",
+			"name": "survival_remastered:music/ghostrifter-hope",
 			"stream": true
 		}
 	]
@@ -24,11 +24,11 @@
 	"category": "music",
 	"sounds": [
 		{
-			"name": "survival_remastered:music/battle_of_the_dragons",
+			"name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/draconis",
+			"name": "survival_remastered:music/tommymutiu-draconis",
 			"stream": true
 		}
 	]
@@ -37,55 +37,55 @@
 	"category": "music",
 	"sounds": [
 		{
-			"name": "survival_remastered:music/amazing_sad_song",
+			"name": "survival_remastered:music/dream-amazing_sad_song",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/estavius",
+			"name": "survival_remastered:music/phyrnna-estavius",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/megalovania",
+			"name": "survival_remastered:music/lucas_king-megalovania",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/ambient",
+			"name": "survival_remastered:music/strange_day-ambient",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/knights_of_camelot",
+			"name": "survival_remastered:music/tommymutiu-knights_of_camelot",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/the_sound_of_light",
+			"name": "survival_remastered:music/tomomi_kato-the_sound_of_light",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/cinematic_chillhop_main",
+			"name": "survival_remastered:music/zakharvalaha-cinematic_chillhop_main",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/olympus",
+			"name": "survival_remastered:music/ross_budgen-olympus",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/flight_hymn",
+			"name": "survival_remastered:music/ross_budgen-flight_hymn",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/battle_of_the_dragons",
+			"name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/draconis",
+			"name": "survival_remastered:music/tommymutiu-draconis",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/the_introvert",
+			"name": "survival_remastered:music/michael_kobrin-the_introvert",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/sommerregen",
+			"name": "survival_remastered:music/madirfan-sommerregen",
 			"stream": true
 		},
 		{
@@ -162,7 +162,7 @@
 	"category": "music",
 	"sounds": [
 		{
-			"name": "survival_remastered:music/estavius",
+			"name": "survival_remastered:music/phyrnna-estavius",
 			"stream": true
 		}
 	]
@@ -171,55 +171,55 @@
 	"category": "music",
 	"sounds": [
 		{
-			"name": "survival_remastered:music/amazing_sad_song",
+			"name": "survival_remastered:music/dream-amazing_sad_song",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/estavius",
+			"name": "survival_remastered:music/phyrnna-estavius",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/megalovania",
+			"name": "survival_remastered:music/lucas_king-megalovania",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/ambient",
+			"name": "survival_remastered:music/strange_day-ambient",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/knights_of_camelot",
+			"name": "survival_remastered:music/tommymutiu-knights_of_camelot",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/the_sound_of_light",
+			"name": "survival_remastered:music/tomomi_kato-the_sound_of_light",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/cinematic_chillhop_main",
+			"name": "survival_remastered:music/zakharvalaha-cinematic_chillhop_main",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/olympus",
+			"name": "survival_remastered:music/ross_budgen-olympus",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/flight_hymn",
+			"name": "survival_remastered:music/ross_budgen-flight_hymn",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/battle_of_the_dragons",
+			"name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/draconis",
+			"name": "survival_remastered:music/tommymutiu-draconis",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/the_introvert",
+			"name": "survival_remastered:music/michael_kobrin-the_introvert",
 			"stream": true
 		},
 		{
-			"name": "survival_remastered:music/sommerregen",
+			"name": "survival_remastered:music/madirfan-sommerregen",
 			"stream": true
 		},
 		{

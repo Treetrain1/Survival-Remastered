@@ -676,6 +676,8 @@ mode = "fancy"
 				painting = true
 				wither = true
 				falling_icicle = true
+				frog = true
+				warden = true
 
 			[light_sources.settings.entities.endgoblintraders]
 				end_goblin_trader = true
@@ -742,6 +744,7 @@ mode = "fancy"
 				reaper = true
 				revenant = true
 				nightmare = true
+				corrupted_vindicator = true
 
 			[light_sources.settings.entities.goblintraders]
 				vein_goblin_trader = true
@@ -1202,6 +1205,8 @@ mode = "fancy"
 				beluga = true
 				penguin = true
 				snow_seal = true
+				snow_trover = true
+				snikerbosh = true
 
 			[light_sources.settings.entities.apecraft]
 				gorilla = true
@@ -1227,4 +1232,17 @@ mode = "fancy"
 
 			[light_sources.settings.entities.endlessocean]
 				spot_billed_pelican = true
+
+			[light_sources.settings.entities.wilderwild]
+				firefly = true
+
+			[light_sources.settings.entities.wilderwildplus]
+				ancient_pearl = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				copper_golem = true
+				moobloom = true
+				iceologer = true
+				mauler = true
 
