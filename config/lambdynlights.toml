@@ -678,6 +678,7 @@ mode = "fancy"
 				falling_icicle = true
 				frog = true
 				warden = true
+				allay = true
 
 			[light_sources.settings.entities.endgoblintraders]
 				end_goblin_trader = true
