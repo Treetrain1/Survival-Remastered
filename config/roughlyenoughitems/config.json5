@@ -15,7 +15,8 @@
 			"{data:{Count:1b,id:\"minecraft:light_gray_stained_glass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:gold_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"adorn:end_stone_brick_post\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		// Declares whether cheating mode is on.
@@ -138,19 +139,6 @@
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
 			"cachingFastEntryRendering": false
-		}
-	},
-	"config": {
-		"RS_keybind": {
-			"keyCode": "key.keyboard.i",
-			"modifier": 2
-		},
-		"RS_search": false,
-		"RS_indicator": {
-			"RS_trueSize": 1.2999999523162842,
-			"RS_falseSize": 0.699999988079071,
-			// Uses default REI search
-			"RS_background": false
 		}
 	},
 	"appearance": {

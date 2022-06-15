@@ -1245,4 +1245,5 @@ mode = "fancy"
 				moobloom = true
 				iceologer = true
 				mauler = true
+				ice_chunk = true
 

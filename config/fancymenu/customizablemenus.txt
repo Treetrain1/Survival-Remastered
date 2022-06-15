@@ -45,9 +45,6 @@ foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
 dev.lambdaurora.lambdynlights.gui.SettingsScreen {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
-}
-
 net.minecraft.class_6777 {
 }
 
@@ -163,5 +160,8 @@ net.minecraft.class_433 {
 }
 
 net.minecraft.class_442 {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
