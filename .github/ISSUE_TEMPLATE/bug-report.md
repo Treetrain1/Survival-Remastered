@@ -28,7 +28,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Setup:**
  - Operating System [e.g. Windows 10]:
- - Game Version [e.g. 2.0 Beta 1]:
+ - Game Version [e.g. 1.18.1]:
+ - Modpack Version [e.g. Beta 1]
 
 **Additional context**
 Add any other context about the problem here.
