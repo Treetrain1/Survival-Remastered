@@ -47,7 +47,7 @@
   "MC-217716": true,
   "MC-223153": true,
   "MC-224729": true,
-  "MC-22882": false,
+  "MC-22882": true,
   "MC-228976": true,
   "MC-231097": true,
   "MC-231743": true,
@@ -73,7 +73,7 @@
   "MC-90084": true,
   "MC-93018": true,
   "MC-93384": true,
-  "opt_out_updater": false,
-  "gameplay_fixes_in_multiplayer": false,
+  "opt_out_updater": true,
+  "gameplay_fixes_in_multiplayer": true,
   "default_disabled": false
 }
