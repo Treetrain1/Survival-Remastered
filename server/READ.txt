@@ -10,7 +10,7 @@ Go to https://bisecthosting.com/Treetrain1 and use code TREETRAIN1 for 25% off y
 > Extract the contents of the zip file
 > Download the fabric installer from https://fabricmc.net/use
 > Click the fabric installer and choose 1.19 and install server 0.14.8 into another folder. Be certain you click SERVER before installing. Download server jar > Generate > Done > Exit
-> If you are upgrading a server, delete the Existing Mods Folder, Config Folder, server-icon.png, server.properties, and the kubjes folder
+> If you are upgrading a server, delete the Existing Mods Folder, Config Folder, server-icon.png, server.properties, and the kubejs folder
 > Drag Mods Folder, Configs Folder, server-icon, server.properties and kubejs folder into the new folder you made 
 > (Recommended) Add more memory to the start.bat file (add a larger number in the "-Xmx(number)G" flag. ex: -Xmx6G)
 > run the start.bat file (If this comes up with an error it means you need to download Java 17)
