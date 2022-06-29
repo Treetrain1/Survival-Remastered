@@ -7,6 +7,7 @@
   "lagAttackProof": true,
   "portalRenderLimit": 200,
   "indirectLoadingRadiusCap": 8,
+  "enableCrossPortalSound": true,
   "compatibilityRenderMode": true,
   "doCheckGlError": true,
   "portalSearchingRange": 128,
@@ -32,5 +33,5 @@
   "enableClientPerformanceAdjustment": true,
   "enableServerPerformanceAdjustment": true,
   "netherPortalMode": "normal",
-  "endPortalMode": "normal"
+  "endPortalMode": "toObsidianPlatform"
 }

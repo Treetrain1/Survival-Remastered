@@ -9,13 +9,53 @@ customization-meta {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
+  keepaspectratio = false
+  action = backgroundoptions
 }
 
 customization {
-  keepaspectratio = false
-  action = backgroundoptions
+  identifier = %id=345181%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9755%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttonlabel
+  value = Language Settings...
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttondescription
+  description = Language Settings%n%Change your language here
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = Graphics Settings...
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttondescription
+  description = Graphics Settings%n%Customize video settings%n%Can be used to increase performance
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttonlabel
+  value = Customize Skin...
 }
 

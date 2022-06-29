@@ -146,8 +146,55 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 160
+  action = deep_customization_element:title_screen_branding
+  actionid = 8f384ef0-7ef4-41f0-9f67-3e7e500d4f591656391911333
+  y = 258
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 348
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 5df5f9dd-dce0-4d3f-b5ec-889fb8986dda1656391911336
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 108
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = dabb66fd-f257-491a-bd6f-37aed15605ca1656391911336
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = ac6813be-2eed-468b-b3e5-781ac1c10fd31656391911336
+  y = 0
+  height = 30
+}
+
+customization {
   orientation = bottom-right
   restartbackgroundanimations = true
+  delayappearanceseconds = Infinity
   buttonaction = opencustomgui
   description = Changelog%n%Shows the changes for the current update to Survival Remastered
   label = Changelog
@@ -157,7 +204,9 @@ customization {
   actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
   action = addbutton
   y = -22
+  delayappearance = true
   value = changelog
+  delayappearanceeverytime = true
   height = 20
 }
 

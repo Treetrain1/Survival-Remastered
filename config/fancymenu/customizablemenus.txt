@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.class_3928 {
-}
-
 net.minecraft.class_424 {
 }
 
@@ -72,13 +69,7 @@ net.minecraft.class_405 {
 net.minecraft.class_527 {
 }
 
-net.minecraft.class_420 {
-}
-
 net.minecraft.class_422 {
-}
-
-net.minecraft.class_419 {
 }
 
 net.diebuddies.physics.settings.GeneralSettingsScreen {
@@ -109,9 +100,6 @@ net.minecraft.class_447 {
 }
 
 net.minecraft.class_436 {
-}
-
-net.minecraft.class_435 {
 }
 
 net.minecraft.class_525 {
@@ -156,12 +144,30 @@ net.minecraft.class_446 {
 net.minecraft.class_418 {
 }
 
-net.minecraft.class_433 {
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
 net.minecraft.class_442 {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_419 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.coderbot.iris.gui.screen.ShaderPackScreen {
 }
 

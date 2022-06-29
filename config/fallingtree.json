@@ -43,5 +43,6 @@
   },
   "sneakMode": "IGNORE",
   "breakInCreative": false,
+  "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
 }

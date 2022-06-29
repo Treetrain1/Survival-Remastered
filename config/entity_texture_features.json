@@ -1,6 +1,7 @@
 {
   "allowIllegalTexturePaths": true,
   "enableCustomTextures": true,
+  "enableCustomBlockEntities": true,
   "textureUpdateFrequency_V2": "Fast",
   "restrictUpdateProperties": true,
   "restrictBiome": true,
@@ -10,6 +11,7 @@
   "restrictDayTime": true,
   "restrictMoonPhase": true,
   "enableEmissiveTextures": true,
+  "enableEmissiveBlockEntities": true,
   "fullBrightEmissives": false,
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,

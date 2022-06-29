@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -27,7 +22,7 @@ customization {
 customization {
   identifier = %id=502949%
   action = setbuttondescription
-  description = Refresh Shader Packs
+  description = Shader Pack Settings
 }
 
 customization {

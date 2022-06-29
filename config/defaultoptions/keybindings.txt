@@ -38,6 +38,8 @@ key_Reload Menu | CTRL + ALT + :key.keyboard.unknown:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c:NONE
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
+key_fpsreducer.key.openGui:key.keyboard.end:NONE
+key_fpsreducer.key.forceIdle:key.keyboard.pause:NONE
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown:NONE
 key_key.gamma_utils.increase_gamma:key.keyboard.up:NONE
 key_key.gamma_utils.decrease_gamma:key.keyboard.down:NONE
@@ -57,6 +59,8 @@ key_key.mcda.firetrail.toggle:key.keyboard.semicolon:NONE
 key_key.origins.primary_active:key.keyboard.g:NONE
 key_key.origins.secondary_active:key.keyboard.r:NONE
 key_key.origins.view_origin:key.keyboard.o:NONE
+key_presencefootsteps.settings.key:key.keyboard.f10:NONE
+key_key.spyglass-improvements.use:key.keyboard.z:NONE
 key_key.push_to_talk:key.keyboard.caps.lock:NONE
 key_key.whisper:key.keyboard.unknown:NONE
 key_key.mute_microphone:key.keyboard.unknown:NONE
@@ -90,7 +94,6 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
 key_gui.xaero_quick_confirm:key.keyboard.right.shift:NONE
-key_gui.xaero_wm_toggle_minimap_radar:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.minus:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown:NONE

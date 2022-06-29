@@ -81,7 +81,7 @@
   "reducingInGameMenu": true,
   "reducingInBackground": true,
   "suppressSound": true,
-  "suppressedVolume": 21,
+  "suppressedVolume": 50,
   "hudEnabled": true,
   "profile": 0
 }

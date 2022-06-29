@@ -746,6 +746,8 @@ mode = "fancy"
 				revenant = true
 				nightmare = true
 				corrupted_vindicator = true
+				corrupted_pillager = true
+				wraith = true
 
 			[light_sources.settings.entities.goblintraders]
 				vein_goblin_trader = true

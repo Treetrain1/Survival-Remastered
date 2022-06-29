@@ -318,5 +318,16 @@
 	*/
 	"fooBurntime": 12000,
 	"fooNetherBurntime": 24000,
-	"fooEndBurntime": 32000
+	"fooEndBurntime": 32000,
+	/* 
+	   
+	   
+	   ******************************
+	   Bow Zoom Multiplier
+	   - vanilla bow value = .15F
+	   - pretty good value = .45F
+	   - awesome value = .75F
+	   ******************************
+	*/
+	"bowZoomMultiplier": 0.44999998807907104
 }
