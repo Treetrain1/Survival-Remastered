@@ -39,7 +39,7 @@ Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
 Survival Remastered Features:
 
-350+ Mods
+180+ Mods
 
 [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) + [Cave Tweaks](https://www.curseforge.com/minecraft/mc-mods/cave-tweaks)
 
@@ -49,9 +49,7 @@ Survival Remastered Features:
 
 Tons of crazy structures!
 
-[Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
-
-1.19 Features from [The Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)
+Built-in [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 So much more!
 
