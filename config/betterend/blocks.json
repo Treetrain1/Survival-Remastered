@@ -472,5 +472,6 @@
       "murkweed [default: 44]": 44,
       "needlegrass [default: 45]": 45
     }
-  }
+  },
+  "crystal_moss_cover [default: true]": true
 }

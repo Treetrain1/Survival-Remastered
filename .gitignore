@@ -35,6 +35,7 @@ run/
 
 # Survival Remastered
 
-server/servers/
 client/
+media/
 mods/
+server/servers/

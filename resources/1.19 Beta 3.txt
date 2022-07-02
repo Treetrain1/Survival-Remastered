@@ -1,0 +1,24 @@
+Survival Remastered 1.19 Beta 3
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A HIGH CHANGE TO BREAK WORLDS
+
+Updated Mods
+
+Added Enhanced Block Entities
+Added Animatica
+Added Audio Extension for FancyMenu
+Added Item Model Fix
+
+Removed Better Beds
+Removed Smooth Boot
+Removed YOSBR
+
+Fixed an issue where using a Gobber Hammer on some non-solid blocks would result in a crash
+
+
+Planned:
+Redo custom textures to match new dark mode resource pack.
+Add Wilde- (still in development)
+Add Wilde- Plus (still in development)

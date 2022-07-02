@@ -1,6 +1,5 @@
 {
-	"currentGamma": 100,
-	"nightVisionEnabled": true,
+	"nightVisionEnabled": false,
 	"defaultGamma": 100,
 	"toggledGamma": 1500,
 	"updateToggle": false,

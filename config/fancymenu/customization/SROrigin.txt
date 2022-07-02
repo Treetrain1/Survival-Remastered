@@ -20,7 +20,25 @@ customization {
 
 customization {
   identifier = %id=450596%
+  action = setbuttonlabel
+  value = Proceed
+}
+
+customization {
+  identifier = %id=450596%
   action = setbuttondescription
-  description = Select
+  description = Proceed
+}
+
+customization {
+  identifier = %id=608490%
+  action = setbuttondescription
+  description = Go Right
+}
+
+customization {
+  identifier = %id=372490%
+  action = setbuttondescription
+  description = Go left
 }
 

@@ -1,6 +1,6 @@
 [general]
 	#The Client ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
-	clientID = 985965547697086494
+	clientID = 992595871726317609
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!

@@ -12,6 +12,7 @@
   },
   "rendering": {
     "netherThickFog [default: true]": true,
-    "customFogRendering [default: true]": true
+    "customFogRendering [default: true]": true,
+    "FogDensity [default: 1.0]": 1.0
   }
 }
