@@ -8,8 +8,12 @@ Updated Mods
 
 Added Enhanced Block Entities
 Added Animatica
-Added Audio Extension for FancyMenu
 Added Item Model Fix
+Added Chime
+Added Icarus
+Added Hookshot
+Added Universal Ores
+Added Structory
 
 Removed Better Beds
 Removed Smooth Boot
