@@ -7,6 +7,7 @@
     "offerAllMods [default: false]": false,
     "sendAllModInfo [default: false]": false,
     "additionalMods": [],
-    "excludeMods": []
+    "excludeMods": [],
+    "forceBetterXPreset [default: true]": true
   }
 }

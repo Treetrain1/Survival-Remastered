@@ -264,22 +264,3 @@ customization {
   height = 170
 }
 
-customization {
-  orientation = bottom-right
-  restartbackgroundanimations = true
-  delayappearanceseconds = Infinity
-  buttonaction = opencustomgui
-  description = Changelog%n%Shows the changes for the current update to Survival Remastered
-  label = Changelog
-  loopbackgroundanimations = true
-  x = -71
-  width = 69
-  actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
-  action = addbutton
-  y = -22
-  delayappearance = true
-  value = changelog
-  delayappearanceeverytime = true
-  height = 20
-}
-

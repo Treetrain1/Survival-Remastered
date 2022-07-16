@@ -1,15 +1,1 @@
-[
-  {
-    "user": {
-      "type": "player",
-      "name": "Treetrain1",
-      "uniqueId": "e4d5386a-2255-450b-9478-17ed2a31041d"
-    },
-    "time": 1651623536878,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/k2CNiqUkc6"
-    }
-  }
-]
+[]

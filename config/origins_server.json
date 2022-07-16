@@ -222,7 +222,10 @@
       "apocalypse:myconoids/spore_callback": true,
       "apocalypse:myconoids/spore_passives": true,
       "apocalypse:myconoids/spore_secondaries": true,
-      "apocalypse:myconoids/turf_penalty": true
+      "apocalypse:myconoids/turf_penalty": true,
+      "apocalypse:myconoids/resource_temperature": true,
+      "apocalypse:myconoids/spore_cold": true,
+      "apocalypse:myconoids/spore_heat": true
     },
     "origins:arachnid": {
       "enabled": true,
@@ -1150,6 +1153,14 @@
       "libra:curse_tablet_use": true,
       "libra:curse_tablet_reiteration": true,
       "libra:curse_reiteration_create": true
+    },
+    "icarus:icarae": {
+      "enabled": true,
+      "icarus:powered_flight": true,
+      "origins:aerial_combatant": true,
+      "icarus:hollow_bones": true,
+      "origins:no_shield": true,
+      "origins:carnivore": true
     }
   }
 }

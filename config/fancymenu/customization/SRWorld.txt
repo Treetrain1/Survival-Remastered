@@ -10,8 +10,8 @@ customization-meta {
 }
 
 customization {
-  name = Ancient City
-  action = setbackgroundpanorama
+  path = SR_Resources/background.png
+  action = texturizebackground
 }
 
 customization {
