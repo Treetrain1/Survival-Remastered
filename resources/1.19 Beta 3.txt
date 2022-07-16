@@ -1,8 +1,9 @@
 Survival Remastered 1.19 Beta 3
 
+
 If you find any issues or crashes, report it on the GitHub issue tracker.
 
-WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A HIGH CHANGE TO BREAK WORLDS
+WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A CHANCE TO BREAK WORLDS
 
 Updated Mods
 
@@ -12,17 +13,30 @@ Added Item Model Fix
 Added Chime
 Added Icarus
 Added Hookshot
-Added Universal Ores
 Added Structory
+Added Darkness in The Bottle
+Added Sky Villages
+Added Every Compat
+Added Concurrent Chunk Management Engine - Improves worldgen performance
+Added Terralith
+Added Soundmuffler Block
+Added So I heard you were talking crap about Minecraft's difficulty?
 
-Removed Better Beds
+Removed Better Beds - Replaced by Enhanced Block Entities
 Removed Smooth Boot
-Removed YOSBR
+Removed YOSBR - Was replaced by Default Options
+Removed Better Fps - Render Distance - caused some problems
+Removed Global Packs - Not used
+Removed Perfect Accuracy - Ruins the point of another origin
 
-Fixed an issue where using a Gobber Hammer on some non-solid blocks would result in a crash
+Fixed an issue where using a hammer from Gobber on some non-solid blocks would result in a crash
+Fixed an issue where sculk veins would generate on top of sculk blocks
+Fixed an issue where ender chests have a glitched texture
+Fixed an issue where starting a raid would crash the game
 
 
 Planned:
+World Generation Overhaul
 Redo custom textures to match new dark mode resource pack.
 Add Wilde- (still in development)
-Add Wilde- Plus (still in development)
+Redesgin Menu
