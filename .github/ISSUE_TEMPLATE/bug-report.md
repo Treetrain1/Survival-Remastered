@@ -27,9 +27,9 @@ If applicable, add screenshots to help explain your problem.
 
 
 **Setup:**
- - Operating System [e.g. Windows 10]:
- - Game Version [e.g. 1.18.1]:
- - Modpack Version [e.g. Beta 1]
+ - Operating System [e.g. Windows 11]
+ - Game Version [e.g. 1.19]
+ - Modpack Version [e.g. Beta 2]
 
 **Additional context**
 Add any other context about the problem here.
