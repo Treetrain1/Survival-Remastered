@@ -38,6 +38,7 @@
 	"ringSwiftnessLevel": 1,
 	"ringTravelerLaunch": 4.0,
 	"ringTravelerCruising": 0.2,
+	"allowRingsTicksInEnderchest": false,
 	/* 
 	   
 	   ***********************

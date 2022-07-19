@@ -6,6 +6,7 @@ If you find any issues or crashes, report it on the GitHub issue tracker.
 WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A CHANCE TO BREAK WORLDS
 
 Updated Mods
+Updated Resource Packs
 
 Added Enhanced Block Entities
 Added Animatica
@@ -16,11 +17,17 @@ Added Hookshot
 Added Structory
 Added Darkness in The Bottle
 Added Sky Villages
-Added Every Compat
 Added Concurrent Chunk Management Engine - Improves worldgen performance
-Added Terralith
 Added Soundmuffler Block
 Added So I heard you were talking crap about Minecraft's difficulty?
+Added Terralith - Improves Overworld world generation
+Added Promenade - Improves Overworld world generation
+Added Nullscape - Improves The End world generation
+Added TerraBlender - Allows for more biome compatibility
+Added Audio Engine Tweaks
+Added Blanket
+Added MoreCulling
+Added back MemoryLeakFix
 
 Removed Better Beds - Replaced by Enhanced Block Entities
 Removed Smooth Boot
@@ -33,6 +40,7 @@ Fixed an issue where using a hammer from Gobber on some non-solid blocks would r
 Fixed an issue where sculk veins would generate on top of sculk blocks
 Fixed an issue where ender chests have a glitched texture
 Fixed an issue where starting a raid would crash the game
+Fixed an issue where the Replay Viewer button is invisible when using Replay Mod
 
 
 Planned:

@@ -1,47 +1,23 @@
-# Survival Remastered
-![SR118NewNew](https://user-images.githubusercontent.com/39657565/173883251-c30cbddd-49bb-4252-b534-0f94e8a3d6bf.png)
+
+![BH_NU_HEADER](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_HEADER.png)
 
 
-
+![BH_NU_ABOUT](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_ABOUT.png)
 
 Survival Remastered is the Ultimate Minecraft Experience.
 
 Warning: Low-End computers may suffer from running Survival Remastered
 
 
-To download the modpack, you can get it from either CurseForge or GitHub.
-
-
-
-CurseForge:
-
-    Download the CurseForge app, set up your Minecraft installation, browse mod packs, search "Survival Remastered" and sort by version 1.18.1. You can either click install on the result or click on the modpack and go to versions to download a specific version.
-
-
-
-GitHub:
-
-    Go to the releases tab, click on "Assets" on the latest release, then click the zip file!
-
-    To install, download the CurseForge app, click on Minecraft, Create Custom Profile, then import the modpack using the import button at the top of the window.
-
-
-
 If you want to support me, my donation link is [here](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/523374&cn=Add+special+instructions+to+the+addon+author()&business=treetrain1%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/523374&lc=US&item_name=Survival+Remastered+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)
 
-Join the Survival Remastered [Discord](https://discord.gg/C7bZ5kGGBA)
 
 
+![BH_NU_FEATURES](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_FEATURES.png)
 
-[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/efceff4c-e99f-4e29-97aa-198488cbe2ae.png)](https://bisecthosting.com/treetrain1 "BisectHosting")
+200+ Mods
 
-
-
-Survival Remastered Features:
-
-180+ Mods
-
-[Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) + [Cave Tweaks](https://www.curseforge.com/minecraft/mc-mods/cave-tweaks)
+[Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 
 [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 
@@ -49,9 +25,13 @@ Survival Remastered Features:
 
 Tons of crazy structures!
 
-Built-in [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+Built-in [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) and [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
 
 So much more!
+
+[![BH_NU_DISCORD](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_DISCORD.png)](https://discord.gg/C7bZ5kGGBA)
+
+[![BH_NU_PROMO](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_PROMO.png)](https://bisecthosting.com/treetrain1 "BisectHosting")
 
 ![huge_2021-12-17_20 24 37](https://user-images.githubusercontent.com/39657565/146627063-6a89b7e2-c359-4348-a65f-ba9406f7175d.png)
 ![huge_2021-12-17_20 30 54](https://user-images.githubusercontent.com/39657565/146627067-9e111f98-c80c-4683-8e17-b97448cda4c0.png)

@@ -32,7 +32,7 @@
       "replaymod.camera.classic",
       "replaymod.camera.vanilla"
     ],
-    "mainMenuButton": "RIGHT_OF_MODS",
+    "mainMenuButton": "BIG",
     "mainMenuButton_valid_values": [
       "BIG",
       "DEFAULT",

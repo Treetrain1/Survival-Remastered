@@ -4,6 +4,7 @@
     "chicken_egg": true,
     "jukebox": true,
     "brewing_stand": true,
+    "animal_owner": true,
     "note_block": true,
     "beehive": true,
     "block_inventory": true,
@@ -35,6 +36,10 @@
     "redstone": true
   },
   "jade": {
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "rel_coordinates": false,
     "registry_name": false,
     "mod_name": true
   }

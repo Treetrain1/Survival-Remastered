@@ -32,16 +32,16 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
-  x = -101
+  x = -100
   action = movebutton
-  y = 28
+  y = 5
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  seconds = 1.6
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.5
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -49,9 +49,14 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = setbuttondescription
-  description = Multiplayer!%n%Go play with friends!
+  description = Singleplayer!%n%Go play alone!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
 }
 
 customization {
@@ -106,16 +111,16 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
-  x = -100
+  x = -101
   action = movebutton
-  y = 5
+  y = 28
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  seconds = 1.5
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.6
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -123,14 +128,24 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = setbuttondescription
-  description = Singleplayer!%n%Go play alone!
+  description = Multiplayer!%n%Go play with friends!
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
+  identifier = %id=400334%
+  orientation = bottom-right
+  x = -87
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=400334%
+  width = 85
+  action = resizebutton
+  height = 20
 }
 
 customization {

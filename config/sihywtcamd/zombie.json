@@ -10,8 +10,8 @@
   },
   "drowned": {
     "tridentSpawn": true,
-    "highVelocity": true,
-    "betterAnimation": true,
+    "highVelocity": false,
+    "betterAnimation": false,
     "guardianJockeySpawn": true
   }
 }
