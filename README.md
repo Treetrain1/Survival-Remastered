@@ -29,7 +29,13 @@ So much more!
 
 [![DISCORD](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_DISCORD.png)](https://discord.gg/C7bZ5kGGBA)
 
+Join the Discord! Here I will talk about development and post sneak peeks and community polls
+
+---
+
 [![PROMO](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_PROMO.png)](https://bisecthosting.com/treetrain1 "BisectHosting")
+
+---
 
 ![huge_2022-07-19_12 24 42](https://user-images.githubusercontent.com/39657565/179812928-73d5db66-97d0-42fe-98a5-d1230cb9b6e1.png)
 ![image](https://user-images.githubusercontent.com/39657565/179814725-47cc4241-bbe7-438a-ab3a-e34226196eab.png)
