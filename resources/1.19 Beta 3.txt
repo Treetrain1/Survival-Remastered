@@ -49,4 +49,3 @@ Fixed an issue where the Replay Viewer button is invisible when using Replay Mod
 Planned:
 Redesgin Menu
 Redo custom textures to match new dark mode resource pack.
-Add Wilde- (still in development)
