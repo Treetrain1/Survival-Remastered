@@ -66,8 +66,6 @@
     "iconMode": "TOP"
   },
   "formatting": {
-    "modName": "§9§o%s",
-    "titleName": "%s",
-    "registryName": "§7[%s]"
+    "modName": "§9§o%s"
   }
 }

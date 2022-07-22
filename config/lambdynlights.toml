@@ -985,6 +985,7 @@ mode = "fancy"
 				painting = true
 				wither = true
 				cobweb = true
+				tadpole = true
 
 			[light_sources.settings.entities.revamped_phantoms]
 				shockwave = true

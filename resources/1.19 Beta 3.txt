@@ -15,7 +15,6 @@ Added Chime
 Added Icarus
 Added Hookshot
 Added Structory
-Added Darkness in The Bottle
 Added Sky Villages
 Added Concurrent Chunk Management Engine - Improves worldgen performance
 Added Soundmuffler Block
@@ -26,8 +25,10 @@ Added Nullscape - Improves The End world generation
 Added TerraBlender - Allows for more biome compatibility
 Added Audio Engine Tweaks
 Added Blanket
-Added MoreCulling
-Added back MemoryLeakFix
+Added MoreCulling - Increases performance by not rendering things out of view
+Added back MemoryLeakFix - self explanatory
+Added No Unused Chunks - Saves storage on new worlds
+Added DefaultSettings - Replaced Default Options
 
 Removed Better Beds - Replaced by Enhanced Block Entities
 Removed Smooth Boot
@@ -35,6 +36,8 @@ Removed YOSBR - Was replaced by Default Options
 Removed Better Fps - Render Distance - caused some problems
 Removed Global Packs - Not used
 Removed Perfect Accuracy - Ruins the point of another origin
+Removed Default Options - Replaced by DefaultSettings
+Removed Bottled Air
 
 Fixed an issue where using a hammer from Gobber on some non-solid blocks would result in a crash
 Fixed an issue where sculk veins would generate on top of sculk blocks
@@ -44,7 +47,6 @@ Fixed an issue where the Replay Viewer button is invisible when using Replay Mod
 
 
 Planned:
-World Generation Overhaul
+Redesgin Menu
 Redo custom textures to match new dark mode resource pack.
 Add Wilde- (still in development)
-Redesgin Menu

@@ -20,7 +20,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
-mouseSensitivity:0.018309859154929536
+mouseSensitivity:0.5
 fov:0.625
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -29,17 +29,17 @@ gamma:1.0
 renderDistance:6
 simulationDistance:5
 entityDistanceScaling:1.25
-guiScale:5
+guiScale:3
 particles:0
-maxFps:120
+maxFps:260
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
-biomeBlendRadius:2
+biomeBlendRadius:0
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","illuminations/pixelaccurate","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.31].zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.0-1.13+.zip","file/Survival Remastered Resources.zip"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.31].zip","file/darkpack-v2.1.zip"]
-lastServer:private.survivalremastered.net
+resourcePacks:["vanilla","Fabric Mods","illuminations/pixelaccurate","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.33.1].zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/Survival Remastered Resources.zip"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.33.1].zip","file/darkpack-v2.1.zip"]
+lastServer:localhost
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -77,7 +77,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:true
 onlyShowSecureChat:true
-soundCategory_master:0.4013245
+soundCategory_master:0.33642384
 soundCategory_music:0.15352112
 soundCategory_record:1.0
 soundCategory_weather:0.15352112

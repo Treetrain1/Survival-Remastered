@@ -37,6 +37,7 @@ key_key.fabrishot.screenshot:key.keyboard.f9:NONE
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c:NONE
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown:NONE
+key_blanket-client-tweaks.keys.rotateMinecartKey:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
 key_fpsreducer.key.openGui:key.keyboard.end:NONE
 key_fpsreducer.key.forceIdle:key.keyboard.pause:NONE

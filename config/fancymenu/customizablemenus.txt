@@ -171,3 +171,6 @@ net.minecraft.class_436 {
 net.minecraft.class_442 {
 }
 
+xaero.common.gui.GuiMinimapMain {
+}
+

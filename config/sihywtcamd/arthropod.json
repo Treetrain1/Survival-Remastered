@@ -7,7 +7,7 @@
     "infestedEverywhere": true
   },
   "spider": {
-    "baby": true,
+    "baby": false,
     "webProjectileGoal": true,
     "caveSpiderJockey": true,
     "caveSpiderNaturalSpawn": true

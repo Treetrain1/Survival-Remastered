@@ -15,7 +15,6 @@
   "fullBrightEmissives": false,
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,
-  "enchantedPotionEffects": "NONE",
   "skinFeaturesEnabled": true,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": false,
@@ -28,5 +27,7 @@
   "enableTridents": true,
   "enableElytra": true,
   "elytraThicknessFix": true,
-  "debugLoggingMode": "None"
+  "advanced_IncreaseCacheSizeModifier": 1.0,
+  "debugLoggingMode": "None",
+  "temporary_fixIrisPBR": false
 }
