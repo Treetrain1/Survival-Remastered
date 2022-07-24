@@ -111,6 +111,8 @@
   "infinityText": "∞",
   "worldNameOverrides": {},
   "blacklistedWorlds": [],
+  "blacklistedAreas": {},
+  "blacklistedDamageSources": [],
   "tryDetectionSoulbound": true,
   "skippedEnchantments": [],
   "guiPreviousPageText": "<lang:'text.graves.gui.previous_page'>",

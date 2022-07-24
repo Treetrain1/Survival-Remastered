@@ -1,81 +1,81 @@
 {
-  "music.olympus": {
+  "music.ross_budgen-olympus": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/olympus",
+          "name": "survival_remastered:music/ross_budgen-olympus",
           "stream": true
       }
     ]
   },
-  "music.flight_hymn": {
+  "music.ross_budgen-flight_hymn": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/flight_hymn",
+          "name": "survival_remastered:music/ross_budgen-flight_hymn",
           "stream": true
       }
     ]
   },
-  "music.amazing_sad_song": {
+  "music.dream-amazing_sad_song": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/amazing_sad_song",
+        "name": "survival_remastered:music/dream-amazing_sad_song",
 		    "stream": true
 	    }
     ]
   },
-  "music.estavius": {
+  "music.phyrnna-estavius": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/estavius",
+        "name": "survival_remastered:music/phyrnna-estavius",
         "stream": true
       }
     ]
   },
-  "music.megalovania": {
+  "music.lucas_king-megalovania": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/megalovania",
+        "name": "survival_remastered:music/lucas_king-megalovania",
         "stream": true
       }
     ]
   },
-  "music.ambient": {
+  "music.strange_day-ambient": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/ambient",
+        "name": "survival_remastered:music/strange_day-ambient",
         "stream": true
       }
     ]
   },
-  "music.hope": {
+  "music.ghostrifter-hope": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/hope",
+        "name": "survival_remastered:music/ghostrifter-hope",
         "stream": true
       }
     ]
   },
-  "music.knights_of_camelot": {
+  "music.tommymutiu-knights_of_camelot": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/knights_of_camelot",
+        "name": "survival_remastered:music/tommymutiu-knights_of_camelot",
         "stream": true
       }
     ]
   },
-  "music.the_sound_of_light": {
+  "music.tomomi_kato-the_sound_of_light": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/the_sound_of_light",
+        "name": "survival_remastered:music/tomomi_kato-the_sound_of_light",
         "stream": true
       }
     ]
@@ -84,7 +84,7 @@
     "category": "music",
     "sounds": [
       {
-        "name": "twm:music/game/ancestry",
+        "name": "minecraft:music/game/ancestry",
         "stream": true
       }
     ]
@@ -98,38 +98,38 @@
       }
     ]
   },
-  "music.the_introvert": {
+  "music.michael_kobrin-the_introvert": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/the_introvert",
+          "name": "survival_remastered:music/michael_kobrin-the_introvert",
           "stream": true
       }
     ]
   },
-  "music.sommerregen": {
+  "music.madirfan-sommerregen": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/sommerregen",
+          "name": "survival_remastered:music/madirfan-sommerregen",
           "stream": true
       }
     ]
   },
-  "music.battle_of_the_dragons": {
+  "music.tommymutiu-battle_of_the_dragons": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/battle_of_the_dragons",
+          "name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
           "stream": true
       }
     ]
   },
-  "music.draconis": {
+  "music.tommymutiu-draconis": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/draconis",
+          "name": "survival_remastered:music/tommymutiu-draconis",
           "stream": true
       }
     ]

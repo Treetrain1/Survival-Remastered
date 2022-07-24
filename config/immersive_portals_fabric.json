@@ -1,16 +1,17 @@
 {
   "check_the_wiki_for_more_information": "https://qouteall.fun/immptl/wiki/Config-Options",
-  "enableWarning": true,
-  "enableMirrorCreation": true,
+  "enableWarning": false,
+  "enableMirrorCreation": false,
   "maxPortalLayer": 5,
   "sharedBlockMeshBufferOptimization": true,
   "lagAttackProof": true,
   "portalRenderLimit": 200,
   "indirectLoadingRadiusCap": 8,
+  "enableCrossPortalSound": true,
   "compatibilityRenderMode": true,
   "doCheckGlError": true,
   "portalSearchingRange": 128,
-  "renderYourselfInPortal": true,
+  "renderYourselfInPortal": false,
   "serverSideNormalChunkLoading": true,
   "teleportationDebug": false,
   "correctCrossPortalEntityRendering": true,
@@ -32,5 +33,5 @@
   "enableClientPerformanceAdjustment": true,
   "enableServerPerformanceAdjustment": true,
   "netherPortalMode": "normal",
-  "endPortalMode": "normal"
+  "endPortalMode": "toObsidianPlatform"
 }

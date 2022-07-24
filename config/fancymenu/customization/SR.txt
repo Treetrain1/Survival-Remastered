@@ -32,82 +32,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400358%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 51
-}
-
-customization {
-  identifier = %id=400358%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=604394%
-  orientation = mid-centered
-  x = 104
-  action = movebutton
-  y = 78
-}
-
-customization {
-  identifier = %id=604394%
-  action = setbuttondescription
-  description = Accessibility!%n%Accessibility Settings
-}
-
-customization {
-  identifier = %id=400334%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=400394%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 76
-}
-
-customization {
-  identifier = %id=400394%
-  action = setbuttondescription
-  description = Options!%n%Preferences
-}
-
-customization {
-  identifier = %id=376394%
-  orientation = mid-centered
-  x = -124
-  action = movebutton
-  y = 75
-}
-
-customization {
-  identifier = %id=376394%
-  action = setbuttondescription
-  description = Language!%n%If you want to change the language.
-}
-
-customization {
-  identifier = %id=400310%
-  orientation = mid-centered
-  x = -101
-  action = movebutton
-  y = 28
-}
-
-customization {
-  identifier = %id=400310%
-  action = setbuttondescription
-  description = Multiplayer!%n%Go play with friends!
-}
-
-customization {
-  identifier = %id=400286%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -115,13 +40,139 @@ customization {
 }
 
 customization {
-  identifier = %id=400286%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = setbuttondescription
   description = Singleplayer!%n%Go play alone!
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.7
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttondescription
+  description = Mods!%n%A list of mods!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 78
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 1.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttondescription
+  description = Accessibility!%n%Accessibility Settings
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.6
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = Multiplayer!%n%Go play with friends!
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = bottom-right
+  x = -87
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=400334%
+  width = 85
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 76
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttondescription
+  description = Options!%n%Preferences
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
   x = 2
   action = movebutton
@@ -129,31 +180,92 @@ customization {
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttonlabel
   value = Rage Quit
 }
 
 customization {
-  identifier = %id=502394%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to Desktop
 }
 
 customization {
-  orientation = bottom-right
-  restartbackgroundanimations = true
-  buttonaction = opencustomgui
-  description = Changelog%n%Shows the changes for the current update to Survival Remastered
-  label = Changelog
-  loopbackgroundanimations = true
-  x = -71
-  width = 69
-  actionid = 85ae56c0-4bd9-41cf-8a16-3b39f543b2661641679364517
-  action = addbutton
-  y = -22
-  value = changelog
-  height = 20
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.8
+  onlyfirsttime = true
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Language!%n%If you want to change the language.
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 160
+  action = deep_customization_element:title_screen_branding
+  actionid = 8f384ef0-7ef4-41f0-9f67-3e7e500d4f591656391911333
+  y = 258
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 348
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 5df5f9dd-dce0-4d3f-b5ec-889fb8986dda1656391911336
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 108
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = dabb66fd-f257-491a-bd6f-37aed15605ca1656391911336
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 117
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = ac6813be-2eed-468b-b3e5-781ac1c10fd31656391911336
+  y = 81
+  splash_file_path = SR_Resources/splash/splash.txt
+  height = 30
 }
 
 customization {
@@ -163,7 +275,7 @@ customization {
   width = 302
   action = addtexture
   actionid = 9e005b73-b702-4ced-a6fe-246c320f6a5a1638046106120
-  y = -11
+  y = -26
   height = 170
 }
 

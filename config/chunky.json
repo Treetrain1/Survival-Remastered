@@ -2,36 +2,38 @@
   "version": 1,
   "language": "en",
   "continueOnRestart": false,
+  "silent": false,
+  "updateInterval": 1,
   "tasks": {
     "minecraft:overworld": {
       "cancelled": true,
-      "radius": 500.0,
-      "centerX": 69.23169397414044,
-      "centerZ": 420.58679399564664,
+      "radius": 1000.0,
+      "centerX": -1121.5885734878732,
+      "centerZ": 5421.187553605031,
       "iterator": "concentric",
-      "shape": "circle",
-      "count": 4175,
-      "time": 20739
+      "shape": "square",
+      "count": 16079,
+      "time": 275531
     },
     "minecraft:the_nether": {
       "cancelled": true,
-      "radius": 500.0,
-      "centerX": 41.9400362173739,
-      "centerZ": 289.97597517122136,
-      "iterator": "concentric",
-      "shape": "circle",
-      "count": 1344,
-      "time": 26567
-    },
-    "minecraft:the_end": {
-      "cancelled": true,
       "radius": 600.0,
-      "centerX": -730.2897435822421,
-      "centerZ": 1002.1568527307574,
+      "centerX": 0.43492742988273475,
+      "centerZ": 0.49999999999999994,
       "iterator": "concentric",
       "shape": "square",
       "count": 5879,
-      "time": 106262
+      "time": 52310
+    },
+    "minecraft:the_end": {
+      "cancelled": true,
+      "radius": 1000.0,
+      "centerX": 1292.7520089260056,
+      "centerZ": 1286.7296758259158,
+      "iterator": "concentric",
+      "shape": "square",
+      "count": 16081,
+      "time": 252224
     }
   }
 }

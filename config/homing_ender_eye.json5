@@ -4,5 +4,7 @@
 	// Scanning interval for nearby End Portal Frame. The unit is tick.
 	"SCANNING_RATE": 300,
 	// Scanning Radius for nearby End Portal Frame.
-	"SCANNING_RADIUS": 30
+	"SCANNING_RADIUS": 30,
+	// The Probability of broken ender eye warping. From minimum 0 to Maximum 100.
+	"WARPING_PROBABILITY": 100
 }

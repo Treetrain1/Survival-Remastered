@@ -1,0 +1,42 @@
+Survival Remastered 2.0 Beta 9
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: MANY MODS HAVE BEEN DISABLED IN THIS UPDATE. PLEASE DON'T TRY OLD WORLDS WITH THIS. THEY WILL NOT LOAD AND WILL MOST LIKELY CORRUPT.
+
+Updated Minecraft to 1.18.2
+Disabled mods incompatible with 1.18.2
+Updated and enabled mods compatible with 1.18.2
+Added Charm
+Added Charmonium
+Removed MAmbience
+Added Mythic Metals Decorations
+Added Apecraft
+Added TerraBlender
+Added back Immersive Weathering
+Removed Amplified Nether
+Added Incendium ~ Nether Expansion
+Added Blanket
+Added VehicleFix
+Added Cammie's Minecart Tweaks
+Added Better Animals Plus
+Added Debugify
+Removed ForgetMeChunk (Replaced by Debugify)
+Removed TieFix (Replaced by Debugify)
+Replaced Towers of the Wild: Reworked with the new datapack form.
+Added Additional Structures
+Added Sodium Shadowy Path Blocks
+Temporarily added Music Duration Reducer
+Added Macaw's Bridges
+Added Macaw's Windows
+Added Macaw's Doors
+Added Macaw's Roofs
+Added Macaw's Fences and Walls
+Added Macaw's Trapdoors
+Added Macaw's Lights and Lamps
+Added Macaw's Paintings
+Added Mod Credits
+Added Endless Ocean: Aquatic Adventures
+Added Carpet
+Added Carpet Extra
+
+WILL ADD IN THE FUTURE

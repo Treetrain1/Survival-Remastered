@@ -345,7 +345,7 @@
 			tasks: [{
 				id: "3F18685D9778F0DA"
 				type: "biome"
-				biome: "terralith:cave/frostfire_caves"
+				biome: "twm:deep_dark"
 			}]
 			rewards: [{
 				id: "2BABF5C89038DD7F"

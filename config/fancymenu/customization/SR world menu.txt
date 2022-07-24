@@ -14,12 +14,6 @@ customization {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -34,18 +28,6 @@ customization {
   identifier = %id=346948%
   action = setbuttondescription
   description = Play%n%Play the selected world
-}
-
-customization {
-  identifier = %id=424972%
-  action = setbuttondescription
-  description = Delete%n%Delete the selected world
-}
-
-customization {
-  identifier = %id=504972%
-  action = setbuttondescription
-  description = Re-Create%n%Re-Create the selected world
 }
 
 customization {
@@ -76,5 +58,17 @@ customization {
   identifier = %id=346972%
   action = setbuttondescription
   description = Edit%n%Edit the selected world
+}
+
+customization {
+  identifier = %id=424972%
+  action = setbuttondescription
+  description = Delete%n%Delete the selected world
+}
+
+customization {
+  identifier = %id=504972%
+  action = setbuttondescription
+  description = Re-Create%n%Re-Create the selected world
 }
 

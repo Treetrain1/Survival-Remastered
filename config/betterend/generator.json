@@ -26,7 +26,9 @@
         "averageHeight[0-255] [default: 70]": 70,
         "heightVariation[0-255] [default: 10]": 10,
         "coverage[0-1] [default: 0.5]": 0.5,
-        "hasCentralIsland [default: false]": false
+        "hasCentralIsland [default: false]": false,
+        "averageHeight[0-1] [default: 0.546875]": 0.546875,
+        "heightVariation[0-1] [default: 0.078125]": 0.078125
       },
       "mediumIslands": {
         "distance[1-8192] [default: 150.0]": 150.0,
@@ -34,7 +36,9 @@
         "averageHeight[0-255] [default: 70]": 70,
         "heightVariation[0-255] [default: 20]": 20,
         "coverage[0-1] [default: 0.5]": 0.5,
-        "hasCentralIsland [default: true]": true
+        "hasCentralIsland [default: true]": true,
+        "averageHeight[0-1] [default: 0.546875]": 0.546875,
+        "heightVariation[0-1] [default: 0.15625]": 0.15625
       },
       "smallIslands": {
         "distance[1-8192] [default: 60.0]": 60.0,
@@ -42,7 +46,9 @@
         "averageHeight[0-255] [default: 70]": 70,
         "heightVariation[0-255] [default: 30]": 30,
         "coverage[0-1] [default: 0.5]": 0.5,
-        "hasCentralIsland [default: false]": false
+        "hasCentralIsland [default: false]": false,
+        "averageHeight[0-1] [default: 0.546875]": 0.546875,
+        "heightVariation[0-1] [default: 0.234375]": 0.234375
       }
     },
     "voidRingSize [default: 1000]": 1000

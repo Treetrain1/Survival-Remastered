@@ -6,5 +6,6 @@
 	"enableForEnchantingTable": true,
 	"enableDamageInEnchantingTable": true,
 	"allowSilkTouchWithLooting": true,
-	"allToolsAreWeapons": true
+	"fastCobWebBreaking": false,
+	"allToolsAreWeapons": false
 }

@@ -9,18 +9,12 @@ customization-meta {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
-  identifier = %id=398246%
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
   orientation = mid-centered
   x = -102
   action = movebutton
@@ -28,19 +22,19 @@ customization {
 }
 
 customization {
-  identifier = %id=398246%
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
   action = setbuttonlabel
   value = Resume
 }
 
 customization {
-  identifier = %id=398246%
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
   action = setbuttondescription
   description = Resume%n%Go back to the game
 }
 
 customization {
-  identifier = %id=398342%
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   orientation = mid-centered
   x = -102
   action = movebutton
@@ -48,18 +42,18 @@ customization {
 }
 
 customization {
-  identifier = %id=398342%
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   action = setbuttondescription
   description = Options!%n%Basically settings
 }
 
 customization {
-  identifier = %id=504294%
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=504294%
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
   orientation = mid-centered
   x = 136
   action = movebutton
@@ -67,7 +61,7 @@ customization {
 }
 
 customization {
-  identifier = %id=504294%
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
   action = setbuttondescription
   description = Report Bugs%n%Report bugs to the bug tracker
 }
@@ -87,7 +81,7 @@ customization {
 }
 
 customization {
-  identifier = %id=504270%
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   orientation = mid-centered
   x = 4
   action = movebutton
@@ -95,18 +89,18 @@ customization {
 }
 
 customization {
-  identifier = %id=504270%
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   action = setbuttondescription
   description = Statistics!
 }
 
 customization {
-  identifier = %id=398294%
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=504342%
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
   orientation = mid-centered
   x = 4
   action = movebutton
@@ -114,13 +108,13 @@ customization {
 }
 
 customization {
-  identifier = %id=504342%
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
   action = setbuttondescription
   description = Open to LAN%n%Opens the world to other devices in your home
 }
 
 customization {
-  identifier = %id=398270%
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   orientation = mid-centered
   x = -102
   action = movebutton
@@ -128,13 +122,13 @@ customization {
 }
 
 customization {
-  identifier = %id=398270%
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   action = setbuttondescription
   description = Advancements
 }
 
 customization {
-  identifier = %id=398366%
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   orientation = mid-centered
   x = -102
   action = movebutton
@@ -142,13 +136,13 @@ customization {
 }
 
 customization {
-  identifier = %id=398366%
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   action = setbuttonlabel
   value = Rage Quit
 }
 
 customization {
-  identifier = %id=398366%
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to title screen
 }

@@ -19,6 +19,7 @@
     "allowMixedLogs": false,
     "breakNetherTreeWarts": true,
     "instantlyBreakWarts": false,
+    "breakMangroveRoots": true,
     "searchAreaRadius": -1,
     "allowedAdjacentBlocks": [],
     "adjacentStopMode": "STOP_ALL"
@@ -37,9 +38,11 @@
   },
   "enchantment": {
     "registerEnchant": false,
+    "registerSpecificEnchant": false,
     "hideEnchant": false
   },
-  "reverseSneaking": false,
+  "sneakMode": "IGNORE",
   "breakInCreative": false,
+  "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
 }

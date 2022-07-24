@@ -6,5 +6,6 @@
   "ticksBetweenStunAttempts": 200,
   "ticksStunDuration": 120,
   "phantomsGrabPrey": true,
-  "doDaylightSpawns": true
+  "doDaylightSpawns": true,
+  "phantom_attack_blacklist": []
 }

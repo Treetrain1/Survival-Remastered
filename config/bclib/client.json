@@ -11,6 +11,8 @@
     "suppressExperimentalDialogOnLoad [default: false]": false
   },
   "rendering": {
-    "netherThickFog [default: true]": true
+    "netherThickFog [default: true]": true,
+    "customFogRendering [default: true]": true,
+    "FogDensity [default: 1.0]": 1.0
   }
 }

@@ -2,46 +2,10 @@
 	/* 
 	   
 	   ***********************
-	   Portals
-	   ***********************
-	*/
-	"enableMiningPortal": true,
-	"enableHuntingPortal": true,
-	"enableCavingPortal": true,
-	"enableNetheringPortal": true,
-	"enableClimbingPortal": true,
-	"useFlintAndDiamond": false,
-	/* 
-	   
-	   ***********************
-	   Portable Teleporters
-	   ***********************
-	*/
-	"enableMiningTeleporter": true,
-	"enableHuntingTeleporter": true,
-	"enableCavingTeleporter": true,
-	"enableNetheringTeleporter": true,
-	"enableClimbingTeleporter": true,
-	"enableReturningEnchantment": true,
-	/* 
-	   
-	   ***********************
-	   Teleporters
-	    * disable check and place player
-	    possibly in middle of an ocean on
-	    a stone block.
-	    * be sure to be carrying a boat!
-	   ***********************
-	*/
-	"enableOceanCheck": true,
-	/* 
-	   
-	   ***********************
 	   Extra Overworld Deepslate Ores
 	    (Also affects the Mining, Climbing, & Caving Dims)
 	   ***********************
 	*/
-	"enableExtraDiamond": true,
 	"extraDiamondDeepslateVeinSize": 3,
 	"extraDiamondDeepslateVeinsPerChunk": 8,
 	"extraDiamondDeepslateMaxHeight": -50,
@@ -52,7 +16,6 @@
 	    (Also affects the Nethering Dim)
 	   ***********************
 	*/
-	"enableExtraAncientDebris": true,
 	"extraAncientDebrisVeinSize": 3,
 	"extraAncientDebrisVeinsPerChunk": 8,
 	"extraAncientDebrisMaxHeight": 40,

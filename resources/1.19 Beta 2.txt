@@ -1,0 +1,59 @@
+Survival Remastered 1.19 Beta 2
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A HIGH CHANGE TO BREAK WORLDS
+
+Updated Fabric Loader to 0.14.8
+Updated Fabric API to 0.57.0
+Updated Mods
+
+Added Macaw's Bridges
+Added Macaw's Fences and Walls
+Added Macaw's Lights and Lamps
+Added Macaw's Paintings
+Added Macaw's Paths and Pavings
+Added Macaw's Roofs
+Added Macaw's Trapdoors
+Added Macaw's Windows
+Added Motschen's Puddles
+Added Roughly Enough Resources
+Added Roughly Enough Professions
+Added Spyglass Improvements
+Added Better Fps - Render Distance
+Added KubeJS
+Added Better Compatibility Checker
+Added Login Protection
+Added ToroHealth Damage Indicators
+Added Better Biome Blend
+Added More Villagers
+Added Farmer's Delight
+Added Earth2Java
+Added Presence Footsteps
+Added Axolotl Bucket Fix
+Added More Axolotls
+Added Simple Copper Pipes
+Added Customizable Sculk
+Added Fabric Musica
+Added Advanced Reborn
+Added No Chat Reports
+Added Patchouli
+Added Legendary Tooltips
+
+Removed MemoryLeakFixxx
+Removed Mineral Chance
+Removed Realistic Fire Spread
+Removed FallingTree
+Removed Sound Physics Remastered
+Removed Wooled Boots
+
+Fixed some issues with GUI scaling
+Customized Sculk Generation with Customized Sculk
+Allowed the Warden's sonic booms to destroy some types of blocks with Customized Sculk.
+Removed the Changelog button in the main menu
+
+
+Planned:
+Redo custom textures to match new dark mode resource pack.
+Add Wilde- (still in development)
+Add Wilde- Plus (still in development)

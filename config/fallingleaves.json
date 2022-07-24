@@ -1112,9 +1112,112 @@
     "the_aether:frost_wisteria_sapling": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "apecraft:redwood_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "apecraft:redwood_leaves_with_pinecone": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:acacia_leaves_i": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:spruce_leaves_ii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:birch_leaves_iii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:oak_leaves_iv": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:spruce_leaves_iv": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:dark_oak_leaves_iv": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:spruce_leaves_iii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:spruce_leaves_i": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:birch_leaves_iv": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:acacia_leaves_ii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:birch_leaves_i": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:oak_leaves_i": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:dark_oak_leaves_i": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:dark_oak_leaves_ii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:acacia_leaves_iv": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:birch_leaves_ii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:acacia_leaves_iii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:oak_leaves_ii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:dark_oak_leaves_iii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "compressed:oak_leaves_iii": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderwild:baobab_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderwild:cypress_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
   "fallSpawnRateFactor": 1.8,
-  "winterSpawnRateFactor": 0.1
+  "winterSpawnRateFactor": 0.1,
+  "startingSpawnRadius": 0,
+  "decaySpawnRateFactor": 2.6,
+  "maxDecayLeaves": 9
 }

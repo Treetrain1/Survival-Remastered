@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:bone_block",
+        "minecraft:sculk",
+        "minecraft:sculk_catalyst",
+        "minecraft:piston",
+        "#c:glass_blocks",
+        "#c:glass_panes"
+    ]
+}

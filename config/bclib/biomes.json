@@ -2,7 +2,12 @@
   "force_include": {
     "end_land_biomes": [],
     "end_void_biomes": [],
-    "nether_biomes": []
+    "nether_biomes": [],
+    "NETHER": [],
+    "END_LAND": [],
+    "END_VOID": [],
+    "END_CENTER": [],
+    "END_BARRENS": []
   },
   "minecraft": {
     "nether_wastes": {
@@ -27,7 +32,8 @@
     },
     "the_end": {
       "generation_chance [default: 1.0]": 1.0,
-      "fog_density [default: 1.0]": 1.0
+      "fog_density [default: 1.0]": 1.0,
+      "generation_chance [default: 0.5]": 0.5
     },
     "end_barrens": {
       "generation_chance [default: 1.0]": 1.0,
@@ -39,7 +45,8 @@
     },
     "end_highlands": {
       "generation_chance [default: 0.5]": 0.5,
-      "fog_density [default: 1.0]": 1.0
+      "fog_density [default: 1.0]": 1.0,
+      "edge_size [default: 8]": 8
     },
     "end_midlands": {
       "generation_chance [default: 0.5]": 0.5,
@@ -2003,7 +2010,8 @@
       "plants_and_structures_density [default: 1.0001]": 1.0001,
       "noise_density [default: 0.35]": 0.35,
       "vertical [default: false]": false,
-      "terrain_height [default: 0.1]": 0.1
+      "terrain_height [default: 0.1]": 0.1,
+      "generation_chance [default: 0.3]": 0.3
     },
     "upside_down_forest": {
       "structures": {
@@ -2325,6 +2333,29 @@
       "fog_density [default: 1.0]": 1.0,
       "vertical [default: false]": false,
       "terrain_height [default: 0.1]": 0.1
+    },
+    "empty_cave": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    },
+    "eroded_cave": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    },
+    "old_mycotic_forest": {
+      "generation_chance [default: 0.5]": 0.5,
+      "fog_density [default: 1.0]": 1.0,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
     }
+  },
+  "force_exclude": {
+    "nether_biomes": [],
+    "NETHER": [],
+    "END": []
   }
 }

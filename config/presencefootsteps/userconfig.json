@@ -1,6 +1,9 @@
 {
-  "volume": 27,
-  "stance": "UNKNOWN",
+  "volume": 10,
+  "clientPlayerVolume": 100,
+  "otherPlayerVolume": 100,
+  "runningVolumeIncrease": 0,
+  "stance": "BIPED",
   "multiplayer": true,
   "global": true
 }

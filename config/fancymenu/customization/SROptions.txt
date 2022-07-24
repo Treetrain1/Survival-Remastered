@@ -9,13 +9,101 @@ customization-meta {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
+  keepaspectratio = false
+  action = backgroundoptions
 }
 
 customization {
-  keepaspectratio = false
-  action = backgroundoptions
+  identifier = %id=345181%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9755%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505154%
+  action = setbuttondescription
+  description = Online
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttondescription
+  description = Texture Packs
+}
+
+customization {
+  identifier = %id=345154%
+  action = setbuttondescription
+  description = FOV
+}
+
+customization {
+  identifier = %id=505280%
+  action = setbuttondescription
+  description = Accessibility Settings
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttondescription
+  description = Done%n%Go back
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttonlabel
+  value = Language Settings...
+}
+
+customization {
+  identifier = %id=345256%
+  action = setbuttondescription
+  description = Language Settings%n%Change your language here
+}
+
+customization {
+  identifier = %id=505256%
+  action = setbuttondescription
+  description = Chat Settings
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = Graphics Settings...
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttondescription
+  description = Graphics Settings%n%Customize video settings%n%Can be used to increase performance
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttondescription
+  description = Controls
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttonlabel
+  value = Customize Skin...
+}
+
+customization {
+  identifier = %id=345208%
+  action = setbuttondescription
+  description = Customize Skin
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttondescription
+  description = Music & Sounds
 }
 

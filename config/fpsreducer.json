@@ -1,14 +1,5 @@
 {
   "enableFpsReducer": true,
-  "waitingTime": 90,
-  "idleFps": 5,
-  "guiScreenFps": 120,
-  "detectMoving": 1,
-  "ignoreHoldButton": true,
-  "reducingInBackground": true,
-  "suppressSound": true,
-  "suppressedVolume": 21,
-  "hudEnabled": true,
   "hudReferencePos": 1,
   "hudPos": [
     {
@@ -75,9 +66,22 @@
   "hudReductionPreText": "ECO: ",
   "hudGuiModeColor": "00f0f0",
   "hudGuiModePreText": "FPS: ",
+  "hudNoActModeColor": "ceffd4",
   "cpuUsageType": 0,
   "cpuUsageThread": 0,
   "allowOneFps": false,
   "debugLog": false,
-  "logInChat": false
+  "logInChat": false,
+  "waitingTime": 90,
+  "idleFps": 10,
+  "guiScreenFps": 240,
+  "noActFps": 0,
+  "detectMoving": 1,
+  "ignoreHoldButton": false,
+  "reducingInGameMenu": true,
+  "reducingInBackground": true,
+  "suppressSound": true,
+  "suppressedVolume": 50,
+  "hudEnabled": true,
+  "profile": 0
 }

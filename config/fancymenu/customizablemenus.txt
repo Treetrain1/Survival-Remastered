@@ -1,21 +1,12 @@
 type = customizablemenus
 
-net.minecraft.class_3928 {
-}
-
 net.minecraft.class_424 {
-}
-
-net.minecraft.class_526 {
 }
 
 com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
 io.github.apace100.origins.screen.ChooseOriginScreen {
-}
-
-net.minecraft.class_418 {
 }
 
 net.diebuddies.physics.settings.cloth.ClothSettingsScreen {
@@ -48,9 +39,6 @@ foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
 dev.lambdaurora.lambdynlights.gui.SettingsScreen {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
-}
-
 net.minecraft.class_6777 {
 }
 
@@ -78,13 +66,7 @@ net.minecraft.class_405 {
 net.minecraft.class_527 {
 }
 
-net.minecraft.class_420 {
-}
-
 net.minecraft.class_422 {
-}
-
-net.minecraft.class_419 {
 }
 
 net.diebuddies.physics.settings.GeneralSettingsScreen {
@@ -114,15 +96,6 @@ net.minecraft.class_4288 {
 net.minecraft.class_447 {
 }
 
-net.minecraft.class_436 {
-}
-
-net.minecraft.class_446 {
-}
-
-net.minecraft.class_435 {
-}
-
 net.minecraft.class_525 {
 }
 
@@ -150,9 +123,6 @@ dev.tr7zw.skinlayers.SkinLayersModBase$1 {
 dqu.additionaladditions.config.ModMenuImpl$1 {
 }
 
-net.minecraft.class_429 {
-}
-
 com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen {
 }
 
@@ -162,12 +132,45 @@ xaero.common.gui.GuiWidgetUpdateAll {
 net.minecraft.class_4189 {
 }
 
+net.minecraft.class_446 {
+}
+
+net.minecraft.class_418 {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
 net.minecraft.class_433 {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_419 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.coderbot.iris.gui.screen.ShaderPackScreen {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_436 {
 }
 
 net.minecraft.class_442 {
 }
 
-net.minecraft.class_458 {
+xaero.common.gui.GuiMinimapMain {
 }
 

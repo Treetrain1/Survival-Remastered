@@ -2044,7 +2044,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 20]": 20,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "nether_jungle": {
       "structures": {
@@ -2184,7 +2270,94 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.5]": 0.5
+      "noise_density [default: 0.5]": 0.5,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      },
+      "noise_density [default: 0.35]": 0.35
     },
     "wart_forest_edge": {
       "structures": {
@@ -2258,7 +2431,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 20]": 20,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "wart_forest": {
       "structures": {
@@ -2344,7 +2603,94 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.45]": 0.45
+      "noise_density [default: 0.45]": 0.45,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 20]": 20,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      },
+      "noise_density [default: 0.35]": 0.35
     },
     "nether_grasslands": {
       "structures": {
@@ -2454,7 +2800,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "nether_mushroom_forest_edge": {
       "structures": {
@@ -2532,7 +2964,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "nether_mushroom_forest": {
       "structures": {
@@ -2638,7 +3156,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.5]": 0.5
+      "noise_density [default: 0.5]": 0.5,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "bone_reef": {
       "structures": {
@@ -2716,7 +3320,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "sulfuric_bone_reef": {
       "structures": {
@@ -2790,7 +3480,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "poor_nether_grasslands": {
       "structures": {
@@ -2888,7 +3664,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "nether_swampland": {
       "structures": {
@@ -3002,7 +3864,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "nether_swampland_terraces": {
       "structures": {
@@ -3116,7 +4064,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "magma_land": {
       "structures": {
@@ -3194,7 +4228,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "soul_plain": {
       "structures": {
@@ -3268,7 +4388,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "crimson_glowing_woods": {
       "structures": {
@@ -3362,7 +4568,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 9]": 9,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 20]": 20,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "old_warped_woods": {
       "structures": {
@@ -3444,7 +4736,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "crimson_pinewood": {
       "structures": {
@@ -3538,7 +4916,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 9]": 9,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 20]": 20,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "old_fungiwoods": {
       "structures": {
@@ -3636,7 +5100,94 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.5]": 0.5
+      "noise_density [default: 0.5]": 0.5,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      },
+      "noise_density [default: 0.35]": 0.35
     },
     "flooded_deltas": {
       "structures": {
@@ -3698,7 +5249,93 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
     },
     "upside_down_forest": {
       "structures": {
@@ -3767,7 +5404,94 @@
         "schematics": []
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.5]": 0.5
+      "noise_density [default: 0.5]": 0.5,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      },
+      "noise_density [default: 0.35]": 0.35
     },
     "upside_down_forest_cleared": {
       "structures": {
@@ -3816,7 +5540,94 @@
         "schematics": []
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.3]": 0.3
+      "noise_density [default: 0.3]": 0.3,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 50]": 50,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 100]": 100,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 1]": 1,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 60]": 60,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      },
+      "noise_density [default: 0.35]": 0.35
     },
     "old_swampland": {
       "structures": {
@@ -3934,7 +5745,585 @@
         ]
       },
       "plants_and_structures_density [default: 1.0001]": 1.0001,
-      "noise_density [default: 0.35]": 0.35
+      "noise_density [default: 0.35]": 0.35,
+      "spawn": {
+        "monster": {
+          "minecraft": {
+            "ghast": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "zombified_piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "magma_cube": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "enderman": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "piglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 4]": 4,
+              "maxGroupSize [default: 4]": 4
+            },
+            "hoglin": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            },
+            "piglin_brute": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 1]": 1
+            }
+          },
+          "betternether": {
+            "skull": {
+              "weight [default: 2]": 2,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            },
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            },
+            "jungle_skeleton": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        },
+        "creature": {
+          "minecraft": {
+            "strider": {
+              "weight [default: 40]": 40,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 2]": 2
+            }
+          }
+        },
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            },
+            "flying_pig": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 4]": 4
+            }
+          }
+        }
+      }
+    }
+  },
+  "minecraft": {
+    "nether_wastes": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "soul_sand_valley": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "crimson_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 15]": 15,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 0]": 0,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "warped_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "basalt_deltas": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    }
+  },
+  "incendium": {
+    "weeping_valley": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "volcanic_deltas": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "infernal_dunes": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "withered_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "inverted_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "toxic_heap": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "quartz_flats": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "ash_barrens": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    }
+  },
+  "promenade": {
+    "tritanopian_gallery": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "achromatopsian_gallery": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "protanopian_gallery": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "tall_crimson_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "tall_warped_forest": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
     }
   }
 }

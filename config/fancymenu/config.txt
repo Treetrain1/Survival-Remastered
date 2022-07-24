@@ -1,7 +1,5 @@
 ##[general]
 
-[Stop vanilla world music when in a customizable menu.]
-B:stopworldmusicwhencustomizable = 'false';
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
 B:forcefullscreen = 'false';
@@ -21,26 +19,6 @@ B:advancedmode = 'true';
 B:showcustomizationbuttons = 'false';
 
 
-##[mainmenu]
-
-S:copyrightposition = 'top-right';
-B:hidebranding = 'true';
-S:copyrightcolor = '#ffffff';
-B:hidelogo = 'true';
-B:hiderealmsnotifications = 'true';
-
-
-##[mainmenu_splash]
-
-S:splashcolor = '#ffff00';
-I:splashrotation = '-12';
-I:splashy = '41';
-I:splashx = '23';
-B:hidesplashtext = 'false';
-S:splashtextfile = 'SR_Resources/splash/splash.txt';
-S:splashorientation = 'original';
-
-
 ##[loading]
 
 B:allowgameintroskip = 'false';
@@ -54,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Survival Remastered 2.0 Beta 8.1';
+S:customwindowtitle = 'Survival Remastered 1.19 Beta 3';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

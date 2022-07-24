@@ -2,65 +2,6 @@
 	/* 
 	   
 	   ***********************
-	   Enable-Disable Rings
-	   ***********************
-	*/
-	"enableRingAbove": true,
-	"enableRingAirWalking": true,
-	"enableRingAscent": true,
-	"enableRingAttraction": true,
-	"enableRingBlink": true,
-	"enableRingCuring": true,
-	"enableRingDismissal": true,
-	"enableRingEnderchest": true,
-	"enableRingExplorer": true,
-	"enableRingFarmer": true,
-	"enableRingHaste": true,
-	"enableRingLuck": true,
-	"enableRingMiner": true,
-	"enableRingPhoenix": true,
-	"enableRingRepair": true,
-	"enableRingReturn": true,
-	"enableRingStealth": true,
-	"enableRingStrength": true,
-	"enableRingSunshine": true,
-	"enableRingSwiftness": true,
-	"enableRingTeleport": true,
-	"enableRingTraveler": true,
-	"enableRingVision": true,
-	"enableRingVoid": true,
-	/* 
-	   
-	   ***********************
-	   Enable-Disable Staffs
-	   ***********************
-	*/
-	"enableStaffClearing": true,
-	"enableStaffEnsnarement": true,
-	"enableStaffFarmer": true,
-	"enableStaffNature": true,
-	"enableStaffSniper": true,
-	"enableStaffStars": true,
-	"enableStaffTransformation": true,
-	"enableStaffHostileEnsnarement": true,
-	/* 
-	   
-	   ***********************
-	   Enable-Disable Medallions
-	   ***********************
-	*/
-	"enableMedallionBreathing": true,
-	"enableMedallionLesserHealing": true,
-	"enableMedallionHealing": true,
-	"enableMedallionGreaterHealing": true,
-	"enableMedallionExp": true,
-	"enableMedallionHero": true,
-	"enableMedallionSea": true,
-	"enableMedallionShielding": true,
-	"enableMedallionSuffering": true,
-	/* 
-	   
-	   ***********************
 	   Ring Settings
 	   ***********************
 	*/
@@ -88,13 +29,16 @@
 	"ringMinerCooldown": 120,
 	"ringMinerRange": 5,
 	"ringMinerVerticalRange": 4,
-	"ringMinerDelayedBreak": true,
+	"ringMinerCentralizedBreaking": false,
+	"ringMinerCentralizedBreakingDelay": true,
+	"ringMinerInstantBreak": false,
 	"ringRepairInterval": 90,
 	"ringStrengthLevel": 2,
 	"ringStrengthResistenceLevel": 1,
 	"ringSwiftnessLevel": 1,
 	"ringTravelerLaunch": 4.0,
 	"ringTravelerCruising": 0.2,
+	"allowRingsTicksInEnderchest": false,
 	/* 
 	   
 	   ***********************
@@ -148,10 +92,6 @@
 	"swordSniperCooldoown": 240,
 	"enableEndHammer5x5": true,
 	"enableEndExcavator5x5": true,
-	"enableTreeAxe": true,
-	"enableHammers": true,
-	"enableExcavators": true,
-	"enablePaxels": true,
 	"enableNetherSwordPerks": true,
 	/* 
 	   
@@ -263,6 +203,7 @@
 	"dragonChestProtecction": 13,
 	"dragonLeggingsProtection": 11,
 	"dragonBootsProtection": 8,
+	"enableaArmorCap": true,
 	/* 
 	   
 	   ***********************
@@ -301,8 +242,6 @@
 	   ***********************
 	*/
 	"unbreakableDragonArmor": true,
-	"enableDragonArmorWithoutFlight": false,
-	"enableDragonArmorWithFlight": true,
 	"enableDragonBreathing": true,
 	"enableDragonFirePerk": true,
 	"enableDragonHealthPerks": true,
@@ -310,22 +249,13 @@
 	"enableDragonCuring": true,
 	"enableDragonNoFallDamage": true,
 	"enableGlidingDragonArmor": true,
+	"enableDragonFlying": true,
 	/* 
 	   
 	   ***********************
 	   Enchantments
 	   ***********************
 	*/
-	"enableSmithblade": true,
-	"enableRebuffing": true,
-	"enableFasterObsidian": true,
-	"enableUntouchable": true,
-	"enableQuickUse": true,
-	"enableBlinders": true,
-	"enableSolidFooting": true,
-	"enableApotropaic": true,
-	"enableFluidMaster": true,
-	"enableSummoner": true,
 	"enableSummonerBonusStats": true,
 	"summonerGoldGear": true,
 	"summonerMobLifespan": 120,
@@ -344,9 +274,11 @@
 	"summonerAttackBonus": 10.0,
 	"summonerMovementBonus": 0.6,
 	"summonerArmorBonus": 20.0,
+	"summonerEventEnable": true,
 	"enableRingEnchanting": true,
 	"enableStaffEnchanting": true,
 	"enableMedallionEnchanting": true,
+	"apotropaicEventEnable": true,
 	/* 
 	   
 	   ***********************
@@ -358,6 +290,7 @@
 	   
 	   ***********************
 	   Loot Chests
+	   Not working in 1.19 for now
 	   ***********************
 	*/
 	"lootEnable": true,
@@ -390,16 +323,13 @@
 	"fooEndBurntime": 32000,
 	/* 
 	   
-	   ***********************
-	   Nemesis Settings
 	   
-	   ***********************
+	   ******************************
+	   Bow Zoom Multiplier
+	   - vanilla bow value = .15F
+	   - pretty good value = .45F
+	   - awesome value = .75F
+	   ******************************
 	*/
-	"enableNemesis": true,
-	"dropChanceNemesis": 0.15,
-	"attackDamageNemesis": 4.0,
-	"healthNemesis": 20.0,
-	"movementSpeedNemesis": 0.3,
-	"attackKnockbackNemesis": 1.2,
-	"knockbackResistanceNemesis": 0.0
+	"bowZoomMultiplier": 0.44999998807907104
 }

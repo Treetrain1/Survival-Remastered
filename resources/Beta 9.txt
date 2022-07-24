@@ -1,9 +1,19 @@
 Survival Remastered 2.0 Beta 9
 If you find any issues or crashes, report it on the GitHub issue tracker.
+WARNING: THIS UPDATE CAN BREAK YOUR WORLDS. PLEASE BACKUP YOUR WORLDS.
 
-WARNING: MANY MODS HAVE BEEN DISABLED IN THIS UPDATE. PLEASE DON'T TRY OLD WORLDS WITH THIS.
+Updated mods
+Added TerraBlender
+Added Oh The Biomes You'll Go Refabricated
+Added back Immersive Weathering
+Added YUNG's Better Mineshafts
+Added YUNG's Extras
+Added YUNG's Bridges
+Added Blanket
+Added VehicleFix
+Added Cammie's Minecart Tweaks
+Added Better Animals Plus
 
-Updated Minecraft to 1.18.2
-Disabled mods incompatible with 1.18.2
-Updated and enabled mods compatible with 1.18.2
-Added BisectHosting Server Integration Menu
+
+
+WILL ADD IN THE FUTURE.
