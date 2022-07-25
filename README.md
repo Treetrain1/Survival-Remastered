@@ -6,7 +6,7 @@
 
 Survival Remastered is the Ultimate Minecraft Experience.
 
-This modpack tries to take Minecraft survival to the next level with 200+ mods that bring new worldgen, advanced tech and machinery, QOL changes, and much more!
+This modpack takes Minecraft survival to the next level with 200+ mods that bring new worldgen, advanced tech and machinery, QOL changes, and much more!
 
 
 ![FEATURES](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_FEATURES.png)
