@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.class_424 {
-}
-
 com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
@@ -141,9 +138,6 @@ net.minecraft.class_418 {
 me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
-net.minecraft.class_433 {
-}
-
 net.minecraft.class_420 {
 }
 
@@ -168,9 +162,15 @@ net.minecraft.class_526 {
 net.minecraft.class_436 {
 }
 
-net.minecraft.class_442 {
+xaero.common.gui.GuiMinimapMain {
 }
 
-xaero.common.gui.GuiMinimapMain {
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_442 {
 }
 

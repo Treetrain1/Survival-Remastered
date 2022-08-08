@@ -1,11 +1,7 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:waxed_copper_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:name_tag\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:diamond_leggings\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:waxed_weathered_cut_copper_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:sculk_sensor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
@@ -157,6 +153,7 @@
 		"isFocusModeZoomed": false
 	},
 	"functionality": {
+		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.

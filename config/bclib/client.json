@@ -5,14 +5,22 @@
     "acceptFiles [default: true]": false,
     "acceptMods [default: false]": false,
     "displayModInfo [default: true]": true,
-    "debugHashes [default: false]": false
+    "debugHashes [default: false]": false,
+    "acceptMods [default: true]": true
   },
   "ui": {
-    "suppressExperimentalDialogOnLoad [default: false]": false
+    "suppressExperimentalDialogOnLoad [default: false]": false,
+    "showUpdateInfo [default: true]": true,
+    "forceBetterXPreset [default: true]": true,
+    "iAmNotTheDonorType [default: false]": false
   },
   "rendering": {
     "netherThickFog [default: true]": true,
     "customFogRendering [default: true]": true,
     "FogDensity [default: 1.0]": 1.0
+  },
+  "version": {
+    "didShowWelcome [default: false]": true,
+    "check [default: true]": false
   }
 }

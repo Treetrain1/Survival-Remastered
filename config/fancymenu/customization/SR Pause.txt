@@ -34,6 +34,11 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   orientation = mid-centered
   x = -102
@@ -67,39 +72,6 @@ customization {
 }
 
 customization {
-  identifier = %id=398318%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -40
-}
-
-customization {
-  identifier = %id=398318%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = -88
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  action = setbuttondescription
-  description = Statistics!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
   orientation = mid-centered
   x = 4
@@ -128,6 +100,20 @@ customization {
 }
 
 customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=398318%
+  action = setbuttondescription
+  description = Mods!%n%A list of mods!
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   orientation = mid-centered
   x = -102
@@ -148,11 +134,25 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -88
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  action = setbuttondescription
+  description = Statistics!
+}
+
+customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = openlink
-  description = Issue Tracker%n%Go to the Survival Remastered Issue Tracker
-  label = Issue Tracker
+  description = Found a bug?%n%Go to the modpack's GitHub repository to report it
+  label = Found a bug?
   loopbackgroundanimations = true
   x = 4
   width = 98

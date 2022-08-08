@@ -1,6 +1,6 @@
 {
   "general": {
-    "attackHeal": true,
+    "attackHeal": false,
     "knockbackResistance": true,
     "brainless": true,
     "leaderAndSiege": true

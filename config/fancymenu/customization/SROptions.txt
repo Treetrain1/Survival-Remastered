@@ -14,11 +14,6 @@ customization {
 }
 
 customization {
-  identifier = %id=345181%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=9755%
   action = hidebutton
 }
@@ -63,6 +58,12 @@ customization {
   identifier = %id=345256%
   action = setbuttondescription
   description = Language Settings%n%Change your language here
+}
+
+customization {
+  identifier = %id=322154%
+  action = setbuttondescription
+  description = Puzzle
 }
 
 customization {

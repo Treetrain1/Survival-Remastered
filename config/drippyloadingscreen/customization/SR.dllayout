@@ -5,11 +5,8 @@ customization-meta {
   randomgroup = 1
   keepaspectratio = false
   backgroundimage = SR_Resources/background.png
-  autoscale_baseheight = 2160
   renderorder = foreground
-  autoscale_basewidth = 3840
   randommode = false
-  scale = 4
   randomonlyfirsttime = false
 }
 
@@ -28,10 +25,10 @@ customization {
   path = SR_Resources/survival-remastered-title.png
   orientation = mid-centered
   x = 0
-  width = 800
+  width = 341
   action = addtexture
-  actionid = b1717b01-7ce5-4ba6-b2f1-ccaa3311ec781638047615140
+  actionid = 6be2161a-7839-4915-ab59-796d8ab6f81f1658766886131
   y = 0
-  height = 450
+  height = 100
 }
 

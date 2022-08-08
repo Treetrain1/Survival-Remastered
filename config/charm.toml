@@ -51,6 +51,8 @@
 "CoralSquids Enabled" = true
 #Playing a music disc in a jukebox prevents background music from playing at the same time.
 "DiscsStopBackgroundMusic Enabled" = true
+#Ebony is a very dark grey wood. Saplings can be found in Ancient City and Woodland Mansion chests.
+"EbonyWood Enabled" = true
 #Right-click on a sign with an empty hand to edit its text.
 "EditableSigns Enabled" = true
 #Endermites drop endermite powder that can be used to locate an End City.
@@ -162,9 +164,9 @@
 "StraysSpawnUnderground Enabled" = true
 #Anvils are 50% less likely to take damage when used.
 "StrongerAnvils Enabled" = true
-#The player's inventory items will be held in the Totem of Preserving upon death.
-#By default, a new totem will always be spawned to hold items upon dying in Easy or Peaceful mode ('Grave mode').
-#In Normal and Hard mode, the player must be holding an empty Totem of Preserving in order for it to hold items upon death.
+#The player's inventory items will be preserved in the Totem of Preserving upon death.
+#By default, a new totem will always be spawned to preserve items upon dying ('Grave mode').
+#If Grave mode is not enabled, you must be holding a totem in order for it to preserve your items.
 "TotemOfPreserving Enabled" = false
 #A totem will work from anywhere in the player's inventory as well as held in the main or offhand.
 "TotemWorksFromInventory Enabled" = false
@@ -331,10 +333,6 @@
 	#If true, a player or mob will trample crops unless wearing boots with feather falling enchantment.
 	"Require feather falling" = true
 
-[PlayerState]
-	#Interval (in ticks) on which additional player state will be synchronised to the client.
-	"Server state update interval" = 120
-
 [PortableCrafting]
 	#If true, sets a keybind for opening the portable crafting table (defaults to 'v').
 	"Enable keybind" = false
@@ -385,14 +383,16 @@
 	"Maximum drops" = 2
 
 [TotemOfPreserving]
-	#A list of game difficulties in which totems will behave in 'Grave mode'.
-	#In Grave mode, a totem will be dropped on death even if the player doesn't have an empty totem in their inventory.
-	"Grave mode game difficulties" = []
+	#If true, a new totem will be spawned to preserve items upon dying.
+	#Players do NOT need to be holding a Totem of Preserving.
+	"Grave mode" = true
+	#If true, only the owner of the totem may pick it up.
+	"Owner only" = false
 	#Mobs that have a chance to drop a totem of preserving.
-	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
+	#This does not apply if Grave mode is true.
 	"Mobs drop totems" = []
 	#Chest loot tables that will always contain a totem of preserving.
-	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
+	#This does not apply if Grave mode is true.
 	"Chests contain totems" = []
 	#If true, the totem will preserve the player's experience and restore when broken.
 	"Preserve XP" = false
@@ -418,17 +418,19 @@
 	"Variant turtles" = true
 	#If true, wolves may spawn with different textures.
 	"Variant wolves" = true
+	#If true, wandering traders may spawn with different textures.
+	"Variant wandering traders" = true
 	#If true, all animals have a chance to spawn as a rare variant.
 	"Rare variants" = true
 	#Approximately 1 in X chance of a mob spawning as a rare variant.
 	"Rarity of rare variants" = 1000
 
 [WanderingTraderMaps]
-	#List of structure IDs and structure tags.
-	Structures = ["#minecraft:village", "#minecraft:mineshaft", "minecraft:swamp_hut", "minecraft:igloo", "graveyard:haunted_house"]
-	#List of rarer structure IDs and structure tags.
+	#List of structure tags.
+	"Maps to structures" = ["minecraft:village", "minecraft:mineshaft", "charm:swamp_hut", "charm:igloo"]
+	#List of rarer structure tags.
 	#These are more expensive and less likely to be sold.
-	"Rare structures" = ["minecraft:desert_pyramid", "minecraft:jungle_temple", "#minecraft:ocean_ruin"]
+	"Maps to rare structures" = ["charm:desert_pyramid", "charm:jungle_temple", "minecraft:ocean_ruin"]
 
 [WeatheringIron]
 	#The chance of weathering increases according to the number of block faces touching water.

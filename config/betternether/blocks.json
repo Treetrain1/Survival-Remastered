@@ -282,6 +282,11 @@
     "warped_bar_stool [default: true]": true,
     "bar_stool_cincinnasite [default: true]": true,
     "crimson_ladder [default: true]": true,
-    "warped_ladder [default: true]": true
+    "warped_ladder [default: true]": true,
+    "nether_reed_stem [default: true]": true,
+    "crimson_bookshelf [default: true]": true,
+    "warped_bookshelf [default: true]": true,
+    "crimson_composter [default: true]": true,
+    "warped_composter [default: true]": true
   }
 }

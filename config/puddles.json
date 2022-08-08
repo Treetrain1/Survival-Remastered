@@ -1,5 +1,5 @@
 {
-  "puddleSpawnRate": 2,
-  "snowStackChance": 1,
-  "evaporationChance": 5
+  "puddleSpawnRate": 1,
+  "snowStackChance": 3,
+  "evaporationChance": 2500
 }

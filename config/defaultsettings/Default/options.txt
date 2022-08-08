@@ -35,10 +35,10 @@ maxFps:260
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
-biomeBlendRadius:2
+biomeBlendRadius:0
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.34.zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/Survival Remastered Resources.zip"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.34.zip","file/darkpack-v2.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/Survival Remastered Resources.zip"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35.zip","file/darkpack-v2.1.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
@@ -77,8 +77,8 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:true
 onlyShowSecureChat:true
-soundCategory_master:0.678808
-soundCategory_music:0.15727699
+soundCategory_master:0.16953641
+soundCategory_music:0.15070422
 soundCategory_record:1.0
 soundCategory_weather:0.15352112
 soundCategory_block:1.0
@@ -95,7 +95,7 @@ soundCategory_chat_mention:1.0
 soundCategory_effects:1.0
 soundCategory_scroll:1.0
 soundCategory_typing:0.15562914
-modelPart_cape:true
+modelPart_cape:false
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true

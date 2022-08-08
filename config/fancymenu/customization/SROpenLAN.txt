@@ -9,26 +9,8 @@ customization-meta {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
-}
-
-customization {
-  identifier = %id=345100%
-  action = setbuttondescription
-  description = Game Mode
-}
-
-customization {
-  identifier = %id=505100%
-  action = setbuttondescription
-  description = Allow Cheats
 }
 
 customization {
@@ -47,5 +29,17 @@ customization {
   identifier = %id=505972%
   action = setbuttondescription
   description = Cancel%n%Go back
+}
+
+customization {
+  identifier = %id=345100%
+  action = setbuttondescription
+  description = Game Mode
+}
+
+customization {
+  identifier = %id=505100%
+  action = setbuttondescription
+  description = Allow Cheats
 }
 

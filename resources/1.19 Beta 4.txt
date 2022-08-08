@@ -1,0 +1,31 @@
+Survival Remastered 1.19 Beta 3
+
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THIS MODPACK IS STILL IN BETA AND THIS RELEASE HAS A CHANCE TO BREAK WORLDS
+
+Updated Fabric Loader to 0.14.9
+Updated Mods
+
+Added FastAnim
+Added Carpet-Fixes
+Added Incendium - Overhauls The Nether Generation
+Added Polymorph
+Added Sculk Worm
+Added Better Combat
+
+Removed Crying Ghasts
+Removed Crying Portals
+Removed Fall Through Slime
+Removed Customizable Sculk
+Removed Cull Leaves
+Removed Simple Backpack - anything stored in a backpack will vanish
+
+Updated assets
+Fixed some config issues
+Fixed some GUI issues
+
+Planned:
+Redesgin Menu
+Redo custom textures to match new dark mode resource pack.
