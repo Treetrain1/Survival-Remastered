@@ -13,7 +13,6 @@ Added Carpet-Fixes
 Added Incendium - Overhauls The Nether Generation
 Added Polymorph
 Added Sculk Worm
-Added Better Combat
 
 Removed Crying Ghasts
 Removed Crying Portals
