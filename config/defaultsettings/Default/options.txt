@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/Survival Remastered Resources.zip"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35.zip","file/darkpack-v2.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35].zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/Survival Remastered Resources.zip"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35].zip","file/darkpack-v2.1.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
