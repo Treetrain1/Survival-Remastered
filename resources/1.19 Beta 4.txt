@@ -1,4 +1,4 @@
-Survival Remastered 1.19 Beta 3
+Survival Remastered 1.19 Beta 4
 
 
 If you find any issues or crashes, report it on the GitHub issue tracker.
