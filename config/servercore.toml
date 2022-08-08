@@ -117,10 +117,10 @@
 	villager_wakeup_max = 4
 	villager_wakeup_interval = 30
 	# Activation range settings for monsters.
-	monster_activation_range = 32
+	monster_activation_range = 72
 	monster_tick_inactive = true
-	monster_wakeup_max = 8
-	monster_wakeup_interval = 20
+	monster_wakeup_max = 20
+	monster_wakeup_interval = 18
 	# Activation range settings for animals.
 	animal_activation_range = 24
 	animal_tick_inactive = true
@@ -135,10 +135,10 @@
 	water_activation_range = 24
 	water_tick_inactive = true
 	# Activation range settings for neutral mobs.
-	neutral_activation_range = 24
+	neutral_activation_range = 60
 	neutral_tick_inactive = true
 	# Activation range settings for zombies.
-	zombie_activation_range = 24
+	zombie_activation_range = 40
 	zombie_tick_inactive = true
 	# Activation range settings for raider mobs.
 	raider_activation_range = 48

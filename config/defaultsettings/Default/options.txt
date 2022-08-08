@@ -77,7 +77,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:true
 onlyShowSecureChat:true
-soundCategory_master:0.16953641
+soundCategory_master:0.67615896
 soundCategory_music:0.15070422
 soundCategory_record:1.0
 soundCategory_weather:0.15352112

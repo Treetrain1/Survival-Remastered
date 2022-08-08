@@ -24,6 +24,7 @@ Removed Simple Backpack - anything stored in a backpack will vanish
 Updated assets
 Fixed some config issues
 Fixed some GUI issues
+Increased mob tick radius to allow for Sculk Worm to function properly
 
 Planned:
 Redesgin Menu
