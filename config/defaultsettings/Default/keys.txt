@@ -44,6 +44,8 @@ fpsreducer.key.forceIdle:key.keyboard.pause
 key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key.gamma_utils.increase_gamma:key.keyboard.up
 key.gamma_utils.decrease_gamma:key.keyboard.down
+key.gamma_utils.max_gamma:key.keyboard.unknown
+key.gamma_utils.min_gamma:key.keyboard.unknown
 key.gamma_utils.night_vision_toggle:key.keyboard.h
 key.inventoryhud.toggle:key.keyboard.unknown
 key.inventoryhud.openconfig:key.keyboard.left.bracket

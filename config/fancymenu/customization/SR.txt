@@ -41,7 +41,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  seconds = 1.6
+  seconds = 1.3
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -64,7 +64,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  seconds = 1.7
+  seconds = 1.4
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -92,7 +92,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  seconds = 1.8
+  seconds = 1.5
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -115,7 +115,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  seconds = 1.5
+  seconds = 1.2
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -158,7 +158,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  seconds = 1.8
+  seconds = 1.5
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -187,7 +187,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  seconds = 1.8
+  seconds = 1.5
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -210,7 +210,7 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  seconds = 1.8
+  seconds = 1.5
   onlyfirsttime = true
   action = hidebuttonfor
 }

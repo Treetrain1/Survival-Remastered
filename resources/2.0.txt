@@ -1,0 +1,16 @@
+Survival Remastered 2.0
+
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THERE IS A CHANCE UPDATING THIS MODPACK CAN BREAK WORLDS
+
+Updated Mods
+
+Added Wilder Wild
+
+Fixed a few minor and major issues
+
+Planned:
+Redesgin Menu
+Redo custom textures to match new dark mode resource pack.
