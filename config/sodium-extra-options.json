@@ -30,7 +30,10 @@
     "armor_stand": true,
     "painting": true,
     "piston": true,
-    "beacon_beam": true
+    "beacon_beam": true,
+    "enchanting_table_book": true,
+    "item_frame_name_tag": true,
+    "player_name_tag": true
   },
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",

@@ -29,17 +29,14 @@
 	"ringMinerCooldown": 120,
 	"ringMinerRange": 5,
 	"ringMinerVerticalRange": 4,
-	"ringMinerCentralizedBreaking": false,
-	"ringMinerCentralizedBreakingDelay": true,
-	"ringMinerInstantBreak": false,
+	"ringMinerDelayedBreak": true,
+	"enableCentralizedBreaking": false,
 	"ringRepairInterval": 90,
 	"ringStrengthLevel": 2,
 	"ringStrengthResistenceLevel": 1,
 	"ringSwiftnessLevel": 1,
 	"ringTravelerLaunch": 4.0,
 	"ringTravelerCruising": 0.2,
-	"allowRingsTicksInEnderchest": false,
-	"enableRingStealthInvisible": true,
 	/* 
 	   
 	   ***********************
@@ -62,7 +59,6 @@
 	"medallionLesserHealingAmount": 1,
 	"medallionHealingAmount": 2,
 	"medallionGreaterHealingAmount": 3,
-	"medallionSeaAlwaysOn": false,
 	"medallionShieldingHorizRange": 3,
 	"medallionShieldingVertRange": 2,
 	"medallionShieldingAgainstWither": false,
@@ -79,7 +75,6 @@
 	"staffClearingVertRange": 3,
 	"staffClearingCooldown": 120,
 	"staffSniperCooldown": 240,
-	"staffSniperEnableQuickUse": true,
 	"staffFarmerHorizRange": 12,
 	"staffFarmerVertRange": 6,
 	"staffFarmerInterval": 60,
@@ -93,7 +88,6 @@
 	   ***********************
 	*/
 	"swordSniperCooldoown": 240,
-	"swordSniperEnableQuickUse": true,
 	"enableEndHammer5x5": true,
 	"enableEndExcavator5x5": true,
 	"enableNetherSwordPerks": true,
@@ -111,77 +105,6 @@
 	   
 	   
 	   ******************************
-	   Bow Zoom Multiplier
-	   - vanilla bow value = .15F
-	   - pretty good value = .45F
-	   - awesome value = .75F
-	   ******************************
-	*/
-	"bowZoomMultiplier": 0.44999998807907104,
-	/* 
-	   
-	   
-	   ******************************
-	   Global Bow Settings
-	   ******************************
-	*/
-	"projectileSpeed": 6.5,
-	"projectileDivergence": 0.0,
-	"projectileRoll": 0.0,
-	"projectilePowerDamageBonus": 0.75,
-	"projectileFlameBurnSeconds": 100,
-	"projectileExtraDamage": 0.0,
-	"projectileDropRange": 45,
-	/* 
-	   
-	   ***********************
-	   Gobber Arrow Settings
-	   - effects - slowing, poison, glowing
-	   - cobweb and explode are mutually exclusive
-	   ***********************
-	*/
-	"enableEffectsGobberArrow": true,
-	"effectDurationGobberArrow": 300,
-	"enableGobberArrowCobweb": false,
-	"enableGobberArrowExplode": false,
-	"explosionFactorGobberArrow": 2,
-	"extraDamageGobberArrow": 5,
-	"piercingLeveGobberArrow": 1,
-	"punchLevelGobberArrow": 0,
-	/* 
-	   
-	   ***********************
-	   Nether Arrow Settings
-	   - effects - slowing, wither, glowing
-	   ***********************
-	*/
-	"enableEffectsNetherArrow": true,
-	"effectDurationNetherArrow": 300,
-	"enableNetherArrowFire": true,
-	"secondsEntityOnFireDuration": 30,
-	"extraDamageNetherArrow": 7,
-	"piercingLevelNetherArrow": 2,
-	"punchLevelNetherArrow": 0,
-	/* 
-	   
-	   ***********************
-	   End Arrow Settings
-	   - effects - slowing, wither, glowing
-	   - cloud, cage, and levitation are mutually exclusive
-	   ***********************
-	*/
-	"enableEffectsEndArrow": true,
-	"effectDurationEndArrow": 300,
-	"enablEndArrowCloud": true,
-	"enableEndArrowGlassCage": false,
-	"enableLevitationEndArrow": false,
-	"extraDamageEndArrow": 10,
-	"piercingLevelEndArrow": 3,
-	"punchLevelEndArrow": 1,
-	/* 
-	   
-	   
-	   ******************************
 	   Gobber Tool Material Stats
 	   ******************************
 	*/
@@ -189,6 +112,7 @@
 	"gobberMiningSpeed": 9.0,
 	"gobberAttackDamage": 9.0,
 	"gobberSwordAttackSpeed": 2.0,
+	"gobberMiningLevel": 4,
 	"gobberEnchantability": 20,
 	/* 
 	   
@@ -201,6 +125,7 @@
 	"gobberNetherMiningSpeed": 12.0,
 	"gobberNetherAttackDamage": 9.0,
 	"gobberNetherSwordAttackSpeed": 2.200000047683716,
+	"gobberNetherMiningLevel": 5,
 	"gobberNetherEnchantability": 25,
 	/* 
 	   
@@ -214,6 +139,7 @@
 	"gobberEndMiningSpeed": 14.0,
 	"gobberEndAttackDamage": 9.0,
 	"gobberEndSwordAttackSpeed": 2.4000000953674316,
+	"gobberEndMiningLevel": 5,
 	"gobberEndEnchantability": 30,
 	/* 
 	   
@@ -392,5 +318,16 @@
 	*/
 	"fooBurntime": 12000,
 	"fooNetherBurntime": 24000,
-	"fooEndBurntime": 32000
+	"fooEndBurntime": 32000,
+	/* 
+	   
+	   
+	   ******************************
+	   Bow Zoom Multiplier
+	   - vanilla bow value = .15F
+	   - pretty good value = .45F
+	   - awesome value = .75F
+	   ******************************
+	*/
+	"bowZoomMultiplier": 0.44999998807907104
 }

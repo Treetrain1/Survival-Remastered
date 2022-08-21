@@ -1,6 +1,6 @@
 {
   "general": {
-    "fleeGoal": true,
+    "fleeGoal": false,
     "swimGoal": true
   },
   "skeleton": {

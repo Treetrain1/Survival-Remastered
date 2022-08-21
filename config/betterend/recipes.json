@@ -513,7 +513,11 @@
     "dragon_bone_block [default: true]": true,
     "dragon_bone_slab [default: true]": true,
     "dragon_bone_stairs [default: true]": true,
-    "guide_book [default: true]": true
+    "guide_book [default: true]": true,
+    "sweet_berry_jelly_potion [default: true]": true,
+    "shadow_berry_jelly_potion [default: true]": true,
+    "blossom_berry_jelly_potion [default: true]": true,
+    "blossom_berry_jelly [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace_ore [default: true]": true,

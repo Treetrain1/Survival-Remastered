@@ -17,6 +17,7 @@
 #Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
 "BeaconsHealMobs Enabled" = true
 #Beekeepers are villagers that trade beekeeping items. Their job site is the beehive.
+#Disabling will leave villagers of the profession in an unemployed state with decrepit data.
 "Beekeepers Enabled" = true
 #Ender pearl storage. A silverfish will be converted to an endermite upon touching an ender pearl block.
 #Eating a chorus fruit will teleport you to the nearest ender pearl block.
@@ -91,6 +92,7 @@
 #Use a noteblock while sneaking to lower its pitch by one semitone.
 "LowerNoteblockPitch Enabled" = false
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
+#Disabling will leave villagers of the profession in an unemployed state with decrepit data.
 "Lumberjacks Enabled" = true
 #A map's image is shown in the item tooltip when hovering over.
 "MapTooltip Enabled" = true

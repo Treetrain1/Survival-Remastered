@@ -71,7 +71,6 @@
   "cpuUsageThread": 0,
   "allowOneFps": false,
   "debugLog": false,
-  "logInChat": false,
   "waitingTime": 90,
   "idleFps": 10,
   "guiScreenFps": 240,
