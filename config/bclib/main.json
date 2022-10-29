@@ -6,5 +6,9 @@
     "applyPatches [default: true]": true,
     "repairBiomesOnLoad [default: false]": true,
     "repairBiomesOnLoad [default: true]": true
+  },
+  "infos": {
+    "verbose [default: true]": true,
+    "survives_on_hint [default: true]": true
   }
 }

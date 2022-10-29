@@ -1,0 +1,3713 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 9, 2022, 9:45:47 PM
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+- incendium:inverted_forest (from Incendium + Seed Fix)
+- incendium:weeping_valley (from Incendium + Seed Fix)
+- incendium:infernal_dunes (from Incendium + Seed Fix)
+- incendium:toxic_heap (from Incendium + Seed Fix)
+
+#forge:is_slope
+- terralith:alpine_grove (from Terralith)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:stony_spires (from Terralith)
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:bamboo_jungle (from Terralith)
+- minecraft:jungle (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+
+#repurposed_structures:has_structure/wells/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/ocean
+- #repurposed_structures:collections/oceans (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/dark_forest
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#croptopia:has_crop/basil
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#friendsandfoes:has_structure/illusioner_training_grounds
+- minecraft:taiga (from Friends&Foes)
+- minecraft:old_growth_pine_taiga (from Friends&Foes)
+- minecraft:old_growth_spruce_taiga (from Friends&Foes)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#croptopia:has_crop/strawberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#forge:is_peak
+- terralith:emerald_peaks (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warped_mesa (from Terralith)
+
+#bosses_of_mass_destruction:has_structure/obsidilith_arena
+- #bosses_of_mass_destruction:collections/in_end (from Bosses of Mass Destruction (Beta))
+
+#apoli:category/jungle
+- #minecraft:is_jungle (from Apoli)
+
+#c:vegetation_dense
+- #c:jungle? (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#promenade:spawns/sunken_skeleton
+- minecraft:warm_ocean (from Promenade)
+- minecraft:lukewarm_ocean (from Promenade)
+- minecraft:deep_lukewarm_ocean (from Promenade)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_hills (from Terralith)
+- minecraft:windswept_forest (from Terralith)
+- minecraft:windswept_gravelly_hills (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:haze_mountain (from Terralith)
+
+#croptopia:has_crop/cantaloupe
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+
+#c:forest
+- #minecraft:is_forest? (from Fabric Convention Tags)
+- terralith:alpha_islands (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:skylands (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:yosemite_lowlands (from Terralith)
+
+#repurposed_structures:has_structure/monuments/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#c:end_islands
+
+#croptopia:has_crop/tea_leaves
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#repurposed_structures:has_structure/shipwrecks/warped
+- #repurposed_structures:collections/nether_warped_forests (from Repurposed Structures)
+
+#c:dead
+- terralith:ashen_savanna (from Terralith)
+- terralith:gravel_desert (from Terralith)
+
+#repurposed_structures:has_structure/mineshafts/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mansions/taiga
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/nether_brick
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#c:in_overworld
+- #minecraft:is_overworld? (from Fabric Convention Tags)
+- minecraft:river (from Fabric Convention Tags)
+- minecraft:frozen_river (from Fabric Convention Tags)
+- minecraft:cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:deep_ocean (from Fabric Convention Tags)
+- minecraft:deep_lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:warm_ocean (from Fabric Convention Tags)
+- minecraft:lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+- minecraft:ocean (from Fabric Convention Tags)
+- minecraft:beach (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- minecraft:ice_spikes (from Fabric Convention Tags)
+- minecraft:desert (from Fabric Convention Tags)
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+- minecraft:old_growth_pine_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_spruce_taiga (from Fabric Convention Tags)
+- minecraft:taiga (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+- minecraft:savanna (from Fabric Convention Tags)
+- minecraft:savanna_plateau (from Fabric Convention Tags)
+- minecraft:windswept_hills (from Fabric Convention Tags)
+- minecraft:windswept_gravelly_hills (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:windswept_savanna (from Fabric Convention Tags)
+- minecraft:jungle (from Fabric Convention Tags)
+- minecraft:sparse_jungle (from Fabric Convention Tags)
+- minecraft:bamboo_jungle (from Fabric Convention Tags)
+- minecraft:badlands (from Fabric Convention Tags)
+- minecraft:eroded_badlands (from Fabric Convention Tags)
+- minecraft:wooded_badlands (from Fabric Convention Tags)
+- minecraft:meadow (from Fabric Convention Tags)
+- minecraft:grove (from Fabric Convention Tags)
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+- minecraft:mushroom_fields (from Fabric Convention Tags)
+- minecraft:dripstone_caves (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- minecraft:snowy_beach (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+- minecraft:deep_dark (from Fabric Convention Tags)
+- minecraft:mangrove_swamp (from Fabric Convention Tags)
+
+#c:tree_jungle
+- #c:jungle? (from Fabric Convention Tags)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:skylands_summer (from Terralith)
+
+#incendium:structure/has_pipeline
+- incendium:infernal_dunes (from Incendium + Seed Fix)
+- minecraft:basalt_deltas (from Incendium + Seed Fix)
+- incendium:toxic_heap (from Incendium + Seed Fix)
+
+#repurposed_structures:has_structure/outposts/birch
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/wells/mushroom
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+
+#repurposed_structures:has_structure/witch_huts/dark_forest
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#forge:is_rare
+- terralith:alpha_islands (from Terralith)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:skylands (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:yellowstone (from Terralith)
+
+#repurposed_structures:has_structure/dungeons/desert
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#c:river
+- #minecraft:is_river? (from Fabric Convention Tags)
+- terralith:warm_river (from Terralith)
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Terralith)
+- minecraft:deep_cold_ocean (from Terralith)
+- minecraft:deep_ocean (from Terralith)
+- minecraft:deep_lukewarm_ocean (from Terralith)
+
+#wilderwild:has_structure/abandoned_cabin
+- #minecraft:is_ocean (from Wilder Wild)
+- #minecraft:is_river (from Wilder Wild)
+- #minecraft:is_beach (from Wilder Wild)
+- #minecraft:is_mountain (from Wilder Wild)
+- #minecraft:is_hill (from Wilder Wild)
+- #minecraft:is_taiga (from Wilder Wild)
+- #minecraft:is_jungle (from Wilder Wild)
+- #minecraft:is_forest (from Wilder Wild)
+- minecraft:stony_shore (from Wilder Wild)
+- minecraft:mushroom_fields (from Wilder Wild)
+- minecraft:ice_spikes (from Wilder Wild)
+- minecraft:windswept_savanna (from Wilder Wild)
+- minecraft:desert (from Wilder Wild)
+- minecraft:savanna (from Wilder Wild)
+- minecraft:snowy_plains (from Wilder Wild)
+- minecraft:plains (from Wilder Wild)
+- minecraft:sunflower_plains (from Wilder Wild)
+- minecraft:swamp (from Wilder Wild)
+- minecraft:mangrove_swamp (from Wilder Wild)
+- minecraft:savanna_plateau (from Wilder Wild)
+- minecraft:dripstone_caves (from Wilder Wild)
+- minecraft:deep_dark (from Wilder Wild)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#promenade:dark_amaranth_forests
+- promenade:dark_amaranth_forest (from Promenade)
+- promenade:tall_dark_amaranth_forest (from Promenade)
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+- incendium:withered_forest (from Incendium + Seed Fix)
+- incendium:weeping_valley (from Incendium + Seed Fix)
+- incendium:volcanic_deltas (from Incendium + Seed Fix)
+- incendium:toxic_heap (from Incendium + Seed Fix)
+- incendium:quartz_flats (from Incendium + Seed Fix)
+- incendium:inverted_forest (from Incendium + Seed Fix)
+- incendium:infernal_dunes (from Incendium + Seed Fix)
+- incendium:ash_barrens (from Incendium + Seed Fix)
+- #promenade:nether_galleries (from Promenade)
+- promenade:tall_crimson_forest (from Promenade)
+- promenade:tall_warped_forest (from Promenade)
+- minecraft:nether_wastes (from Terralith)
+- minecraft:basalt_deltas (from Terralith)
+- minecraft:soul_sand_valley (from Terralith)
+- minecraft:crimson_forest (from Terralith)
+- minecraft:warped_forest (from Terralith)
+
+#repurposed_structures:collections/beaches
+- #minecraft:is_beach (from Repurposed Structures)
+- #forge:is_beach? (from Repurposed Structures)
+- #c:beach? (from Repurposed Structures)
+
+#c:climate_hot
+- #c:jungle? (from Fabric Convention Tags)
+- #c:savanna? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:badlands? (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+- #c:mushroom? (from Fabric Convention Tags)
+- #c:in_nether? (from Fabric Convention Tags)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warm_river (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#c:desert
+- minecraft:desert (from Fabric Convention Tags)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+
+#croptopia:has_crop/artichoke
+- minecraft:swamp (from Croptopia)
+- byg:bayou? (from Croptopia)
+- byg:cypress_swamplands? (from Croptopia)
+- byg:white_mangrove_marshes? (from Croptopia)
+
+#repurposed_structures:collections/badlands
+- #minecraft:is_badlands (from Repurposed Structures)
+- terralith:savanna_badlands? (from Repurposed Structures)
+- byg:atacama_desert? (from Repurposed Structures)
+- #forge:is_mesa? (from Repurposed Structures)
+- #c:in_mesa? (from Repurposed Structures)
+- #forge:is_badlands? (from Repurposed Structures)
+- #c:badlands? (from Repurposed Structures)
+
+#repurposed_structures:collections/savannas
+- #minecraft:is_savanna (from Repurposed Structures)
+- terralith:arid_highlands? (from Repurposed Structures)
+- terralith:hot_shrubland? (from Repurposed Structures)
+- terralith:sakura_grove? (from Repurposed Structures)
+- terralith:sakura_valley? (from Repurposed Structures)
+- projectvibrantjourneys:baobab_fields? (from Repurposed Structures)
+- #forge:is_savanna? (from Repurposed Structures)
+- #c:savanna? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/swamp
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+
+#croptopia:has_crop/ginger
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#apoli:category/swamp
+- minecraft:swamp (from Apoli)
+
+#croptopia:has_crop/saguaro
+- minecraft:desert (from Croptopia)
+- byg:atacama_desert? (from Croptopia)
+- byg:windswept_dunes? (from Croptopia)
+- byg:windswept_desert? (from Croptopia)
+- byg:mojave_desert? (from Croptopia)
+- byg:red_rock_valley? (from Croptopia)
+- byg:firecracker_shrubland? (from Croptopia)
+
+#repurposed_structures:collections/hills
+- #minecraft:is_hill (from Repurposed Structures)
+- #forge:is_hills? (from Repurposed Structures)
+- #c:extreme_hills? (from Repurposed Structures)
+
+#croptopia:has_crop/yam
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#c:tree_deciduous
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+- terralith:alpha_islands (from Terralith)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:white_cliffs (from Terralith)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:desert_oasis (from Terralith)
+
+#c:tree_savanna
+- #c:savanna? (from Fabric Convention Tags)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+- #promenade:cherry_oak_forests (from Promenade)
+- promenade:pumpkin_pastures (from Promenade)
+- minecraft:forest (from Terralith)
+- minecraft:flower_forest (from Terralith)
+- minecraft:birch_forest (from Terralith)
+- minecraft:old_growth_birch_forest (from Terralith)
+- minecraft:dark_forest (from Terralith)
+- minecraft:grove (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+- wilderwild:mixed_forest (from Wilder Wild)
+
+#graveyard:is_overworld
+- #minecraft:is_beach (from The Graveyard)
+- #minecraft:is_mountain (from The Graveyard)
+- #minecraft:is_hill (from The Graveyard)
+- #minecraft:is_taiga (from The Graveyard)
+- #minecraft:is_jungle (from The Graveyard)
+- #minecraft:is_forest (from The Graveyard)
+- #minecraft:is_badlands (from The Graveyard)
+- minecraft:stony_shore (from The Graveyard)
+- minecraft:mushroom_fields (from The Graveyard)
+- minecraft:ice_spikes (from The Graveyard)
+- minecraft:windswept_savanna (from The Graveyard)
+- minecraft:desert (from The Graveyard)
+- minecraft:savanna (from The Graveyard)
+- minecraft:snowy_plains (from The Graveyard)
+- minecraft:plains (from The Graveyard)
+- minecraft:sunflower_plains (from The Graveyard)
+- minecraft:swamp (from The Graveyard)
+- minecraft:savanna_plateau (from The Graveyard)
+- graveyard_biomes:ancient_dead_coral_reef? (from The Graveyard)
+- graveyard_biomes:eroded_haunted_forest? (from The Graveyard)
+- graveyard_biomes:haunted_forest? (from The Graveyard)
+- graveyard_biomes:haunted_lakes? (from The Graveyard)
+- terralith:desert_canyon? (from The Graveyard)
+- terralith:cave/andesite_caves? (from The Graveyard)
+- terralith:cave/crystal_caves? (from The Graveyard)
+- terralith:cave/deep_caves? (from The Graveyard)
+- terralith:cave/desert_caves? (from The Graveyard)
+- terralith:cave/diorite_caves? (from The Graveyard)
+- terralith:cave/frostfire_caves? (from The Graveyard)
+- terralith:cave/fungal_caves? (from The Graveyard)
+- terralith:cave/granite_caves? (from The Graveyard)
+- terralith:cave/ice_caves? (from The Graveyard)
+- terralith:cave/infested_caves? (from The Graveyard)
+- terralith:cave/mantle_caves? (from The Graveyard)
+- terralith:cave/thermal_caves? (from The Graveyard)
+- terralith:cave/tuff_caves? (from The Graveyard)
+- terralith:alpha_islands_winter? (from The Graveyard)
+- terralith:alpha_islands? (from The Graveyard)
+- terralith:alpine_grove? (from The Graveyard)
+- terralith:alpine_highlands? (from The Graveyard)
+- terralith:amethyst_canyon? (from The Graveyard)
+- terralith:amethyst_rainforest? (from The Graveyard)
+- terralith:ancient_sands? (from The Graveyard)
+- terralith:arid_highlands? (from The Graveyard)
+- terralith:ashen_savanna? (from The Graveyard)
+- terralith:basalt_cliffs? (from The Graveyard)
+- terralith:birch_taiga? (from The Graveyard)
+- terralith:blooming_plateau? (from The Graveyard)
+- terralith:blooming_valley? (from The Graveyard)
+- terralith:brushland? (from The Graveyard)
+- terralith:bryce_canyon? (from The Graveyard)
+- terralith:caldera? (from The Graveyard)
+- terralith:cloud_forest? (from The Graveyard)
+- terralith:cold_shrubland? (from The Graveyard)
+- terralith:desert_oasis? (from The Graveyard)
+- terralith:desert_spires? (from The Graveyard)
+- terralith:emerald_peaks? (from The Graveyard)
+- terralith:forested_highlands? (from The Graveyard)
+- terralith:fractured_savanna? (from The Graveyard)
+- terralith:frozen_cliffs? (from The Graveyard)
+- terralith:glacial_chasm? (from The Graveyard)
+- terralith:granite_cliffs? (from The Graveyard)
+- terralith:gravel_beach? (from The Graveyard)
+- terralith:gravel_desert? (from The Graveyard)
+- terralith:haze_mountain? (from The Graveyard)
+- terralith:highlands? (from The Graveyard)
+- terralith:hot_shrubland? (from The Graveyard)
+- terralith:ice_marsh? (from The Graveyard)
+- terralith:jungle_mountains? (from The Graveyard)
+- terralith:lavender_forest? (from The Graveyard)
+- terralith:lavender_valley? (from The Graveyard)
+- terralith:lush_valley? (from The Graveyard)
+- terralith:mirage_isles? (from The Graveyard)
+- terralith:moonlight_grove? (from The Graveyard)
+- terralith:moonlight_valley? (from The Graveyard)
+- terralith:mountain_steppe? (from The Graveyard)
+- terralith:orchid_swamp? (from The Graveyard)
+- terralith:painted_mountains? (from The Graveyard)
+- terralith:red_oasis? (from The Graveyard)
+- terralith:rocky_jungle? (from The Graveyard)
+- terralith:rocky_mountains? (from The Graveyard)
+- terralith:rocky_shrubland? (from The Graveyard)
+- terralith:sakura_grove? (from The Graveyard)
+- terralith:sakura_valley? (from The Graveyard)
+- terralith:sandstone_valley? (from The Graveyard)
+- terralith:savanna_badlands? (from The Graveyard)
+- terralith:savanna_slopes? (from The Graveyard)
+- terralith:scarlet_mountains? (from The Graveyard)
+- terralith:shield_clearing? (from The Graveyard)
+- terralith:shield? (from The Graveyard)
+- terralith:shrubland? (from The Graveyard)
+- terralith:siberian_grove? (from The Graveyard)
+- terralith:siberian_taiga? (from The Graveyard)
+- terralith:skylands_autumn? (from The Graveyard)
+- terralith:skylands_spring? (from The Graveyard)
+- terralith:skylands_summer? (from The Graveyard)
+- terralith:skylands_winter? (from The Graveyard)
+- terralith:skylands? (from The Graveyard)
+- terralith:snowy_badlands? (from The Graveyard)
+- terralith:snowy_maple_forest? (from The Graveyard)
+- terralith:snowy_shield? (from The Graveyard)
+- terralith:steppe? (from The Graveyard)
+- terralith:stony_spires? (from The Graveyard)
+- terralith:temperate_highlands? (from The Graveyard)
+- terralith:tropical_jungle? (from The Graveyard)
+- terralith:valley_clearing? (from The Graveyard)
+- terralith:volcanic_crater? (from The Graveyard)
+- terralith:volcanic_peaks? (from The Graveyard)
+- terralith:warm_river? (from The Graveyard)
+- terralith:warped_mesa? (from The Graveyard)
+- terralith:white_cliffs? (from The Graveyard)
+- terralith:white_mesa? (from The Graveyard)
+- terralith:windswept_spires? (from The Graveyard)
+- terralith:wintry_forest? (from The Graveyard)
+- terralith:yellowstone? (from The Graveyard)
+- terralith:yosemite_cliffs? (from The Graveyard)
+- terralith:yosemite_lowlands? (from The Graveyard)
+- byg:allium_fields? (from The Graveyard)
+- byg:amaranth_fields? (from The Graveyard)
+- byg:araucaria_savanna? (from The Graveyard)
+- byg:aspen_forest? (from The Graveyard)
+- byg:autumnal_valley? (from The Graveyard)
+- byg:baobab_savanna? (from The Graveyard)
+- byg:bayou? (from The Graveyard)
+- byg:black_forest? (from The Graveyard)
+- byg:borealis_grove? (from The Graveyard)
+- byg:canadian_shield? (from The Graveyard)
+- byg:cherry_blossom_forest? (from The Graveyard)
+- byg:cika_woods? (from The Graveyard)
+- byg:coniferous_forest? (from The Graveyard)
+- byg:crag_gardens? (from The Graveyard)
+- byg:cypress_swamplands? (from The Graveyard)
+- byg:lush_stacks? (from The Graveyard)
+- byg:dead_sea? (from The Graveyard)
+- byg:dacite_ridges? (from The Graveyard)
+- byg:windswept_dunes? (from The Graveyard)
+- byg:ebony_woods? (from The Graveyard)
+- byg:forgotten_forest? (from The Graveyard)
+- byg:temperate_grove? (from The Graveyard)
+- byg:guiana_shield? (from The Graveyard)
+- byg:jacaranda_forest? (from The Graveyard)
+- byg:maple_taiga? (from The Graveyard)
+- byg:coconino_meadow? (from The Graveyard)
+- byg:mojave_desert? (from The Graveyard)
+- byg:orchard? (from The Graveyard)
+- byg:prairie? (from The Graveyard)
+- byg:red_oak_forest? (from The Graveyard)
+- byg:red_rock_valley? (from The Graveyard)
+- byg:rose_fields? (from The Graveyard)
+- byg:autumnal_forest? (from The Graveyard)
+- byg:autumnal_taiga? (from The Graveyard)
+- byg:shattered_glacier? (from The Graveyard)
+- byg:firecracker_shrubland? (from The Graveyard)
+- byg:sierra_badlands? (from The Graveyard)
+- byg:skyris_vale? (from The Graveyard)
+- byg:redwood_thicket? (from The Graveyard)
+- byg:frosted_taiga? (from The Graveyard)
+- byg:frosted_coniferous_forest? (from The Graveyard)
+- byg:fragment_forest? (from The Graveyard)
+- byg:tropical_rainforest? (from The Graveyard)
+- byg:twilight_meadow? (from The Graveyard)
+- byg:weeping_witch_forest? (from The Graveyard)
+- byg:temperate_rainforest? (from The Graveyard)
+- byg:zelkova_forest? (from The Graveyard)
+- bop:bamboo_grove? (from The Graveyard)
+- bop:bayou? (from The Graveyard)
+- bop:bog? (from The Graveyard)
+- bop:boreal_forest? (from The Graveyard)
+- bop:cherry_blossom_grove? (from The Graveyard)
+- bop:clover_patch? (from The Graveyard)
+- bop:cold_desert? (from The Graveyard)
+- bop:coniferous_forest? (from The Graveyard)
+- bop:crag? (from The Graveyard)
+- bop:dead_forest? (from The Graveyard)
+- bop:dryland? (from The Graveyard)
+- bop:dune_beach? (from The Graveyard)
+- bop:field? (from The Graveyard)
+- bop:fir_clearing? (from The Graveyard)
+- bop:floodplain? (from The Graveyard)
+- bop:forested_field? (from The Graveyard)
+- bop:fungal_jungle? (from The Graveyard)
+- bop:grassland? (from The Graveyard)
+- bop:highland? (from The Graveyard)
+- bop:highland_moor? (from The Graveyard)
+- bop:jade_cliffs? (from The Graveyard)
+- bop:lavender_field? (from The Graveyard)
+- bop:lavender_forest? (from The Graveyard)
+- bop:lush_desert? (from The Graveyard)
+- bop:lush_savanna? (from The Graveyard)
+- bop:maple_woods? (from The Graveyard)
+- bop:marsh? (from The Graveyard)
+- bop:mediterranean_forest? (from The Graveyard)
+- bop:muskeg? (from The Graveyard)
+- bop:mystic_grove? (from The Graveyard)
+- bop:old_growth_dead_forest? (from The Graveyard)
+- bop:old_growth_woodland? (from The Graveyard)
+- bop:ominous_woods? (from The Graveyard)
+- bop:orchard? (from The Graveyard)
+- bop:origin_valley? (from The Graveyard)
+- bop:pasture? (from The Graveyard)
+- bop:prairie? (from The Graveyard)
+- bop:pumpkin_patch? (from The Graveyard)
+- bop:rainbow_hills? (from The Graveyard)
+- bop:rainforest? (from The Graveyard)
+- bop:redwood_forest? (from The Graveyard)
+- bop:rocky_rainforest? (from The Graveyard)
+- bop:rocky_shrubland? (from The Graveyard)
+- bop:scrubland? (from The Graveyard)
+- bop:seasonal_forest? (from The Graveyard)
+- bop:shrubland? (from The Graveyard)
+- bop:snowy_coniferous_forest? (from The Graveyard)
+- bop:snowy_fir_clearing? (from The Graveyard)
+- bop:snowy_maple_woods? (from The Graveyard)
+- bop:tropics? (from The Graveyard)
+- bop:tundra? (from The Graveyard)
+- bop:volcanic_plains? (from The Graveyard)
+- bop:volcano? (from The Graveyard)
+- bop:wasteland? (from The Graveyard)
+- bop:wetland? (from The Graveyard)
+- bop:wooded_scrubland? (from The Graveyard)
+- bop:wooded_wasteland? (from The Graveyard)
+- bop:woodland? (from The Graveyard)
+- bop:glowing_grotto? (from The Graveyard)
+- bop:spider_nest? (from The Graveyard)
+- bop:bamboo_grove? (from The Graveyard)
+
+#croptopia:has_crop/greenonion
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#croptopia:has_crop/blackberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#repurposed_structures:has_structure/temples/nether_wasteland
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#croptopia:has_crop/honeydew
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#croptopia:has_crop/soybean
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#repurposed_structures:has_structure/mineshafts/warped
+- #repurposed_structures:collections/nether_warped_forests (from Repurposed Structures)
+
+#forge:is_coniferous
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#croptopia:has_crop/garlic
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+
+#bosses_of_mass_destruction:collections/cold
+- minecraft:snowy_taiga (from Bosses of Mass Destruction (Beta))
+- minecraft:snowy_plains (from Bosses of Mass Destruction (Beta))
+- minecraft:snowy_slopes (from Bosses of Mass Destruction (Beta))
+- minecraft:ice_spikes (from Bosses of Mass Destruction (Beta))
+- minecraft:snowy_plains (from Bosses of Mass Destruction (Beta))
+- minecraft:frozen_peaks (from Bosses of Mass Destruction (Beta))
+- minecraft:snowy_beach (from Bosses of Mass Destruction (Beta))
+- minecraft:frozen_ocean (from Bosses of Mass Destruction (Beta))
+
+#repurposed_structures:collections/floral
+- minecraft:flower_forest (from Repurposed Structures)
+- terralith:blooming_plateau? (from Repurposed Structures)
+- terralith:blooming_valley? (from Repurposed Structures)
+- #byg:is_floral? (from Repurposed Structures)
+- biomesoplenty:cherry_blossom_grove? (from Repurposed Structures)
+- biomesoplenty:lavender_field? (from Repurposed Structures)
+- biomesoplenty:lavender_forest? (from Repurposed Structures)
+- #c:floral? (from Repurposed Structures)
+- projectvibrantjourneys:blossoming_fields? (from Repurposed Structures)
+
+#incendium:structure/has_castle
+- incendium:ash_barrens (from Incendium + Seed Fix)
+
+#croptopia:has_crop/mustard
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+- terralith:orchid_swamp (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:ice_marsh (from Terralith)
+
+#apoli:category/mountain
+- #minecraft:is_mountain (from Apoli)
+
+#forge:is_water
+- terralith:warm_river (from Terralith)
+
+#repurposed_structures:has_structure/witch_huts/mangrove
+- #repurposed_structures:collections/mangroves (from Repurposed Structures)
+
+#repurposed_structures:has_structure/cities/overworld
+- #repurposed_structures:collections/giant_trees (from Repurposed Structures)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#croptopia:has_crop/squash
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- #promenade:cherry_oak_forests (from Promenade)
+- promenade:pumpkin_pastures (from Promenade)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+- wilderwild:mixed_forest (from Wilder Wild)
+
+#repurposed_structures:has_structure/ruins/land_icy
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:beach (from Terralith)
+- minecraft:snowy_beach (from Terralith)
+- terralith:gravel_beach (from Terralith)
+
+#repurposed_structures:has_structure/mineshafts/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#repurposed_structures:collections/deserts
+- minecraft:desert (from Repurposed Structures)
+- terralith:lush_desert? (from Repurposed Structures)
+- biomesoplenty:lush_desert? (from Repurposed Structures)
+- projectvibrantjourneys:desert_shrubland? (from Repurposed Structures)
+- projectvibrantjourneys:verdant_sands? (from Repurposed Structures)
+- #forge:is_desert? (from Repurposed Structures)
+- #c:desert? (from Repurposed Structures)
+
+#forge:is_swamp
+- terralith:ice_marsh (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+
+#croptopia:has_crop/peanut
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:meadow (from Terralith)
+- minecraft:frozen_peaks (from Terralith)
+- minecraft:jagged_peaks (from Terralith)
+- minecraft:stony_peaks (from Terralith)
+- minecraft:snowy_slopes (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+
+#repurposed_structures:has_structure/mansions/mangrove
+- #repurposed_structures:collections/mangroves (from Repurposed Structures)
+
+#bosses_of_mass_destruction:collections/in_nether
+- #minecraft:is_nether (from Bosses of Mass Destruction (Beta))
+
+#repurposed_structures:has_structure/villages/warped
+- #repurposed_structures:collections/nether_warped_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/pyramids/icy
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+
+#apoli:category/none
+- minecraft:the_void (from Apoli)
+
+#croptopia:has_crop/celery
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+
+#repurposed_structures:collections/plains
+- minecraft:plains (from Repurposed Structures)
+- minecraft:sunflower_plains (from Repurposed Structures)
+- terralith:brushland? (from Repurposed Structures)
+- projectvibrantjourneys:prairie? (from Repurposed Structures)
+- #c:plains? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/witch_huts/oak
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+
+#repurposed_structures:collections/regular_forests
+- minecraft:forest (from Repurposed Structures)
+- byg:red_oak_forest? (from Repurposed Structures)
+- byg:temperate_rainforest? (from Repurposed Structures)
+- byg:orchard? (from Repurposed Structures)
+- byg:autumnal_forest? (from Repurposed Structures)
+- byg:cherry_blossom_forest? (from Repurposed Structures)
+- biomesoplenty:cherry_blossom_grove? (from Repurposed Structures)
+- biomesoplenty:orchard? (from Repurposed Structures)
+- biomesoplenty:seasonal_forest? (from Repurposed Structures)
+- biomesoplenty:woodland? (from Repurposed Structures)
+- biomesoplenty:old_growth_woodland? (from Repurposed Structures)
+- magicalforest:magical_forest? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/deep
+- #repurposed_structures:collections/overworld (from Repurposed Structures)
+
+#forge:is_cold/overworld
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+
+#repurposed_structures:has_structure/igloos/grassy
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+- #repurposed_structures:collections/meadows (from Repurposed Structures)
+- #repurposed_structures:collections/plains (from Repurposed Structures)
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- nullscape:void_barrens (from Nullscape)
+- nullscape:shadowlands (from Nullscape)
+- nullscape:crystal_peaks (from Nullscape)
+- #promenade:dark_amaranth_forests (from Promenade)
+- minecraft:end_highlands (from Terralith)
+- minecraft:end_midlands (from Terralith)
+
+#croptopia:has_crop/grape
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#repurposed_structures:has_structure/shipwrecks/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#forge:is_dense/overworld
+- terralith:jungle_mountains (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#c:beach
+- #minecraft:is_beach? (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+
+#bosses_of_mass_destruction:collections/in_end
+- minecraft:end_highlands (from Bosses of Mass Destruction (Beta))
+- minecraft:end_midlands (from Bosses of Mass Destruction (Beta))
+- minecraft:small_end_islands (from Bosses of Mass Destruction (Beta))
+- minecraft:end_barrens (from Bosses of Mass Destruction (Beta))
+- byg:ivis_fields? (from Bosses of Mass Destruction (Beta))
+- byg:nightshade_forest? (from Bosses of Mass Destruction (Beta))
+- byg:ethereal_islands? (from Bosses of Mass Destruction (Beta))
+- byg:viscal_isles? (from Bosses of Mass Destruction (Beta))
+- byg:bulbis_gardens? (from Bosses of Mass Destruction (Beta))
+- byg:shulkren_forest? (from Bosses of Mass Destruction (Beta))
+- byg:cryptic_wastes? (from Bosses of Mass Destruction (Beta))
+- byg:imparius_grove? (from Bosses of Mass Destruction (Beta))
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+- incendium:inverted_forest (from Incendium + Seed Fix)
+- incendium:weeping_valley (from Incendium + Seed Fix)
+- #promenade:nether_galleries (from Promenade)
+- promenade:tall_crimson_forest (from Promenade)
+- promenade:tall_warped_forest (from Promenade)
+- minecraft:crimson_forest (from Terralith)
+- minecraft:nether_wastes (from Terralith)
+- minecraft:soul_sand_valley (from Terralith)
+- minecraft:warped_forest (from Terralith)
+
+#promenade:cherry_oak_forests
+- promenade:pink_cherry_oak_forest (from Promenade)
+- promenade:white_cherry_oak_forest (from Promenade)
+
+#repurposed_structures:collections/meadows
+- minecraft:meadow (from Repurposed Structures)
+- biomesoplenty:field? (from Repurposed Structures)
+- biomesoplenty:highland? (from Repurposed Structures)
+- biomesoplenty:highland_moor? (from Repurposed Structures)
+- biomesoplenty:rocky_shrubland? (from Repurposed Structures)
+- biomesoplenty:clover_patch? (from Repurposed Structures)
+- projectvibrantjourneys:pine_meadows? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/ruins/land_warm
+- #repurposed_structures:collections/plains (from Repurposed Structures)
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/birch
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_badlands (from Terralith)
+- #minecraft:is_hill (from Terralith)
+- minecraft:savanna_plateau (from Terralith)
+- minecraft:windswept_savanna (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- minecraft:stony_shore (from Terralith)
+- #minecraft:is_mountain (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/dark_forest
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#croptopia:has_crop/raspberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+
+#c:climate_wet
+- #c:aquatic? (from Fabric Convention Tags)
+- #c:swamp? (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- #c:jungle? (from Fabric Convention Tags)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/badlands
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+
+#croptopia:has_crop/chile_pepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Terralith)
+- minecraft:frozen_river (from Terralith)
+
+#croptopia:has_crop/tomato
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#c:in_nether
+- #minecraft:is_nether? (from Fabric Convention Tags)
+- minecraft:crimson_forest (from Fabric Convention Tags)
+- minecraft:warped_forest (from Fabric Convention Tags)
+- minecraft:nether_wastes (from Fabric Convention Tags)
+- minecraft:soul_sand_valley (from Fabric Convention Tags)
+- minecraft:basalt_deltas (from Fabric Convention Tags)
+
+#repurposed_structures:has_structure/outposts/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#c:tree_coniferous
+- minecraft:grove (from Fabric Convention Tags)
+- #c:taiga? (from Fabric Convention Tags)
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#repurposed_structures:collections/caves
+- minecraft:dripstone_caves (from Repurposed Structures)
+- minecraft:lush_caves (from Repurposed Structures)
+- minecraft:deep_dark (from Repurposed Structures)
+- terralith:cave/andesite_caves? (from Repurposed Structures)
+- terralith:cave/crystal_caves? (from Repurposed Structures)
+- terralith:cave/deep_caves? (from Repurposed Structures)
+- terralith:cave/desert_caves? (from Repurposed Structures)
+- terralith:cave/diorite_caves? (from Repurposed Structures)
+- terralith:cave/frostfire_caves? (from Repurposed Structures)
+- terralith:cave/fungal_caves? (from Repurposed Structures)
+- terralith:cave/granite_caves? (from Repurposed Structures)
+- terralith:cave/ice_caves? (from Repurposed Structures)
+- terralith:cave/infested_caves? (from Repurposed Structures)
+- terralith:cave/mantle_caves? (from Repurposed Structures)
+- terralith:cave/thermal_caves? (from Repurposed Structures)
+- terralith:cave/tuff_caves? (from Repurposed Structures)
+- terralith:cave/underground_jungle? (from Repurposed Structures)
+- #forge:is_underground? (from Repurposed Structures)
+- #c:underground? (from Repurposed Structures)
+- #c:caves? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/stone
+- #repurposed_structures:collections/hills (from Repurposed Structures)
+- #repurposed_structures:collections/mountains (from Repurposed Structures)
+- #repurposed_structures:collections/meadows (from Repurposed Structures)
+- #repurposed_structures:collections/stony_shores (from Repurposed Structures)
+- #repurposed_structures:collections/rocky_mountains (from Repurposed Structures)
+
+#c:savanna
+- #minecraft:is_savanna? (from Fabric Convention Tags)
+- minecraft:savanna_plateau (from Fabric Convention Tags)
+- minecraft:windswept_savanna (from Fabric Convention Tags)
+- minecraft:savanna (from Fabric Convention Tags)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+
+#promenade:has_palms
+- #c:desert? (from Promenade)
+
+#croptopia:has_crop/corn
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+
+#repurposed_structures:collections/rocky_mountains
+- terralith:amethyst_canyon? (from Repurposed Structures)
+- terralith:basalt_cliffs? (from Repurposed Structures)
+- terralith:emerald_peaks? (from Repurposed Structures)
+- terralith:granite_cliffs? (from Repurposed Structures)
+- terralith:haze_mountain? (from Repurposed Structures)
+- terralith:mountain_steppe? (from Repurposed Structures)
+- terralith:painted_mountains? (from Repurposed Structures)
+- terralith:rocky_mountains? (from Repurposed Structures)
+- terralith:shield_clearing? (from Repurposed Structures)
+- terralith:steppe? (from Repurposed Structures)
+- terralith:stony_spires? (from Repurposed Structures)
+- terralith:valley_clearing? (from Repurposed Structures)
+- biomesoplenty:crag? (from Repurposed Structures)
+- byg:canadian_shield? (from Repurposed Structures)
+- projectvibrantjourneys:overgrown_spires? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/crimson
+- #repurposed_structures:collections/nether_crimson_forests (from Repurposed Structures)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+- #minecraft:is_beach (from Terralith)
+
+#croptopia:has_crop/sweetpotato
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#apoli:category/taiga
+- #minecraft:is_taiga (from Apoli)
+
+#apoli:category/mesa
+- #minecraft:is_badlands (from Apoli)
+
+#c:underground
+- #c:caves? (from Fabric Convention Tags)
+
+#repurposed_structures:collections/snowy_forests
+- minecraft:snowy_taiga (from Repurposed Structures)
+- minecraft:grove (from Repurposed Structures)
+- biomesoplenty:snowy_maple_woods? (from Repurposed Structures)
+- biomesoplenty:snowy_coniferous_forest? (from Repurposed Structures)
+- biomesoplenty:muskeg? (from Repurposed Structures)
+- biomesoplenty:rainbow_hills? (from Repurposed Structures)
+- byg:frosted_taiga? (from Repurposed Structures)
+- byg:frosted_coniferous_forest? (from Repurposed Structures)
+- projectvibrantjourneys:snowy_boreal_forest? (from Repurposed Structures)
+- projectvibrantjourneys:snowy_redwoods? (from Repurposed Structures)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+
+#repurposed_structures:has_structure/outposts/giant_tree_taiga
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_taiga (from Terralith)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:snowy_slopes (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+- #minecraft:is_beach (from Terralith)
+
+#structory:has_structure/firetower
+- minecraft:old_growth_birch_forest (from Structory)
+- minecraft:old_growth_spruce_taiga (from Structory)
+- minecraft:old_growth_pine_taiga (from Structory)
+- terralith:forested_highlands? (from Structory)
+- terralith:yellowstone? (from Structory)
+- terralith:shield? (from Structory)
+- terralith:lush_valley? (from Structory)
+- terralith:siberian_taiga? (from Structory)
+
+#croptopia:has_crop/cranberry
+- minecraft:swamp (from Croptopia)
+
+#repurposed_structures:has_structure/mineshafts/desert
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#repurposed_structures:collections/jungles
+- #minecraft:is_jungle (from Repurposed Structures)
+- #forge:is_jungle? (from Repurposed Structures)
+- #c:in_jungle? (from Repurposed Structures)
+
+#repurposed_structures:collections/spooky_forests
+- minecraft:dark_forest (from Repurposed Structures)
+- terralith:mirage_isles? (from Repurposed Structures)
+- byg:ancient_forest? (from Repurposed Structures)
+- byg:ebony_woods? (from Repurposed Structures)
+- biomesoplenty:ominous_woods? (from Repurposed Structures)
+- vampirism:vampire_forest? (from Repurposed Structures)
+- #forge:is_spooky? (from Repurposed Structures)
+- #forge:is_dead? (from Repurposed Structures)
+- #c:dead? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/villages/badlands
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+
+#croptopia:has_crop/rhubarb
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#forge:is_sandy
+- terralith:ancient_sands (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+
+#repurposed_structures:collections/mangroves
+- minecraft:mangrove_swamp (from Repurposed Structures)
+
+#repurposed_structures:has_structure/witch_huts/taiga
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/strongholds/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#c:climate_cold
+- minecraft:grove (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:taiga (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_spruce_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_pine_taiga (from Fabric Convention Tags)
+- #c:icy? (from Fabric Convention Tags)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+
+#apoli:category/underground
+- minecraft:dripstone_caves (from Apoli)
+- minecraft:lush_caves (from Apoli)
+
+#repurposed_structures:has_structure/fortresses/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#skyvillages:has_structure/skyvillage
+- #minecraft:is_jungle (from Sky Villages)
+- #minecraft:is_forest (from Sky Villages)
+- minecraft:desert (from Sky Villages)
+- minecraft:plains (from Sky Villages)
+- minecraft:sunflower_plains (from Sky Villages)
+- minecraft:savanna (from Sky Villages)
+- minecraft:savanna_plateau (from Sky Villages)
+
+#c:in_the_end
+- #minecraft:is_end? (from Fabric Convention Tags)
+- minecraft:end_barrens (from Fabric Convention Tags)
+- minecraft:end_midlands (from Fabric Convention Tags)
+- minecraft:end_highlands (from Fabric Convention Tags)
+- minecraft:the_end (from Fabric Convention Tags)
+- minecraft:small_end_islands (from Fabric Convention Tags)
+
+#friendsandfoes:has_badlands_mauler
+- #minecraft:is_badlands (from Friends&Foes)
+
+#forge:is_plateau
+- terralith:alpine_highlands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:blooming_plateau (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/flower_forest
+- #repurposed_structures:collections/floral (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/dark_forest
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#forge:is_lush
+- terralith:white_cliffs (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+- minecraft:dark_forest (from Terralith)
+- terralith:sakura_grove (from Terralith)
+
+#incendium:structure/has_reactor
+- incendium:volcanic_deltas (from Incendium + Seed Fix)
+- minecraft:basalt_deltas (from Incendium + Seed Fix)
+- incendium:toxic_heap (from Incendium + Seed Fix)
+
+#c:mountain_peak
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+- terralith:emerald_peaks (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warped_mesa (from Terralith)
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#bosses_of_mass_destruction:has_structure/none
+
+#repurposed_structures:has_structure/outposts/taiga
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/swamp
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+
+#repurposed_structures:has_structure/monuments/desert
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#croptopia:has_crop/pineapple
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+
+#repurposed_structures:has_structure/temples/nether_basalt
+- #repurposed_structures:collections/nether_basalts (from Repurposed Structures)
+
+#croptopia:has_crop/radish
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+- minecraft:taiga (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+
+#repurposed_structures:has_structure/outposts/crimson
+- #repurposed_structures:collections/nether_crimson_forests (from Repurposed Structures)
+
+#croptopia:has_crop/lettuce
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#c:void
+- minecraft:the_void (from Fabric Convention Tags)
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#repurposed_structures:has_structure/dungeons/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#repurposed_structures:has_structure/temples/nether_warped
+- #repurposed_structures:collections/nether_warped_forests (from Repurposed Structures)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:swamp (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+
+#apoli:category/river
+- #minecraft:is_river (from Apoli)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:ice_spikes (from Terralith)
+- minecraft:frozen_peaks (from Terralith)
+- minecraft:jagged_peaks (from Terralith)
+- minecraft:snowy_slopes (from Terralith)
+- minecraft:frozen_ocean (from Terralith)
+- minecraft:deep_frozen_ocean (from Terralith)
+- minecraft:grove (from Terralith)
+- minecraft:deep_dark (from Terralith)
+- minecraft:frozen_river (from Terralith)
+- minecraft:snowy_taiga (from Terralith)
+- minecraft:snowy_beach (from Terralith)
+- #minecraft:is_end (from Terralith)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#repurposed_structures:has_structure/igloos/mushroom
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+
+#repurposed_structures:collections/icy
+- minecraft:ice_spikes (from Repurposed Structures)
+- minecraft:frozen_peaks (from Repurposed Structures)
+- #byg:is_icy? (from Repurposed Structures)
+- #forge:is_icy? (from Repurposed Structures)
+- #c:icy? (from Repurposed Structures)
+
+#friendsandfoes:has_glare
+- minecraft:lush_caves (from Friends&Foes)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+
+#repurposed_structures:has_structure/temples/nether_crimson
+- #repurposed_structures:collections/nether_crimson_forests (from Repurposed Structures)
+
+#croptopia:has_crop/olive
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#repurposed_structures:has_structure/mansions/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#c:mesa
+- minecraft:wooded_badlands (from Fabric Convention Tags)
+- minecraft:eroded_badlands (from Fabric Convention Tags)
+- minecraft:badlands (from Fabric Convention Tags)
+- terralith:ancient_sands (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Terralith)
+- minecraft:snowy_taiga (from Terralith)
+- minecraft:old_growth_pine_taiga (from Terralith)
+- minecraft:old_growth_spruce_taiga (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:yosemite_lowlands (from Terralith)
+
+#wilderwild:has_gravel_beach
+- #minecraft:is_taiga (from Wilder Wild)
+- minecraft:birch_forest (from Wilder Wild)
+- minecraft:old_growth_birch_forest (from Wilder Wild)
+- minecraft:frozen_river (from Wilder Wild)
+- wilderwild:mixed_forest (from Wilder Wild)
+
+#repurposed_structures:has_structure/wells/snow
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+
+#forge:is_wasteland
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:yellowstone (from Terralith)
+
+#wilderwild:no_pools
+- minecraft:deep_dark (from Wilder Wild)
+
+#croptopia:has_crop/cabbage
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#c:snowy
+- minecraft:snowy_beach (from Fabric Convention Tags)
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#repurposed_structures:has_structure/outposts/oak
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/wells/mossy_stone
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#croptopia:has_crop/leek
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#apoli:category/desert
+- minecraft:desert (from Apoli)
+
+#repurposed_structures:has_structure/monuments/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#bosses_of_mass_destruction:has_structure/gauntlet_arena
+- #bosses_of_mass_destruction:collections/in_nether (from Bosses of Mass Destruction (Beta))
+
+#repurposed_structures:has_structure/villages/oak
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mansions/desert
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#repurposed_structures:has_structure/pyramids/mushroom
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/desert
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#apoli:category/forest
+- #minecraft:is_forest (from Apoli)
+
+#repurposed_structures:has_structure/villages/mushroom
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+
+#croptopia:has_crop/zucchini
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#croptopia:has_crop/asparagus
+- minecraft:swamp (from Croptopia)
+
+#croptopia:has_crop/onion
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#repurposed_structures:has_structure/mineshafts/ocean
+- #repurposed_structures:collections/oceans (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/icy
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mansions/oak
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+
+#friendsandfoes:has_less_mooblooms
+- minecraft:meadow (from Friends&Foes)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- #minecraft:is_ocean (from Terralith)
+- #minecraft:is_river (from Terralith)
+- #minecraft:is_beach (from Terralith)
+- #minecraft:is_mountain (from Terralith)
+- #minecraft:is_hill (from Terralith)
+- #minecraft:is_taiga (from Terralith)
+- #minecraft:is_jungle (from Terralith)
+- #minecraft:is_forest (from Terralith)
+- minecraft:stony_shore (from Terralith)
+- minecraft:mushroom_fields (from Terralith)
+- minecraft:ice_spikes (from Terralith)
+- minecraft:windswept_savanna (from Terralith)
+- minecraft:desert (from Terralith)
+- minecraft:savanna (from Terralith)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:plains (from Terralith)
+- minecraft:sunflower_plains (from Terralith)
+- minecraft:swamp (from Terralith)
+- minecraft:savanna_plateau (from Terralith)
+- minecraft:dripstone_caves (from Terralith)
+- minecraft:lush_caves (from Terralith)
+- #terralith:all_terralith_biomes (from Terralith)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#croptopia:has_crop/coffee_beans
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#c:mushroom
+- minecraft:mushroom_fields (from Fabric Convention Tags)
+- terralith:mirage_isles (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+
+#croptopia:has_crop/oat
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#croptopia:has_crop/kiwi
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+
+#croptopia:has_crop/rice
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#c:mountain
+- #minecraft:is_mountain? (from Fabric Convention Tags)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:mountain_steppe (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+
+#repurposed_structures:has_structure/mineshafts/icy
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+
+#repurposed_structures:has_structure/pyramids/badlands
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mansions/birch
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Terralith)
+- minecraft:jungle (from Terralith)
+- minecraft:sparse_jungle (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:amethyst_canyon (from Terralith)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_deep_ocean (from Terralith)
+- minecraft:frozen_ocean (from Terralith)
+- minecraft:ocean (from Terralith)
+- minecraft:cold_ocean (from Terralith)
+- minecraft:lukewarm_ocean (from Terralith)
+- minecraft:warm_ocean (from Terralith)
+
+#repurposed_structures:collections/mushrooms
+- minecraft:mushroom_fields (from Repurposed Structures)
+- biomesoplenty:fungal_jungle? (from Repurposed Structures)
+- #forge:is_mushroom? (from Repurposed Structures)
+- #c:mushroom? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mineshafts/taiga
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+
+#repurposed_structures:collections/end_voids
+- minecraft:small_end_islands (from Repurposed Structures)
+- minecraft:end_barrens (from Repurposed Structures)
+- betterend:ice_starfield? (from Repurposed Structures)
+
+#wilderwild:pearlescent_jellyfish
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#forge:is_sparse/overworld
+- terralith:alpine_grove (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+
+#terralith:has_structure/fortified_desert_village
+- minecraft:desert (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:lush_desert (from Terralith)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#forge:is_desert
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+- minecraft:the_void (from Terralith)
+- minecraft:plains (from Terralith)
+- minecraft:sunflower_plains (from Terralith)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:ice_spikes (from Terralith)
+- minecraft:desert (from Terralith)
+- minecraft:forest (from Terralith)
+- minecraft:flower_forest (from Terralith)
+- minecraft:birch_forest (from Terralith)
+- minecraft:dark_forest (from Terralith)
+- minecraft:old_growth_birch_forest (from Terralith)
+- minecraft:old_growth_pine_taiga (from Terralith)
+- minecraft:old_growth_spruce_taiga (from Terralith)
+- minecraft:taiga (from Terralith)
+- minecraft:snowy_taiga (from Terralith)
+- minecraft:savanna (from Terralith)
+- minecraft:savanna_plateau (from Terralith)
+- minecraft:windswept_hills (from Terralith)
+- minecraft:windswept_gravelly_hills (from Terralith)
+- minecraft:windswept_forest (from Terralith)
+- minecraft:windswept_savanna (from Terralith)
+- minecraft:jungle (from Terralith)
+- minecraft:sparse_jungle (from Terralith)
+- minecraft:bamboo_jungle (from Terralith)
+- minecraft:badlands (from Terralith)
+- minecraft:eroded_badlands (from Terralith)
+- minecraft:wooded_badlands (from Terralith)
+- minecraft:meadow (from Terralith)
+- minecraft:grove (from Terralith)
+- minecraft:snowy_slopes (from Terralith)
+- minecraft:frozen_peaks (from Terralith)
+- minecraft:jagged_peaks (from Terralith)
+- minecraft:stony_peaks (from Terralith)
+- minecraft:mushroom_fields (from Terralith)
+- minecraft:dripstone_caves (from Terralith)
+- minecraft:lush_caves (from Terralith)
+- #terralith:all_terralith_biomes (from Terralith)
+
+#apoli:category/beach
+- #minecraft:is_beach (from Apoli)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_badlands (from Terralith)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+- minecraft:deep_dark (from Terralith)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_ocean (from Terralith)
+
+#repurposed_structures:has_structure/outposts/mangrove
+- #repurposed_structures:collections/mangroves (from Repurposed Structures)
+
+#c:snowy_plains
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- terralith:gravel_desert (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+
+#forge:is_wet/overworld
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#apoli:category/savanna
+- #minecraft:is_savanna (from Apoli)
+
+#repurposed_structures:has_structure/mineshafts/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#repurposed_structures:has_structure/outposts/warped
+- #repurposed_structures:collections/nether_warped_forests (from Repurposed Structures)
+
+#incendium:structure/has_sanctum
+- incendium:quartz_flats (from Incendium + Seed Fix)
+
+#repurposed_structures:has_structure/strongholds/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#repurposed_structures:collections/nether_crimson_forests
+- minecraft:crimson_forest (from Repurposed Structures)
+- betternether:crimson_glowing_woods? (from Repurposed Structures)
+- betternether:crimson_pinewood? (from Repurposed Structures)
+- betternether:old_swampland? (from Repurposed Structures)
+- betternether:nether_swampland? (from Repurposed Structures)
+
+#c:swamp
+- minecraft:mangrove_swamp (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+- terralith:ice_marsh (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+
+#forge:is_mountain
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:mountain_steppe (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+
+#repurposed_structures:collections/mountains
+- #minecraft:is_mountain (from Repurposed Structures)
+- #forge:is_mountain? (from Repurposed Structures)
+- #c:mountain? (from Repurposed Structures)
+- #c:mountain_peak? (from Repurposed Structures)
+- #c:mountain_slope? (from Repurposed Structures)
+
+#croptopia:has_crop/spinach
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#friendsandfoes:has_desert_mauler
+- minecraft:desert (from Friends&Foes)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_ocean (from Terralith)
+
+#repurposed_structures:has_structure/monuments/icy
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+
+#repurposed_structures:has_structure/mansions/snowy
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+
+#repurposed_structures:has_structure/villages/mountains
+- minecraft:jagged_peaks (from Repurposed Structures)
+- #repurposed_structures:collections/hills (from Repurposed Structures)
+
+#friendsandfoes:has_more_mooblooms
+- minecraft:flower_forest (from Friends&Foes)
+
+#repurposed_structures:has_structure/ruins/land_hot
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+
+#promenade:nether_galleries
+- promenade:tritanopian_gallery (from Promenade)
+- promenade:achromatopsian_gallery (from Promenade)
+- promenade:protanopian_gallery (from Promenade)
+
+#repurposed_structures:has_structure/ruined_portals/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#repurposed_structures:has_structure/villages/birch
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/mushroom
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+
+#structory:has_structure/northern_ruin
+- minecraft:plains (from Structory)
+- minecraft:sunflower_plains (from Structory)
+- terralith:alpine_highlands? (from Structory)
+- terralith:cold_shrubland? (from Structory)
+- terralith:shrubland? (from Structory)
+- terralith:highlands? (from Structory)
+- #c:plains? (from Structory)
+- #minecraft:is_plains? (from Structory)
+
+#structory:has_structure/ruin_taiga
+- minecraft:taiga (from Structory)
+- minecraft:snowy_taiga (from Structory)
+- minecraft:old_growth_pine_taiga (from Structory)
+- minecraft:old_growth_spruce_taiga (from Structory)
+- terralith:forested_highlands? (from Structory)
+- terralith:shield? (from Structory)
+- #c:taiga? (from Structory)
+- #minecraft:is_taiga? (from Structory)
+
+#c:shallow_ocean
+- minecraft:ocean (from Fabric Convention Tags)
+- minecraft:lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+- minecraft:cold_ocean (from Fabric Convention Tags)
+- minecraft:warm_ocean (from Fabric Convention Tags)
+
+#stoneholm:has_structure/underground_village
+- #minecraft:is_forest (from Stoneholm)
+- #minecraft:is_hill (from Stoneholm)
+- #minecraft:is_jungle (from Stoneholm)
+- #minecraft:is_mountain (from Stoneholm)
+- #minecraft:is_taiga (from Stoneholm)
+- #minecraft:is_savanna (from Stoneholm)
+
+#croptopia:has_crop/bellpepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#wilderwild:has_sand_beach
+- #minecraft:is_jungle (from Wilder Wild)
+- minecraft:savanna (from Wilder Wild)
+
+#repurposed_structures:collections/any_forests
+- #minecraft:is_forest (from Repurposed Structures)
+- #forge:is_forest? (from Repurposed Structures)
+- #c:forest? (from Repurposed Structures)
+
+#c:icy
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:ice_spikes (from Fabric Convention Tags)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:skylands_winter (from Terralith)
+
+#c:stony_shores
+- minecraft:stony_shore (from Fabric Convention Tags)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/end
+- #repurposed_structures:collections/end (from Repurposed Structures)
+
+#apoli:category/plains
+- minecraft:plains (from Apoli)
+- minecraft:sunflower_plains (from Apoli)
+
+#structory:has_structure/jungle_well
+- minecraft:jungle (from Structory)
+- minecraft:bamboo_jungle (from Structory)
+- minecraft:sparse_jungle (from Structory)
+- terralith:rocky_jungle? (from Structory)
+- terralith:amethyst_rainforest? (from Structory)
+
+#repurposed_structures:has_structure/villages/crimson
+- #repurposed_structures:collections/nether_crimson_forests (from Repurposed Structures)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#croptopia:has_crop/eggplant
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:plains (from Terralith)
+- minecraft:meadow (from Terralith)
+- terralith:blooming_plateau (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+
+#repurposed_structures:has_structure/witch_huts/birch
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+
+#repurposed_structures:has_structure/igloos/mangrove
+- #repurposed_structures:collections/mangroves (from Repurposed Structures)
+
+#c:ocean
+- #c:deep_ocean? (from Fabric Convention Tags)
+- #c:shallow_ocean? (from Fabric Convention Tags)
+- #minecraft:is_ocean? (from Fabric Convention Tags)
+
+#friendsandfoes:has_structure/illusioner_shack
+- minecraft:taiga (from Friends&Foes)
+- minecraft:old_growth_pine_taiga (from Friends&Foes)
+- minecraft:old_growth_spruce_taiga (from Friends&Foes)
+
+#forge:is_snowy
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#croptopia:has_crop/barley
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+
+#repurposed_structures:collections/giant_taigas
+- minecraft:old_growth_pine_taiga (from Repurposed Structures)
+- minecraft:old_growth_spruce_taiga (from Repurposed Structures)
+- biomesoplenty:redwood_forest? (from Repurposed Structures)
+- byg:redwood_thicket? (from Repurposed Structures)
+- projectvibrantjourneys:redwoods? (from Repurposed Structures)
+
+#repurposed_structures:has_structure/shipwrecks/nether_bricks
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+- #minecraft:is_nether (from Terralith)
+
+#incendium:entity/has_spirit
+- incendium:withered_forest (from Incendium + Seed Fix)
+- incendium:weeping_valley (from Incendium + Seed Fix)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- #minecraft:is_beach (from Terralith)
+- #minecraft:is_river (from Terralith)
+- #minecraft:is_taiga (from Terralith)
+- #minecraft:is_forest (from Terralith)
+- minecraft:mushroom_fields (from Terralith)
+- minecraft:ice_spikes (from Terralith)
+- minecraft:dripstone_caves (from Terralith)
+- minecraft:lush_caves (from Terralith)
+- minecraft:savanna (from Terralith)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:plains (from Terralith)
+- minecraft:sunflower_plains (from Terralith)
+
+#repurposed_structures:collections/giant_trees
+- minecraft:old_growth_pine_taiga (from Repurposed Structures)
+- minecraft:old_growth_spruce_taiga (from Repurposed Structures)
+- minecraft:bamboo_jungle (from Repurposed Structures)
+- minecraft:jungle (from Repurposed Structures)
+- terralith:amethyst_rainforest? (from Repurposed Structures)
+- terralith:jungle_mountains? (from Repurposed Structures)
+- terralith:rocky_jungle? (from Repurposed Structures)
+- byg:orchard? (from Repurposed Structures)
+- byg:cika_woods? (from Repurposed Structures)
+- byg:coniferous_forest? (from Repurposed Structures)
+- byg:coniferous_forest_hills? (from Repurposed Structures)
+- byg:cherry_blossom_forest? (from Repurposed Structures)
+- byg:tropical_rainforest? (from Repurposed Structures)
+- byg:tropical_rainforest_hills? (from Repurposed Structures)
+- byg:redwood_thicket? (from Repurposed Structures)
+- byg:ebony_woods? (from Repurposed Structures)
+- byg:ebony_hills? (from Repurposed Structures)
+- biomesoplenty:redwood_forest? (from Repurposed Structures)
+- biomesoplenty:coniferous_forest? (from Repurposed Structures)
+- projectvibrantjourneys:redwoods? (from Repurposed Structures)
+- projectvibrantjourneys:baobab_fields? (from Repurposed Structures)
+- projectvibrantjourneys:snowy_redwoods? (from Repurposed Structures)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+- minecraft:desert (from Terralith)
+- minecraft:plains (from Terralith)
+- minecraft:savanna (from Terralith)
+- minecraft:snowy_plains (from Terralith)
+- minecraft:taiga (from Terralith)
+- #minecraft:is_mountain (from Terralith)
+- minecraft:grove (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:lavender_forest (from Terralith)
+
+#repurposed_structures:collections/birch_forests
+- minecraft:birch_forest (from Repurposed Structures)
+- minecraft:old_growth_birch_forest (from Repurposed Structures)
+- terralith:temperate_highlands? (from Repurposed Structures)
+- terralith:birch_taiga? (from Repurposed Structures)
+- terralith:white_cliffs? (from Repurposed Structures)
+- byg:aspen_forest? (from Repurposed Structures)
+- byg:temperate_grove? (from Repurposed Structures)
+- projectvibrantjourneys:aspen_grove? (from Repurposed Structures)
+
+#c:plains
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+- terralith:highlands (from Terralith)
+
+#repurposed_structures:collections/nether_warped_forests
+- minecraft:warped_forest (from Repurposed Structures)
+- betternether:bone_reef? (from Repurposed Structures)
+- betternether:old_warped_woods? (from Repurposed Structures)
+- betternether:nether_jungle? (from Repurposed Structures)
+- betternether:upside_down_forest? (from Repurposed Structures)
+- betternether:upside_down_forest_cleared? (from Repurposed Structures)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:badlands (from Terralith)
+- minecraft:eroded_badlands (from Terralith)
+- minecraft:wooded_badlands (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+
+#c:climate_temperate
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+- minecraft:meadow (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+- terralith:alpha_islands (from Terralith)
+- terralith:blooming_plateau (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:gravel_beach (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:skylands (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:stony_spires (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+- terralith:yosemite_lowlands (from Terralith)
+
+#terralith:has_structure/spire
+- terralith:wintry_lowlands (from Terralith)
+- minecraft:ice_spikes (from Terralith)
+- minecraft:frozen_river (from Terralith)
+
+#c:aquatic
+- #c:ocean? (from Fabric Convention Tags)
+- #c:river? (from Fabric Convention Tags)
+- terralith:warm_river (from Terralith)
+
+#wilderwild:firefly_spawnable_cave
+
+#c:aquatic_icy
+- minecraft:frozen_river (from Fabric Convention Tags)
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+- incendium:weeping_valley (from Incendium + Seed Fix)
+- incendium:quartz_flats (from Incendium + Seed Fix)
+
+#repurposed_structures:has_structure/mansions/savanna
+- #repurposed_structures:collections/savannas (from Repurposed Structures)
+
+#terralith:all_terralith_biomes_no_mineshafts
+- terralith:desert_canyon (from Terralith)
+- terralith:cave/andesite_caves (from Terralith)
+- terralith:cave/crystal_caves (from Terralith)
+- terralith:cave/deep_caves (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/diorite_caves (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+- terralith:cave/granite_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+- terralith:cave/infested_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/tuff_caves (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:blooming_plateau (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:mountain_steppe (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:skylands (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:stony_spires (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warm_river (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+- terralith:yosemite_lowlands (from Terralith)
+
+#wilderwild:has_jellyfish
+- minecraft:warm_ocean (from Wilder Wild)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+
+#repurposed_structures:has_structure/cities/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#c:vegetation_sparse
+- #c:savanna? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:dead? (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- #c:wasteland? (from Fabric Convention Tags)
+- terralith:alpine_grove (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+
+#c:extreme_hills
+- minecraft:windswept_gravelly_hills (from Fabric Convention Tags)
+- minecraft:windswept_hills (from Fabric Convention Tags)
+- terralith:blooming_plateau (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+
+#promenade:spawns/duck/pekin
+- minecraft:plains (from Promenade)
+- minecraft:forest (from Promenade)
+
+#repurposed_structures:collections/taigas
+- minecraft:taiga (from Repurposed Structures)
+- terralith:cloud_forest? (from Repurposed Structures)
+- terralith:forested_highlands? (from Repurposed Structures)
+- terralith:lavender_forest? (from Repurposed Structures)
+- terralith:lavender_valley? (from Repurposed Structures)
+- terralith:moonlight_grove? (from Repurposed Structures)
+- terralith:moonlight_valley? (from Repurposed Structures)
+- terralith:rocky_shrubland? (from Repurposed Structures)
+- terralith:shrubland? (from Repurposed Structures)
+- terralith:wintry_forest? (from Repurposed Structures)
+- biomesoplenty:jade_cliffs? (from Repurposed Structures)
+- biomesoplenty:mediterranean_taiga? (from Repurposed Structures)
+- biomesoplenty:dead_forest? (from Repurposed Structures)
+- biomesoplenty:old_growth_dead_forest? (from Repurposed Structures)
+- byg:autumnal_taiga? (from Repurposed Structures)
+- byg:canadian_shield? (from Repurposed Structures)
+- byg:maple_taiga? (from Repurposed Structures)
+- projectvibrantjourneys:boreal_forest? (from Repurposed Structures)
+- projectvibrantjourneys:crystal_lakes? (from Repurposed Structures)
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+
+#repurposed_structures:has_structure/villages/swamp
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+
+#croptopia:has_crop/turnip
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+
+#c:nether_forests
+- minecraft:warped_forest (from Fabric Convention Tags)
+- minecraft:crimson_forest (from Fabric Convention Tags)
+
+#croptopia:has_crop/cucumber
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+
+#repurposed_structures:collections/overworld
+- #minecraft:is_overworld (from Repurposed Structures)
+- #forge:is_overworld? (from Repurposed Structures)
+- #c:in_overworld? (from Repurposed Structures)
+
+#wilderwild:has_sand_beach_other
+- minecraft:flower_forest (from Wilder Wild)
+- minecraft:dark_forest (from Wilder Wild)
+- minecraft:forest (from Wilder Wild)
+
+#repurposed_structures:has_structure/wells/forest
+- #repurposed_structures:collections/regular_forests (from Repurposed Structures)
+- #repurposed_structures:collections/birch_forests (from Repurposed Structures)
+- #repurposed_structures:collections/floral (from Repurposed Structures)
+
+#terralith:all_terralith_biomes
+- terralith:desert_canyon (from Terralith)
+- terralith:cave/andesite_caves (from Terralith)
+- terralith:cave/crystal_caves (from Terralith)
+- terralith:cave/deep_caves (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/diorite_caves (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+- terralith:cave/granite_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+- terralith:cave/infested_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/tuff_caves (from Terralith)
+- terralith:alpha_islands_winter (from Terralith)
+- terralith:alpha_islands (from Terralith)
+- terralith:alpine_grove (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:birch_taiga (from Terralith)
+- terralith:blooming_plateau (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:cold_shrubland (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:emerald_peaks (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:frozen_cliffs (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:gravel_beach (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:haze_mountain (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:mirage_isles (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:mountain_steppe (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield_clearing (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_autumn (from Terralith)
+- terralith:skylands_spring (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:skylands (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:snowy_shield (from Terralith)
+- terralith:steppe (from Terralith)
+- terralith:stony_spires (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warm_river (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_cliffs (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:windswept_spires (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:yellowstone (from Terralith)
+- terralith:yosemite_cliffs (from Terralith)
+- terralith:yosemite_lowlands (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/snowy
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+
+#repurposed_structures:has_structure/wells/badlands
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+
+#repurposed_structures:collections/oceans
+- #minecraft:is_ocean (from Repurposed Structures)
+- #minecraft:is_deep_ocean (from Repurposed Structures)
+- #forge:is_ocean? (from Repurposed Structures)
+- #c:ocean? (from Repurposed Structures)
+- #c:deep_ocean? (from Repurposed Structures)
+
+#c:caves
+- minecraft:deep_dark (from Fabric Convention Tags)
+- minecraft:dripstone_caves (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- terralith:cave/andesite_caves (from Terralith)
+- terralith:cave/crystal_caves (from Terralith)
+- terralith:cave/deep_caves (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/diorite_caves (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+- terralith:cave/granite_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+- terralith:cave/infested_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/tuff_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#c:floral
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+- terralith:blooming_plateau (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+
+#forge:is_hot/overworld
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:granite_cliffs (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:orchid_swamp (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:warm_river (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#repurposed_structures:has_structure/villages/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#repurposed_structures:has_structure/dungeons/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#repurposed_structures:collections/snowy_plains
+- minecraft:snowy_plains (from Repurposed Structures)
+- terralith:alpine_grove? (from Repurposed Structures)
+- terralith:cold_shrubland? (from Repurposed Structures)
+- terralith:snowy_badlands? (from Repurposed Structures)
+- terralith:snowy_shield? (from Repurposed Structures)
+- biomesoplenty:snowy_fir_clearing? (from Repurposed Structures)
+- #forge:is_snowy? (from Repurposed Structures)
+- #c:snowy? (from Repurposed Structures)
+- #c:snowy_plains? (from Repurposed Structures)
+
+#apoli:category/icy
+- minecraft:ice_spikes (from Apoli)
+- minecraft:snowy_plains (from Apoli)
+
+#repurposed_structures:has_structure/villages/giant_taiga
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/bastions/underground
+- #repurposed_structures:collections/any_forests (from Repurposed Structures)
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+- #repurposed_structures:collections/caves (from Repurposed Structures)
+- #repurposed_structures:collections/deserts (from Repurposed Structures)
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+- #repurposed_structures:collections/hills (from Repurposed Structures)
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+- #repurposed_structures:collections/meadows (from Repurposed Structures)
+- #repurposed_structures:collections/mountains (from Repurposed Structures)
+- #repurposed_structures:collections/mushrooms (from Repurposed Structures)
+- #repurposed_structures:collections/plains (from Repurposed Structures)
+- #repurposed_structures:collections/savannas (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+- #repurposed_structures:collections/swamps (from Repurposed Structures)
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+
+#croptopia:has_crop/vanilla
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+
+#repurposed_structures:has_structure/pyramids/ocean
+- #repurposed_structures:collections/oceans (from Repurposed Structures)
+
+#c:badlands
+- #c:mesa? (from Fabric Convention Tags)
+- #minecraft:is_badlands? (from Fabric Convention Tags)
+- terralith:ancient_sands (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+
+#croptopia:has_crop/rutabaga
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+
+#c:jungle
+- #minecraft:is_jungle? (from Fabric Convention Tags)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:amethyst_rainforest (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:tropical_jungle (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#croptopia:has_crop/cauliflower
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#repurposed_structures:has_structure/dungeons/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#c:wasteland
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:gravel_desert (from Terralith)
+- terralith:ice_marsh (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:yellowstone (from Terralith)
+
+#repurposed_structures:has_structure/ruins/land_cold
+- #repurposed_structures:collections/hills (from Repurposed Structures)
+- #repurposed_structures:collections/meadows (from Repurposed Structures)
+- #repurposed_structures:collections/taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/temples/nether_soul
+- #repurposed_structures:collections/nether_souls (from Repurposed Structures)
+
+#croptopia:has_crop/greenbean
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+
+#repurposed_structures:has_structure/dungeons/snow
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_mountains (from Repurposed Structures)
+
+#friendsandfoes:has_structure/iceologer_cabin
+- minecraft:snowy_taiga (from Friends&Foes)
+- minecraft:snowy_plains (from Friends&Foes)
+- minecraft:grove (from Friends&Foes)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#bosses_of_mass_destruction:has_structure/lich_tower
+- #bosses_of_mass_destruction:collections/cold (from Bosses of Mass Destruction (Beta))
+
+#c:deep_ocean
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:deep_lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:deep_cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_ocean (from Fabric Convention Tags)
+
+#forge:is_plains
+- terralith:alpine_highlands (from Terralith)
+- terralith:highlands (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#apoli:category/extreme_hills
+- #minecraft:is_hill (from Apoli)
+
+#structory:has_structure/outcast_villager_desert
+- minecraft:desert (from Structory)
+- terralith:desert_oasis? (from Structory)
+- terralith:lush_desert? (from Structory)
+- terralith:sandstone_valley? (from Structory)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_jungle (from Terralith)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:desert_spires (from Terralith)
+
+#apoli:category/ocean
+- #minecraft:is_ocean (from Apoli)
+
+#terralith:has_structure/underground_cabin
+- minecraft:lush_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#repurposed_structures:has_structure/igloos/stone
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+- #repurposed_structures:collections/rocky_mountains (from Repurposed Structures)
+
+#promenade:has_structure/dark_forest_witch_hut
+- minecraft:dark_forest (from Promenade)
+
+#croptopia:has_crop/kale
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+
+#repurposed_structures:collections/swamps
+- minecraft:swamp (from Repurposed Structures)
+- minecraft:mangrove_swamp (from Repurposed Structures)
+- #forge:is_swamp? (from Repurposed Structures)
+- #c:swamp? (from Repurposed Structures)
+
+#forge:is_dry/overworld
+- terralith:alpine_highlands (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:stony_spires (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+
+#croptopia:has_crop/hops
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+
+#repurposed_structures:has_structure/villages/dark_forest
+- #repurposed_structures:collections/spooky_forests (from Repurposed Structures)
+
+#croptopia:has_crop/tomatillo
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#croptopia:has_crop/turmeric
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+
+#croptopia:has_crop/currant
+- minecraft:swamp (from Croptopia)
+
+#repurposed_structures:collections/end
+- #minecraft:is_end (from Repurposed Structures)
+- #forge:is_end? (from Repurposed Structures)
+- #c:in_the_end? (from Repurposed Structures)
+- #c:end_islands? (from Repurposed Structures)
+- betterend:amber_land? (from Repurposed Structures)
+- betterend:blossoming_spires? (from Repurposed Structures)
+- betterend:chorus_forest? (from Repurposed Structures)
+- betterend:crystal_mountains? (from Repurposed Structures)
+- betterend:dragon_graveyards? (from Repurposed Structures)
+- betterend:dry_shrubland? (from Repurposed Structures)
+- betterend:dust_wasteland? (from Repurposed Structures)
+- betterend:empty_aurora_cave? (from Repurposed Structures)
+- betterend:empty_end_cave? (from Repurposed Structures)
+- betterend:empty_smaragdant_cave? (from Repurposed Structures)
+- betterend:foggy_mushroomland? (from Repurposed Structures)
+- betterend:glowing_grassland? (from Repurposed Structures)
+- betterend:jade_cave? (from Repurposed Structures)
+- betterend:lantern_woods? (from Repurposed Structures)
+- betterend:lush_aurora_cave? (from Repurposed Structures)
+- betterend:lush_smaragdant_cave? (from Repurposed Structures)
+- betterend:megalake? (from Repurposed Structures)
+- betterend:megalake_grove? (from Repurposed Structures)
+- betterend:neon_oasis? (from Repurposed Structures)
+- betterend:painted_mountains? (from Repurposed Structures)
+- betterend:shadow_forest? (from Repurposed Structures)
+- betterend:sulphur_springs? (from Repurposed Structures)
+- betterend:umbra_valley? (from Repurposed Structures)
+- betterend:umbrella_jungle? (from Repurposed Structures)
+
+#croptopia:has_crop/blackbean
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#repurposed_structures:has_structure/mineshafts/savanna
+- #repurposed_structures:collections/savannas (from Repurposed Structures)
+
+#terralith:has_structure/fortified_village
+- minecraft:plains (from Terralith)
+- minecraft:sunflower_plains (from Terralith)
+- terralith:temperate_highlands (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:alpine_highlands (from Terralith)
+- terralith:brushland (from Terralith)
+- minecraft:meadow (from Terralith)
+
+#forge:is_mushroom
+- terralith:mirage_isles (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+
+#wilderwild:firefly_spawnable
+- minecraft:jungle (from Wilder Wild)
+- minecraft:sparse_jungle (from Wilder Wild)
+- minecraft:bamboo_jungle (from Wilder Wild)
+
+#bosses_of_mass_destruction:has_structure/void_blossom
+- #minecraft:is_ocean (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_river (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_beach (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_mountain (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_hill (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_taiga (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_jungle (from Bosses of Mass Destruction (Beta))
+- #minecraft:is_forest (from Bosses of Mass Destruction (Beta))
+- minecraft:stony_shore (from Bosses of Mass Destruction (Beta))
+- minecraft:mushroom_fields (from Bosses of Mass Destruction (Beta))
+- minecraft:ice_spikes (from Bosses of Mass Destruction (Beta))
+- minecraft:windswept_savanna (from Bosses of Mass Destruction (Beta))
+- minecraft:desert (from Bosses of Mass Destruction (Beta))
+- minecraft:savanna (from Bosses of Mass Destruction (Beta))
+- minecraft:snowy_plains (from Bosses of Mass Destruction (Beta))
+- minecraft:plains (from Bosses of Mass Destruction (Beta))
+- minecraft:sunflower_plains (from Bosses of Mass Destruction (Beta))
+- minecraft:swamp (from Bosses of Mass Destruction (Beta))
+- minecraft:mangrove_swamp (from Bosses of Mass Destruction (Beta))
+- minecraft:savanna_plateau (from Bosses of Mass Destruction (Beta))
+- minecraft:dripstone_caves (from Bosses of Mass Destruction (Beta))
+- minecraft:lush_caves (from Bosses of Mass Destruction (Beta))
+
+#structory:has_structure/outcast_villager_grassy
+- minecraft:plains (from Structory)
+- minecraft:savanna (from Structory)
+- minecraft:sunflower_plains (from Structory)
+- minecraft:forest (from Structory)
+- minecraft:sparse_jungle (from Structory)
+- minecraft:birch_forest (from Structory)
+- minecraft:old_growth_birch_forest (from Structory)
+- minecraft:old_growth_spruce_taiga (from Structory)
+- minecraft:old_growth_pine_taiga (from Structory)
+- #terralith:has_structure/fortified_village? (from Structory)
+
+#repurposed_structures:collections/snowy_mountains
+- minecraft:snowy_slopes (from Repurposed Structures)
+
+#c:flower_forests
+- minecraft:flower_forest (from Fabric Convention Tags)
+- terralith:cloud_forest (from Terralith)
+- terralith:lavender_forest (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:moonlight_grove (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:sakura_grove (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:skylands_spring (from Terralith)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+- #promenade:cherry_oak_forests (from Promenade)
+- promenade:pumpkin_pastures (from Promenade)
+- wilderwild:cypress_wetlands (from Wilder Wild)
+- wilderwild:jellyfish_caves (from Wilder Wild)
+- wilderwild:mixed_forest (from Wilder Wild)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+
+#croptopia:has_crop/blueberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#c:mountain_slope
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+- terralith:alpine_grove (from Terralith)
+- terralith:amethyst_canyon (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:blooming_valley (from Terralith)
+- terralith:caldera (from Terralith)
+- terralith:glacial_chasm (from Terralith)
+- terralith:jungle_mountains (from Terralith)
+- terralith:lavender_valley (from Terralith)
+- terralith:moonlight_valley (from Terralith)
+- terralith:rocky_jungle (from Terralith)
+- terralith:rocky_mountains (from Terralith)
+- terralith:sakura_valley (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:stony_spires (from Terralith)
+
+#repurposed_structures:has_structure/witch_huts/giant_tree_taiga
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+
+#repurposed_structures:has_structure/ruins/nether
+- #repurposed_structures:collections/nether (from Repurposed Structures)
+
+#apoli:category/mushroom
+- minecraft:mushroom_fields (from Apoli)
+
+#repurposed_structures:has_structure/outposts/snowy
+- #repurposed_structures:collections/snowy_plains (from Repurposed Structures)
+- #repurposed_structures:collections/snowy_forests (from Repurposed Structures)
+
+#promenade:spawns/duck/mallard
+- minecraft:plains (from Promenade)
+- minecraft:river (from Promenade)
+- minecraft:swamp (from Promenade)
+
+#repurposed_structures:has_structure/pyramids/jungle
+- #repurposed_structures:collections/jungles (from Repurposed Structures)
+
+#friendsandfoes:has_savanna_mauler
+- #minecraft:is_savanna (from Friends&Foes)
+- #forge:is_savanna? (from Friends&Foes)
+- #c:savanna? (from Friends&Foes)
+
+#croptopia:has_crop/pepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#repurposed_structures:collections/nether_souls
+- minecraft:soul_sand_valley (from Repurposed Structures)
+- betternether:soul_plain? (from Repurposed Structures)
+- betternether:wart_forest? (from Repurposed Structures)
+- betternether:wart_forest_edge? (from Repurposed Structures)
+- betternether:poor_nether_grasslands? (from Repurposed Structures)
+- betternether:nether_grasslands? (from Repurposed Structures)
+
+#repurposed_structures:collections/nether
+- #minecraft:is_nether (from Repurposed Structures)
+- #forge:is_nether? (from Repurposed Structures)
+- #c:nether? (from Repurposed Structures)
+- #c:in_nether? (from Repurposed Structures)
+- betternether:bone_reef? (from Repurposed Structures)
+- betternether:crimson_glowing_woods? (from Repurposed Structures)
+- betternether:crimson_pinewood? (from Repurposed Structures)
+- betternether:flooded_deltas? (from Repurposed Structures)
+- betternether:gravel_desert? (from Repurposed Structures)
+- betternether:magma_land? (from Repurposed Structures)
+- betternether:nether_grasslands? (from Repurposed Structures)
+- betternether:nether_jungle? (from Repurposed Structures)
+- betternether:nether_mushroom_forest? (from Repurposed Structures)
+- betternether:nether_mushroom_forest_edge? (from Repurposed Structures)
+- betternether:nether_swampland? (from Repurposed Structures)
+- betternether:nether_swampland_terraces? (from Repurposed Structures)
+- betternether:old_fungiwoods? (from Repurposed Structures)
+- betternether:old_swampland? (from Repurposed Structures)
+- betternether:old_warped_woods? (from Repurposed Structures)
+- betternether:poor_nether_grasslands? (from Repurposed Structures)
+- betternether:soul_plain? (from Repurposed Structures)
+- betternether:sulfuric_bone_reef? (from Repurposed Structures)
+- betternether:upside_down_forest? (from Repurposed Structures)
+- betternether:upside_down_forest_cleared? (from Repurposed Structures)
+- betternether:wart_forest? (from Repurposed Structures)
+- betternether:wart_forest_edge? (from Repurposed Structures)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:desert_oasis (from Terralith)
+
+#repurposed_structures:has_structure/shipwrecks/crimson
+- #repurposed_structures:collections/nether_crimson_forests (from Repurposed Structures)
+
+#croptopia:has_crop/broccoli
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#c:climate_dry
+- #c:in_nether? (from Fabric Convention Tags)
+- #c:badlands? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:savanna? (from Fabric Convention Tags)
+- terralith:alpine_highlands (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:basalt_cliffs (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:painted_mountains (from Terralith)
+- terralith:rocky_shrubland (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+- terralith:stony_spires (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:warped_mesa (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+
+#repurposed_structures:has_structure/pyramids/giant_tree_taiga
+- #repurposed_structures:collections/giant_taigas (from Repurposed Structures)
+
+#forge:is_underground
+- terralith:cave/andesite_caves (from Terralith)
+- terralith:cave/crystal_caves (from Terralith)
+- terralith:cave/deep_caves (from Terralith)
+- terralith:cave/desert_caves (from Terralith)
+- terralith:cave/diorite_caves (from Terralith)
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/fungal_caves (from Terralith)
+- terralith:cave/granite_caves (from Terralith)
+- terralith:cave/ice_caves (from Terralith)
+- terralith:cave/infested_caves (from Terralith)
+- terralith:cave/mantle_caves (from Terralith)
+- terralith:cave/thermal_caves (from Terralith)
+- terralith:cave/tuff_caves (from Terralith)
+- terralith:cave/underground_jungle (from Terralith)
+
+#repurposed_structures:collections/nether_basalts
+- minecraft:basalt_deltas (from Repurposed Structures)
+- betternether:flooded_deltas? (from Repurposed Structures)
+- betternether:gravel_desert? (from Repurposed Structures)
+- betternether:magma_land? (from Repurposed Structures)
+
+#repurposed_structures:collections/stony_shores
+- minecraft:stony_shore (from Repurposed Structures)
+- terralith:gravel_desert? (from Repurposed Structures)
+- biomesoplenty:cold_desert? (from Repurposed Structures)
+- #c:stony_shores? (from Repurposed Structures)
+
+#wilderwild:firefly_spawnable_during_day
+- minecraft:swamp (from Wilder Wild)
+- minecraft:mangrove_swamp (from Wilder Wild)
+
+#apoli:category/the_end
+- #minecraft:is_end (from Apoli)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:desert (from Terralith)
+- minecraft:warm_ocean (from Terralith)
+- #minecraft:is_jungle (from Terralith)
+- #minecraft:is_savanna (from Terralith)
+- #minecraft:is_nether (from Terralith)
+- #minecraft:is_badlands (from Terralith)
+- minecraft:mangrove_swamp (from Terralith)
+- terralith:arid_highlands (from Terralith)
+- terralith:ashen_savanna (from Terralith)
+- terralith:brushland (from Terralith)
+- terralith:fractured_savanna (from Terralith)
+- terralith:savanna_badlands (from Terralith)
+- terralith:savanna_slopes (from Terralith)
+- terralith:shrubland (from Terralith)
+- terralith:ancient_sands (from Terralith)
+- terralith:desert_canyon (from Terralith)
+- terralith:desert_oasis (from Terralith)
+- terralith:desert_spires (from Terralith)
+- terralith:red_oasis (from Terralith)
+- terralith:sandstone_valley (from Terralith)
+- terralith:lush_desert (from Terralith)
+- terralith:hot_shrubland (from Terralith)
+- terralith:skylands_summer (from Terralith)
+- terralith:warm_river (from Terralith)
+- terralith:white_mesa (from Terralith)
+- terralith:volcanic_peaks (from Terralith)
+- terralith:volcanic_crater (from Terralith)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#repurposed_structures:has_structure/dungeons/badlands
+- #repurposed_structures:collections/badlands (from Repurposed Structures)
+
+#croptopia:has_crop/elderberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_plains (from Terralith)
+- terralith:snowy_badlands (from Terralith)
+
+#friendsandfoes:has_illusioner
+- minecraft:taiga (from Friends&Foes)
+- minecraft:old_growth_pine_taiga (from Friends&Foes)
+- minecraft:old_growth_spruce_taiga (from Friends&Foes)
+
+#c:taiga
+- #minecraft:is_taiga? (from Fabric Convention Tags)
+- terralith:alpine_highlands (from Terralith)
+- terralith:bryce_canyon (from Terralith)
+- terralith:cloud_forest (from Terralith)
+- terralith:forested_highlands (from Terralith)
+- terralith:lush_valley (from Terralith)
+- terralith:scarlet_mountains (from Terralith)
+- terralith:shield (from Terralith)
+- terralith:siberian_grove (from Terralith)
+- terralith:siberian_taiga (from Terralith)
+- terralith:skylands_winter (from Terralith)
+- terralith:snowy_maple_forest (from Terralith)
+- terralith:valley_clearing (from Terralith)
+- terralith:wintry_forest (from Terralith)
+- terralith:wintry_lowlands (from Terralith)
+
+#repurposed_structures:has_structure/dungeons/icy
+- #repurposed_structures:collections/icy (from Repurposed Structures)
+
+#friendsandfoes:has_iceologer
+- minecraft:snowy_taiga (from Friends&Foes)
+- minecraft:snowy_plains (from Friends&Foes)
+- minecraft:grove (from Friends&Foes)
+
+#structory:has_structure/boat
+- minecraft:ocean (from Structory)
+- minecraft:cold_ocean (from Structory)
+- minecraft:lukewarm_ocean (from Structory)
+- minecraft:deep_ocean (from Structory)
+- minecraft:deep_cold_ocean (from Structory)
+- minecraft:deep_lukewarm_ocean (from Structory)
+- minecraft:warm_ocean (from Structory)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)
+
+#forge:is_spooky
+- terralith:cave/frostfire_caves (from Terralith)
+- terralith:cave/infested_caves (from Terralith)

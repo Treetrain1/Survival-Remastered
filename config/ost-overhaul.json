@@ -1,16 +1,5 @@
 {
   "Sounds": {
-    "minecraft:music.overworld.frozen_peaks": {
-      "condition0": {
-        "biome": "minecraft:frozen_peaks",
-        "randUntilNextSong": 300.0,
-        "y": {
-          "number": 60.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 1.0
-      }
-    },
     "betterend:betterend.music.caves": {
       "condition0": {
         "biome": "betterend:empty_end_cave",
@@ -26,16 +15,36 @@
         "forceSwitchIn": true
       }
     },
-    "survival_remastered:music.end_shrine": {
+    "survival_remastered:music.strange_day-ambient": {
       "condition0": {
-        "dimension": "minecraft:overworld",
-        "randUntilNextSong": 1350.0,
+        "randUntilNextSong": 250.0,
         "y": {
-          "number": -47.0,
-          "number2": -53.0,
-          "compareWith": "between"
+          "number": -40.0,
+          "compareWith": "moreThan"
         },
-        "priority": 0.0
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      }
+    },
+    "survival_remastered:music.dream-amazing_sad_song": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": -40.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
       }
     },
     "betterend:betterend.music.dark": {
@@ -50,6 +59,18 @@
         "biome": "edenring:stone_garden",
         "randUntilNextSong": 12000.0,
         "priority": 1.0
+      }
+    },
+    "survival_remastered:music.ross_budgen-flight_hymn": {
+      "condition0": {
+        "dimension": "minecraft:the_nether",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
+      },
+      "condition1": {
+        "dimension": "edenring:edenring",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
       }
     },
     "minecraft:music.overworld.grove": {
@@ -69,7 +90,135 @@
         "forceSwitchOut": true
       }
     },
-    "survival_remastered:music.knights_of_camelot": {
+    "minecraft:music.under_water": {
+      "condition0": {
+        "randUntilNextSong": 300.0,
+        "priority": 0.0,
+        "isUnderWater": true,
+        "biomeCategory": "ocean",
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 300.0,
+        "priority": 1.0,
+        "isUnderWater": true,
+        "biomeCategory": "river",
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.nether.crimson_forest": {
+      "condition0": {
+        "biome": "minecraft:crimson_forest",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "ostoverhaul:the_ancient_city": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:ancient_city",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.meadow": {
+      "condition0": {
+        "biome": "minecraft:meadow",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "survival_remastered:music.michael_kobrin-the_introvert": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": -20.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end",
+        "playOnDragon": false
+      }
+    },
+    "survival_remastered:music.zakharvalaha-cinematic_chillhop_main": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": 40.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.nether.nether_wastes": {
+      "condition0": {
+        "biome": "minecraft:nether_wastes",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.jagged_peaks": {
+      "condition0": {
+        "biome": "minecraft:jagged_peaks",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "survival_remastered:music.lucas_king-megalovania": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": 0.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "survival_remastered:music.tommymutiu-battle_of_the_dragons": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "priority": 3.0,
+        "dimension": "minecraft:the_end"
+      }
+    },
+    "survival_remastered:music.tomomi_kato-the_sound_of_light": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "y": {
+          "number": -25.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "dimension": "edenring:edenring",
+        "priority": 0.0
+      }
+    },
+    "ostoverhaul:minecraft.bastion_remnant": {
+      "condition0": {
+        "randUntilNextSong": 300.0,
+        "priority": 2.0,
+        "structure": "minecraft:bastion_remnant",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "survival_remastered:music.tommymutiu-knights_of_camelot": {
       "condition16": {
         "randUntilNextSong": 250.0,
         "y": {
@@ -241,95 +390,7 @@
         "dimension": "minecraft:overworld"
       }
     },
-    "minecraft:music.overworld.lush_caves": {
-      "condition0": {
-        "biome": "minecraft:lush_caves",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "minecraft:music.under_water": {
-      "condition0": {
-        "randUntilNextSong": 300.0,
-        "priority": 0.0,
-        "isUnderWater": true,
-        "biomeCategory": "ocean",
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 300.0,
-        "priority": 1.0,
-        "isUnderWater": true,
-        "biomeCategory": "river",
-        "dimension": "minecraft:overworld"
-      }
-    },
-    "survival_remastered:music.estavius": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": 20.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0,
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "edenring:edenring"
-      },
-      "condition2": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "minecraft:the_end"
-      }
-    },
-    "minecraft:music.nether.crimson_forest": {
-      "condition0": {
-        "biome": "minecraft:crimson_forest",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "survival_remastered:music.the_introvert": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": -20.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "edenring:edenring"
-      },
-      "condition2": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "minecraft:the_end",
-        "playOnDragon": false
-      }
-    },
-    "minecraft:music.overworld.meadow": {
-      "condition0": {
-        "biome": "minecraft:meadow",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "minecraft:music.credits": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "priority": 10.0,
-        "playOnCredits": true,
-        "forceSwitchIn": true,
-        "forceSwitchOut": true
-      }
-    },
-    "survival_remastered:music.draconis": {
+    "survival_remastered:music.tommymutiu-draconis": {
       "condition0": {
         "randUntilNextSong": 250.0,
         "priority": 0.0,
@@ -339,134 +400,6 @@
         "randUntilNextSong": 250.0,
         "priority": 0.0,
         "dimension": "edenring:edenring"
-      }
-    },
-    "minecraft:music.overworld.dripstone_caves": {
-      "condition0": {
-        "biome": "minecraft:dripstone_caves",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "survival_remastered:music.ancestry": {
-      "condition0": {
-        "dimension": "minecraft:overworld",
-        "randUntilNextSong": 1350.0,
-        "y": {
-          "number": -47.0,
-          "number2": -53.0,
-          "compareWith": "between"
-        },
-        "priority": 0.0
-      }
-    },
-    "minecraft:music.nether.nether_wastes": {
-      "condition0": {
-        "biome": "minecraft:nether_wastes",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "minecraft:music.overworld.jagged_peaks": {
-      "condition0": {
-        "biome": "minecraft:jagged_peaks",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "survival_remastered:music.hope": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": -30.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0,
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "minecraft:the_nether"
-      },
-      "condition2": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "edenring:edenring"
-      }
-    },
-    "survival_remastered:music.the_sound_of_light": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": -25.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0,
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "dimension": "edenring:edenring",
-        "priority": 0.0
-      }
-    },
-    "survival_remastered:music.olympus": {
-      "condition0": {
-        "dimension": "minecraft:the_nether",
-        "randUntilNextSong": 250.0,
-        "priority": 0.0
-      },
-      "condition1": {
-        "dimension": "edenring:edenring",
-        "randUntilNextSong": 250.0,
-        "priority": 0.0
-      }
-    },
-    "betterend:betterend.music.forest": {
-      "condition0": {
-        "biome": "betterend:foggy_mushroomland",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "survival_remastered:music.ambient": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": -40.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0,
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "edenring:edenring"
-      }
-    },
-    "minecraft:music.nether.soul_sand_valley": {
-      "condition0": {
-        "biome": "minecraft:soul_sand_valley",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "ostoverhaul:minecraft.bastion_remnant": {
-      "condition0": {
-        "randUntilNextSong": 300.0,
-        "priority": 2.0,
-        "structure": "minecraft:bastion_remnant",
-        "forceSwitchIn": true,
-        "forceSwitchOut": true
-      }
-    },
-    "minecraft:music.end": {
-      "condition0": {
-        "randUntilNextSong": 300.0,
-        "priority": 1.0,
-        "dimension": "minecraft:the_end"
       }
     },
     "minecraft:music.overworld.snowy_slopes": {
@@ -483,20 +416,11 @@
         "priority": 1.0
       }
     },
-    "survival_remastered:music.amazing_sad_song": {
+    "wilderwild:music.overworld.jellyfish_caves": {
       "condition0": {
-        "randUntilNextSong": 250.0,
-        "y": {
-          "number": -40.0,
-          "compareWith": "moreThan"
-        },
-        "priority": 0.0,
-        "dimension": "minecraft:overworld"
-      },
-      "condition1": {
-        "randUntilNextSong": 250.0,
-        "priority": 0.0,
-        "dimension": "edenring:edenring"
+        "biome": "wilderwild:jellyfish_caves",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
       }
     },
     "ostoverhaul:frosty": {
@@ -525,13 +449,6 @@
         "dimension": "minecraft:overworld"
       }
     },
-    "survival_remastered:music.battle_of_the_dragons": {
-      "condition0": {
-        "randUntilNextSong": 250.0,
-        "priority": 3.0,
-        "dimension": "minecraft:the_end"
-      }
-    },
     "ostoverhaul:minecraft.stronghold": {
       "condition0": {
         "randUntilNextSong": 300.0,
@@ -541,26 +458,167 @@
         "forceSwitchOut": true
       }
     },
-    "survival_remastered:music.megalovania": {
+    "minecraft:music.overworld.old_growth_taiga": {
+      "condition0": {
+        "biome": "minecraft:old_growth_pine_taiga",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.nether.warped_forest": {
+      "condition0": {
+        "biome": "minecraft:warped_forest",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "survival_remastered:music.ghostrifter-hope": {
       "condition0": {
         "randUntilNextSong": 250.0,
         "y": {
-          "number": 0.0,
+          "number": -30.0,
           "compareWith": "moreThan"
         },
         "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_nether"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      }
+    },
+    "ostoverhaul:claustrophobic": {
+      "condition0": {
+        "randUntilNextSong": 300.0,
+        "priority": 3.0,
+        "y": {
+          "compareWith": "lessThan",
+          "number": 61.0
+        },
+        "hasSkyAccess": false,
         "dimension": "minecraft:overworld"
       }
     },
-    "survival_remastered:music.cinematic_chillhop_main": {
+    "minecraft:music.overworld.frozen_peaks": {
+      "condition0": {
+        "biome": "minecraft:frozen_peaks",
+        "randUntilNextSong": 300.0,
+        "y": {
+          "number": 60.0,
+          "compareWith": "moreThan"
+        },
+        "priority": 1.0
+      }
+    },
+    "wilderwild:music.overworld.wild_forests": {
+      "condition0": {
+        "biome": "wilderwild:cypress_wetlands",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.deep_dark": {
+      "condition0": {
+        "biome": "minecraft:deep_dark",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.lush_caves": {
+      "condition0": {
+        "biome": "minecraft:lush_caves",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "survival_remastered:music.phyrnna-estavius": {
       "condition0": {
         "randUntilNextSong": 250.0,
         "y": {
-          "number": 40.0,
+          "number": 20.0,
           "compareWith": "moreThan"
         },
         "priority": 0.0,
         "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "edenring:edenring"
+      },
+      "condition2": {
+        "randUntilNextSong": 250.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end"
+      }
+    },
+    "minecraft:music.credits": {
+      "condition0": {
+        "randUntilNextSong": 250.0,
+        "priority": 10.0,
+        "playOnCredits": true,
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.dripstone_caves": {
+      "condition0": {
+        "biome": "minecraft:dripstone_caves",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "survival_remastered:music.ancestry": {
+      "condition0": {
+        "dimension": "minecraft:overworld",
+        "randUntilNextSong": 1350.0,
+        "y": {
+          "number": -47.0,
+          "number2": -53.0,
+          "compareWith": "between"
+        },
+        "priority": 0.0
+      }
+    },
+    "minecraft:music.overworld.jungle_and_forest": {
+      "condition0": {
+        "biome": "minecraft:dark_forest",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "betterend:betterend.music.forest": {
+      "condition0": {
+        "biome": "betterend:foggy_mushroomland",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.nether.soul_sand_valley": {
+      "condition0": {
+        "biome": "minecraft:soul_sand_valley",
+        "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.swamp": {
+      "condition0": {
+        "biome": "minecraft:mangrove_swamp",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.end": {
+      "condition0": {
+        "randUntilNextSong": 300.0,
+        "priority": 1.0,
+        "dimension": "minecraft:the_end"
       }
     },
     "minecraft:music.game": {
@@ -574,28 +632,9 @@
         "dimension": "minecraft:overworld"
       }
     },
-    "survival_remastered:music.flight_hymn": {
-      "condition0": {
-        "dimension": "minecraft:the_nether",
-        "randUntilNextSong": 250.0,
-        "priority": 0.0
-      },
-      "condition1": {
-        "dimension": "edenring:edenring",
-        "randUntilNextSong": 250.0,
-        "priority": 0.0
-      }
-    },
     "minecraft:music.overworld.stony_peaks": {
       "condition0": {
         "biome": "minecraft:stony_peaks",
-        "randUntilNextSong": 300.0,
-        "priority": 1.0
-      }
-    },
-    "minecraft:music.nether.warped_forest": {
-      "condition0": {
-        "biome": "minecraft:warped_forest",
         "randUntilNextSong": 300.0,
         "priority": 1.0
       }
@@ -607,6 +646,18 @@
         "priority": 1.0
       }
     },
+    "survival_remastered:music.ross_budgen-olympus": {
+      "condition0": {
+        "dimension": "minecraft:the_nether",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
+      },
+      "condition1": {
+        "dimension": "edenring:edenring",
+        "randUntilNextSong": 250.0,
+        "priority": 0.0
+      }
+    },
     "betterend:betterend.music.water": {
       "condition0": {
         "biome": "betterend:megalake",
@@ -615,13 +666,21 @@
       }
     }
   },
-  "Discs": [
-    "weird_realm",
-    "shock"
-  ],
+  "Discs": {
+    "shock": {
+      "LengthInSeconds": 127,
+      "ComparatorOutput": 0
+    },
+    "weird_realm": {
+      "LengthInSeconds": 120,
+      "ComparatorOutput": 0
+    }
+  },
   "UpdateTicks": 10,
   "BlockRange": 0,
   "EntityRange": 0,
   "AddBiomeSounds": true,
+  "UpdateAutomatically": true,
+  "Version": "0.2",
   "HasForceSwitchIn": true
 }

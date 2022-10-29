@@ -1161,6 +1161,20 @@
       "icarus:hollow_bones": true,
       "origins:no_shield": true,
       "origins:carnivore": true
+    },
+    "apocalypse:geneticist": {
+      "enabled": true,
+      "apocalypse:geneticist/geneticist_callback": true,
+      "apocalypse:geneticist/geneticist_passives": true,
+      "apocalypse:geneticist/gene_harvest": true,
+      "apocalypse:geneticist/craft_syringe": true,
+      "apocalypse:geneticist/craft_stabilizer": true,
+      "apocalypse:geneticist/stabilize_active": true,
+      "apocalypse:geneticist/craft_analyzer": true,
+      "apocalypse:geneticist/genetic_engineering": true,
+      "apocalypse:geneticist/genetic_engineering_active": true,
+      "apocalypse:geneticist/craft_antimutagens": true,
+      "apocalypse:geneticist/craft_rnabackup": true
     }
   }
 }

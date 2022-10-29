@@ -1,0 +1,9 @@
+{
+  "warden": {
+    "wardenCustomTendrils": true,
+    "wardenDyingAnimation": true,
+    "wardenEmergesFromEgg": true,
+    "wardenSwimAnimation": true
+  },
+  "unpassableRail": true
+}

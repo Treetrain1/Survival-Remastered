@@ -81,9 +81,6 @@ com.blamejared.controlling.client.NewKeyBindsScreen {
 net.minecraft.class_426 {
 }
 
-net.minecraft.class_5375 {
-}
-
 net.minecraft.class_404 {
 }
 
@@ -135,9 +132,6 @@ net.minecraft.class_446 {
 net.minecraft.class_418 {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
-}
-
 net.minecraft.class_420 {
 }
 
@@ -148,9 +142,6 @@ net.minecraft.class_3928 {
 }
 
 net.minecraft.class_435 {
-}
-
-net.minecraft.class_429 {
 }
 
 net.coderbot.iris.gui.screen.ShaderPackScreen {
@@ -165,10 +156,52 @@ net.minecraft.class_436 {
 xaero.common.gui.GuiMinimapMain {
 }
 
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_408 {
+}
+
 net.minecraft.class_433 {
 }
 
-net.minecraft.class_424 {
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_440 {
+}
+
+com.bisecthosting.mods.bhmenu.screens.BHOrderScreen {
+}
+
+io.github.apace100.origins.screen.WaitForNextLayerScreen {
+}
+
+me.axieum.mcmod.authme.impl.gui.AuthMethodScreen {
+}
+
+me.axieum.mcmod.authme.impl.gui.MicrosoftAuthScreen {
+}
+
+me.axieum.mcmod.authme.impl.gui.MojangAuthScreen {
+}
+
+me.axieum.mcmod.authme.impl.gui.OfflineAuthScreen {
+}
+
+dqu.additionaladditions.gui.CottonScreen {
+}
+
+juuxel.adorn.client.gui.screen.MainConfigScreen {
+}
+
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+net.minecraft.class_5375 {
+}
+
+com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
 }
 
 net.minecraft.class_442 {

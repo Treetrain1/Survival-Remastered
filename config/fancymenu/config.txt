@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Survival Remastered 2.0.1';
+S:customwindowtitle = 'Survival Remastered 2.1';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
@@ -65,3 +65,8 @@ B:show_server_icons = 'true';
 ##[singleplayer_screen]
 
 B:show_world_icons = 'true';
+
+
+##[compatibility]
+
+B:allow_level_registry_interactions = 'true';

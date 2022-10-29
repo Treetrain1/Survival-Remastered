@@ -9,8 +9,8 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
+  name = Lush Cave
+  action = setbackgroundpanorama
 }
 
 customization {
@@ -28,11 +28,5 @@ customization {
   identifier = %id=345962%
   action = setbuttondescription
   description = Force Unicode Font
-}
-
-customization {
-  identifier = %id=79511%
-  action = setbuttondescription
-  description = Search for a Language
 }
 

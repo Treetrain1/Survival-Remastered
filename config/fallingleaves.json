@@ -1,11 +1,13 @@
 {
   "version": 1,
   "displayDebugData": false,
+  "enabled": true,
   "leafSize": 5,
   "leafLifespan": 200,
   "leafSpawnRate": 10,
   "coniferLeafSpawnRate": 0,
   "dropFromPlayerPlacedBlocks": true,
+  "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 1,
   "windEnabled": true,
   "windlessDimensions": [

@@ -11,7 +11,7 @@
   "protection": true,
   "settingOverrides": {
     "displayed": true,
-    "heightBasedFade": false,
+    "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
@@ -19,11 +19,11 @@
     "alwaysDisplayNametags": false,
     "dotSize": 2.0,
     "startFadingAt": 0.0,
-    "renderOverMinimapFrame": 1.0,
     "displayY": false,
+    "renderOverMinimapFrame": 1.0,
     "icons": 2.0,
     "names": 1.0,
-    "heightLimit": 10.0,
+    "heightLimit": 25.0,
     "iconScale": 1.0
   },
   "subCategories": [

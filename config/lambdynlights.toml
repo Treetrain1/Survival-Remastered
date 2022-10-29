@@ -848,6 +848,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
+				jellyfish = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
@@ -884,6 +885,7 @@ mode = "fancy"
 				giant = true
 				drowned = true
 				item = true
+				cobweb = true
 				goat = true
 				horse = true
 				vindicator = true
@@ -898,6 +900,7 @@ mode = "fancy"
 				parrot = true
 				creeper = true
 				lightning_bolt = true
+				tadpole = true
 				ravager = true
 				evoker_fangs = true
 				chest_minecart = true
@@ -984,8 +987,6 @@ mode = "fancy"
 				falling_block = true
 				painting = true
 				wither = true
-				cobweb = true
-				tadpole = true
 
 			[light_sources.settings.entities.revamped_phantoms]
 				shockwave = true
@@ -1025,6 +1026,7 @@ mode = "fancy"
 				beluga = true
 				snow_seal = true
 				penguin = true
+				snow_wyrm = true
 
 			[light_sources.settings.entities.elementalcreepers]
 				rainbow_creeper = true
@@ -1120,8 +1122,8 @@ mode = "fancy"
 				direbat = true
 
 			[light_sources.settings.entities.gobber2]
-				nemesis = true
 				gobber2_arrow_end = true
+				nemesis = true
 
 			[light_sources.settings.entities.creatures_of_the_jungle]
 				crocodile = true

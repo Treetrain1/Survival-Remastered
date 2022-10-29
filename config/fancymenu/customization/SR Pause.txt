@@ -14,11 +14,95 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  orientation = mid-centered
-  x = -102
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  seconds = Infinity
+  onlyfirsttime = true
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = setbuttondescription
+  description = Report Bugs%n%Report bugs to the bug tracker
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = vanilla_button_visibility_requirements
+  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
+  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
+  x = 0
   action = movebutton
-  y = -112
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = vanilla_button_visibility_requirements
+  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
+  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  description = Discord%n%Join the Survival Remastered Discord
+  label = Discord
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_feedback_button
+  x = 0
+  width = 98
+  actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
+  action = addbutton
+  y = 0
+  value = https://discord.gg/C7bZ5kGGBA
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  description = Found a bug?%n%Go to the modpack's GitHub repository to report it
+  label = Found a bug?
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  x = 0
+  width = 98
+  actionid = 026a3f47-0b3e-4448-b1a8-b90ca05376091641747868297
+  action = addbutton
+  y = 24
+  value = https://github.com/Treetrain1/Survival-Remastered/issues
+  height = 20
 }
 
 customization {
@@ -34,49 +118,21 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -16
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   action = setbuttondescription
   description = Options!%n%Basically settings
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  orientation = mid-centered
-  x = 136
-  action = movebutton
-  y = -73
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  identifier = %id=398318%
   action = setbuttondescription
-  description = Report Bugs%n%Report bugs to the bug tracker
+  description = Mods!%n%A list of mods!
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = -16
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  action = setbuttondescription
+  description = Statistics!
 }
 
 customization {
@@ -87,38 +143,8 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -88
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   action = setbuttondescription
   description = Advancements
-}
-
-customization {
-  identifier = %id=398318%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -40
-}
-
-customization {
-  identifier = %id=398318%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = 8
 }
 
 customization {
@@ -131,51 +157,5 @@ customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to title screen
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = -88
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  action = setbuttondescription
-  description = Statistics!
-}
-
-customization {
-  orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  description = Found a bug?%n%Go to the modpack's GitHub repository to report it
-  label = Found a bug?
-  loopbackgroundanimations = true
-  x = 4
-  width = 98
-  actionid = 026a3f47-0b3e-4448-b1a8-b90ca05376091641747868297
-  action = addbutton
-  y = -64
-  value = https://github.com/Treetrain1/Survival-Remastered/issues
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  description = Discord%n%Join the Survival Remastered Discord
-  label = Discord
-  loopbackgroundanimations = true
-  x = -102
-  width = 98
-  actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
-  action = addbutton
-  y = -64
-  value = https://discord.gg/C7bZ5kGGBA
-  height = 20
 }
 

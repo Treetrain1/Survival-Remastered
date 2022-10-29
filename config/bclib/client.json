@@ -22,5 +22,8 @@
   "version": {
     "didShowWelcome [default: false]": true,
     "check [default: true]": false
+  },
+  "infos": {
+    "survives_on_hint [default: true]": true
   }
 }

@@ -3,129 +3,21 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  renderorder = foreground
+  renderorder = background
   randommode = false
   minimummcversion = 1.18.1
   randomonlyfirsttime = false
-  maximummcversion = 1.19
+  maximummcversion = 1.20.5
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
-}
-
-customization {
-  action = setscale
-  scale = 4
-}
-
-customization {
-  baseheight = 1080
-  action = autoscale
-  basewidth = 1920
+  name = Lush Cave
+  action = setbackgroundpanorama
 }
 
 customization {
   keepaspectratio = false
   action = backgroundoptions
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -101
-  action = movebutton
-  y = 28
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  seconds = 1.3
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = setbuttondescription
-  description = Multiplayer!%n%Go play with friends!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -101
-  action = movebutton
-  y = 51
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  seconds = 1.4
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = mid-centered
-  x = 102
-  action = movebutton
-  y = 76
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  seconds = 1.5
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  action = setbuttondescription
-  description = Accessibility!%n%Accessibility Settings
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -101
-  action = movebutton
-  y = 5
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  seconds = 1.2
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = setbuttondescription
-  description = Singleplayer!%n%Go play alone!
 }
 
 customization {
@@ -149,16 +41,17 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-centered
-  x = -101
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  x = 0
   action = movebutton
-  y = 76
+  y = -24
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  seconds = 1.5
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.3
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -166,28 +59,28 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = setbuttondescription
-  description = Options!%n%Preferences
+  description = Multiplayer!%n%Go play with friends!
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 1
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
   action = movebutton
-  y = 76
+  y = -24
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value = Rage Quit
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  seconds = 1.5
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.2
   onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
@@ -195,30 +88,9 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = setbuttondescription
-  description = Rage Quit%n%Quit to Desktop
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-centered
-  x = -124
-  action = movebutton
-  y = 76
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  seconds = 1.5
-  onlyfirsttime = true
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = setbuttondescription
-  description = Language!%n%If you want to change the language.
+  description = Singleplayer!%n%Go play alone!
 }
 
 customization {
@@ -246,7 +118,7 @@ customization {
 customization {
   orientation = top-left
   hidden = true
-  x = 108
+  x = 247
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = dabb66fd-f257-491a-bd6f-37aed15605ca1656391911336
@@ -255,27 +127,106 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = top-centered
   splash_color = #ffff00
   hidden = false
-  x = 154
+  x = 121
   width = 60
   splash_rotation = -15
   action = deep_customization_element:title_screen_splash
   actionid = ac6813be-2eed-468b-b3e5-781ac1c10fd31656391911336
-  y = -18
+  y = 93
   splash_file_path = SR_Resources/splash/splashes.txt
   height = 30
 }
 
 customization {
   path = SR_Resources/survival-remastered-title.png
-  orientation = mid-centered
+  orientation = top-centered
   x = -121
   width = 242
   action = addtexture
   actionid = 9e005b73-b702-4ced-a6fe-246c320f6a5a1638046106120
-  y = -89
+  y = 25
   height = 71
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttondescription
+  description = Mods!%n%A list of mods!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 1.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttondescription
+  description = Accessibility!%n%Accessibility Settings
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttondescription
+  description = Options!%n%Preferences
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.5
+  onlyfirsttime = true
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Language!%n%If you want to change the language.
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Rage Quit
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttondescription
+  description = Rage Quit%n%Quit to Desktop
 }
 

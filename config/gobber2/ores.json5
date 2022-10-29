@@ -7,7 +7,8 @@
 	*/
 	"luckyVeinSize": 4,
 	"luckyMaxLevel": 120,
-	"luckyPerChunk": 15,
+	"luckyPerChunk": 10,
+	"luckyExpOrbs": 2,
 	/* 
 	   
 	   ***********************
@@ -16,7 +17,7 @@
 	*/
 	"luckyDeepslateVeinSize": 4,
 	"luckyDeepslateMaxLevel": 0,
-	"luckyDeepslatePerChunk": 15,
+	"luckyDeepslatePerChunk": 10,
 	/* 
 	   
 	   ***********************
@@ -25,12 +26,21 @@
 	*/
 	"luckyNetherVeinSize": 4,
 	"luckyNetherMaxLevel": 128,
-	"luckyNetherPerChunk": 15,
+	"luckyNetherPerChunk": 10,
+	/* 
+	   
+	   ***********************
+	   Lucky Block - End
+	   ***********************
+	*/
+	"luckyEndVeinSize": 5,
+	"luckyEndMaxLevel": 180,
+	"luckyEndPerChunk": 12,
 	/* 
 	   
 	   ***********************
 	   Lucky Block - Drops
-	   - only use values between .01 to .99
+	   - only use values between .001 to .999
 	   - values cannot overlap
 	   - values should be in decending order from
 	   cutoff, common, uncommon, and rare
@@ -47,12 +57,21 @@
 	/* 
 	   
 	   ***********************
+	   Blast Resistance
+	   ***********************
+	*/
+	"oreBlastResistance": 1300,
+	"glassBlastResistance": 1300,
+	"blockBlastResistance": 1300,
+	/* 
+	   
+	   ***********************
 	   Gobber Ore
 	   ***********************
 	*/
 	"gobberVeinSize": 4,
 	"gobberMaxLevel": 5,
-	"gobberPerChunk": 20,
+	"gobberPerChunk": 8,
 	/* 
 	   
 	   ***********************
@@ -61,7 +80,7 @@
 	*/
 	"gobberDeepslateVeinSize": 4,
 	"gobberDeepslateMaxLevel": 0,
-	"gobberDeepslatePerChunk": 20,
+	"gobberDeepslatePerChunk": 8,
 	/* 
 	   
 	   ***********************
@@ -69,8 +88,8 @@
 	   ***********************
 	*/
 	"netherGobberVeinSize": 4,
-	"netherGobberMaxLevel": 40,
-	"netherGobberPerChunk": 20,
+	"netherGobberMaxLevel": 65,
+	"netherGobberPerChunk": 6,
 	/* 
 	   
 	   ***********************
@@ -79,5 +98,5 @@
 	*/
 	"endGobberVeinSize": 9,
 	"endGobberMaxLevel": 180,
-	"endGobberPerChunk": 25
+	"endGobberPerChunk": 4
 }

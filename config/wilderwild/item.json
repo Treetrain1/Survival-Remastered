@@ -1,0 +1,7 @@
+{
+  "ancientHorn": {
+    "ancientHornShattersGlass": true,
+    "ancientHornCanSummonWarden": true
+  },
+  "projectileBreakParticles": true
+}
