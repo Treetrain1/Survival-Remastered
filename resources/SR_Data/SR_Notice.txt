@@ -1,0 +1,6 @@
+Any of the data in this folder is not in any way my property.
+
+Source:
+https://www.curseforge.com/minecraft/mc-mods/better-end-cities
+
+I wish there was a way to have it download from their sources instead of including the files in the modpack, but I haven't found one yet.
