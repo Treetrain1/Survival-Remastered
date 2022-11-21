@@ -38,7 +38,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# 
 	chunkStreamVersion = "default"
 	# (Default: false) Whether to use the optimized implementation of IO system
-	replaceImpl = false
+	replaceImpl = "default"
 	# (Default: 1536) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 6144) Hard limit for io worker nbt cache
@@ -48,12 +48,12 @@ defaultGlobalExecutorParallelismExpression = "default"
 [threadedWorldGen]
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
-	allowThreadedFeatures = true
+	allowThreadedFeatures = "default"
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
-	reduceLockRadius = true
+	reduceLockRadius = "default"
 	# (Default: false) Whether to enable this feature
-	enabled = true
+	enabled = "default"
 
 # Configuration for async scheduling system
 [asyncScheduling]
@@ -61,7 +61,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
-	enabled = true
+	enabled = false
 
 # Configuration for general optimizations
 [generalOptimizations]
@@ -97,7 +97,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 [noTickViewDistance]
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
-	compatibilityMode = true
+	compatibilityMode = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -118,7 +118,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
-	optimizeAquifer = "default"
+	optimizeAquifer = false
 	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)

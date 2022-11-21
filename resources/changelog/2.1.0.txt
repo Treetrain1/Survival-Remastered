@@ -1,0 +1,117 @@
+Survival Remastered 2.1.0
+
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THERE IS A CHANCE UPDATING THIS MODPACK CAN BREAK EXISTING WORLDS
+THIS UPDATE CONTAINS BREAKING CHANGES
+
+Updated to 1.19.2
+Updated Fabric Loader to 0.14.10
+Updated Fabric API to 0.67.0
+Updated Mods
+
+Added So I heard you were talking crap about Minecraft's combat?
+Added Enchantment Descriptions
+Added CleanCut
+Added Ost Overhaul
+Added Macaw's Doors
+Added Enchant the Rainbow
+Added Roughly Enough Trades
+Added Roughly Enough Loot Tables
+Added YUNG's Better Strongholds
+Added YUNG's Better Dungeons
+Added YUNG's Better Mineshafts
+Added YUNG's Better Desert Temples
+Added YUNG's Better Ocean Monuments
+Added Borderless Mining
+Added Tech Reborn Patchouli
+Added Emojiful
+Added Easy Anvils
+Added Better Animations Collection
+Added Geode+
+Added The Graveyard Biomes
+Added Paradise Lost
+Added Galosphere
+Added Better Tridents
+Added Global Packs
+Added Blur
+Added The Twilight Forest
+Added Server Performance - Smooth Chunk Save
+Added Immersive Weathering
+Added DashLoader
+Added Fastload
+Added Entity Collision FPS Fix Refabricated
+Added Log Begone
+Added Every Compat
+Added Diagonal Fences
+Added Connectivity
+Added Fabric Seasons
+Added Farsight
+Added Visual Workbench
+Added Bolt
+
+Added Datapacks
+Added Repurposed Structures - More Villagers Compat Datapack
+Added Repurposed Structures - Farmer's Delight Compat Datapack
+Added Repurposed Structures - Better Dungeons Compat Datapack
+Added Repurposed Structures - Better Strongholds Compat Datapack
+Added Repurposed Structures - Friends and Foes Compat Datapack
+Added Repurposed Structures - Better Desert Temples Compat Datapack
+Added Repurposed Structures - Better Ocean Monuments Compat Datapack
+
+Temporarily removed Roughly Enough Resources
+Removed Music Duration Reducer
+Removed Sound Muffler Block
+Removed Alloy Forgery
+Removed Boat Container
+Removed Conduits Prevent Drowned
+Removed Customizable Elytra
+Removed DragonLoot
+Removed Hookshot
+Removed More Zombie Villagers
+Removed Random Bone Meal Flowers
+Removed Better Echo Shards
+Removed Impaled
+Removed Sparkle
+Removed Healing Campfire
+Removed More Banner Features
+Removed Motschen's Puddles
+Removed An Origins Addon - Apocalypse
+Removed Clear Skies
+Removed Gamma Utils
+Removed KubeJS
+Removed MC Dungeons Armors
+Removed MC Dungeons Artifacts
+Removed MC Dungeons Weapons
+Removed Better Animals Plus
+Removed ServerCore
+Removed Macaw's Trapdoors
+Removed Very Many Players
+Removed Additional Additions
+Removed Ambient Environment
+Removed Concurrent Chunk Management Engine
+Removed Falling Leaves
+Removed Chime
+Removed Macaw's Bridges
+Removed Macaw's Doors
+Removed Macaw's Fences and Walls
+Removed Macaw's Lights and Lamps
+Removed Macaw's Paintings
+Removed Macaw's Paths and Pavings
+Removed Macaw's Roofs
+Removed Macaw's Windows
+Removed Better Compatibility Checker (Replaced)
+Removed CleanCut (Replaced)
+Removed Disable Custom Worlds Advice (Replaced)
+
+Reduced the effectiveness of Gobber items
+Increased the rarity of Gobber ores
+Disabled Sunken Skeleton spawning
+
+Updated the menu backgrounds
+Updated some screens to use a panorama
+Updated some textures to have parity with the dark theme
+Adjusted some incorrect text colors
+Fixed the positioning of some GUI elements
+Fixed a few other issues

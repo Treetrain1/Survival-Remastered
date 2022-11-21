@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_435
+  identifier = com.hrznstudio.emojiful.gui.EmojifulChatScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -9,12 +9,12 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
+  keepaspectratio = false
+  action = backgroundoptions
 }
 
 customization {
-  keepaspectratio = false
-  action = backgroundoptions
+  identifier = %id=952963%
+  action = hidebutton
 }
 

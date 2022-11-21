@@ -77,6 +77,7 @@
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
 				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			],
+			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
@@ -152,7 +153,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"showCraftableOnlyButton": true
+			"showCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
