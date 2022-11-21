@@ -1,7 +1,7 @@
 {
   "enableSplashes": true,
   "splashRimAlpha": 0.7,
-  "enableCascades": true,
+  "enableCascades": false,
   "cascadeSoundsVolumeMultiplier": 100,
   "cascadeSoundDistanceBlocks": 150,
   "shouldFlowingWaterSpawnParticlesOnFirstTick": true,

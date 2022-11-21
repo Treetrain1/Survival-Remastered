@@ -322,12 +322,8 @@
 			id: "45ACF92E7B1D1B32"
 			tasks: [{
 				id: "5DE66B34D06F1B4B"
-				type: "questsadditions:place"
+				type: "custom"
 				disable_toast: true
-				block: "twm:sculk_shrieker"
-				replaced: "minecraft:air"
-				value: 1L
-				replace: false
 			}]
 			rewards: [{
 				id: "4B5B9B4EE3D76A52"

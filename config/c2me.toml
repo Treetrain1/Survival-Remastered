@@ -38,7 +38,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# 
 	chunkStreamVersion = "default"
 	# (Default: false) Whether to use the optimized implementation of IO system
-	replaceImpl = "default"
+	replaceImpl = true
 	# (Default: 1536) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 6144) Hard limit for io worker nbt cache
@@ -53,7 +53,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
 	# (Default: false) Whether to enable this feature
-	enabled = "default"
+	enabled = true
 
 # Configuration for async scheduling system
 [asyncScheduling]
@@ -61,7 +61,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
-	enabled = false
+	enabled = true
 
 # Configuration for general optimizations
 [generalOptimizations]
@@ -118,7 +118,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
-	optimizeAquifer = false
+	optimizeAquifer = true
 	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)

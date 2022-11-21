@@ -113,6 +113,13 @@
         "priority": 1.0
       }
     },
+    "galosphere:music.biome.lichen_caves": {
+      "condition0": {
+        "biome": "galosphere:lichen_caves",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
     "ostoverhaul:the_ancient_city": {
       "condition0": {
         "randUntilNextSong": 600.0,
@@ -534,6 +541,13 @@
       "condition0": {
         "biome": "minecraft:lush_caves",
         "randUntilNextSong": 300.0,
+        "priority": 1.0
+      }
+    },
+    "galosphere:music.biome.crystal_canyons": {
+      "condition0": {
+        "biome": "galosphere:crystal_canyons",
+        "randUntilNextSong": 12000.0,
         "priority": 1.0
       }
     },

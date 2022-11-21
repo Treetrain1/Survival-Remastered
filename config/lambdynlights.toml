@@ -577,15 +577,24 @@ mode = "fancy"
 
 			[light_sources.settings.entities.biomemakeover]
 				dragonfly = true
+				rootling = true
+				tadpole = true
+				adjudicator = true
 				lightning_bug = true
+				owl = true
 				toad = true
 				lightning_bug_alternate = true
+				helmit_crab = true
 
 			[light_sources.settings.entities.ae2]
 				charged_quartz = true
 				growing_crystal = true
 				singularity = true
 				tiny_tnt_primed = true
+
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
+				spectre = true
 
 			[light_sources.settings.entities.impaled]
 				elder_trident = true
@@ -838,6 +847,44 @@ mode = "fancy"
 
 			[light_sources.settings.entities.oxidized]
 				copper_golem = true
+
+			[light_sources.settings.entities.twilightforest]
+				deer = true
+				hedge_spider = true
+				death_tome = true
+				skeleton_druid = true
+				kobold = true
+				loyal_zombie = true
+				slime_beetle = true
+				seeker_arrow = true
+				redcap_sapper = true
+				boar = true
+				lich = true
+				armored_giant = true
+				cube_of_annihilation = true
+				mist_wolf = true
+				swarm_spider = true
+				dwarf_rabbit = true
+				winter_wolf = true
+				raven = true
+				redcap = true
+				wand_bolt = true
+				hostile_wolf = true
+				mosquito_swarm = true
+				tome_bolt = true
+				protection_box = true
+				ice_arrow = true
+				squirrel = true
+				king_spider = true
+				wraith = true
+				tiny_bird = true
+				lich_bolt = true
+				giant_miner = true
+				ur_ghast = true
+				yeti = true
+				lich_bomb = true
+				naga = true
+				bighorn_sheep = true
 
 			[light_sources.settings.entities.dawn]
 				custom_tnt = true
@@ -1176,6 +1223,15 @@ mode = "fancy"
 				endermite_powder = true
 				boat = true
 				coral_squid = true
+
+			[light_sources.settings.entities.paradise_lost]
+				white_swet = true
+				purple_swet = true
+				golden_swet = true
+				aerbunny = true
+				poison_needle = true
+				aechor_plant = true
+				blue_swet = true
 
 			[light_sources.settings.entities.aqupd]
 				grizzly_bear = true

@@ -204,9 +204,9 @@ net.minecraft.class_5375 {
 com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
 }
 
-net.minecraft.class_442 {
+com.hrznstudio.emojiful.gui.EmojifulChatScreen {
 }
 
-com.hrznstudio.emojiful.gui.EmojifulChatScreen {
+net.minecraft.class_442 {
 }
 

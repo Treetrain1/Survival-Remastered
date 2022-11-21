@@ -363,10 +363,10 @@
 	"gobberArmorEnchantability": 25,
 	"gobberToughness": 1.7000000476837158,
 	"gobberKnockbackResistance": 0.0,
-	"gobberHeadProtection": 5,
-	"gobberChestProtection": 10,
-	"gobberLeggingsProtection": 8,
-	"gobberBootsProtection": 5,
+	"gobberHeadProtection": 3,
+	"gobberChestProtection": 8,
+	"gobberLeggingsProtection": 6,
+	"gobberBootsProtection": 3,
 	/* 
 	   
 	   
@@ -378,10 +378,10 @@
 	"gobberNetherArmorEnchantability": 30,
 	"gobberNetherToughness": 3.25,
 	"gobberNetherKnockbackResistance": 0.125,
-	"netherHeadProtection": 6,
-	"netherChestProtection": 11,
-	"netherLeggingsProtection": 9,
-	"netherBootsProtection": 6,
+	"netherHeadProtection": 4,
+	"netherChestProtection": 9,
+	"netherLeggingsProtection": 7,
+	"netherBootsProtection": 4,
 	/* 
 	   
 	   
@@ -393,10 +393,10 @@
 	"gobberEndArmorEnchantability": 30,
 	"gobberEndToughness": 3.75,
 	"gobberEndKnockbackResistance": 0.20000000298023224,
-	"endHeadProtection": 8,
-	"endChestProtection": 13,
-	"endLeggingsProtection": 11,
-	"endBootsProtection": 8,
+	"endHeadProtection": 6,
+	"endChestProtection": 10,
+	"endLeggingsProtection": 8,
+	"endBootsProtection": 6,
 	/* 
 	   
 	   
@@ -408,10 +408,10 @@
 	"gobberDragonArmorEnchantability": 30,
 	"gobberDragonToughness": 3.75,
 	"gobberDragonKnockbackResistance": 0.30000001192092896,
-	"dragonHeadProtection": 8,
-	"dragonChestProtecction": 13,
-	"dragonLeggingsProtection": 11,
-	"dragonBootsProtection": 8,
+	"dragonHeadProtection": 7,
+	"dragonChestProtecction": 11,
+	"dragonLeggingsProtection": 9,
+	"dragonBootsProtection": 7,
 	"enableaArmorCap": true,
 	/* 
 	   
@@ -428,9 +428,9 @@
 	   Nether Armor Features
 	   ***********************
 	*/
-	"enableNetherFirePerk": false,
+	"enableNetherFirePerk": true,
 	"enableNetherHealthPerks": true,
-	"healingPointsNetherArmor": 2,
+	"healingPointsNetherArmor": 1,
 	/* 
 	   
 	   ***********************
@@ -438,8 +438,8 @@
 	   ***********************
 	*/
 	"unbreakableEndArmor": false,
-	"enableEndBreathing": false,
-	"enableEndFirePerk": false,
+	"enableEndBreathing": true,
+	"enableEndFirePerk": true,
 	"enableEndHealthPerks": true,
 	"healingPointsEndArmor": 3,
 	"enableEndNoFallDamage": false,

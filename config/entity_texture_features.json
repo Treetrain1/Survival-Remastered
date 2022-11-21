@@ -13,6 +13,7 @@
   "enableEmissiveTextures": true,
   "enableEmissiveBlockEntities": true,
   "fullBrightEmissives": false,
+  "emissiveRenderMode": "DULL",
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,
   "skinFeaturesEnabled": true,
@@ -34,5 +35,5 @@
   "removePixelsUnderEmissiveMobs": true,
   "removePixelsUnderEmissiveBlockEntity": true,
   "ignoredConfigs": [],
-  "hideConfigButton": false
+  "hideConfigButton": true
 }

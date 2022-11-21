@@ -7,7 +7,7 @@
 	*/
 	"luckyVeinSize": 4,
 	"luckyMaxLevel": 120,
-	"luckyPerChunk": 10,
+	"luckyPerChunk": 5,
 	"luckyExpOrbs": 2,
 	/* 
 	   
@@ -17,7 +17,7 @@
 	*/
 	"luckyDeepslateVeinSize": 4,
 	"luckyDeepslateMaxLevel": 0,
-	"luckyDeepslatePerChunk": 10,
+	"luckyDeepslatePerChunk": 5,
 	/* 
 	   
 	   ***********************
@@ -26,7 +26,7 @@
 	*/
 	"luckyNetherVeinSize": 4,
 	"luckyNetherMaxLevel": 128,
-	"luckyNetherPerChunk": 10,
+	"luckyNetherPerChunk": 5,
 	/* 
 	   
 	   ***********************
@@ -35,7 +35,7 @@
 	*/
 	"luckyEndVeinSize": 5,
 	"luckyEndMaxLevel": 180,
-	"luckyEndPerChunk": 12,
+	"luckyEndPerChunk": 6,
 	/* 
 	   
 	   ***********************
@@ -71,7 +71,7 @@
 	*/
 	"gobberVeinSize": 4,
 	"gobberMaxLevel": 5,
-	"gobberPerChunk": 8,
+	"gobberPerChunk": 4,
 	/* 
 	   
 	   ***********************
@@ -80,7 +80,7 @@
 	*/
 	"gobberDeepslateVeinSize": 4,
 	"gobberDeepslateMaxLevel": 0,
-	"gobberDeepslatePerChunk": 8,
+	"gobberDeepslatePerChunk": 4,
 	/* 
 	   
 	   ***********************
@@ -89,14 +89,14 @@
 	*/
 	"netherGobberVeinSize": 4,
 	"netherGobberMaxLevel": 65,
-	"netherGobberPerChunk": 6,
+	"netherGobberPerChunk": 3,
 	/* 
 	   
 	   ***********************
 	   End Gobber Ore
 	   ***********************
 	*/
-	"endGobberVeinSize": 9,
+	"endGobberVeinSize": 6,
 	"endGobberMaxLevel": 180,
-	"endGobberPerChunk": 4
+	"endGobberPerChunk": 2
 }

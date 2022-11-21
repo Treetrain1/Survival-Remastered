@@ -39,7 +39,7 @@
 		// Login Offline
 		"offline": {
 			// Last used username
-			"lastUsername": "j"
+			"lastUsername": ""
 		}
 	}
 }

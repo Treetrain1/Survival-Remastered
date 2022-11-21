@@ -18,7 +18,7 @@ deathpoints:false
 oldDeathpoints:false
 distance:1
 showCoords:false
-lockNorth:false
+lockNorth:true
 zoom:1
 minimapSize:0
 chunkGrid:-1
@@ -74,7 +74,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:1
+minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0

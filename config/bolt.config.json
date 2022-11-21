@@ -1,0 +1,35 @@
+{
+  "clearChatHistory": true,
+  "disableChatClearing": true,
+  "disableResourcePackWarning": true,
+  "skipLoadingTransition": true,
+  "skipToastFadeOut": false,
+  "skipTitleFadeIn": true,
+  "disableExperimentalWarning": true,
+  "enableItemDespawnBlink": true,
+  "despawnBlinkSpeed": 6000,
+  "enableQuickCrouch": false,
+  "quickCrouchSpeed": 10.0,
+  "despawnBlinkStartTime": 20,
+  "modpackBranding": {
+    "enabled": true,
+    "enableTitlescreenBranding": false,
+    "modpackName": "Survival Remastered",
+    "modpackVersion": {
+      "ID": "523374",
+      "semName": "2.1.0",
+      "releaseType": "Release"
+    },
+    "modpackID": "survival-remastered",
+    "modpackAuthors": [
+      "Treetrain1"
+    ],
+    "URLS": {
+      "website": "https://curseforge.com/minecraft/modpacks/survival-remastered",
+      "support": "https://github.com/Treetrain1/Survival-Remastered/issues",
+      "repository": "https://github.com/Treetrain1/Survival-Remastered"
+    }
+  },
+  "enableCutThroughGrass": true,
+  "enableHideHandKeybind": false
+}

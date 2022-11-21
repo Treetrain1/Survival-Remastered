@@ -12,7 +12,8 @@
     "suppressExperimentalDialogOnLoad [default: false]": false,
     "showUpdateInfo [default: true]": true,
     "forceBetterXPreset [default: true]": true,
-    "iAmNotTheDonorType [default: false]": false
+    "iAmNotTheDonorType [default: false]": false,
+    "preferModrinthForUpdates [default: true]": true
   },
   "rendering": {
     "netherThickFog [default: true]": true,

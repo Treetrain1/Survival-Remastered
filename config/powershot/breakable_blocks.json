@@ -400,6 +400,7 @@
 		"minecraft:brown_mushroom_block",
 		"minecraft:mushroom_stem",
 		"minecraft:ice",
+		"seasons:seasonal_ice",
 		"minecraft:lightning_rod"
       ],
       "power_req": 3.15,

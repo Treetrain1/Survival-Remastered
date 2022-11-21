@@ -35,5 +35,9 @@
   "minecraft:entity_armor": null,
   "minecraft:crop_progress": null,
   "minecraft:mob_spawner": null,
-  "minecraft:block_inventory": null
+  "minecraft:block_inventory": null,
+  "twilightforest:quest_ram_wool": null,
+  "minecraft:fluid": null,
+  "minecraft:energy_storage": null,
+  "minecraft:progress": null
 }
