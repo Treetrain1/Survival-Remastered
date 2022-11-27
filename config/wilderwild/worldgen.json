@@ -5,7 +5,8 @@
     "modifySwampPlacement": false,
     "modifyMangroveSwampPlacement": false
   },
-  "betaBeaches": true,
+  "betaBeaches": false,
+  "dyingTrees": true,
   "fallenLogs": true,
   "wilderWildTreeGen": true,
   "wilderWildGrassGen": true

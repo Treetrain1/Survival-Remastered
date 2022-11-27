@@ -688,6 +688,12 @@ mode = "fancy"
 				rocket_ship_v3 = true
 				rocket_ship_v2 = true
 
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				stationary_contraption = true
+				super_glue = true
+				potato_projectile = true
+
 			[light_sources.settings.entities.wilderworld]
 				butterfly = true
 
@@ -849,41 +855,71 @@ mode = "fancy"
 				copper_golem = true
 
 			[light_sources.settings.entities.twilightforest]
-				deer = true
-				hedge_spider = true
 				death_tome = true
-				skeleton_druid = true
 				kobold = true
 				loyal_zombie = true
-				slime_beetle = true
-				seeker_arrow = true
 				redcap_sapper = true
 				boar = true
 				lich = true
-				armored_giant = true
-				cube_of_annihilation = true
+				hydra = true
+				hydra_mortar = true
+				unstable_ice_core = true
 				mist_wolf = true
-				swarm_spider = true
 				dwarf_rabbit = true
 				winter_wolf = true
-				raven = true
-				redcap = true
-				wand_bolt = true
-				hostile_wolf = true
-				mosquito_swarm = true
-				tome_bolt = true
-				protection_box = true
-				ice_arrow = true
+				fire_beetle = true
+				carminite_golem = true
+				helmet_crab = true
+				lower_goblin_knight = true
 				squirrel = true
 				king_spider = true
-				wraith = true
+				maze_slime = true
+				slime_blob = true
 				tiny_bird = true
 				lich_bolt = true
-				giant_miner = true
+				ice_crystal = true
 				ur_ghast = true
 				yeti = true
 				lich_bomb = true
+				pinch_beetle = true
+				deer = true
+				hedge_spider = true
+				thrown_block = true
+				lich_minion = true
+				skeleton_druid = true
+				carminite_ghastguard = true
+				slime_beetle = true
+				seeker_arrow = true
+				ice_snowball = true
+				carminite_ghastling = true
+				armored_giant = true
+				minoshroom = true
+				cube_of_annihilation = true
+				swarm_spider = true
+				blockchain_goblin = true
+				knight_phantom = true
+				carminite_broodling = true
+				nature_bolt = true
+				raven = true
+				redcap = true
+				wand_bolt = true
+				upper_goblin_knight = true
+				troll = true
+				hostile_wolf = true
+				mosquito_swarm = true
+				thrown_ice = true
+				tome_bolt = true
+				stable_ice_core = true
+				protection_box = true
+				ice_arrow = true
+				minotaur = true
+				wraith = true
+				alpha_yeti = true
+				giant_miner = true
+				snow_queen = true
+				snow_guardian = true
 				naga = true
+				penguin = true
 				bighorn_sheep = true
 
 			[light_sources.settings.entities.dawn]
@@ -1171,6 +1207,7 @@ mode = "fancy"
 			[light_sources.settings.entities.gobber2]
 				gobber2_arrow_end = true
 				nemesis = true
+				gobber2_arrow = true
 
 			[light_sources.settings.entities.creatures_of_the_jungle]
 				crocodile = true
@@ -1232,6 +1269,7 @@ mode = "fancy"
 				poison_needle = true
 				aechor_plant = true
 				blue_swet = true
+				moa = true
 
 			[light_sources.settings.entities.aqupd]
 				grizzly_bear = true

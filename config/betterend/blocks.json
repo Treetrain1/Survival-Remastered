@@ -473,5 +473,6 @@
       "needlegrass [default: 45]": 45
     }
   },
-  "crystal_moss_cover [default: true]": true
+  "crystal_moss_cover [default: true]": true,
+  "budding_smaragdant_crystal [default: true]": true
 }

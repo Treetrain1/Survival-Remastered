@@ -269,12 +269,12 @@
 	   - cobweb and explode are mutually exclusive
 	   ***********************
 	*/
-	"enableEffectsGobberArrow": true,
+	"enableEffectsGobberArrow": false,
 	"effectDurationGobberArrow": 300,
 	"enableGobberArrowCobweb": false,
 	"enableGobberArrowExplode": false,
 	"explosionFactorGobberArrow": 2,
-	"extraDamageGobberArrow": 5,
+	"extraDamageGobberArrow": 3,
 	"piercingLeveGobberArrow": 0,
 	"punchLevelGobberArrow": 0,
 	/* 
@@ -284,11 +284,11 @@
 	   - effects - slowing, wither, glowing
 	   ***********************
 	*/
-	"enableEffectsNetherArrow": true,
+	"enableEffectsNetherArrow": false,
 	"effectDurationNetherArrow": 300,
 	"enableNetherArrowFire": true,
 	"secondsEntityOnFireDuration": 30,
-	"extraDamageNetherArrow": 7,
+	"extraDamageNetherArrow": 3,
 	"piercingLevelNetherArrow": 1,
 	"punchLevelNetherArrow": 1,
 	/* 
@@ -299,12 +299,12 @@
 	   - cloud, cage, and levitation are mutually exclusive
 	   ***********************
 	*/
-	"enableEffectsEndArrow": true,
+	"enableEffectsEndArrow": false,
 	"effectDurationEndArrow": 300,
-	"enablEndArrowCloud": true,
+	"enablEndArrowCloud": false,
 	"enableEndArrowGlassCage": false,
 	"enableLevitationEndArrow": false,
-	"extraDamageEndArrow": 10,
+	"extraDamageEndArrow": 5,
 	"piercingLevelEndArrow": 2,
 	"punchLevelEndArrow": 2,
 	/* 

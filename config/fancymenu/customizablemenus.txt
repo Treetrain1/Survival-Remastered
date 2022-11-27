@@ -168,9 +168,6 @@ net.minecraft.class_433 {
 net.minecraft.class_429 {
 }
 
-net.minecraft.class_440 {
-}
-
 com.bisecthosting.mods.bhmenu.screens.BHOrderScreen {
 }
 
@@ -208,5 +205,8 @@ com.hrznstudio.emojiful.gui.EmojifulChatScreen {
 }
 
 net.minecraft.class_442 {
+}
+
+net.minecraft.class_440 {
 }
 

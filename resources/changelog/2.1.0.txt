@@ -15,7 +15,6 @@ Added So I heard you were talking crap about Minecraft's combat?
 Added Enchantment Descriptions
 Added CleanCut
 Added Ost Overhaul
-Added Macaw's Doors
 Added Enchant the Rainbow
 Added Roughly Enough Trades
 Added Roughly Enough Loot Tables
@@ -50,6 +49,11 @@ Added Fabric Seasons
 Added Farsight
 Added Visual Workbench
 Added Bolt
+Added Voice Chat Interaction
+Added Create Fabric
+Added Create Crafts & Additions
+Added Jade Addons
+Added MixinTrace
 
 Added Datapacks
 Added Repurposed Structures - More Villagers Compat Datapack
@@ -94,7 +98,6 @@ Removed Concurrent Chunk Management Engine
 Removed Falling Leaves
 Removed Chime
 Removed Macaw's Bridges
-Removed Macaw's Doors
 Removed Macaw's Fences and Walls
 Removed Macaw's Lights and Lamps
 Removed Macaw's Paintings
@@ -104,6 +107,7 @@ Removed Macaw's Windows
 Removed Better Compatibility Checker (Replaced)
 Removed CleanCut (Replaced)
 Removed Disable Custom Worlds Advice (Replaced)
+Removed Motschen's Better Leaves
 
 Reduced the effectiveness of Gobber items
 Increased the rarity of Gobber ores

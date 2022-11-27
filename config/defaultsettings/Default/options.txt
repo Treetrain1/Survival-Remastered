@@ -1,4 +1,4 @@
-version:3105
+version:3120
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -11,7 +11,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:false
+showSubtitles:true
 directionalAudio:true
 touchscreen:false
 fullscreen:false
@@ -20,15 +20,15 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
-mouseSensitivity:0.5
+mouseSensitivity:0.5042253521126762
 fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:6
+renderDistance:10
 simulationDistance:5
-entityDistanceScaling:1.25
+entityDistanceScaling:3.5
 guiScale:3
 particles:0
 maxFps:260
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Black Icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35].zip","file/darkpack-v2.1.zip","file/Better-Leaves-7.1-1.19+.zip","file/SR Resources"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.35].zip","file/darkpack-v2.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","black_icons","continuity/default","continuity/glass_pane_culling_fix","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.36].zip","file/darkpack-v2.3.zip","file/SR_Resources","Everycomp Generated Pack","Immersive Weathering Generated Pack"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.36].zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
@@ -75,10 +75,10 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-chatPreview:true
+chatPreview:1
 onlyShowSecureChat:true
-soundCategory_master:0.67417216
-soundCategory_music:0.15070422
+soundCategory_master:0.6754967
+soundCategory_music:0.15352112
 soundCategory_record:1.0
 soundCategory_weather:0.15352112
 soundCategory_block:1.0
@@ -94,8 +94,8 @@ soundCategory_chat:1.0
 soundCategory_chat_mention:1.0
 soundCategory_effects:1.0
 soundCategory_scroll:1.0
-soundCategory_typing:0.15562914
-modelPart_cape:false
+soundCategory_typing:0.0
+modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true

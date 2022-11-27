@@ -177,6 +177,11 @@ customization {
 }
 
 customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 1.5
   onlyfirsttime = true

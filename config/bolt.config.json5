@@ -1,0 +1,67 @@
+{
+	// Allows you to control whether chat history is cleared.
+	"clearChatHistory": true,
+	// Whether or not chat messages fade out, letting you scroll up infinitely since you joined the world/server.
+	"disableChatClearing": true,
+	// Disable the annoying resource pack warning.
+	"disableResourcePackWarning": true,
+	// Skips the loading screen fade.
+	"skipLoadingTransition": true,
+	// Skips toast's fading out effect and disables the fade out sound effect.
+	"skipToastFadeOut": false,
+	// Skips the title screen's fade in effect.
+	"skipTitleFadeIn": true,
+	// Disables the experimental warning when joining modded worlds or worlds with datapacks enabled.
+	"disableExperimentalWarning": true,
+	// Makes it so items blink when they're about to despawn.
+	"enableItemDespawnBlink": true,
+	// The amount of time in milliseconds before the item should start blinking.
+	"despawnBlinkSpeed": 6000,
+	// The amount of time in milliseconds between a single blink.
+	"despawnBlinkStartTime": 20,
+	// If quick crouching should be enabled - should crouching be sped up?
+	"enableQuickCrouch": false,
+	// The time that it takes to crouch in milliseconds.
+	"quickCrouchSpeed": 10.0,
+	// Allows the player to attack entities through grass.
+	"enableCutThroughGrass": true,
+	// Allows the hands of the player to be hidden when pressing a keybind (F10 by default)
+	"enableHideHandKeybind": false,
+	"modpackBranding": {
+		// Whether to enable modpack branding.
+		"enabled": true,
+		/* Whether to show the modpack name and version on the main menu (Fabric only.) 
+		   Please disable if FancyMenu is installed.
+		*/
+		"enableTitlescreenBranding": false,
+		// The name of the modpack.
+		"modpackName": "Survival Remastered",
+		// Infomation on the current version of the modpack.
+		"modpackVersion": {
+			// An human-readable ID of the current version.
+			"ID": "survival-remastered",
+			// The current semantic version of the modpack.
+			"semName": "2.1.0",
+			/* The release type of the current version.
+			   Beta, Release or Alpha
+			*/
+			"releaseType": "Release",
+		},
+		// The ID of the modpack (curseforge/modrinth slug)
+		"modpackID": "survival-remastered",
+		// The authors of the modpack.
+		"modpackAuthors": [
+			"Treetrain1",
+		],
+		/* Mods that are provided by the modpack - used for badges on fabric and marks any mods not in this list as non-included in crash reports.
+		   Use %CF_SEARCH% inside the array to automatically add values from the curseforge modpack instance json.
+		*/
+		"providedByModpack": [],
+		// URLs that will be put in the crash report to help users find support.
+		"URLS": {
+			"website": "https://curseforge.com/minecraft/modpacks/survival-remastered",
+			"support": "https://github.com/Treetrain1/Survival-Remastered/issues",
+			"repository": "https://github.com/Treetrain1/Survival-Remastered",
+		},
+	},
+}

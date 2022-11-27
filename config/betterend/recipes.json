@@ -517,7 +517,9 @@
     "sweet_berry_jelly_potion [default: true]": true,
     "shadow_berry_jelly_potion [default: true]": true,
     "blossom_berry_jelly_potion [default: true]": true,
-    "blossom_berry_jelly [default: true]": true
+    "blossom_berry_jelly [default: true]": true,
+    "smaragdant_crystal [default: true]": true,
+    "tined_glass_from_smaragdant [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace_ore [default: true]": true,

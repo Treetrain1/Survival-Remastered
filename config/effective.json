@@ -9,6 +9,6 @@
   "flowingWaterSplashingDesity": 50,
   "rainRippleDensity": 1,
   "enableGlowingPlankton": true,
-  "glowsquidHypnotize": true,
+  "glowsquidHypnotize": false,
   "glowsquidHypnotizeAttractCursor": false
 }

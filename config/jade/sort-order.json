@@ -39,5 +39,15 @@
   "twilightforest:quest_ram_wool": null,
   "minecraft:fluid": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null
+  "minecraft:progress": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null,
+  "create:blaze_burner": null,
+  "create:contraption_inv": null,
+  "lootr:inventory": null,
+  "create:crafting_blueprint": null,
+  "create:placard": null,
+  "create:exact_block": null,
+  "create:filter": null,
+  "team_reborn_energy:jadeaddons": null
 }

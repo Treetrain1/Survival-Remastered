@@ -142,6 +142,11 @@ customization {
 }
 
 customization {
+  identifier = %id=374294%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   action = setbuttondescription
   description = Advancements
