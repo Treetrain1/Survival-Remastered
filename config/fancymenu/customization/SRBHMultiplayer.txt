@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  name = Lush Cave
+  action = setbackgroundpanorama
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }

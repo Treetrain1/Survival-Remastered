@@ -1,6 +1,6 @@
 {
-  "maxchunkdist": {
-    "desc:": "The range in which chunks are kept loaded on the clients memory, regardless of server chunk view distance. default:32, min 1, max 128",
-    "maxchunkdist": 32
+  "maxRenderDistance": {
+    "desc:": "Maximum allowed render distance, default 64",
+    "maxRenderDistance": 64
   }
 }

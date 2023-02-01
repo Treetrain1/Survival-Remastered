@@ -32,6 +32,8 @@
   "enableNetherPortalEffect": true,
   "enableClientPerformanceAdjustment": true,
   "enableServerPerformanceAdjustment": true,
-  "netherPortalMode": "normal",
-  "endPortalMode": "toObsidianPlatform"
+  "checkModInfoFromInternet": true,
+  "enableUpdateNotification": true,
+  "netherPortalMode": "vanilla",
+  "endPortalMode": "vanilla"
 }

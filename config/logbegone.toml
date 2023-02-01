@@ -2,7 +2,42 @@
 
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
-phrases = ["the_aether"]
+phrases = [
+    "loading plugin at null",
+    "A problem with the database occurred, could not check for updates.",
+    "Failed to find log texture for bark",
+    "Could not generate heavy leaf pile texture for type",
+    "Could not find any texture associated to the given block",
+    "Unable to resolve texture reference:",
+    "Unable to resolve texture due to reference chain",
+    "Tried to read an ingredient of unknown type",
+    "No data fixer registered for",
+    "Mod illuminations provides a broken implementation of ModMenuApi",
+    "entity.immersive_weathering.falling_layer",
+    "Make sure features are loaded from terrablender",
+    "Model loader 'twilightforest",
+    "Unknown model loader:",
+    "Falling back to vanilla logic.",
+    "ModuleLoader",
+    "Adding duplicate key 'ResourceKey",
+    "examplemod/",
+    "has a broken icon, loading default icon",
+    "Encountered duplicate API provider registration",
+    "Set value of ",
+    "[REI] Registered plugin provider",
+    "Registered region ",
+    "Reloading DashLoader",
+    "DashLoader Status change",
+    "the_aether",
+    "byg",
+    "computercraft",
+    "forge:composite",
+    "forge:elements",
+    "forge:obj",
+    "minecraft:optifine",
+    "Optifine",
+    "Vivecraft"
+]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
 regex = []

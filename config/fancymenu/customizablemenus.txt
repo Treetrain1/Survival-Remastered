@@ -84,12 +84,6 @@ net.minecraft.class_426 {
 net.minecraft.class_404 {
 }
 
-net.minecraft.class_4288 {
-}
-
-net.minecraft.class_447 {
-}
-
 net.minecraft.class_525 {
 }
 
@@ -130,9 +124,6 @@ net.minecraft.class_446 {
 }
 
 net.minecraft.class_418 {
-}
-
-net.minecraft.class_420 {
 }
 
 net.minecraft.class_419 {
@@ -198,9 +189,6 @@ me.shedaniel.clothconfig2.gui.ClothConfigScreen {
 net.minecraft.class_5375 {
 }
 
-com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
-}
-
 com.hrznstudio.emojiful.gui.EmojifulChatScreen {
 }
 
@@ -208,5 +196,20 @@ net.minecraft.class_442 {
 }
 
 net.minecraft.class_440 {
+}
+
+net.minecraft.class_447 {
+}
+
+net.minecraft.class_420 {
+}
+
+com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_490 {
 }
 

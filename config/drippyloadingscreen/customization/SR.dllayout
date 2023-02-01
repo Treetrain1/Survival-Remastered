@@ -4,7 +4,7 @@ customization-meta {
   fadeout = false
   randomgroup = 1
   keepaspectratio = false
-  backgroundimage = SR_Resources/background.png
+  backgroundimage = config/fancymenu/assets/background.png
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
@@ -22,13 +22,13 @@ customization {
 }
 
 customization {
-  path = SR_Resources/survival-remastered-title.png
+  path = config/fancymenu/assets/survival-remastered-title.png
   orientation = mid-centered
   x = 0
   width = 341
   action = addtexture
-  actionid = 6be2161a-7839-4915-ab59-796d8ab6f81f1658766886131
-  y = 0
+  actionid = e4611a37-c4ab-4f12-8b76-1b3d0c780ed61674513362057
+  y = 1
   height = 100
 }
 

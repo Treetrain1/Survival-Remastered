@@ -8,10 +8,10 @@ required = [
 
 [datapacks]
 required = [
-    "resourcepacks/",
     "global_packs/required_data/"
 ]
 
 optional = [
+    "resourcepacks/",
     "global_packs/optional_data/"
 ]

@@ -4,7 +4,7 @@
 		// Position of the button on the multiplayer screen
 		"x": 1,
 		// Position of the button on the multiplayer screen
-		"y": 4,
+		"y": 10,
 		// True if the button can be dragged to a new position
 		"draggable": true
 	},

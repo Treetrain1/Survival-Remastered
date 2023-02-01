@@ -10,6 +10,7 @@ mode = "fancy"
 	block_entities = true
 	# Enable entities light source.
 	entities = true
+	self = true
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
@@ -816,6 +817,7 @@ mode = "fancy"
 				spiked_ice_slime = true
 
 			[light_sources.settings.entities.immersive_portals]
+				nether_portal_new = true
 				loading_indicator = true
 
 			[light_sources.settings.entities.mythicmounts]
@@ -867,6 +869,7 @@ mode = "fancy"
 				mist_wolf = true
 				dwarf_rabbit = true
 				winter_wolf = true
+				charm_effect = true
 				fire_beetle = true
 				carminite_golem = true
 				helmet_crab = true
@@ -940,6 +943,7 @@ mode = "fancy"
 				moobloom = true
 				mauler = true
 				iceologer = true
+				wildfire = true
 
 			[light_sources.settings.entities.squirrels]
 				squirrel = true
@@ -1162,6 +1166,19 @@ mode = "fancy"
 			[light_sources.settings.entities.megaparrot]
 				megaparrot = true
 
+			[light_sources.settings.entities.creatures_from_the_snow]
+				snow_trover = true
+				leopard = true
+				reindeer = true
+				snikerbosh = true
+				orca = true
+				giraffe = true
+				narwhal = true
+				beluga = true
+				snow_seal = true
+				penguin = true
+				snow_wyrm = true
+
 			[light_sources.settings.entities.botania]
 				pixie = true
 				mana_burst = true
@@ -1348,4 +1365,11 @@ mode = "fancy"
 
 			[light_sources.settings.entities.mythicmetals]
 				banglum_tnt = true
+
+			[light_sources.settings.entities.ad_astra]
+				zombified_pygro = true
+				martian_raptor = true
+				tier_4_rocket = true
+				lander = true
+				pygro_brute = true
 

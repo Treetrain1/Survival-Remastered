@@ -19,7 +19,7 @@
 	/* 
 	   Should backup be made on server shutdown?
 	*/
-	"shutdownBackup": true,
+	"shutdownBackup": false,
 	/* 
 	   Should world be backed up before restoring a backup?
 	*/
@@ -27,7 +27,7 @@
 	/* 
 	   A path to the backup folder
 	*/
-	"path": "backup/",
+	"backupDirectoryPath": "backup/",
 	/* 
 	   This setting allows you to exclude files form being backed-up.
 	   Be very careful when setting it, as it is easy corrupt your world!
@@ -82,7 +82,9 @@
 	/* 
 	   Players allowed to run backup commands without sufficient permission level
 	*/
-	"playerWhitelist": [],
+	"playerWhitelist": [
+		"Treetrain1"
+	],
 	/* 
 	   Players banned from running backup commands besides their sufficient permission level
 	*/

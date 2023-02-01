@@ -1,13 +1,19 @@
 {
-  "biomePlacement": {
-    "modifyWindsweptSavannaPlacement": false,
-    "modifyJunglePlacement": false,
-    "modifySwampPlacement": false,
-    "modifyMangroveSwampPlacement": false
+  "biomeGeneration": {
+    "generateCypressWetlands": true,
+    "generateJellyfishCaves": true,
+    "generateMixedForest": true
   },
-  "betaBeaches": false,
+  "biomePlacement": {
+    "modifyWindsweptSavannaPlacement": true,
+    "modifyJunglePlacement": true,
+    "modifySwampPlacement": true,
+    "modifyMangroveSwampPlacement": true
+  },
+  "betaBeaches": true,
   "dyingTrees": true,
   "fallenLogs": true,
   "wilderWildTreeGen": true,
-  "wilderWildGrassGen": true
+  "wilderWildGrassGen": true,
+  "cypressWitchHuts": true
 }

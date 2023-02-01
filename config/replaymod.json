@@ -25,9 +25,9 @@
     "renameDialog": true
   },
   "replay": {
-    "showChat": true,
+    "showChat": false,
     "showServerIPs": false,
-    "camera": "replaymod.camera.classic",
+    "camera": "replaymod.camera.vanilla",
     "camera_valid_values": [
       "replaymod.camera.classic",
       "replaymod.camera.vanilla"
@@ -52,7 +52,7 @@
     "frameTimeFromWorldTime": false
   },
   "simplepathing": {
-    "pathpreview": true,
+    "pathpreview": false,
     "autosync": true,
     "timelineLength": 1800,
     "interpolator": "replaymod.gui.editkeyframe.interpolator.catmullrom.name",

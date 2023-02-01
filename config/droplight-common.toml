@@ -12,7 +12,7 @@
 [Graphics]
 	# If items on the ground should have a sparkle effect.
 	#Allowed Values: NONE, BEAMS_ONLY, ALL
-	sparklesEnabled = "BEAMS_ONLY"
+	sparklesEnabled = "NONE"
 	# If beam/sparkle color should match the item's tooltip name color. (White named items won't have a beam unless specified manually)
 	automaticColor = true
 	# If the Item Borders mod is installed, should beam/sparkle colors match the item's border color.
@@ -23,7 +23,7 @@
 	beamHeight = 6.0
 	# The graphical quality of beams and sparkles.  Higher quality means potentially lower performance.  Use low quality if experiencing compatibility issues with other mods.
 	#Allowed Values: LOW, MEDIUM, HIGH
-	quality = "MEDIUM"
+	quality = "LOW"
 	# If enabled, beams will appear pixelated instead of smooth.
 	pixelatedMode = true
 
@@ -50,7 +50,7 @@
 	# If a swish sound should play when items are dropped from slain mobs. (Requires tossDrops is true)
 	dropSwish = true
 	# If sounds should play when items hit the ground.
-	dropImpact = true
+	dropImpact = false
 	# If beams should emit a constant hum.
 	beamSound = false
 

@@ -10,6 +10,7 @@
     "animal_owner": true,
     "block_inventory.normal_amount": 9,
     "energy_storage.detailed": false,
+    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "note_block": true,
     "beehive": true,

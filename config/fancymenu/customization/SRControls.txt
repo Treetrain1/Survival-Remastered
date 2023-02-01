@@ -9,8 +9,8 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
+  name = Lush Cave
+  action = setbackgroundpanorama
 }
 
 customization {
@@ -28,18 +28,6 @@ customization {
   identifier = %id=345154%
   action = setbuttondescription
   description = Mouse Settings%n%Configure mouse
-}
-
-customization {
-  identifier = %id=400971%
-  action = setbuttondescription
-  description = Done%n%Go back
-}
-
-customization {
-  identifier = %id=505202%
-  action = setbuttondescription
-  description = Crawl
 }
 
 customization {

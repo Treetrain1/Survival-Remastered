@@ -8,7 +8,7 @@
     "categories": [
       "EXPERIMENTAL"
     ],
-    "value": true
+    "value": false
   },
   "mouseCloseNotHandledFix": {
     "description": "Fix inventory can not be closed by mouse button.",
@@ -43,7 +43,7 @@
       "BUGFIX",
       "EXPERIMENTAL"
     ],
-    "value": false
+    "value": true
   },
   "entityDamageDesyncFix": {
     "description": "Fix client damaging items \u0026 experience orbs leading to de-sync",
@@ -54,7 +54,7 @@
       "BUGFIX",
       "EXPERIMENTAL"
     ],
-    "value": false
+    "value": true
   },
   "guardianBeamRenderFix": {
     "description": "Fix guardian beam not rendering due to world time being too high\nSodium-extra has the same fix",
@@ -78,6 +78,20 @@
       "SINGLEPLAYER"
     ],
     "value": true
+  },
+  "rotatePlayerWithMinecart": {
+    "description": "Rotate the player with the minecart if it turns",
+    "issues": [],
+    "categories": [
+      "TWEAK",
+      "EXPERIMENTAL"
+    ],
+    "value": true,
+    "extra": {
+      "rotatePlayerWithMinecart_smartMode": true,
+      "rotatePlayerWithMinecart_threshold": 8,
+      "rotatePlayerWithMinecart_alwaysLookForward": false
+    }
   },
   "optimizedBiomeAccess": {
     "description": "Optimized the getBiome call to be 25% - 75% faster",

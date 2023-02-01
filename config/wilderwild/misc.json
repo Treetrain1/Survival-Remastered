@@ -1,0 +1,11 @@
+{
+  "biomeAmbience": {
+    "deepDarkAmbience": true,
+    "dripstoneCavesAmbience": true,
+    "lushCavesAmbience": true
+  },
+  "biomeMusic": {
+    "birchForestMusic": true,
+    "flowerForestMusic": true
+  }
+}

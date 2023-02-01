@@ -1,5 +1,5 @@
 {
-  "checkForNewUpdates": true,
+  "checkForNewUpdates": false,
   "enableCopperGolem": true,
   "generateCopperGolemAreaStructure": true,
   "generateCopperGolemInAncientCity": true,
@@ -31,9 +31,15 @@
   "enableIceologer": true,
   "enableIceologerSpawn": true,
   "enableIceologerInRaids": true,
+  "generateIceologerCabinStructure": true,
   "enableIllusioner": true,
   "enableIllusionerSpawn": true,
   "enableIllusionerInRaids": true,
+  "generateIllusionerShackStructure": true,
+  "generateIllusionerTrainingGroundsStructure": true,
+  "enableZombieHorseTrap": true,
+  "enableWildfire": true,
+  "generateCitadelStructure": true,
   "enableBeekeeperVillagerProfession": true,
   "generateBeekeeperAreaStructure": true
 }

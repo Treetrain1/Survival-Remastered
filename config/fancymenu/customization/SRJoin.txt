@@ -19,7 +19,7 @@ customization {
 }
 
 customization {
-  path = SR_Resources/survival-remastered-title.png
+  path = config/fancymenu/assets/survival-remastered-title.png
   orientation = mid-centered
   x = -170
   width = 341

@@ -45,6 +45,11 @@ customization {
 }
 
 customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
@@ -75,15 +80,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = bottom-right
-  x = -87
+  orientation = bottom-left
+  x = 2
   action = movebutton
   y = -22
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  width = 85
+  width = 98
   action = resizebutton
   height = 20
 }
@@ -131,17 +136,16 @@ customization {
   action = deep_customization_element:title_screen_splash
   actionid = ac6813be-2eed-468b-b3e5-781ac1c10fd31656391911336
   y = 93
-  splash_file_path = SR_Resources/splash/splashes.txt
   height = 30
 }
 
 customization {
-  path = SR_Resources/survival-remastered-title.png
+  path = config/fancymenu/assets/survival-remastered-title.png
   orientation = top-centered
   x = -121
   width = 242
   action = addtexture
-  actionid = 9e005b73-b702-4ced-a6fe-246c320f6a5a1638046106120
+  actionid = b31fab80-7c94-434d-b110-7223e7c842a71674418530134
   y = 25
   height = 71
 }
@@ -174,11 +178,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = setbuttondescription
   description = Accessibility!%n%Accessibility Settings
-}
-
-customization {
-  identifier = %id=376310%
-  action = hidebutton
 }
 
 customization {

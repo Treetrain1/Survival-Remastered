@@ -72,7 +72,7 @@
     "springModifier": 1.0,
     "summerModifier": 0.8,
     "fallModifier": 0.6,
-    "winterModifier": 0.0
+    "winterModifier": 0.1
   },
   "cropConfigs": [],
   "doAnimalsBreedInWinter": true

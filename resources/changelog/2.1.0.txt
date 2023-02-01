@@ -13,7 +13,6 @@ Updated Mods
 
 Added So I heard you were talking crap about Minecraft's combat?
 Added Enchantment Descriptions
-Added CleanCut
 Added Ost Overhaul
 Added Enchant the Rainbow
 Added Roughly Enough Trades
@@ -32,7 +31,6 @@ Added Geode+
 Added The Graveyard Biomes
 Added Paradise Lost
 Added Galosphere
-Added Better Tridents
 Added Global Packs
 Added Blur
 Added The Twilight Forest
@@ -105,7 +103,6 @@ Removed Macaw's Paths and Pavings
 Removed Macaw's Roofs
 Removed Macaw's Windows
 Removed Better Compatibility Checker (Replaced)
-Removed CleanCut (Replaced)
 Removed Disable Custom Worlds Advice (Replaced)
 Removed Motschen's Better Leaves
 

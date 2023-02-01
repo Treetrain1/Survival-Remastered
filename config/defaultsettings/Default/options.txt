@@ -11,22 +11,22 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:true
+showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
-mouseSensitivity:0.5042253521126762
+mouseSensitivity:0.5023474178403758
 fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
-darknessEffectScale:1.0
+darknessEffectScale:0.8408450704225351
 gamma:1.0
-renderDistance:10
+renderDistance:8
 simulationDistance:5
 entityDistanceScaling:3.5
 guiScale:3
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","black_icons","continuity/default","continuity/glass_pane_culling_fix","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.36].zip","file/darkpack-v2.3.zip","file/SR_Resources","Everycomp Generated Pack","Immersive Weathering Generated Pack"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[v1.36].zip"]
+resourcePacks:["vanilla","Fabric Mods","black_icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.37.1].zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/SR_Resources","Immersive Weathering Generated Pack","Everycomp Generated Pack","file/SR_Data.zip"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.37.1].zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
@@ -77,8 +77,8 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:true
-soundCategory_master:0.6754967
-soundCategory_music:0.15352112
+soundCategory_master:0.678808
+soundCategory_music:0.15962441
 soundCategory_record:1.0
 soundCategory_weather:0.15352112
 soundCategory_block:1.0
@@ -86,7 +86,7 @@ soundCategory_hostile:1.0
 soundCategory_neutral:0.90140843
 soundCategory_player:1.0
 soundCategory_ambient:0.4084507
-soundCategory_voice:1.0
+soundCategory_voice:0.15352112
 soundCategory_extrasounds_master:0.5
 soundCategory_inventory:1.0
 soundCategory_action:1.0

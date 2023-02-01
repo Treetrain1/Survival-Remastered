@@ -1,0 +1,35 @@
+Survival Remastered 2.1.1
+
+
+If you find any issues or crashes, report it on the GitHub issue tracker.
+
+WARNING: THERE IS A CHANCE UPDATING THIS MODPACK CAN BREAK EXISTING WORLDS
+THIS UPDATE CONTAINS BREAKING CHANGES
+
+Updated Fabric Loader to 0.14.13
+Updated Fabric API to 0.73.2
+Updated Mods
+
+Added Terralith Biome Language Support
+Added Advancements Debug
+Added Paginated Advancements
+Added Droplight
+Added Better Climbing
+Added Tips
+Added Extra Thicc Packets
+Added Raised
+Added Chunks fade in
+Added Luna Slimes
+Added Yttr
+Added Textile Backup
+Added Very Many Players
+Added Configurable Splash Texts
+
+Removed FTB Backups 2
+Removed More Axolotls
+
+Fixed a GUI scaling issue when creating a world
+Fixed some block culling issues
+Disabled the Lethality enchantment
+Increased the music timeout duration
+Removed Survival Remastered's music from the music.game sound

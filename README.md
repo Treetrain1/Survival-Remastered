@@ -4,7 +4,7 @@
 
 ![OVERVIEW](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_ABOUT.png)
 
-Survival Remastered is the Ultimate Minecraft Experience.
+### **Survival Remastered is the Ultimate Minecraft Experience**
 
 This modpack takes Minecraft survival to the next level with 200+ mods that bring new worldgen, advanced tech and machinery, QOL changes, and much more!
 
@@ -13,11 +13,15 @@ This modpack takes Minecraft survival to the next level with 200+ mods that brin
 
 200+ Mods
 
-[Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
+[Wilder Wild](https://www.curseforge.com/minecraft/mc-mods/wilder-wild)
 
-[Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+[Terralith World Generation](https://www.curseforge.com/minecraft/mc-mods/terralith)
 
-[Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)
+**3 New Dimensions:** [Eden Ring](https://www.curseforge.com/minecraft/mc-mods/eden-ring), [Paradise Lost](https://www.curseforge.com/minecraft/mc-mods/paradise-lost), and [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+[Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) + [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)
+
+[Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)
 
 [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)
 
@@ -29,7 +33,8 @@ So much more!
 
 [![DISCORD](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_DISCORD.png)](https://discord.gg/C7bZ5kGGBA)
 
-Join the Discord! Here I will talk about development and post sneak peeks and community polls
+## Join the Discord!
+Here I will talk about development and post sneak peeks and community polls
 
 ---
 

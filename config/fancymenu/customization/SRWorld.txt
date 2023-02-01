@@ -10,8 +10,8 @@ customization-meta {
 }
 
 customization {
-  path = SR_Resources/background.png
-  action = texturizebackground
+  name = Lush Cave
+  action = setbackgroundpanorama
 }
 
 customization {

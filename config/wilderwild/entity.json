@@ -6,8 +6,16 @@
     "angerLoopSound": true,
     "movingStareSound": true
   },
+  "firefly": {
+    "fireflySpawnCap": 56
+  },
+  "jellyfish": {
+    "jellyfishSpawnCap": 30
+  },
   "warden": {
+    "wardenAttacksImmediately": true,
     "wardenCustomTendrils": true,
+    "wardenBedrockSniff": true,
     "wardenDyingAnimation": true,
     "wardenEmergesFromCommand": true,
     "wardenEmergesFromEgg": true,
