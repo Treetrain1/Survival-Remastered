@@ -29,7 +29,7 @@ If applicable, add screenshots to help explain your problem.
 **Setup:**
  - Operating System [e.g. Windows 11]
  - Game Version [e.g. 1.19]
- - Modpack Version [e.g. Beta 2]
+ - Modpack Version [e.g. 2.1.0]
 
 **Additional context**
 Add any other context about the problem here.
