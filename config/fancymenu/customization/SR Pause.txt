@@ -14,6 +14,33 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = vanilla_button_visibility_requirements
+  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
+  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
   action = hidebutton
 }
@@ -39,33 +66,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = vanilla_button_visibility_requirements
-  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
-  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
-  x = 0
-  action = movebutton
-  y = 24
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
   action = vanilla_button_visibility_requirements
   vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
   vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
@@ -120,19 +120,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   action = setbuttondescription
-  description = Options!%n%Basically settings
-}
-
-customization {
-  identifier = %id=398318%
-  action = setbuttondescription
   description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  action = setbuttondescription
-  description = Statistics!
 }
 
 customization {
@@ -162,5 +150,11 @@ customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to title screen
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  action = setbuttondescription
+  description = Statistics!
 }
 

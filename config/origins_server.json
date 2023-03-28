@@ -575,7 +575,9 @@
       "moborigins:slime_color": true,
       "moborigins:split": true,
       "moborigins:small_weak": true,
-      "origins:fall_immunity": true
+      "origins:fall_immunity": true,
+      "moborigins:slimy_color": true,
+      "moborigins:dyeable": true
     },
     "libra:curse_shulk": {
       "enabled": true,
@@ -1160,7 +1162,8 @@
       "origins:aerial_combatant": true,
       "icarus:hollow_bones": true,
       "origins:no_shield": true,
-      "origins:carnivore": true
+      "origins:carnivore": true,
+      "icarus:wings": true
     },
     "apocalypse:geneticist": {
       "enabled": true,

@@ -14,5 +14,6 @@
   "nameTagNames": true,
   "piglinNames": true,
   "piglinSurnames": true,
-  "illagerEntityNames": true
+  "illagerEntityNames": true,
+  "catNames": true
 }

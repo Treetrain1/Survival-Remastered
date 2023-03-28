@@ -62,11 +62,11 @@
       }
     ]
   },
-  "music.tommymutiu-knights_of_camelot": {
+  "music.thomas_mutiu-knights_of_camelot": {
     "category": "music",
     "sounds": [
       {
-        "name": "survival_remastered:music/tommymutiu-knights_of_camelot",
+        "name": "survival_remastered:music/thomas_mutiu-knights_of_camelot",
         "stream": true
       }
     ]
@@ -116,21 +116,57 @@
       }
     ]
   },
-  "music.tommymutiu-battle_of_the_dragons": {
+  "music.thomas_mutiu-battle_of_the_dragons": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
+          "name": "survival_remastered:music/thomas_mutiu-battle_of_the_dragons",
           "stream": true
       }
     ]
   },
-  "music.tommymutiu-draconis": {
+  "music.thomas_mutiu-draconis": {
     "category": "music",
     "sounds": [
       {
-          "name": "survival_remastered:music/tommymutiu-draconis",
+          "name": "survival_remastered:music/thomas_mutiu-draconis",
           "stream": true
+      }
+    ]
+  },
+  "music.zakharvala-cinematic_chillhop_main": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/zakharvala-cinematic_chillhop_main",
+        "stream": true
+      }
+    ]
+  },
+  "music.tracktribe-cloud_echo": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/tracktribe-cloud_echo",
+        "stream": true
+      }
+    ]
+  },
+  "music.tracktribe-lost_at_sea": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/tracktribe-lost_at_sea",
+        "stream": true
+      }
+    ]
+  },
+  "music.tracktribe-peony_morning": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survival_remastered:music/tracktribe-peony_morning",
+        "stream": true
       }
     ]
   }

@@ -38,6 +38,9 @@
 	"End Wrappist Geodes": {
 		"Enable Wrappist Geode": true,
 	},
+	"Swamp Celestite Geodes": {
+		"Enable Celestite Geode": true,
+	},
 	"Large Crystals": {
 		"Enable Large Nether Quartz Crystal": true,
 		"Enable Large Nether Glowstone Crystal": true,
@@ -49,6 +52,7 @@
 		"Rarity of Ores Geode": 48,
 		"Rarity of Blackstone Glowstone Geode": 32,
 		"Rarity of Nether Quartz Geode": 32,
+		"Rarity of Swamp Geode": 48,
 		"Rarity of End Wrappist Geode": 48,
 		"Rarity of Echo Geode": 16,
 		"Rarity of Basalt Ancient Debris Geode": 32,

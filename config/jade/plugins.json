@@ -50,13 +50,6 @@
   "twilightforest": {
     "quest_ram_wool": true
   },
-  "create": {
-    "filter": true,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "placard": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -64,5 +57,16 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "create": {
+    "filter": true,
+    "goggles.requires_goggles": true,
+    "goggles": true,
+    "copper_backtank": true,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "goggles.detailed": false,
+    "placard": true
   }
 }

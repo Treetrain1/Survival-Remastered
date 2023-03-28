@@ -24,9 +24,9 @@ mouseSensitivity:0.5023474178403758
 fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
-darknessEffectScale:0.8408450704225351
+darknessEffectScale:0.8971830985915491
 gamma:1.0
-renderDistance:8
+renderDistance:6
 simulationDistance:5
 entityDistanceScaling:3.5
 guiScale:3
@@ -35,10 +35,10 @@ maxFps:260
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
-biomeBlendRadius:0
+biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","black_icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.37.1].zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/SR_Resources","Immersive Weathering Generated Pack","Everycomp Generated Pack","file/SR_Data.zip"]
-incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-[1.37.1].zip"]
+resourcePacks:["vanilla","Fabric Mods","black_icons","charmonium/journeyman","file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-1.39.zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","Immersive Weathering Generated Pack","Everycomp Generated Pack","file/SR_Resources"]
+incompatibleResourcePacks:["file/Xaero\u0027s Minimap - Mod Icons.zip","file/§aReimagined§8-1.39.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""

@@ -1,8 +1,8 @@
 {
-  "disableReturnToMainMenu": false,
+  "disableReturnToMainMenu": true,
   "deobfuscateStackTrace": true,
   "catchInitializationCrashes": true,
-  "debugModIdentification": false,
+  "debugModIdentification": true,
   "forceCrashScreen": false,
   "crashLimit": 20,
   "crashlogUpload": {
@@ -11,7 +11,7 @@
     "bytebinUrl": "https://bytebin.lucko.me/",
     "gist": {
       "accessToken": "",
-      "unlisted": false
+      "unlisted": true
     },
     "pastebin": {
       "uploadKey": "",

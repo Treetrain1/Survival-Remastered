@@ -41,7 +41,7 @@
 			// An human-readable ID of the current version.
 			"ID": "survival-remastered",
 			// The current semantic version of the modpack.
-			"semName": "2.1.0",
+			"semName": "2.1.2",
 			/* The release type of the current version.
 			   Beta, Release or Alpha
 			*/

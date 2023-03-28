@@ -1,0 +1,64 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Lush Cave
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 173
+  width = 422
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = dad92e75-cf3b-4136-aa7b-dadd3d59836c1675350398015
+  y = 159
+  height = 104
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = a9d30f16-7bef-4e8d-9b63-0a3f90535a311675350398024
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 173
+  width = 422
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 4b6858dd-e7a6-477c-a043-53f409a3812c1675350398024
+  y = 347
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/assets/survival-remastered-title.png
+  orientation = mid-centered
+  x = -170
+  width = 341
+  action = addtexture
+  actionid = df44ba2b-f920-4604-8a61-fe3ecfc7a20a1675350448254
+  y = -50
+  height = 100
+}
+

@@ -10,21 +10,25 @@
     "interest_for_face": 0.3,
     "patchiness": 0.5,
     "immune_chance": 0.4,
-    "needs_air": true
+    "needs_air": true,
+    "enabled": true
   },
   "cracked_blocks": {
     "interest_for_face": 0.6,
     "patchiness": 0.4,
     "immune_chance": 0.4,
-    "needs_air": false
+    "needs_air": false,
+    "enabled": true
   },
   "icicle": {
     "react_to_vibrations": true,
     "spawn_rarity": 12
   },
   "freezing": {
+    "enable_water_freezing": false,
     "water_increment": 3,
     "icicle": 300,
+    "enable_permafrost_freezing": false,
     "permafrost_increment": 2
   },
   "charring": {

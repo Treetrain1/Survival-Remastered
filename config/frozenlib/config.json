@@ -1,3 +1,4 @@
 {
-  "useWindOnNonFrozenServers": false
+  "useWindOnNonFrozenServers": false,
+  "saveItemCooldowns": true
 }

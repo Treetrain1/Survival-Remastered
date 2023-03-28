@@ -1,0 +1,49 @@
+{
+  "data_version": 1,
+  "schemas": [
+    {
+      "version": 1,
+      "data_fixes": [
+        {
+          "type": "biome",
+          "fixers": [
+            {
+              "old_id": "graveyard_biomes:ancient_dead_coral_reef",
+              "new_id": "minecraft:beach"
+            },
+            {
+              "old_id": "graveyard_biomes:deep_dark_forest",
+              "new_id": "minecraft:dark_forest"
+            },
+            {
+              "old_id": "graveyard_biomes:eroded_haunted_forest",
+              "new_id": "minecraft:old_growth_spruce_taiga"
+            },
+            {
+              "old_id": "graveyard_biomes:haunted_forest",
+              "new_id": "minecraft:taiga"
+            },
+            {
+              "old_id": "graveyard_biomes:haunted_lakes",
+              "new_id": "minecraft:taiga"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "registry_fixers": [
+    {
+      "registry_key": "minecraft:block",
+      "fixers": []
+    },
+    {
+      "registry_key": "minecraft:entity_type",
+      "fixers": []
+    },
+    {
+      "registry_key": "minecraft:item",
+      "fixers": []
+    }
+  ]
+}

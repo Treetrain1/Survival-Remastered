@@ -10,7 +10,7 @@
   ],
   "fadeTimeMillis": 200,
   "ease": true,
-  "radius": 8,
+  "radius": 0,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
   "gradientEnd": "#000000",

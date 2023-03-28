@@ -21,5 +21,8 @@
     "dieWithEvoker": true,
     "naturalSpawnDarkForest": true
   },
-  "guardianNaturalSpawn": false
+  "guardian": {
+    "naturalSpawn": true,
+    "silentKill": true
+  }
 }

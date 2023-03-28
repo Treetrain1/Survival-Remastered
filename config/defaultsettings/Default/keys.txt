@@ -32,7 +32,6 @@ key.hotbar.6:key.keyboard.6
 key.hotbar.7:key.keyboard.7
 key.hotbar.8:key.keyboard.8
 key.hotbar.9:key.keyboard.9
-Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key.fabrishot.screenshot:key.keyboard.f9
 Reload Menu | CTRL + ALT + :key.keyboard.r
 Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
@@ -43,11 +42,6 @@ create.keyinfo.toolbelt:key.keyboard.left.alt
 key.entityculling.toggle:key.keyboard.unknown
 fpsreducer.key.openGui:key.keyboard.end
 fpsreducer.key.forceIdle:key.keyboard.pause
-key.inventoryhud.toggle:key.keyboard.unknown
-key.inventoryhud.openconfig:key.keyboard.left.bracket
-key.inventoryhud.togglepot:key.keyboard.unknown
-key.inventoryhud.togglearm:key.keyboard.unknown
-key.inventoryhud.toggleall:key.keyboard.unknown
 key.jade.config:key.keyboard.keypad.0
 key.jade.show_overlay:key.keyboard.keypad.1
 key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -58,11 +52,28 @@ key.origins.primary_active:key.keyboard.g
 key.origins.secondary_active:key.keyboard.r
 key.origins.view_origin:key.keyboard.o
 key.presencefootsteps.settings:key.keyboard.f10
-raised.down:key.keyboard.keypad.subtract
-raised.up:key.keyboard.keypad.add
-raised.offset.down:key.keyboard.keypad.divide
-raised.offset.up:key.keyboard.keypad.multiply
-raised.reset:key.keyboard.keypad.enter
+key.raised.hud.down:key.keyboard.keypad.subtract
+key.raised.hud.up:key.keyboard.keypad.add
+key.raised.chat.down:key.keyboard.keypad.divide
+key.raised.chat.up:key.keyboard.keypad.multiply
+key.replaymod.playeroverview:key.keyboard.b
+key.replaymod.lighting:key.keyboard.z
+key.replaymod.quickmode:key.keyboard.q
+key.replaymod.settings:key.keyboard.unknown
+key.replaymod.marker:key.keyboard.m
+key.replaymod.thumbnail:key.keyboard.n
+key.replaymod.playpause:key.keyboard.p
+key.replaymod.rollclockwise:key.keyboard.l
+key.replaymod.rollcounterclockwise:key.keyboard.j
+key.replaymod.resettilt:key.keyboard.k
+key.replaymod.pathpreview:key.keyboard.h
+key.replaymod.keyframerepository:key.keyboard.x
+key.replaymod.clearkeyframes:key.keyboard.c
+key.replaymod.synctimeline:key.keyboard.v
+key.replaymod.positionkeyframe:key.keyboard.i
+key.replaymod.positiononlykeyframe:key.keyboard.unknown
+key.replaymod.timekeyframe:key.keyboard.o
+key.replaymod.bothkeyframes:key.keyboard.unknown
 key.spyglass-improvements.use:key.keyboard.z
 key.push_to_talk:key.keyboard.caps.lock
 key.whisper:key.keyboard.unknown

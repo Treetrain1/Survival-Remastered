@@ -153,9 +153,6 @@ net.minecraft.class_424 {
 net.minecraft.class_408 {
 }
 
-net.minecraft.class_433 {
-}
-
 net.minecraft.class_429 {
 }
 
@@ -192,9 +189,6 @@ net.minecraft.class_5375 {
 com.hrznstudio.emojiful.gui.EmojifulChatScreen {
 }
 
-net.minecraft.class_442 {
-}
-
 net.minecraft.class_440 {
 }
 
@@ -208,6 +202,15 @@ com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
 }
 
 net.minecraft.class_4288 {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_433 {
 }
 
 net.minecraft.class_490 {

@@ -19,6 +19,7 @@
   "skinFeaturesEnabled": true,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": false,
+  "tryETFTransparencyForAllSkins": false,
   "enableEnemyTeamPlayersSkinFeatures": true,
   "enableBlinking": true,
   "blinkFrequency": 150,
@@ -36,5 +37,6 @@
   "dontPatchPBRTextures": true,
   "dontPatchAnimatedTextures": true,
   "ignoredConfigs": [],
-  "hideConfigButton": true
+  "hideConfigButton": true,
+  "disableVanillaDirectoryVariantTextures": false
 }

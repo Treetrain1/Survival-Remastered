@@ -1,13 +1,12 @@
 {
-  "version": "3.5.2",
-  "prevVersion": "3.5.1",
-  "initPopup": true,
-  "generatedBy": "49b8bf46-b820-4bdf-90e8-fc8be3ea7f85",
+  "version": "4.0.5",
+  "prevVersion": "3.0.2",
+  "generatedBy": "\u003cdefault\u003e",
   "hashes": {
-    "Default/servers.dat": "3209BD796E1AF5E24E902C22C176DC4A",
-    "Default/keys.txt": "A31B0FEAE8A49CAE0FD5E87B8EE130C0",
-    "Default/options.txt": "A8B14786437C0E7FFB862DCE9D3040C3"
+    "Default/servers.dat": "D4CDCAE09461437C05D31F835DA5371B",
+    "Default/keys.txt": "ECCD8DF24091BBF558C380C1999DF18F",
+    "Default/options.txt": "2A437E2697DE647B1DE19266E59E7557"
   },
-  "mainProfile": "Default",
-  "initially_created": "07.12.2021 18:37:37"
+  "mainProfile": "!NEW!",
+  "initially_created": "21.02.2023 20:33:19"
 }

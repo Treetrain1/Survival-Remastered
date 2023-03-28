@@ -615,6 +615,8 @@ mode = "fancy"
 				ghoul = true
 				reaper = true
 				nightmare = true
+				lich = true
+				falling_corpse = true
 
 			[light_sources.settings.entities.mcdar]
 				enchanted_red_sheep = true
@@ -1287,6 +1289,8 @@ mode = "fancy"
 				aechor_plant = true
 				blue_swet = true
 				moa = true
+				corsican_hare = true
+				hellenrose = true
 
 			[light_sources.settings.entities.aqupd]
 				grizzly_bear = true
