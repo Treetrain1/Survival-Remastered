@@ -1,5 +1,5 @@
 version = 3
-# (Default: 2) Configures the parallelism of global executor
+# (Default: 3) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 # (Default: 
 #    max(
@@ -37,11 +37,11 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# Invalid values will fall back to vanilla default
 	# 
 	chunkStreamVersion = "default"
-	# (Default: false) Whether to use the optimized implementation of IO system
+	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = true
-	# (Default: 1536) Soft limit for io worker nbt cache
+	# (Default: 8192) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
-	# (Default: 6144) Hard limit for io worker nbt cache
+	# (Default: 32678) Hard limit for io worker nbt cache
 	chunkDataCacheLimit = "default"
 
 # Configuration for threaded world generation
@@ -52,28 +52,28 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
-	# (Default: false) Whether to enable this feature
-	enabled = true
-
-# Configuration for async scheduling system
-[asyncScheduling]
 	# (Default: true) Whether to enable async and parallel scheduling 
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
+	asyncScheduling = "default"
+	# (Default: true) Whether to enable this feature
 	enabled = true
 
 # Configuration for general optimizations
 [generalOptimizations]
-	# (Default: true) Whether to enable mid-tick chunk tasks  
+	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
 	# This helps chunks loading and generating under high MSPT but may raise  
 	# MSPT when chunks are loading or generating  
 	#  
+	# It is generally not recommended to adjust this value unless you know  
+	# what you are doing  
+	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	doMidTickChunkTasks = "default"
+	midTickChunkTasksInterval = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = true
@@ -98,12 +98,12 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
 	compatibilityMode = "default"
+	# (Default: 4) No-tick view distance max concurrent chunk loads 
+	#  Lower this for a better latency and higher this for a faster loading
+	maxConcurrentChunkLoads = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
-	# (Default: 12) No-tick view distance updates per tick 
-	#  Lower this for a better latency and higher this for a faster loading
-	updatesPerTick = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 
@@ -112,7 +112,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		enabled = false
-		# (Default: 50) Max render distance allowed in game options
+		# (Default: 54) Max render distance allowed in game options
 		maxViewDistance = 32
 
 [vanillaWorldGenOptimizations]
@@ -124,4 +124,16 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	useEndBiomeCache = "default"
+
+[fixes]
+	# (Default: true) Enforces safe world random access.  
+	# This feature detects unsafe off-thread world random access, helping to find the causes  
+	# of mysterious "Accessing LegacyRandomSource from multiple threads" crash.  
+	# The default behavior is to fail hard when such bad things happens.  
+	# Disabling this option will replace this behavior with a warning.  
+	# 
+	# It is generally not recommended to disable this settings unless you know what you are doing  
+	# 
+	# 
+	enforceSafeWorldRandomAccess = "default"
 

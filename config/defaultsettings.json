@@ -1,12 +1,12 @@
 {
   "version": "4.0.5",
-  "prevVersion": "3.0.2",
-  "generatedBy": "\u003cdefault\u003e",
+  "prevVersion": "3.5.2",
+  "generatedBy": "74e96e7d-b44b-4ffc-b9d8-b29591114d0a",
   "hashes": {
     "Default/servers.dat": "D4CDCAE09461437C05D31F835DA5371B",
     "Default/keys.txt": "ECCD8DF24091BBF558C380C1999DF18F",
     "Default/options.txt": "2A437E2697DE647B1DE19266E59E7557"
   },
-  "mainProfile": "!NEW!",
+  "mainProfile": "Default",
   "initially_created": "21.02.2023 20:33:19"
 }

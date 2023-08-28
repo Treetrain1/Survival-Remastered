@@ -1,0 +1,66 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "minecraft:village_plains": {
+      "structures": "minecraft:village_plains",
+      "type": "heracles:structure"
+    },
+    "minecraft:village_snowy": {
+      "structures": "minecraft:village_snowy",
+      "type": "heracles:structure"
+    },
+    "minecraft:village_taiga": {
+      "structures": "minecraft:village_taiga",
+      "type": "heracles:structure"
+    },
+    "minecraft:village_desert": {
+      "structures": "minecraft:village_desert",
+      "type": "heracles:structure"
+    },
+    "minecraft:village_savanna": {
+      "structures": "minecraft:village_savanna",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "villagefinder_experience": {
+      "xptype": "POINTS",
+      "amount": 100,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find all vanilla villages"
+    },
+    "description": [
+      "To complete this quest, you must find the following:",
+      "",
+      "Desert Village",
+      "Plains Village",
+      "Savanna Village",
+      "Snowy Village",
+      "Taiga Village"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:map",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Village Finder"
+    }
+  },
+  "settings": {
+    "individual_progress": true,
+    "hidden": false
+  }
+}

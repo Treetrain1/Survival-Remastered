@@ -22,7 +22,8 @@
   },
   "icicle": {
     "react_to_vibrations": true,
-    "spawn_rarity": 12
+    "spawn_rarity": 12,
+    "disable_icicles": false
   },
   "freezing": {
     "enable_water_freezing": false,
@@ -62,6 +63,9 @@
   },
   "misc": {
     "mulch_grows_crops": true,
+    "mulch_growth_type_bonemeal": true,
+    "mulch_growth_type_random_tick": false,
+    "mulch_growth_random_ticks": 10,
     "composter_dirt": true,
     "desire_paths": false,
     "desire_path_rate": 0.05,

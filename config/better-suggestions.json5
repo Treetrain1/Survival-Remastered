@@ -1,0 +1,10 @@
+{
+	"version": 1,
+	"maxSuggestionsShown": 12,
+	"suggestEntitySelector": false,
+	"prioritizedSuggestions": [
+		"minecraft:barrier",
+		"data",
+		"tellraw"
+	]
+}

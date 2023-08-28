@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -40,12 +35,6 @@ customization {
   identifier = %id=400279%
   action = setbuttondescription
   description = Open World Folder
-}
-
-customization {
-  identifier = %id=400375%
-  action = setbuttondescription
-  description = Export World Generation Settings
 }
 
 customization {

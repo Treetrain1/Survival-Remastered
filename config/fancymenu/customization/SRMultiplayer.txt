@@ -14,55 +14,7 @@ customization {
 }
 
 customization {
-  baseheight = 2160
-  action = autoscale
-  basewidth = 3840
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
-}
-
-customization {
-  identifier = %id=346948%
-  action = setbuttondescription
-  description = Join Server
-}
-
-customization {
-  identifier = %id=450948%
-  action = setbuttondescription
-  description = Direct Connection
-}
-
-customization {
-  identifier = %id=580972%
-  action = setbuttondescription
-  description = Cancel%n%Go back
-}
-
-customization {
-  identifier = %id=346972%
-  action = setbuttondescription
-  description = Edit%n%Edit selected server
-}
-
-customization {
-  identifier = %id=426972%
-  action = setbuttondescription
-  description = Delete%n%Delete selected server
-}
-
-customization {
-  identifier = %id=504972%
-  action = setbuttondescription
-  description = Refresh%n%Refresh server list
-}
-
-customization {
-  identifier = %id=554948%
-  action = setbuttondescription
-  description = Add Server%n%Add a server to the list
 }
 

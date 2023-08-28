@@ -21,7 +21,7 @@ customization {
 customization {
   identifier = %id=505154%
   action = setbuttondescription
-  description = Online
+  description = Difficulty
 }
 
 customization {
@@ -61,12 +61,6 @@ customization {
 }
 
 customization {
-  identifier = %id=322154%
-  action = setbuttondescription
-  description = Puzzle
-}
-
-customization {
   identifier = %id=505256%
   action = setbuttondescription
   description = Chat Settings
@@ -100,6 +94,12 @@ customization {
   identifier = %id=345208%
   action = setbuttondescription
   description = Customize Skin
+}
+
+customization {
+  identifier = %id=345304%
+  action = setbuttondescription
+  description = Credits & Attribution
 }
 
 customization {

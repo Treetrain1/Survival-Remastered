@@ -1,0 +1,9 @@
+{
+	"useWindOnNonFrozenServers": true,
+	"saveItemCooldowns": true,
+	"dataFixer": {
+		"disabledDataFixTypes": [
+			"world_gen_settings",
+		],
+	},
+}

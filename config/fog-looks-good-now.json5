@@ -1,0 +1,17 @@
+{
+	"biomeFogs": [
+		{
+			"first": "minecraft:the_end",
+			"second": {
+				"fogStart": 0.5,
+				"fogDensity": 0.800000011920929,
+				"caveFogColor": 3355443
+			}
+		}
+	],
+	"defaultFogStart": 0.0,
+	"defaultFogDensity": 1.0,
+	"useCaveFog": true,
+	"caveFogDensity": 0.8,
+	"caveFogColor": 3355443
+}

@@ -21,6 +21,30 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  x = 0
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = Multiplayer!%n%Go play with friends!
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
@@ -51,10 +75,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = bottom-left
-  x = 2
+  orientation = bottom-centered
+  x = -100
   action = movebutton
-  y = -22
+  y = -20
 }
 
 customization {
@@ -65,44 +89,7 @@ customization {
 }
 
 customization {
-  identifier = %id=376310%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
-  x = 0
-  action = movebutton
-  y = -24
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  seconds = 1.3
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = setbuttondescription
-  description = Multiplayer!%n%Go play with friends!
-}
-
-customization {
-  identifier = %id=400334%
-  orientation = bottom-centered
-  x = -100
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=400334%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   seconds = 1.5
   onlyfirsttime = true
   fadein = true
@@ -198,6 +185,11 @@ customization {
 }
 
 customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 1.5
   onlyfirsttime = true
@@ -231,15 +223,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttondescription
   description = Rage Quit%n%Quit to Desktop
-}
-
-customization {
-  identifier = %id=604310%
-  seconds = 1.2
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
 }
 
 customization {

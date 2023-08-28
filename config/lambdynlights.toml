@@ -577,15 +577,31 @@ mode = "fancy"
 				sculk_segment_entity = true
 
 			[light_sources.settings.entities.biomemakeover]
-				dragonfly = true
 				rootling = true
 				tadpole = true
-				adjudicator = true
 				lightning_bug = true
+				scuttler = true
 				owl = true
+				glowfish = true
+				moth = true
 				toad = true
 				lightning_bug_alternate = true
+				adjudicator_mimic = true
 				helmit_crab = true
+				dragonfly = true
+				decayed = true
+				adjudicator = true
+				blightbat = true
+				mushroom_trader = true
+				lightning_bottle = true
+
+			[light_sources.settings.entities.darkwaters]
+				mohast = true
+				miraid_hallucination = true
+				craeken = true
+				aberration = true
+				miraid = true
+				sight_hunter = true
 
 			[light_sources.settings.entities.ae2]
 				charged_quartz = true
@@ -607,16 +623,16 @@ mode = "fancy"
 
 			[light_sources.settings.entities.graveyard]
 				acolyte = true
+				lich = true
 				revenant = true
 				wraith = true
 				corrupted_vindicator = true
 				skeleton_creeper = true
+				falling_corpse = true
 				corrupted_pillager = true
 				ghoul = true
 				reaper = true
 				nightmare = true
-				lich = true
-				falling_corpse = true
 
 			[light_sources.settings.entities.mcdar]
 				enchanted_red_sheep = true
@@ -640,6 +656,12 @@ mode = "fancy"
 				jungle_skeleton = true
 				skull = true
 				naga = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				airship = true
+				gyrodyne = true
+				quadrocopter = true
+				biplane = true
 
 			[light_sources.settings.entities.adventurez]
 				skeleton_vanguard = true
@@ -768,6 +790,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.farmingforblockheads]
 				merchant = true
+
+			[light_sources.settings.entities.cave_dweller]
+				cave_dweller = true
 
 			[light_sources.settings.entities.lovely_snails]
 				snail = true
@@ -937,6 +962,8 @@ mode = "fancy"
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
 				jellyfish = true
+				tumbleweed = true
+				coconut = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
@@ -968,6 +995,7 @@ mode = "fancy"
 				bat = true
 				husk = true
 				experience_bottle = true
+				camel = true
 				rabbit = true
 				firework_rocket = true
 				silverfish = true
@@ -1056,6 +1084,7 @@ mode = "fancy"
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				sniffer = true
 				trader_llama = true
 				donkey = true
 				fox = true
@@ -1223,6 +1252,9 @@ mode = "fancy"
 				direbat_fang_arrow = true
 				direbat = true
 
+			[light_sources.settings.entities.xercapaint]
+				easel = true
+
 			[light_sources.settings.entities.gobber2]
 				gobber2_arrow_end = true
 				nemesis = true
@@ -1286,17 +1318,20 @@ mode = "fancy"
 				golden_swet = true
 				aerbunny = true
 				poison_needle = true
+				hellenrose = true
 				aechor_plant = true
 				blue_swet = true
-				moa = true
 				corsican_hare = true
-				hellenrose = true
+				moa = true
 
 			[light_sources.settings.entities.aqupd]
 				grizzly_bear = true
 
 			[light_sources.settings.entities.moborigins]
 				origin_slime = true
+
+			[light_sources.settings.entities.valkyrienskies]
+				ship_mounting_entity = true
 
 			[light_sources.settings.entities.earthtojavamobs]
 				pink_footed_pig = true
@@ -1359,6 +1394,23 @@ mode = "fancy"
 			[light_sources.settings.entities.wilderwildplus]
 				ancient_pearl = true
 
+			[light_sources.settings.entities.herobrine]
+				infected_rabbit = true
+				herobrine_stalker = true
+				holy_water = true
+				infected_sheep = true
+				herobrine_spy = true
+				herobrine_mage = true
+				infected_horse = true
+				infected_donkey = true
+				infected_pig = true
+				infected_chicken = true
+				herobrine_builder = true
+				infected_cow = true
+				infected_villager = true
+				infected_bat = true
+				herobrine_warrior = true
+
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
 				shadow_walker = true
@@ -1367,8 +1419,17 @@ mode = "fancy"
 				silk_moth = true
 				end_fish = true
 
+			[light_sources.settings.entities.enchancement]
+				ice_shard = true
+				amethyst_shard = true
+				grapple_fishing_bobber = true
+				torch = true
+
 			[light_sources.settings.entities.mythicmetals]
 				banglum_tnt = true
+
+			[light_sources.settings.entities.mrbeast]
+				mrbeast = true
 
 			[light_sources.settings.entities.ad_astra]
 				zombified_pygro = true

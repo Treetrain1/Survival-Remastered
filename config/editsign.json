@@ -1,3 +1,4 @@
 {
-  "requiredItemId": ""
+  "requiredItemId": "",
+  "openGuiOnPlace": true
 }

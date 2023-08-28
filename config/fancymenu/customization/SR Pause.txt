@@ -14,6 +14,27 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = element
+  orientation_element = vanillabtn:504306
+  x = 0
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  action = setbuttonlabel
+  value = Resume
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  action = setbuttondescription
+  description = Resume%n%Go back to the game
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
   action = hidebutton
 }
@@ -34,110 +55,81 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = vanilla_button_visibility_requirements
-  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
-  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  seconds = Infinity
-  onlyfirsttime = true
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = setbuttondescription
-  description = Report Bugs%n%Report bugs to the bug tracker
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = vanilla_button_visibility_requirements
-  vr_custom:value:fancymenu_visibility_requirement_is_realtime_year = 0
-  vr_custom:showif:fancymenu_visibility_requirement_is_realtime_year = true
-}
-
-customization {
+  identifier = %id=504306%
   orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  description = Discord%n%Join the Survival Remastered Discord
-  label = Discord
-  loopbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_feedback_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_options_button
   x = 0
-  width = 98
-  actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
-  action = addbutton
-  y = 0
-  value = https://discord.gg/C7bZ5kGGBA
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=504306%
+  width = 204
+  action = resizebutton
   height = 20
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  description = Found a bug?%n%Go to the modpack's GitHub repository to report it
-  label = Found a bug?
-  loopbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  orientation_element = vanillabtn:504306
   x = 0
-  width = 98
-  actionid = 026a3f47-0b3e-4448-b1a8-b90ca05376091641747868297
-  action = addbutton
-  y = 24
-  value = https://github.com/Treetrain1/Survival-Remastered/issues
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  action = setbuttonlabel
-  value = Resume
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  action = setbuttondescription
-  description = Resume%n%Go back to the game
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
-  action = setbuttondescription
-  description = Mods!%n%A list of mods!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  action = setbuttondescription
-  description = Open to LAN%n%Opens the world to other devices in your home
-}
-
-customization {
-  identifier = %id=374294%
-  action = hidebutton
+  action = movebutton
+  y = -48
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   action = setbuttondescription
   description = Advancements
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = element
+  orientation_element = vanillabtn:504306
+  x = 106
+  action = movebutton
+  y = -48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  action = setbuttondescription
+  description = Statistics!
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/C7bZ5kGGBA%btnaction_splitter_fm%
+  description = Discord%n%Join the Survival Remastered Discord
+  label = Discord
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:504306
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = 9d36d40a-0a71-4062-91f1-2d3254fd87df1641750696868
+  y = -24
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://app.loopliz.com/survivalremastered/board/Issues%btnaction_splitter_fm%
+  description = Found a bug?%n%Go to the modpack's issue tracker to report it
+  label = Found a bug?
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:504306
+  x = 106
+  width = 98
+  action = addbutton
+  actionid = 026a3f47-0b3e-4448-b1a8-b90ca05376091641747868297
+  y = -24
+  height = 20
 }
 
 customization {
@@ -153,8 +145,14 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   action = setbuttondescription
-  description = Statistics!
+  description = Mods!%n%A list of mods!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  action = setbuttondescription
+  description = Open to LAN%n%Opens the world to other devices in your home
 }
 

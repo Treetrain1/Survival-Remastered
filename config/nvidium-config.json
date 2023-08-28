@@ -1,0 +1,8 @@
+{
+  "extra_rd": 100,
+  "enable_temporal_coherence": true,
+  "max_geometry_memory": 2048,
+  "automatic_memory": true,
+  "region_keep_distance": 32,
+  "disable_graph_update": false
+}
