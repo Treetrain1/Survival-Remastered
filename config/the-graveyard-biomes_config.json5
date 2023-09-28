@@ -3,7 +3,7 @@
   //
   // Configure the weight of the biomes by changing "theGraveyardBiomesWeight".
   // Configure which minecraft biomes can be replaced by The Graveyard biomes.
-  // A full list of all the biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // A full list of all the biomes can be found here https:minecraft.wiki/w/Biome#Biome_IDs.
   // Configure fog density and fog height.
   "biomeConfigEntries": {
     "haunted_lakes": {

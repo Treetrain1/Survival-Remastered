@@ -5,7 +5,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 7,
@@ -13,7 +13,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 2,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:windswept_gravelly_hills",
 					"minecraft:ice_spikes",
@@ -36,7 +36,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			},
@@ -47,7 +47,7 @@
 		},
 		"tarantula": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 40,
@@ -55,7 +55,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:bamboo_jungle",
 					"minecraft:jungle",
@@ -73,7 +73,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -82,7 +82,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 12,
@@ -90,7 +90,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sunflower_plains",
 					"minecraft:sparse_jungle",
@@ -120,7 +120,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -129,7 +129,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 8,
@@ -137,7 +137,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -164,7 +164,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -173,7 +173,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 11,
@@ -181,7 +181,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 4,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sunflower_plains",
 					"minecraft:sparse_jungle",
@@ -212,7 +212,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -221,7 +221,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 7,
@@ -229,7 +229,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 2,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sunflower_plains",
 					"minecraft:sparse_jungle",
@@ -261,7 +261,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -270,7 +270,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 10,
@@ -278,7 +278,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:mangrove_swamp",
 					"minecraft:swamp",
@@ -293,7 +293,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -302,7 +302,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 8,
@@ -310,7 +310,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:beach",
 					"minecraft:snowy_beach",
@@ -323,14 +323,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"shark": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 4,
@@ -338,7 +338,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -359,7 +359,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -368,7 +368,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 11,
@@ -376,7 +376,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -400,14 +400,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"bobbit_worm": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 2,
@@ -415,7 +415,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -434,7 +434,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -443,7 +443,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 15,
@@ -451,7 +451,7 @@
 				"minimum_group_size": 2,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 5,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:river",
 					"minecraft:frozen_river",
@@ -469,7 +469,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			},
@@ -481,7 +481,7 @@
 		},
 		"whale": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 2,
@@ -489,7 +489,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -510,7 +510,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -519,7 +519,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 4,
@@ -527,7 +527,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 5,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -541,14 +541,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"squid_colossal": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 1,
@@ -556,7 +556,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:deep_lukewarm_ocean",
@@ -570,14 +570,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"squid_giant": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 1,
@@ -585,7 +585,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:deep_lukewarm_ocean",
@@ -599,14 +599,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"octopus": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 5,
@@ -614,7 +614,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_lukewarm_ocean",
 					"minecraft:lukewarm_ocean",
@@ -627,7 +627,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -636,7 +636,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 7,
@@ -644,7 +644,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -669,7 +669,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -678,7 +678,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 6,
@@ -686,7 +686,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -711,7 +711,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -720,7 +720,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 16,
@@ -728,7 +728,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 4,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -753,7 +753,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -762,7 +762,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 7,
@@ -770,7 +770,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 6,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sparse_jungle",
 					"minecraft:dark_forest",
@@ -797,7 +797,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			},
@@ -810,7 +810,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 5,
@@ -818,7 +818,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 6,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sunflower_plains",
 					"minecraft:badlands",
@@ -835,7 +835,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			},
@@ -853,7 +853,7 @@
 		},
 		"jellyfish": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 3,
@@ -861,7 +861,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -880,7 +880,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -889,7 +889,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 10,
@@ -897,7 +897,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 4,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:snowy_taiga",
 					"minecraft:frozen_river",
@@ -913,7 +913,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -922,7 +922,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 3,
@@ -930,7 +930,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 2,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:sunflower_plains",
 					"minecraft:bamboo_jungle",
@@ -964,7 +964,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			},
@@ -981,7 +981,7 @@
 		},
 		"lamprey": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 2,
@@ -989,7 +989,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 2,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:mangrove_swamp",
 					"minecraft:river",
@@ -1003,14 +1003,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"nautilus": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 2,
@@ -1018,7 +1018,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:deep_frozen_ocean",
 					"minecraft:frozen_ocean",
@@ -1037,7 +1037,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
@@ -1046,7 +1046,7 @@
 			// Allows the entity to despawn freely when no players are nearby, like vanilla monsters do
 			"can_despawn": false,
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 8,
@@ -1054,7 +1054,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:mangrove_swamp",
 					"minecraft:old_growth_pine_taiga",
@@ -1068,14 +1068,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"eel_freshwater": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 2,
@@ -1083,7 +1083,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:mangrove_swamp",
 					"minecraft:river",
@@ -1097,14 +1097,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"eel_saltwater": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 1,
@@ -1112,7 +1112,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:ocean",
 					"minecraft:lukewarm_ocean",
@@ -1125,14 +1125,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"butterfly": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 10,
@@ -1140,7 +1140,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:bamboo_jungle",
 					"minecraft:sparse_jungle",
@@ -1162,14 +1162,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"dragonfly": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 10,
@@ -1177,7 +1177,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 3,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:mangrove_swamp",
 					"minecraft:river",
@@ -1191,14 +1191,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"barracuda": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 3,
@@ -1206,7 +1206,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 1,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:lukewarm_ocean",
 					"minecraft:warm_ocean"
@@ -1218,14 +1218,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"flying_fish": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 10,
@@ -1233,7 +1233,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 5,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:lukewarm_ocean",
 					"minecraft:warm_ocean"
@@ -1245,14 +1245,14 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
 		},
 		"piranha": {
 			"spawning": {
-				// Enables natural spawning - More info on these options: https://minecraft.fandom.com/wiki/Spawn#Java_Edition
+				// Enables natural spawning - More info on these options: https://minecraft.wiki/w/Spawn#Java_Edition
 				"spawn_naturally": true,
 				// The spawn weight compared to other entities (typically between 6-20)
 				"spawn_weight": 7,
@@ -1260,7 +1260,7 @@
 				"minimum_group_size": 1,
 				// Maximum amount of entities in spawned groups - Must be greater or equal to min value
 				"maximum_group_size": 5,
-				// Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+				// Enter biome IDs. Supports modded biomes https://minecraft.wiki/w/Biome#Biome_IDs
 				"spawn_biomes": [
 					"minecraft:bamboo_jungle",
 					"minecraft:jungle",
@@ -1273,7 +1273,7 @@
 					"cost_per_spawn": 1.0,
 					// Maximum cost the spawning algorithm can accrue for this entity
 					"maximum_cost_per_biome": 10.0,
-					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
+					// Enter biome IDs to use these costs in. Supports modded biomes. An empty list will use spawn_biomes https://minecraft.wiki/w/Biome#Biome_IDs
 					"spawn_cost_biomes": []
 				}
 			}
