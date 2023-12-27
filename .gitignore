@@ -28,12 +28,24 @@ bin/
 
 *.DS_Store
 
-# fabric
+# Minecraft
 
-run/
-/remappedSrc/
+.fabric/
+.andromeda/
+.dark-matter/
+.replay_cache/
+.spyglass_astronomy/
+XaeroWorldMap/
+saves/
+logs/
+replay_recordings/
+moddata/
+fancymenu_data/
+cache/
 
 # Survival Remastered
 
+# Built mrpacks
 client/
+# Built serverpacks
 server/servers/
