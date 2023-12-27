@@ -22,7 +22,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -49,7 +49,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabrication","Fabrication grayscale","fabric","presencefootsteps:default_sound_pack","railways:green_signals","minecraft:supporteatinganimation","file/Brush-Up-1.6.zip"]
+resourcePacks:["vanilla","Fabrication","Fabrication grayscale","fabric","presencefootsteps:default_sound_pack","railways:green_signals","minecraft:supporteatinganimation","file/Brush-Up-1.6.zip","file/SR_Resources"]
 incompatibleResourcePacks:["file/Brush-Up-1.6.zip"]
 lastServer:localhost
 lang:en_us
