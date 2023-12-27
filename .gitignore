@@ -40,6 +40,7 @@ saves/
 schematics/
 logs/
 crash-reports/
+screenshots/
 replay_recordings/
 moddata/
 stackdeobf_mappings/
