@@ -23,6 +23,8 @@ mechanics, QOL changes, and much more!
 
 Built-in [Complementary Unbound](https://modrinth.com/shader/complementary-unbound)
 
+Fully Open Source
+
 So much more!
 
 ### Legacy Versions
