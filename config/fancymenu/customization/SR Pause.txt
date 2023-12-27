@@ -119,7 +119,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink;https://app.loopliz.com/survivalremastered/board/Issues%btnaction_splitter_fm%
+  buttonaction = openlink;https://github.com/Treetrain1/Survival-Remastered/issues%btnaction_splitter_fm%
   description = Found a bug?%n%Go to the modpack's issue tracker to report it
   label = Found a bug?
   loopbackgroundanimations = true

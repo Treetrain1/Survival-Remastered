@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "betternether:obsidian_glass",
+        "betternether:obsidian_glass_pane",
+        "betternether:blue_obsidian_glass",
+        "betternether:blue_obsidian_glass_pane"
+    ]
+}
