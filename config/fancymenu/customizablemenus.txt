@@ -213,9 +213,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-net.minecraft.class_433 {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
@@ -420,19 +417,10 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-net.minecraft.class_429 {
-}
-
 eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen {
 }
 
 com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen {
-}
-
-net.minecraft.class_526 {
-}
-
-net.minecraft.class_442 {
 }
 
 net.minecraft.class_426 {
@@ -442,5 +430,17 @@ net.minecraft.class_524 {
 }
 
 net.minecraft.class_424 {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_433 {
 }
 

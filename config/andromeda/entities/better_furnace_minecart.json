@@ -1,0 +1,6 @@
+{
+  "maxFuel": 45000,
+  "takeFuelWhenLow": true,
+  "enabled": true,
+  "scope": "GLOBAL"
+}

@@ -6,19 +6,22 @@
     "damage_numbers": true,
     "full_bright_damage_numbers": true,
     "texture": "DEFAULT",
-    "damage_number_colors": {
-      "minecraft:genetic": "#00FFFFFF",
-      "minecraft:crit": "#00FF0000",
+    "damage_type_colors": {
+      "minecraft:generic": "#00FFFFFF",
       "minecraft:dragon_breath": "#00E600FF",
-      "minecraft:wither": "#00666666",
-      "minecraft:explosion": "#00FFBB29",
-      "minecraft:magic_indirect": "#00844CE7",
-      "minecraft:magic": "#0033B1FF",
+      "attributeslib:bleeding": "#00810A0A",
+      "#dummmmmmy:is_wither": "#00666666",
       "minecraft:trident": "#0000FF9D",
-      "minecraft:fire": "#00FF7700",
-      "minecraft:lightning": "#00FFF200",
-      "minecraft:cactus": "#000FA209",
-      "minecraft:true_damage": "#00910038"
+      "#dummmmmmy:is_fire": "#00FF7700",
+      "#dummmmmmy:is_thorn": "#000FA209",
+      "dummmmmmy:true": "#00910038",
+      "#dummmmmmy:is_cold": "#0009D2FF",
+      "minecraft:sonic_boom": "#00074550",
+      "#minecraft:is_lightning": "#00FFF200",
+      "#dummmmmmy:is_explosion": "#00FFBB29",
+      "dummmmmmy:critical": "#00FF0000",
+      "#minecraft:witch_resistant_to": "#00844CE7",
+      "#minecraft:is_drowning": "#001898E3"
     }
   }
 }

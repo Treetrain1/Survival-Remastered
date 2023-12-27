@@ -1,5 +1,5 @@
 {
-  "enableBorderlessFullscreen": true,
+  "enableBorderlessFullscreen": false,
   "addToVanillaVideoSettings": true,
   "enableMacOS": false,
   "customWindowDimensions": {

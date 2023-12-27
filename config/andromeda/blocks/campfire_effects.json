@@ -1,0 +1,12 @@
+{
+  "affectsPassive": true,
+  "effectsRange": 10,
+  "effectList": [
+    {
+      "identifier": "minecraft:regeneration",
+      "amplifier": 0
+    }
+  ],
+  "enabled": false,
+  "scope": "GLOBAL"
+}

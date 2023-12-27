@@ -1,0 +1,8 @@
+{
+  "respawnCrystals": true,
+  "scaleHealthByMaxPlayers": false,
+  "shorterCrystalTrackRange": true,
+  "shorterSpikes": false,
+  "enabled": true,
+  "scope": "GLOBAL"
+}

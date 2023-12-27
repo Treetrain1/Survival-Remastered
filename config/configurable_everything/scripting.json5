@@ -1,0 +1,9 @@
+{
+	// Requires Fabric Kotlin Extensions
+	"applyKotlinScripts": true,
+	"defaultImports": [
+		"kotlinx.coroutines.*",
+		"net.frozenblock.configurableeverything.util.*",
+		"net.frozenblock.configurableeverything.scripting.util.*",
+	],
+}

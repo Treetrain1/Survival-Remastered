@@ -1,4 +1,9 @@
 {
+	"lightning": {
+		"lightningScorchesSand": true,
+		"lightningBlockParticles": true,
+		"lightningSmokeParticles": true,
+	},
 	"allay": {
 		"keyframeAllayDance": true,
 	},
@@ -13,19 +18,27 @@
 		"jellyfishSpawnCap": 30,
 		"jellyfishTentacles": 8,
 	},
+	"crab": {
+		"crabSpawnCap": 25,
+		"reachAffectsAttack": true,
+	},
 	"tumbleweed": {
 		"tumbleweedSpawnCap": 10,
 		"leashedTumbleweed": false,
+		"tumbleweedDestroysCrops": true,
 		"tumbleweedRotatesToLookDirection": false,
 	},
 	"warden": {
 		"wardenAttacksImmediately": true,
+		"wardenSwims": true,
+		"wardenSwimAnimation": true,
 		"wardenCustomTendrils": true,
+		"wardenImprovedDig": true,
+		"wardenImprovedEmerge": true,
 		"wardenBedrockSniff": true,
 		"wardenDyingAnimation": true,
 		"wardenEmergesFromCommand": true,
 		"wardenEmergesFromEgg": true,
-		"wardenSwimAnimation": true,
 	},
 	"unpassableRail": true,
 }

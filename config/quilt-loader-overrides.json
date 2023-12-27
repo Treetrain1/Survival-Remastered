@@ -39,6 +39,45 @@
                     "versions": "=1.20.1"
                 }
             }
+        },
+        {
+            "path": "<mods>/WilderWild-2.1.10-Fabric+1.20.1.jar",
+            "depends": {
+                "replace": {
+                    "id": "fabricloader",
+                    "versions": ">=0.14.23"
+                },
+                "with": {
+                    "id": "fabric-api",
+                    "versions": ">=0.14.22"
+                }
+            }
+        },
+        {
+            "path": "<mods>/FrozenLib-1.4.1-Fabric+1.20.1.jar",
+            "breaks": {
+                "replace": {
+                    "id": "fabric-language-kotlin",
+                    "versions": "<1.10.13+kotlin.1.9.20"
+                },
+                "with": {
+                    "id": "fabric-language-kotlin",
+                    "versions": "<1.10.11+kotlin.1.9.20"
+                }
+            }
+        },
+        {
+            "path": "<mods>/fabric-language-kotlin-1.10.13+kotlin.1.9.20.jar",
+            "depends": {
+                "replace": {
+                    "id": "fabricloader",
+                    "versions": ">=0.14.24"
+                },
+                "with": {
+                    "id": "fabricloader",
+                    "versions": ">=0.14.22"
+                }
+            }
         }
     ]
 }

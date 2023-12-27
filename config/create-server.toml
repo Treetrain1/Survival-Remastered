@@ -133,7 +133,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		fanProcessingTime = 150
+		fanProcessingTime = 0
 
 	#.
 	#Moving Contraptions
@@ -321,7 +321,7 @@
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
 	#Range: > 1
-	fluidTankMaxHeight = 32
+	fluidTankMaxHeight = 128
 	#.
 	#[in Blocks]
 	#The maximum distance a mechanical pump can push or pull liquids on either side.

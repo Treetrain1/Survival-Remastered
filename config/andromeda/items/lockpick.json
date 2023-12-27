@@ -1,0 +1,7 @@
+{
+  "chance": 3,
+  "breakAfterUse": true,
+  "villagerInventory": true,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

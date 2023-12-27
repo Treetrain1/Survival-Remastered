@@ -1,0 +1,6 @@
+{
+  "range": 4,
+  "allowLockPicking": true,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

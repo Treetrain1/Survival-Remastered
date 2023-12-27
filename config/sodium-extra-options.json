@@ -31,7 +31,6 @@
       "minecraft:overworld": 0,
       "minecraft:the_nether": 0
     },
-    "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -45,7 +44,7 @@
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "NONE",
-    "show_fps": true,
+    "show_fps": false,
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,

@@ -1,0 +1,24 @@
+config-version = 2
+
+[animations]
+swingAndUseItem = false
+sneakAnimationSpeed = 1.0
+disableCameraBobbing = false
+enableToolBlocking = false
+showEatingInThirdPerson = false
+
+[hudRendering]
+disableEffectBasedFovChange = false
+showHandWhenInvisible = false
+damageColor = 1308557312
+attackCooldownHandOffset = 0.0
+showDamageTintOnArmor = false
+alternativeBobbing = false
+onlyShowShieldWhenBlocking = false
+
+[misc]
+fixCooldownDesync = true
+showModButton = false
+fixLocalPlayerHandling = true
+force100PercentRecharge = false
+showOwnNameInThirdPerson = false

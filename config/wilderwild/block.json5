@@ -27,11 +27,17 @@
 		"maxDistance": 32,
 		"maxNaturalDistance": 10,
 	},
+	"mesoglea": {
+		"mesogleaLiquid": false,
+		"mesogleaBubbleColumns": true,
+	},
 	"shriekerGargling": true,
 	"soulFireSounds": true,
 	"billboardTendrils": true,
 	"tendrilsCarryEvents": false,
-	"mesogleaLiquid": false,
 	"pollenParticles": true,
+	"logHollowing": true,
 	"cactusPlacement": true,
+	"frostedIceCracking": true,
+	"dripleafPowering": true,
 }

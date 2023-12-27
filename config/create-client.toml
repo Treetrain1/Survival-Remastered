@@ -35,7 +35,7 @@
 	filterItemRenderDistance = 10.0
 	#.
 	#Show kinetic debug information on blocks while the F3-Menu is open.
-	enableRainbowDebug = true
+	enableRainbowDebug = false
 	#.
 	#Vertical offset for the Toolbox Hotbar overlay.
 	#Range: > -2147483648
@@ -94,7 +94,7 @@
 		editingMode = false
 		#.
 		#Slow down a ponder scene whenever there is text on screen.
-		comfyReading = true
+		comfyReading = false
 
 	#.
 	#Railway related settings

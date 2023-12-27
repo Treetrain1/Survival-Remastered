@@ -1,0 +1,8 @@
+{
+	"reachOverrides": [
+		{
+			"item": "minecraft:trident",
+			"reach": 100.0,
+		},
+	],
+}

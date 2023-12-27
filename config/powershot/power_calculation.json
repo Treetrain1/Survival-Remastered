@@ -6,6 +6,9 @@
     "minecraft:piercing": 1.1,
     "minecraft:punch": 0.8,
     "minecraft:knockback": 0.8,
-	"minecraft:impaling": 1.0
+	  "minecraft:impaling": 1.0,
+    "enchancement:brimstone": 5.0,
+    "enchancement:scatter": 2.5,
+    "enchancement:delay": 2.0
   }
 }

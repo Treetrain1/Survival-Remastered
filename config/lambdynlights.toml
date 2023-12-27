@@ -304,6 +304,7 @@ mode = "fancy"
 				sign = true
 				brewing_stand = true
 				sculk_sensor = true
+				hanging_sign = true
 				conduit = true
 				beehive = true
 				dispenser = true
@@ -715,8 +716,12 @@ mode = "fancy"
 
 			[light_sources.settings.entities.create]
 				carriage_contraption = true
+				seat = true
 				stationary_contraption = true
+				contraption = true
+				gantry_contraption = true
 				super_glue = true
+				crafting_blueprint = true
 				potato_projectile = true
 
 			[light_sources.settings.entities.wilderworld]
@@ -730,6 +735,16 @@ mode = "fancy"
 				caravan_trader = true
 				mossy_llama = true
 				woolly_llama = true
+
+			[light_sources.settings.entities.andromeda]
+				hopper_boat = true
+				anvil_minecart = true
+				furnace_boat = true
+				jukebox_boat = true
+				note_block_minecart = true
+				tnt_boat = true
+				flying_item = true
+				jukebox_minecart = true
 
 			[light_sources.settings.entities.mcda]
 				summoned_bee = true
@@ -796,6 +811,11 @@ mode = "fancy"
 
 			[light_sources.settings.entities.lovely_snails]
 				snail = true
+
+			[light_sources.settings.entities.railways]
+				conductor = true
+				benchcart = true
+				jukeboxcart = true
 
 			[light_sources.settings.entities.bosses_of_mass_destruction]
 				lich = true
@@ -957,13 +977,18 @@ mode = "fancy"
 				flying_block = true
 
 			[light_sources.settings.entities.terraform]
+				chest_boat = true
 				boat = true
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
 				jellyfish = true
+				chest_bubbler = true
+				ancient_horn_projectile = true
+				sculk_spreader = true
 				tumbleweed = true
 				coconut = true
+				crab = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
@@ -1031,6 +1056,7 @@ mode = "fancy"
 				endermite = true
 				zombie = true
 				ender_pearl = true
+				item_display = true
 				guardian = true
 				fireball = true
 				illusioner = true
@@ -1039,7 +1065,9 @@ mode = "fancy"
 				wolf = true
 				zombie_villager = true
 				tnt_minecart = true
+				block_display = true
 				elder_guardian = true
+				chest_boat = true
 				boat = true
 				small_fireball = true
 				strider = true
@@ -1100,10 +1128,12 @@ mode = "fancy"
 				villager = true
 				skeleton_horse = true
 				fishing_bobber = true
+				text_display = true
 				polar_bear = true
 				hopper_minecart = true
 				falling_block = true
 				painting = true
+				interaction = true
 				wither = true
 
 			[light_sources.settings.entities.revamped_phantoms]
@@ -1231,6 +1261,10 @@ mode = "fancy"
 				ender_air_bottle = true
 				magic_landmine = true
 
+			[light_sources.settings.entities.snifferplus]
+				stone_pine_boat = true
+				stone_pine_chest_boat = true
+
 			[light_sources.settings.entities.capybara]
 				capybara = true
 
@@ -1252,7 +1286,14 @@ mode = "fancy"
 				direbat_fang_arrow = true
 				direbat = true
 
+			[light_sources.settings.entities.immersive_paintings]
+				glow_graffiti = true
+				painting = true
+				graffiti = true
+				glow_painting = true
+
 			[light_sources.settings.entities.xercapaint]
+				canvas = true
 				easel = true
 
 			[light_sources.settings.entities.gobber2]
@@ -1295,6 +1336,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.adorn]
 				seat = true
+
+			[light_sources.settings.entities.scribe]
+				scribe_chest_boat = true
+				scribe_boat = true
 
 			[light_sources.settings.entities.the_bumblezone]
 				honey_slime = true
@@ -1420,8 +1465,10 @@ mode = "fancy"
 				end_fish = true
 
 			[light_sources.settings.entities.enchancement]
+				brimstone = true
 				ice_shard = true
 				amethyst_shard = true
+				frozen_player = true
 				grapple_fishing_bobber = true
 				torch = true
 

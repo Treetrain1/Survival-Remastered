@@ -1,4 +1,5 @@
 {
+	"modifyAdvancements": true,
 	"cloudMovement": true,
 	"particleWindMovement": 100,
 	"biomeAmbience": {

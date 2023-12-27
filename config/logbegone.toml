@@ -36,7 +36,8 @@ phrases = [
     "forge:obj",
     "minecraft:optifine",
     "Optifine",
-    "Vivecraft"
+    "Vivecraft",
+    "Failed to modify baked model after bake"
 ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 

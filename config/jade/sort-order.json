@@ -60,6 +60,8 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:zombie_villager": null,
+  "create:backtank_capacity": null,
+  "minecraft:campfire": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,
@@ -79,6 +81,7 @@
   "minecraft:mob_breeding": null,
   "minecraft:chicken_egg": null,
   "minecraft:zombie_villager": null,
+  "minecraft:campfire": null,
   "minecraft:block_states": null,
   "minecraft:horse_stats": null,
   "minecraft:item_frame": null,
@@ -103,5 +106,15 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null
+  "minecraft:progress": null,
+  "create:blaze_burner": null,
+  "create:backtank_capacity": null,
+  "create:contraption_inv": null,
+  "lootr:inventory": null,
+  "create:hide_boiler_tanks": null,
+  "create:crafting_blueprint": null,
+  "create:placard": null,
+  "create:exact_block": null,
+  "create:filter": null,
+  "create:goggles": null
 }

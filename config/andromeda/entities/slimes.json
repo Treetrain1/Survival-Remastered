@@ -1,0 +1,8 @@
+{
+  "flee": true,
+  "merge": true,
+  "maxMerge": 4,
+  "slowness": false,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

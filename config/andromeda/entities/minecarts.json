@@ -1,0 +1,8 @@
+{
+  "isAnvilMinecartOn": false,
+  "isNoteBlockMinecartOn": false,
+  "isJukeboxMinecartOn": false,
+  "isSpawnerMinecartOn": true,
+  "enabled": true,
+  "scope": "GLOBAL"
+}

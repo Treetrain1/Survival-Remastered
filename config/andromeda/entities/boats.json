@@ -1,0 +1,8 @@
+{
+  "isFurnaceBoatOn": false,
+  "isTNTBoatOn": false,
+  "isJukeboxBoatOn": false,
+  "isHopperBoatOn": false,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

@@ -1,0 +1,12 @@
+{
+  "requireAllItems": true,
+  "ignoreRecipesHiddenInTheRecipeBook": true,
+  "namespaceBlacklist": [
+    "minecraft",
+    "andromeda",
+    "extshape"
+  ],
+  "recipeBlacklist": [],
+  "enabled": true,
+  "scope": "GLOBAL"
+}
