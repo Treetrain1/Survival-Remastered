@@ -28,8 +28,6 @@ So much more!
 ### Legacy Versions
 Legacy versions of the modpack can be found at the CurseForge page, https://www.curseforge.com/minecraft/modpacks/survival-remastered
 
-[![DISCORD](https://www.bisecthosting.com/images/CF/Survival_Remastered/BH_NU_DISCORD.png)](https://discord.gg/C7bZ5kGGBA)
-
 ### Join the Discord!
 Here I will talk about development and post sneak peeks and community polls
 
