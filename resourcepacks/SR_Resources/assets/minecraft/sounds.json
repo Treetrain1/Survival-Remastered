@@ -1,0 +1,295 @@
+{
+  "music.end": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "survival_remastered:music/thomas_mutiu-battle_of_the_dragons",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/thomas_mutiu-draconis",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ross_budgen-olympus",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ghostrifter-hope",
+			"stream": true
+		}
+	]
+  },
+  "music.dragon": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "survival_remastered:music/thomas_mutiu-battle_of_the_dragons",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/thomas_mutiu-draconis",
+			"stream": true
+		}
+	]
+  },
+  "music.menu": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "survival_remastered:music/dream-amazing_sad_song",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/phyrnna-estavius",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/lucas_king-megalovania",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/strange_day-ambient",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/thomas_mutiu-knights_of_camelot",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/tomomi_kato-the_sound_of_light",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/zakharvalaha-cinematic_chillhop_main",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ross_budgen-olympus",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ross_budgen-flight_hymn",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/thomas_mutiu-battle_of_the_dragons",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/thomas_mutiu-draconis",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/michael_kobrin-the_introvert",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/madirfan-sommerregen",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/quiet",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/remnant",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lost_care",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/deepstate",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/coldrave",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/voide",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/thewardendepth",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lush",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/ice",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/depths",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:underground",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/fall",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/cradle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/as_above_so_below",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/sheep_shuffle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/814",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/prophet",
+			"stream": true
+		}
+	]
+  },
+  "music.credits": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "survival_remastered:music/phyrnna-estavius",
+			"stream": true
+		}
+	]
+  },
+  "music.game": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "survival_remastered:music/dream-amazing_sad_song",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/phyrnna-estavius",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/lucas_king-megalovania",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/strange_day-ambient",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/tommymutiu-knights_of_camelot",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/tomomi_kato-the_sound_of_light",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/zakharvalaha-cinematic_chillhop_main",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ross_budgen-olympus",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/ross_budgen-flight_hymn",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/tommymutiu-battle_of_the_dragons",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/tommymutiu-draconis",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/michael_kobrin-the_introvert",
+			"stream": true
+		},
+		{
+			"name": "survival_remastered:music/madirfan-sommerregen",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/quiet",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/remnant",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lost_care",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/deepstate",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/coldrave",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/voide",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/thewardendepth",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/lush",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/ice",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/depths",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:underground",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/fall",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/cradle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/as_above_so_below",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/sheep_shuffle",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/814",
+			"stream": true
+		},
+		{
+			"name": "ostoverhaul:music/prophet",
+			"stream": true
+		}
+	]
+  }
+}
