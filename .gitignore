@@ -37,6 +37,7 @@ bin/
 .spyglass_astronomy/
 XaeroWorldMap/
 saves/
+schematics/
 logs/
 crash-reports/
 replay_recordings/
