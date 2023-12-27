@@ -42,9 +42,11 @@ logs/
 crash-reports/
 replay_recordings/
 moddata/
+stackdeobf_mappings/
 fancymenu_data/
 modernfix/
 cache/
+config/spark/tmp/
 profile.json
 usercache.json
 usernamecache.json
