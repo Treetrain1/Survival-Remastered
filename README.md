@@ -29,7 +29,7 @@ So much more!
 Legacy versions of the modpack can be found at the CurseForge page, https://www.curseforge.com/minecraft/modpacks/survival-remastered
 
 ### Join the Discord!
-Here I will talk about development and post sneak peeks and community polls
+There, I will post development updates, sneak peeks, and community polls.
 
 ---
 
