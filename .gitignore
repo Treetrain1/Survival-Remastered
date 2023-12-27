@@ -38,6 +38,7 @@ bin/
 XaeroWorldMap/
 saves/
 logs/
+crash-reports/
 replay_recordings/
 moddata/
 fancymenu_data/
