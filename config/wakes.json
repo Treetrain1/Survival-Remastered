@@ -13,16 +13,18 @@
 	"splashStrength": 100,
 	"minimumProducerVelocity": 0.1,
 	"waveDecay": 0.8999999761581421,
+	"spawnParticles": true,
 	"floodFillDistance": 3,
 	"use9PointStencil": true,
 	"ticksBeforeFill": 2,
 	"drawDebugBoxes": false,
 	"renderWakes": true,
 	"spawnWakes": true,
+	"renderType": "AUTO",
 	"wakeResolution": "EIGHT",
 	"wakeOpacity": 1.0,
 	"useWaterBlending": true,
-	"blendMode": "DEFAULT",
+	"blendMode": "SCREEN",
 	"colorIntervals": [
 		{
 			"color": "TRANSPARENT",
@@ -69,5 +71,13 @@
 			"lower": 40,
 			"upper": 50
 		}
-	]
+	],
+	"renderSplashPlane": false,
+	"splashPlaneWidth": 3.0,
+	"splashPlaneHeight": 1.5,
+	"splashPlaneDepth": 2.0,
+	"splashPlaneResolution": 5,
+	"maxSplashPlaneVelocity": 0.5,
+	"splashPlaneScale": 1.0,
+	"splashPlaneOffset": 0.0
 }
