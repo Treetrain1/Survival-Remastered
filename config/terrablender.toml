@@ -1,11 +1,9 @@
-
 #General settings
 [general]
 	#Whether to replace the default built-in world types with our own.
 	replace_default_worldtypes = true
 	#Whether to replace the default Nether with our own.
 	replace_default_nether = true
-
 #Generation settings
 [generation_settings]
 	#The size of nether biome regions from each mod that uses TerraBlender when using the large biomes world type.
@@ -34,4 +32,3 @@
 	#The weighting of vanilla biome regions in the overworld.
 	#Range: 0-2147483647
 	vanilla_overworld_region_weight = 10
-
