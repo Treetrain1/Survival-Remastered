@@ -3,46 +3,10 @@ type = customizablemenus
 com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
-io.github.apace100.origins.screen.ChooseOriginScreen {
-}
-
-net.diebuddies.physics.settings.cloth.ClothSettingsScreen {
-}
-
-net.diebuddies.physics.settings.LiquidSettingsScreen {
-}
-
-net.diebuddies.physics.settings.SoundSettingsScreen {
-}
-
-net.diebuddies.physics.settings.MobsSettingsScreen {
-}
-
-net.diebuddies.physics.settings.vines.VineSettingsScreen {
-}
-
-net.diebuddies.physics.settings.ItemsSettingsScreen {
-}
-
-net.diebuddies.physics.settings.ServerSettingsScreen {
-}
-
-foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
-}
-
 dev.lambdaurora.lambdynlights.gui.SettingsScreen {
 }
 
 net.minecraft.class_6777 {
-}
-
-eu.midnightdust.core.screen.MidnightConfigOverviewScreen {
-}
-
-net.diebuddies.physics.settings.MobsCustomizeSettingsScreen {
-}
-
-net.diebuddies.physics.settings.BlocksCustomizeSettingsScreen {
 }
 
 net.minecraft.class_407 {
@@ -58,21 +22,6 @@ net.minecraft.class_527 {
 }
 
 net.minecraft.class_422 {
-}
-
-net.diebuddies.physics.settings.GeneralSettingsScreen {
-}
-
-net.diebuddies.physics.settings.GravityCustomizeSettingsScreen {
-}
-
-net.diebuddies.physics.settings.BlocksSettingsScreen {
-}
-
-com.blamejared.controlling.client.NewKeyBindsScreen {
-}
-
-net.minecraft.class_525 {
 }
 
 net.minecraft.class_413 {
@@ -93,16 +42,7 @@ net.minecraft.class_412 {
 net.minecraft.class_457 {
 }
 
-dev.tr7zw.skinlayers.SkinLayersModBase$1 {
-}
-
-dqu.additionaladditions.config.ModMenuImpl$1 {
-}
-
 com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen {
-}
-
-xaero.common.gui.GuiWidgetUpdateAll {
 }
 
 net.minecraft.class_418 {
@@ -123,43 +63,13 @@ net.coderbot.iris.gui.screen.ShaderPackScreen {
 net.minecraft.class_436 {
 }
 
-xaero.common.gui.GuiMinimapMain {
-}
-
 net.minecraft.class_408 {
-}
-
-com.bisecthosting.mods.bhmenu.screens.BHOrderScreen {
-}
-
-io.github.apace100.origins.screen.WaitForNextLayerScreen {
-}
-
-me.axieum.mcmod.authme.impl.gui.AuthMethodScreen {
-}
-
-me.axieum.mcmod.authme.impl.gui.MicrosoftAuthScreen {
-}
-
-me.axieum.mcmod.authme.impl.gui.MojangAuthScreen {
-}
-
-me.axieum.mcmod.authme.impl.gui.OfflineAuthScreen {
-}
-
-dqu.additionaladditions.gui.CottonScreen {
-}
-
-juuxel.adorn.client.gui.screen.MainConfigScreen {
 }
 
 me.shedaniel.clothconfig2.gui.ClothConfigScreen {
 }
 
 net.minecraft.class_5375 {
-}
-
-com.hrznstudio.emojiful.gui.EmojifulChatScreen {
 }
 
 net.minecraft.class_440 {
@@ -171,9 +81,6 @@ net.minecraft.class_447 {
 net.minecraft.class_420 {
 }
 
-com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
-}
-
 net.minecraft.class_4288 {
 }
 
@@ -181,12 +88,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
 net.minecraft.class_490 {
-}
-
-dev.stashy.soundcategories.gui.CustomSoundOptionsScreen {
-}
-
-io.github.bumblesoftware.fastload.client.sceen.BuildingTerrainScreen {
 }
 
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
@@ -417,12 +318,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen {
-}
-
-com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen {
-}
-
 net.minecraft.class_426 {
 }
 
@@ -435,12 +330,15 @@ net.minecraft.class_424 {
 net.minecraft.class_526 {
 }
 
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_525 {
+}
+
 net.minecraft.class_429 {
 }
 
 net.minecraft.class_442 {
-}
-
-net.minecraft.class_433 {
 }
 

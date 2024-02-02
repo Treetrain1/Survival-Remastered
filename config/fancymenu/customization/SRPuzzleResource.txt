@@ -1,26 +1,58 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = net.puzzlemc.gui.screen.page.ResourcesPage
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191523
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:f1b28f70-245a-40dd-83d2-a2fc64ef349b-1706434191523] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=400972%
-  action = setbuttondescription
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 02f3ee1f-375e-4d18-a175-5ca325a30357-1706434191523
+  [executable_block:02f3ee1f-375e-4d18-a175-5ca325a30357-1706434191523][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Done%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 400972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c4fd430b-7ba8-495a-aa26-82a413cce323-1706434191523
+  [loading_requirement_container_meta:c4fd430b-7ba8-495a-aa26-82a413cce323-1706434191523] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

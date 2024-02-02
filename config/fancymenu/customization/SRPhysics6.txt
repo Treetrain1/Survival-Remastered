@@ -1,32 +1,84 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = net.diebuddies.physics.settings.MobsSettingsScreen
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191542
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:d8ee18c7-83ca-4cd8-9e8a-80042cad2dbc-1706434191542] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=420973%
-  action = setbuttondescription
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 1651e17b-5981-40e4-86b1-0cb2f5a59fdd-1706434191542
+  [executable_block:1651e17b-5981-40e4-86b1-0cb2f5a59fdd-1706434191542][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Customize%n%Customize Mob Physics
+  element_type = vanilla_button
+  instance_identifier = 420973
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = f9349130-a321-4d13-9ff8-8726b1d42dff-1706434191542
+  [loading_requirement_container_meta:f9349130-a321-4d13-9ff8-8726b1d42dff-1706434191542] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505973%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = cd15c2ad-47b5-4cd5-adf3-2797f85538de-1706434191542
+  [executable_block:cd15c2ad-47b5-4cd5-adf3-2797f85538de-1706434191542][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Done%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 505973
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c3b13ba7-c4f4-4246-a8fb-ab0b3ba25cea-1706434191542
+  [loading_requirement_container_meta:c3b13ba7-c4f4-4246-a8fb-ab0b3ba25cea-1706434191542] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

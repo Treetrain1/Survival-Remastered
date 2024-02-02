@@ -1,0 +1,7 @@
+{
+  "modifier": 1.0,
+  "furnaceModifier": 1.0,
+  "additionalFurnaceFuel": 0,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

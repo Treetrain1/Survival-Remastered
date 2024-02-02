@@ -1,32 +1,84 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_415
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = create_buffet_world_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191479
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:c4ac83be-4474-4f66-8244-c1186e8253c5-1706434191479] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=345972%
-  action = setbuttondescription
-  description = Done%n%Apply changes and exit
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=505972%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = fbaff2ff-7819-4a1c-9745-b1939db0e5fd-1706434191479
+  [executable_block:fbaff2ff-7819-4a1c-9745-b1939db0e5fd-1706434191479][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 505972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a8456d55-58e1-420a-881a-b54b036a4f84-1706434191479
+  [loading_requirement_container_meta:a8456d55-58e1-420a-881a-b54b036a4f84-1706434191479] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = fb6e6e5b-be88-4894-a49e-201695b9954c-1706434191479
+  [executable_block:fb6e6e5b-be88-4894-a49e-201695b9954c-1706434191479][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Done%n%Apply changes and exit
+  element_type = vanilla_button
+  instance_identifier = 345972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a80e2d48-1bf7-4ae4-aa02-8fc3436473d4-1706434191479
+  [loading_requirement_container_meta:a80e2d48-1bf7-4ae4-aa02-8fc3436473d4-1706434191479] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

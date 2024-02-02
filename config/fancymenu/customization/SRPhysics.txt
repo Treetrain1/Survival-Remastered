@@ -1,116 +1,298 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = net.diebuddies.physics.settings.PhysicsSettingsScreen
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191540
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:44a1f111-f0de-406d-8dc5-2bbb153d73b3-1706434191540] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=345184%
-  action = setbuttonlabel
-  value = General Physics
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=345184%
-  action = setbuttondescription
-  description = General Physics
-}
-
-customization {
-  identifier = %id=345280%
-  action = setbuttondescription
-  description = Sound Settings
-}
-
-customization {
-  identifier = %id=505184%
-  action = setbuttonlabel
-  value = Mob Physics
-}
-
-customization {
-  identifier = %id=400334%
-  action = setbuttondescription
-  description = Done%n%Go back
-}
-
-customization {
-  identifier = %id=345256%
-  action = setbuttonlabel
-  value = Liquid Physics
-}
-
-customization {
-  identifier = %id=345256%
-  action = setbuttondescription
-  description = Liquid Physics
-}
-
-customization {
-  identifier = %id=505256%
-  action = setbuttondescription
-  description = Server Settings
-}
-
-customization {
-  identifier = %id=345232%
-  action = setbuttonlabel
-  value = Cloth Physics
-}
-
-customization {
-  identifier = %id=345232%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 63914655-986c-4287-82ee-91ae968535da-1706434191540
+  [executable_block:63914655-986c-4287-82ee-91ae968535da-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cloth Physics
+  label = Cloth Physics
+  element_type = vanilla_button
+  instance_identifier = 345232
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = e51471d2-f980-48f5-9eae-8c222811b587-1706434191540
+  [loading_requirement_container_meta:e51471d2-f980-48f5-9eae-8c222811b587-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505232%
-  action = setbuttonlabel
-  value = Item Physics
+vanilla_button {
+  button_element_executable_block_identifier = 98b44430-6528-486a-b4bb-f96ea4016a8d-1706434191540
+  [executable_block:98b44430-6528-486a-b4bb-f96ea4016a8d-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Liquid Physics
+  label = Liquid Physics
+  element_type = vanilla_button
+  instance_identifier = 345256
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 1a00cb86-66d2-49f8-ba3a-b3a6e6475a4d-1706434191540
+  [loading_requirement_container_meta:1a00cb86-66d2-49f8-ba3a-b3a6e6475a4d-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505232%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 34d582e1-ee95-454c-a71c-04eca186609f-1706434191540
+  [executable_block:34d582e1-ee95-454c-a71c-04eca186609f-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = General Physics
+  label = General Physics
+  element_type = vanilla_button
+  instance_identifier = 345184
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 097d08d9-c1ab-4eea-8227-f828e1185498-1706434191540
+  [loading_requirement_container_meta:097d08d9-c1ab-4eea-8227-f828e1185498-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 1a0ec6c6-0dcf-4826-af25-d53e7acd6de8-1706434191540
+  [executable_block:1a0ec6c6-0dcf-4826-af25-d53e7acd6de8-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Done%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 400334
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 95394cc2-3aaf-4975-98b2-2a2a8bb20ad2-1706434191540
+  [loading_requirement_container_meta:95394cc2-3aaf-4975-98b2-2a2a8bb20ad2-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 901f2365-aea8-4e82-a515-5acd8e81e658-1706434191540
+  [executable_block:901f2365-aea8-4e82-a515-5acd8e81e658-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Server Settings
+  element_type = vanilla_button
+  instance_identifier = 505256
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = ee8ebe25-6b53-4dbf-8aed-926cd2359db2-1706434191540
+  [loading_requirement_container_meta:ee8ebe25-6b53-4dbf-8aed-926cd2359db2-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = b3d2ff0b-78bd-49e3-a77c-05b5ee474b22-1706434191540
+  [executable_block:b3d2ff0b-78bd-49e3-a77c-05b5ee474b22-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Item Physics
+  label = Item Physics
+  element_type = vanilla_button
+  instance_identifier = 505232
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8460fb17-6ad9-42a6-99ae-72447566ec6e-1706434191540
+  [loading_requirement_container_meta:8460fb17-6ad9-42a6-99ae-72447566ec6e-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=345208%
-  action = setbuttonlabel
-  value = Block Physics
+vanilla_button {
+  button_element_executable_block_identifier = 5b541312-4896-42a4-bac4-8e888d2e1dda-1706434191540
+  [executable_block:5b541312-4896-42a4-bac4-8e888d2e1dda-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Sound Settings
+  element_type = vanilla_button
+  instance_identifier = 345280
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 4f0714fd-15ab-4dd5-b8cd-f945827f58e8-1706434191540
+  [loading_requirement_container_meta:4f0714fd-15ab-4dd5-b8cd-f945827f58e8-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=345208%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = b38820e3-b14b-4291-a401-3ff27b97627c-1706434191540
+  [executable_block:b38820e3-b14b-4291-a401-3ff27b97627c-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Block Physics
+  label = Block Physics
+  element_type = vanilla_button
+  instance_identifier = 345208
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c68b73d2-1e41-42fa-8d03-f57b41bbddce-1706434191540
+  [loading_requirement_container_meta:c68b73d2-1e41-42fa-8d03-f57b41bbddce-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505208%
-  action = setbuttonlabel
-  value = Vine Physics
+vanilla_button {
+  button_element_executable_block_identifier = 613ff6c6-b4e1-4e9c-bf91-66323cf17596-1706434191540
+  [executable_block:613ff6c6-b4e1-4e9c-bf91-66323cf17596-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  label = Mob Physics
+  element_type = vanilla_button
+  instance_identifier = 505184
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 0ba6bf2d-6508-4a41-b425-c214b566642d-1706434191540
+  [loading_requirement_container_meta:0ba6bf2d-6508-4a41-b425-c214b566642d-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505208%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 57b3440c-0f13-401b-9232-a6294bae03d5-1706434191540
+  [executable_block:57b3440c-0f13-401b-9232-a6294bae03d5-1706434191540][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Vine Physics
+  label = Vine Physics
+  element_type = vanilla_button
+  instance_identifier = 505208
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 9cbf028f-771e-4f21-beb0-7cb96fddbae9-1706434191540
+  [loading_requirement_container_meta:9cbf028f-771e-4f21-beb0-7cb96fddbae9-1706434191540] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

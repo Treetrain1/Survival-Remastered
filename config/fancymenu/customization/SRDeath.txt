@@ -1,39 +1,80 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_418
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = death_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191489
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:37f1f0d0-f67c-4e26-8b9b-6449c527f825-1706434191489] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=400322%
-  action = setbuttonlabel
-  value = Try Again/Spectate World
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=400322%
-  action = setbuttondescription
-  description = Try Again/Spectate World%n%Respawn and hopefully get your stuff back!%n%Spectate World if in Hardcore
-}
-
-customization {
-  identifier = %id=400346%
-  action = setbuttonlabel
-  value = Rage Quit
-}
-
-customization {
-  identifier = %id=400346%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 89a59692-2b45-448b-9633-ac4066ae67f9-1706434191489
+  [executable_block:89a59692-2b45-448b-9633-ac4066ae67f9-1706434191489][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Rage Quit%n%Quit to title screen
+  label = Rage Quit
+  element_type = vanilla_button
+  instance_identifier = 400346
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = b2e6f916-dbdf-4d1e-8bdc-71e51392be85-1706434191489
+  [loading_requirement_container_meta:b2e6f916-dbdf-4d1e-8bdc-71e51392be85-1706434191489] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 70602213-1233-4e83-b70d-d18fc43389ff-1706434191489
+  [executable_block:70602213-1233-4e83-b70d-d18fc43389ff-1706434191489][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Try Again/Spectate World%n%Respawn and hopefully get your stuff back!%n%Spectate World if in Hardcore
+  label = Try Again/Spectate World
+  element_type = vanilla_button
+  instance_identifier = 400322
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 90d42717-b920-46b0-9e31-3a1aa7de0c1f-1706434191489
+  [loading_requirement_container_meta:90d42717-b920-46b0-9e31-3a1aa7de0c1f-1706434191489] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
