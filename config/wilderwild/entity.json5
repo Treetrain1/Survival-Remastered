@@ -22,6 +22,10 @@
 		"crabSpawnCap": 25,
 		"reachAffectsAttack": true,
 	},
+	"ostrich": {
+		"spawnOstriches": true,
+		"allowAttack": true,
+	},
 	"tumbleweed": {
 		"tumbleweedSpawnCap": 10,
 		"leashedTumbleweed": false,

@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1706838859891
+  last_edited_time = 1706842443423
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:500deb4e-0b8f-41c2-a831-32357bcd1f22-1706838832073] = [groups:][instances:]
+  [loading_requirement_container_meta:4155c37d-5ea6-421d-9327-b65d2f5cca14-1706842425222] = [groups:][instances:]
 }
 
 menu_background {
@@ -50,28 +50,27 @@ element {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = 0d570a8d-332a-46b8-8d65-d286761e5825-1706434191526
-  [executable_block:0d570a8d-332a-46b8-8d65-d286761e5825-1706434191526][type:generic] = [executables:]
+  button_element_executable_block_identifier = c7012a9a-bac7-4687-ac50-aec4d53e5926-1706434191526
+  [executable_block:c7012a9a-bac7-4687-ac50-aec4d53e5926-1706434191526][type:generic] = [executables:]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  description = Multiplayer!%n%Go play with friends!
+  description = Options!%n%Preferences
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_multiplayer_button
+  instance_identifier = mc_titlescreen_options_button
   appearance_delay = first_time
-  appearance_delay_seconds = 1.3
+  appearance_delay_seconds = 1.5
   fade_in = true
   fade_in_speed = 1.0
-  anchor_point = element
-  anchor_point_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
-  x = 0
-  y = -24
-  width = 200
+  anchor_point = vanilla
+  x = 284
+  y = 252
+  width = 98
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = c9992af1-7baa-4af1-b5ea-ba50e47a1476-1706434191526
-  [loading_requirement_container_meta:c9992af1-7baa-4af1-b5ea-ba50e47a1476-1706434191526] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 5fe89de2-2325-4c96-8783-54466986f23a-1706434191526
+  [loading_requirement_container_meta:5fe89de2-2325-4c96-8783-54466986f23a-1706434191526] = [groups:][instances:]
   is_hidden = false
   automated_button_clicks = 0
 }
@@ -103,32 +102,6 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = c36220e8-28d7-4dc7-940b-b261569a81fc-1706434191526
-  [executable_block:c36220e8-28d7-4dc7-940b-b261569a81fc-1706434191526][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  description = Mods!%n%A list of mods!
-  element_type = vanilla_button
-  instance_identifier = modmenu_titlescreen_mods_button
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.4
-  fade_in = true
-  fade_in_speed = 1.0
-  anchor_point = vanilla
-  x = 284
-  y = 216
-  width = 200
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = f36f4043-22fd-485f-8bc6-3e9e82ceb612-1706434191526
-  [loading_requirement_container_meta:f36f4043-22fd-485f-8bc6-3e9e82ceb612-1706434191526] = [groups:][instances:]
-  is_hidden = false
-  automated_button_clicks = 0
-}
-
-vanilla_button {
   button_element_executable_block_identifier = 9bddd88e-40df-46ac-8116-28cf3fb62a29-1706835848774
   [executable_block:9bddd88e-40df-46ac-8116-28cf3fb62a29-1706835848774][type:generic] = [executables:]
   restartbackgroundanimations = true
@@ -150,83 +123,6 @@ vanilla_button {
   element_loading_requirement_container_identifier = d8a1d2a2-cf97-4f37-8479-6b2515908687-1706835848774
   [loading_requirement_container_meta:d8a1d2a2-cf97-4f37-8479-6b2515908687-1706835848774] = [groups:][instances:]
   is_hidden = false
-  automated_button_clicks = 0
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = a5135eed-761f-40f1-a6c2-cb7226d56d20-1706434191526
-  [executable_block:a5135eed-761f-40f1-a6c2-cb7226d56d20-1706434191526][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  description = Language!%n%If you want to change the language.
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_language_button
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.5
-  fade_in = true
-  fade_in_speed = 1.0
-  anchor_point = vanilla
-  x = 260
-  y = 252
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 3e1140a6-3eef-40df-8f48-c960c6ffb8c9-1706434191526
-  [loading_requirement_container_meta:3e1140a6-3eef-40df-8f48-c960c6ffb8c9-1706434191526] = [groups:][instances:]
-  is_hidden = false
-  automated_button_clicks = 0
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = ac9b20c8-cbc8-40ef-9397-b94751214204-1706434191526
-  [executable_block:ac9b20c8-cbc8-40ef-9397-b94751214204-1706434191526][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  description = Accessibility!%n%Accessibility Settings
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_accessibility_button
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.5
-  fade_in = true
-  fade_in_speed = 1.0
-  anchor_point = vanilla
-  x = 488
-  y = 252
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 6f4a35ef-a43d-4f32-860e-f200ad85db03-1706434191526
-  [loading_requirement_container_meta:6f4a35ef-a43d-4f32-860e-f200ad85db03-1706434191526] = [groups:][instances:]
-  is_hidden = false
-  automated_button_clicks = 0
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = fc6b11da-f1a6-4f3b-8e83-7505274c3cdd-1706434191526
-  [executable_block:fc6b11da-f1a6-4f3b-8e83-7505274c3cdd-1706434191526][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  element_type = vanilla_button
-  instance_identifier = 376310
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = vanilla
-  x = 260
-  y = 168
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = f5060f54-1567-41e1-aa6d-743b26bb03ef-1706434191526
-  [loading_requirement_container_meta:f5060f54-1567-41e1-aa6d-743b26bb03ef-1706434191526] = [groups:][instances:]
-  is_hidden = true
   automated_button_clicks = 0
 }
 
@@ -257,12 +153,38 @@ vanilla_button {
 }
 
 vanilla_button {
+  button_element_executable_block_identifier = ac9b20c8-cbc8-40ef-9397-b94751214204-1706434191526
+  [executable_block:ac9b20c8-cbc8-40ef-9397-b94751214204-1706434191526][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Accessibility!%n%Accessibility Settings
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_accessibility_button
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.5
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 488
+  y = 252
+  width = 20
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 6f4a35ef-a43d-4f32-860e-f200ad85db03-1706434191526
+  [loading_requirement_container_meta:6f4a35ef-a43d-4f32-860e-f200ad85db03-1706434191526] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
   button_element_executable_block_identifier = 6730a35c-e76d-47ce-9a7d-92de28a7e5ba-1706434191526
   [executable_block:6730a35c-e76d-47ce-9a7d-92de28a7e5ba-1706434191526][type:generic] = [executables:]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   description = Rage Quit%n%Quit to Desktop
-  label = Rage Quit
+  label = {"placeholder":"local","values":{"key":"sr.quit_game"}}
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_quit_button
   appearance_delay = first_time
@@ -311,28 +233,106 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = c7012a9a-bac7-4687-ac50-aec4d53e5926-1706434191526
-  [executable_block:c7012a9a-bac7-4687-ac50-aec4d53e5926-1706434191526][type:generic] = [executables:]
+  button_element_executable_block_identifier = a5135eed-761f-40f1-a6c2-cb7226d56d20-1706434191526
+  [executable_block:a5135eed-761f-40f1-a6c2-cb7226d56d20-1706434191526][type:generic] = [executables:]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
-  description = Options!%n%Preferences
+  description = Language!%n%If you want to change the language.
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_options_button
+  instance_identifier = mc_titlescreen_language_button
   appearance_delay = first_time
   appearance_delay_seconds = 1.5
   fade_in = true
   fade_in_speed = 1.0
   anchor_point = vanilla
-  x = 284
+  x = 260
   y = 252
-  width = 98
+  width = 20
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 5fe89de2-2325-4c96-8783-54466986f23a-1706434191526
-  [loading_requirement_container_meta:5fe89de2-2325-4c96-8783-54466986f23a-1706434191526] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 3e1140a6-3eef-40df-8f48-c960c6ffb8c9-1706434191526
+  [loading_requirement_container_meta:3e1140a6-3eef-40df-8f48-c960c6ffb8c9-1706434191526] = [groups:][instances:]
   is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 0d570a8d-332a-46b8-8d65-d286761e5825-1706434191526
+  [executable_block:0d570a8d-332a-46b8-8d65-d286761e5825-1706434191526][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Multiplayer!%n%Go play with friends!
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_multiplayer_button
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.3
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  x = 0
+  y = -24
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c9992af1-7baa-4af1-b5ea-ba50e47a1476-1706434191526
+  [loading_requirement_container_meta:c9992af1-7baa-4af1-b5ea-ba50e47a1476-1706434191526] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = c36220e8-28d7-4dc7-940b-b261569a81fc-1706434191526
+  [executable_block:c36220e8-28d7-4dc7-940b-b261569a81fc-1706434191526][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Mods!%n%A list of mods!
+  element_type = vanilla_button
+  instance_identifier = modmenu_titlescreen_mods_button
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.4
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 284
+  y = 216
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = f36f4043-22fd-485f-8bc6-3e9e82ceb612-1706434191526
+  [loading_requirement_container_meta:f36f4043-22fd-485f-8bc6-3e9e82ceb612-1706434191526] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = fc6b11da-f1a6-4f3b-8e83-7505274c3cdd-1706434191526
+  [executable_block:fc6b11da-f1a6-4f3b-8e83-7505274c3cdd-1706434191526][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 376310
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 260
+  y = 168
+  width = 20
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = f5060f54-1567-41e1-aa6d-743b26bb03ef-1706434191526
+  [loading_requirement_container_meta:f5060f54-1567-41e1-aa6d-743b26bb03ef-1706434191526] = [groups:][instances:]
+  is_hidden = true
   automated_button_clicks = 0
 }
 

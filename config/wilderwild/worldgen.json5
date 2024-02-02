@@ -21,6 +21,10 @@
 		"generateTemperateRainforest": true,
 		"generateRainforest": true,
 		"generateDarkTaiga": true,
+		"generateDyingForest": true,
+		"generateSnowyDyingForest": true,
+		"generateDyingMixedForest": true,
+		"generateSnowyDyingMixedForest": true,
 	},
 	"biomePlacement": {
 		"modifyWindsweptSavannaPlacement": true,

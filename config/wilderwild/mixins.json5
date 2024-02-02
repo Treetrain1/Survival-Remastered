@@ -31,6 +31,7 @@
 	"entity_slime": true,
 	"entity_tumbleweed": true,
 	"entity_turtle": true,
+	"entity_firework_rocket": true,
 	"item_axe": true,
 	"item_brush": true,
 	"item_instrument": true,
