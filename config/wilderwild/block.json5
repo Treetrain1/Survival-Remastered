@@ -20,7 +20,7 @@
 		"witherRoseSounds": true,
 	},
 	"stoneChest": {
-		"stoneChestTimer": 100,
+		"stoneChestTimer": 80,
 	},
 	"termite": {
 		"onlyEatNaturalBlocks": true,

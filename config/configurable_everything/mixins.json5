@@ -11,10 +11,14 @@
 	"fluid": true,
 	"game": true,
 	"game_client": true,
+	"item": true,
+	"loot": true,
 	"screenshake": true,
 	"screenshake_client": true,
+	"sculk_spreading": true,
 	// Client only
 	"splash_text": true,
+	"structure": true,
 	"world": true,
 	"world_client": false,
 }

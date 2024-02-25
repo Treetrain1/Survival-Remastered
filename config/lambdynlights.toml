@@ -989,6 +989,7 @@ mode = "fancy"
 				tumbleweed = true
 				coconut = true
 				crab = true
+				ostrich = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
