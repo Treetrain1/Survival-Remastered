@@ -35,6 +35,7 @@ bin/
 .dark-matter/
 .replay_cache/
 .spyglass_astronomy/
+.bobby/
 XaeroWorldMap/
 saves/
 schematics/
