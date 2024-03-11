@@ -6,11 +6,13 @@
     "net.optifine.gui.GuiChatOF",
     "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen",
     "net.coderbot.iris.gui.screen.ShaderPackScreen",
-    "com.hrznstudio.emojiful.gui.EmojifulChatScreen"
+    "com.hrznstudio.emojiful.gui.EmojifulChatScreen",
+    "net.minecraft.class_490"
   ],
   "fadeTimeMillis": 200,
+  "fadeOutTimeMillis": 200,
   "ease": true,
-  "radius": 0,
+  "radius": 8,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
   "gradientEnd": "#000000",

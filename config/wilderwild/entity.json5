@@ -40,7 +40,7 @@
 		"wardenImprovedDig": true,
 		"wardenImprovedEmerge": true,
 		"wardenBedrockSniff": true,
-		"wardenDyingAnimation": true,
+		"wardenDeathAnimation": true,
 		"wardenEmergesFromCommand": true,
 		"wardenEmergesFromEgg": true,
 	},
