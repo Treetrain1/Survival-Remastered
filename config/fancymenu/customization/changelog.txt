@@ -1,71 +1,68 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = changelog
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191502
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
-}
-
-customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
+  layout_index = 0
+  [loading_requirement_container_meta:03123e4e-74b4-4a00-9ad8-c9a5bca904fc-1706434191502] = [groups:][instances:]
 }
 
 customization {
   action = setscale
-  scale = 5
+  scale = 5.0
 }
 
 customization {
-  baseheight = 2160
   action = autoscale
   basewidth = 3840
+  baseheight = 2160
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = bottom-centered
-  loopbackgroundanimations = true
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+element {
+  button_element_executable_block_identifier = 1e988bca-b74f-47a0-9feb-17e7a92686db-1706434191505
+  [executable_action_instance:95135078-5f34-4408-affc-e370a10d5f12-1706434191506][action_type:closegui] = 
+  [executable_block:1e988bca-b74f-47a0-9feb-17e7a92686db-1706434191505][type:generic] = [executables:95135078-5f34-4408-affc-e370a10d5f12-1706434191506;]
   restartbackgroundanimations = true
-  buttonaction = closegui
-  x = -50
-  width = 100
-  actionid = d3784e55-9309-470b-92c1-73afffddf4981641680810182
-  action = addbutton
-  y = -22
+  loopbackgroundanimations = true
   label = Back
-  value = 
+  element_type = custom_button
+  instance_identifier = d3784e55-9309-470b-92c1-73afffddf4981641680810182
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -50
+  y = -22
+  width = 100
   height = 20
-}
-
-customization {
-  orientation = mid-centered
-  shadow = true
-  x = -207
-  actionid = 7a0e8e1c-8e3d-4d4f-b4d9-2cec63d635c81641689815623
-  action = addtext
-  y = -131
-  scale = 1.0
-  alignment = left
-  value = Requires an internet connection because it receives information from a server
-}
-
-customization {
-  orientation = mid-left
-  shadow = true
-  multiline = true
-  x = 2
-  actionid = 26f9cf27-db86-4ae5-b4c2-603cc3ae98fe1655241644484
-  action = addwebtext
-  y = -200
-  scale = 0.69
-  alignment = left
-  url = https://raw.githubusercontent.com/Treetrain1/Survival-Remastered/1.19/resources/1.19%20Beta%201
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 297208d9-a42b-4db4-8300-5a96a7ed650e-1706434191506
+  [loading_requirement_container_meta:297208d9-a42b-4db4-8300-5a96a7ed650e-1706434191506] = [groups:][instances:]
 }
 

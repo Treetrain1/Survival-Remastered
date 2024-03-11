@@ -1,20 +1,31 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_434
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = receiving_level_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191516
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:ab519fcc-434a-4e48-abe9-cf6352f3c550-1706434191516] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = Lush Cave
+  background_type = panorama
 }
 
 customization {
-  name = Lush Cave
-  action = setbackgroundpanorama
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 

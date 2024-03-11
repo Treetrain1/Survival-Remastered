@@ -22,6 +22,10 @@
 		"crabSpawnCap": 25,
 		"reachAffectsAttack": true,
 	},
+	"ostrich": {
+		"spawnOstriches": true,
+		"allowAttack": true,
+	},
 	"tumbleweed": {
 		"tumbleweedSpawnCap": 10,
 		"leashedTumbleweed": false,
@@ -36,7 +40,7 @@
 		"wardenImprovedDig": true,
 		"wardenImprovedEmerge": true,
 		"wardenBedrockSniff": true,
-		"wardenDyingAnimation": true,
+		"wardenDeathAnimation": true,
 		"wardenEmergesFromCommand": true,
 		"wardenEmergesFromEgg": true,
 	},

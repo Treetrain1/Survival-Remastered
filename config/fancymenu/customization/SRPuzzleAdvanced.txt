@@ -1,27 +1,78 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191510
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:26255c18-c15a-461b-be99-bb9e3a90305d-1706434191510] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=504972%
-  action = setbuttondescription
-  description = Done%n%Go back
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=346972%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = ae9fee8d-72fb-4485-b009-89bcb470e20c-1706434191510
+  [executable_block:ae9fee8d-72fb-4485-b009-89bcb470e20c-1706434191510][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Discard changes and exit
+  element_type = vanilla_button
+  instance_identifier = 346972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = bf30219f-53d4-43eb-b4bb-d35792d5d1e9-1706434191510
+  [loading_requirement_container_meta:bf30219f-53d4-43eb-b4bb-d35792d5d1e9-1706434191510] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 8ac36b88-78b0-4e3d-81f0-08575dc1a19b-1706434191510
+  [executable_block:8ac36b88-78b0-4e3d-81f0-08575dc1a19b-1706434191510][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Done%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 504972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8bdeab10-5df7-441f-82da-2dbdc27d5f0d-1706434191510
+  [loading_requirement_container_meta:8bdeab10-5df7-441f-82da-2dbdc27d5f0d-1706434191510] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

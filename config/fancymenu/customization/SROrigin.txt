@@ -1,44 +1,110 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.github.apace100.origins.screen.ChooseOriginScreen
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191485
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:4ae4eea3-079a-4a4d-a02c-92f9d5012d48-1706434191485] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = Lush Cave
+  background_type = panorama
 }
 
 customization {
-  name = Lush Cave
-  action = setbackgroundpanorama
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=450596%
-  action = setbuttonlabel
-  value = Proceed
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=450596%
-  action = setbuttondescription
-  description = Proceed
-}
-
-customization {
-  identifier = %id=608490%
-  action = setbuttondescription
-  description = Go Right
-}
-
-customization {
-  identifier = %id=372490%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = ad9f4ebc-3f0a-4375-9bee-145c0abdc6bb-1706434191485
+  [executable_block:ad9f4ebc-3f0a-4375-9bee-145c0abdc6bb-1706434191485][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Go left
+  element_type = vanilla_button
+  instance_identifier = 372490
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = bfd3e7f9-9882-4d4c-a5aa-080a7ad00a7f-1706434191485
+  [loading_requirement_container_meta:bfd3e7f9-9882-4d4c-a5aa-080a7ad00a7f-1706434191485] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 12c588b8-dd82-4edb-8dc5-484c001083c3-1706434191485
+  [executable_block:12c588b8-dd82-4edb-8dc5-484c001083c3-1706434191485][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Go Right
+  element_type = vanilla_button
+  instance_identifier = 608490
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 141ce096-943a-45f6-b2af-103d34c7407d-1706434191485
+  [loading_requirement_container_meta:141ce096-943a-45f6-b2af-103d34c7407d-1706434191485] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = da48cc2b-bad6-48c2-98f6-30956babcf93-1706434191485
+  [executable_block:da48cc2b-bad6-48c2-98f6-30956babcf93-1706434191485][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Proceed
+  label = Proceed
+  element_type = vanilla_button
+  instance_identifier = 450596
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a7a73eca-e052-48d5-9345-5c373c0bf74b-1706434191485
+  [loading_requirement_container_meta:a7a73eca-e052-48d5-9345-5c373c0bf74b-1706434191485] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

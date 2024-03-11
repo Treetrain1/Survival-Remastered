@@ -1,38 +1,110 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191500
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:a16b7a80-0120-4645-8739-d62469e077e4-1706434191500] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/fancymenu/assets/background.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/fancymenu/assets/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=554973%
-  action = setbuttondescription
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 07fb8458-f8f8-4476-8440-be32b602e96a-1706434191500
+  [executable_block:07fb8458-f8f8-4476-8440-be32b602e96a-1706434191500][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Done%n%Apply changes and exit
+  element_type = vanilla_button
+  instance_identifier = 554973
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 992066e0-86c4-4f80-ba2b-b905cb81a9a4-1706434191500
+  [loading_requirement_container_meta:992066e0-86c4-4f80-ba2b-b905cb81a9a4-1706434191500] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=346973%
-  action = setbuttondescription
-  description = Cancel%n%Discard changes and exit
-}
-
-customization {
-  identifier = %id=450973%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 88aa6416-c3e6-49d2-ae97-08b43a6cea03-1706434191500
+  [executable_block:88aa6416-c3e6-49d2-ae97-08b43a6cea03-1706434191500][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Apply%n%Apply changes
+  element_type = vanilla_button
+  instance_identifier = 450973
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = e5739904-176c-426c-bd52-974fdb884cf2-1706434191500
+  [loading_requirement_container_meta:e5739904-176c-426c-bd52-974fdb884cf2-1706434191500] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 329c27d2-b531-4fe2-bfa9-2ee1e0d05b32-1706434191500
+  [executable_block:329c27d2-b531-4fe2-bfa9-2ee1e0d05b32-1706434191500][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Cancel%n%Discard changes and exit
+  element_type = vanilla_button
+  instance_identifier = 346973
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = b55df72e-4e73-4ea2-ba06-0abbd3a63a42-1706434191500
+  [loading_requirement_container_meta:b55df72e-4e73-4ea2-ba06-0abbd3a63a42-1706434191500] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

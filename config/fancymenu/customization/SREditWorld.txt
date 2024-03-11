@@ -1,57 +1,208 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_524
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = edit_world_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191509
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:14070979-101b-43b1-906f-330580c30de5-1706434191509] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=400327%
-  action = setbuttondescription
-  description = Open Backups Folder
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=400303%
-  action = setbuttondescription
-  description = Make Backup
-}
-
-customization {
-  identifier = %id=400399%
-  action = setbuttondescription
-  description = Save%n%Save changes and exit
-}
-
-customization {
-  identifier = %id=400279%
-  action = setbuttondescription
-  description = Open World Folder
-}
-
-customization {
-  identifier = %id=502399%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = e68ea87d-f1e4-4458-9019-b7462083fb1b-1706434191509
+  [executable_block:e68ea87d-f1e4-4458-9019-b7462083fb1b-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Discard changes and exit
+  element_type = vanilla_button
+  instance_identifier = 502399
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 6f4704e2-5bce-473f-b3b0-e2339bee778f-1706434191509
+  [loading_requirement_container_meta:6f4704e2-5bce-473f-b3b0-e2339bee778f-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400255%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 90fa229d-66d6-4fbc-8742-d0a5670adfe5-1706434191509
+  [executable_block:90fa229d-66d6-4fbc-8742-d0a5670adfe5-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Open Backups Folder
+  element_type = vanilla_button
+  instance_identifier = 400327
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 23f0f4c4-9ef1-4122-8e84-b8781fb84183-1706434191509
+  [loading_requirement_container_meta:23f0f4c4-9ef1-4122-8e84-b8781fb84183-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 510f60f4-85b8-41ad-b8f9-7ccb143bf790-1706434191509
+  [executable_block:510f60f4-85b8-41ad-b8f9-7ccb143bf790-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Make Backup
+  element_type = vanilla_button
+  instance_identifier = 400303
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 15cf139e-f9ca-4fda-a6e7-18e684fef3a2-1706434191509
+  [loading_requirement_container_meta:15cf139e-f9ca-4fda-a6e7-18e684fef3a2-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 989693ba-4c50-49b5-8e17-a98405ed1497-1706434191509
+  [executable_block:989693ba-4c50-49b5-8e17-a98405ed1497-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Open World Folder
+  element_type = vanilla_button
+  instance_identifier = 400279
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 850bc139-31e1-4ace-b7e8-d8de98db7d19-1706434191509
+  [loading_requirement_container_meta:850bc139-31e1-4ace-b7e8-d8de98db7d19-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 05293ba3-0cf8-41ae-a67f-c192c2e2a940-1706434191509
+  [executable_block:05293ba3-0cf8-41ae-a67f-c192c2e2a940-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Save%n%Save changes and exit
+  element_type = vanilla_button
+  instance_identifier = 400399
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 1d0a6083-4b84-4141-ac98-6c1a882e629e-1706434191509
+  [loading_requirement_container_meta:1d0a6083-4b84-4141-ac98-6c1a882e629e-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 7ee4b56b-70ea-4d5b-96b7-453290dd0b97-1706434191509
+  [executable_block:7ee4b56b-70ea-4d5b-96b7-453290dd0b97-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Reset Icon
+  element_type = vanilla_button
+  instance_identifier = 400255
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8a3c57b5-a825-4eb1-b274-f4b9cfcd2820-1706434191509
+  [loading_requirement_container_meta:8a3c57b5-a825-4eb1-b274-f4b9cfcd2820-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400351%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 9527e468-fa66-4e3d-9d32-2cc95e88052a-1706434191509
+  [executable_block:9527e468-fa66-4e3d-9d32-2cc95e88052a-1706434191509][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Optimize World
+  element_type = vanilla_button
+  instance_identifier = 400351
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 388ac78c-ee80-431e-9a41-7f30a592cddb-1706434191509
+  [loading_requirement_container_meta:388ac78c-ee80-431e-9a41-7f30a592cddb-1706434191509] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

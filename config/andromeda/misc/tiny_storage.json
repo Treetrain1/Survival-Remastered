@@ -1,0 +1,5 @@
+{
+  "transferMode": "FOLLOW_GAMERULE",
+  "enabled": false,
+  "scope": "GLOBAL"
+}

@@ -1,27 +1,78 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_420
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = direct_join_server_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191536
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:e0b5af1f-f933-45be-8774-90afa61408bc-1706434191536] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=400358%
-  action = setbuttondescription
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 3cfbde36-1d7f-4eaa-bb8d-3cea4ff0c7d5-1706434191536
+  [executable_block:3cfbde36-1d7f-4eaa-bb8d-3cea4ff0c7d5-1706434191536][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Join Server%n%Join server entered in the text box
+  element_type = vanilla_button
+  instance_identifier = 400358
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = e34492a4-dfa8-4c3c-8325-5cf02bb25b75-1706434191536
+  [loading_requirement_container_meta:e34492a4-dfa8-4c3c-8325-5cf02bb25b75-1706434191536] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400382%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 77a35dc7-9e56-495b-9cb6-85d996fadc40-1706434191536
+  [executable_block:77a35dc7-9e56-495b-9cb6-85d996fadc40-1706434191536][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 400382
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 5ea571e5-a421-47de-9906-f2cc70975620-1706434191536
+  [loading_requirement_container_meta:5ea571e5-a421-47de-9906-f2cc70975620-1706434191536] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

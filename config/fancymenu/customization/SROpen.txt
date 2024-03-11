@@ -1,38 +1,109 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_407
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = confirm_link_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191495
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:1b5111e1-93ae-4780-a53e-e8a56d4d5fc7-1706434191495] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = Lush Cave
+  background_type = panorama
 }
 
 customization {
-  name = Lush Cave
-  action = setbackgroundpanorama
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=345262%
-  action = setbuttondescription
-  description = Open in Browser%n%Open link in default browser
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=450262%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = f7833ea9-a175-47e8-a976-0c5525f9a9de-1706434191495
+  [executable_block:f7833ea9-a175-47e8-a976-0c5525f9a9de-1706434191495][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Copy to Clipboard%n%Copy the link to the clipboard
+  element_type = vanilla_button
+  instance_identifier = 450262
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 14a3828b-a30e-47b6-8b9a-b5263d98418a-1706434191495
+  [loading_requirement_container_meta:14a3828b-a30e-47b6-8b9a-b5263d98418a-1706434191495] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=555262%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 6858a838-161b-46e9-8b25-731b828661da-1706434191495
+  [executable_block:6858a838-161b-46e9-8b25-731b828661da-1706434191495][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  description = Open in Browser%n%Open link in default browser
+  element_type = vanilla_button
+  instance_identifier = 345262
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 76422f1a-5e8b-4bc8-9982-aaf92492a310-1706434191495
+  [loading_requirement_container_meta:76422f1a-5e8b-4bc8-9982-aaf92492a310-1706434191495] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 0974fb3e-5039-4c1a-b8d1-dbb4fb139b36-1706434191495
+  [executable_block:0974fb3e-5039-4c1a-b8d1-dbb4fb139b36-1706434191495][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 555262
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 4fb04fb4-b3d1-4573-bbc9-2287d96eff73-1706434191495
+  [loading_requirement_container_meta:4fb04fb4-b3d1-4573-bbc9-2287d96eff73-1706434191495] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

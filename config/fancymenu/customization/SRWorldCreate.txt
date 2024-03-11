@@ -1,98 +1,204 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_525
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = create_world_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706840619345
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:9d17a931-8a99-4d33-86d5-7be3f95bff98-1706840600183] = [groups:][instances:]
 }
 
 customization {
-  name = Lush Cave
-  action = setbackgroundpanorama
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=3451511%
-  action = setbuttondescription
-  description = Bonus Chest
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  identifier = %id=505185%
-  action = setbuttondescription
-  description = More World Options
+vanilla_button {
+  button_element_executable_block_identifier = ede18d5d-c3a1-4c5a-aee0-71a23b649e32-1706840600184
+  [executable_block:ede18d5d-c3a1-4c5a-aee0-71a23b649e32-1706840600184][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 396176
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 280
+  y = 77
+  width = 208
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c91d5de4-87b0-45ea-b804-a5ff3f23e486-1706840600184
+  [loading_requirement_container_meta:c91d5de4-87b0-45ea-b804-a5ff3f23e486-1706840600184] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505120%
-  action = setbuttondescription
-  description = Customize%n%Customize World
-}
-
-customization {
-  identifier = %id=505100%
-  action = setbuttondescription
-  description = Difficulty
-}
-
-customization {
-  identifier = %id=3451001%
-  action = setbuttondescription
-  description = Generate Structures
-}
-
-customization {
-  identifier = %id=345972%
-  action = setbuttonlabel
-  value = Create World
-}
-
-customization {
-  identifier = %id=345972%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 6287b8b9-2072-4f17-b33b-a3ddd905880a-1706434191527
+  [executable_block:6287b8b9-2072-4f17-b33b-a3ddd905880a-1706434191527][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Create World
+  label = Create World
+  element_type = vanilla_button
+  instance_identifier = 345972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 229
+  y = 380
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = fc747cdf-b08c-4a88-9d07-616cb3406b4f-1706434191527
+  [loading_requirement_container_meta:fc747cdf-b08c-4a88-9d07-616cb3406b4f-1706434191527] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=505972%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 4512edad-17e0-480a-ab1c-ad4ac8a7839c-1706840600184
+  [executable_block:4512edad-17e0-480a-ab1c-ad4ac8a7839c-1706840600184][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 396162
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 280
+  y = 63
+  width = 55
+  height = 9
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ffb13966-4a38-4a95-bdd7-9ff8a9ee8aea-1706840600184
+  [loading_requirement_container_meta:ffb13966-4a38-4a95-bdd7-9ff8a9ee8aea-1706840600184] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 15691d1b-74ed-4078-914d-837e646c6a5c-1706840600184
+  [executable_block:15691d1b-74ed-4078-914d-837e646c6a5c-1706840600184][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 395205
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 279
+  y = 106
+  width = 210
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 45cb2df7-bb5b-4a4f-a2dc-ffa6822f533c-1706840600184
+  [loading_requirement_container_meta:45cb2df7-bb5b-4a4f-a2dc-ffa6822f533c-1706840600184] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 84c7cb1a-567a-4d44-bc23-92ec3610484e-1706840600184
+  [executable_block:84c7cb1a-567a-4d44-bc23-92ec3610484e-1706840600184][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 395261
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 279
+  y = 162
+  width = 210
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a96777ca-5bcd-467f-89d0-c8bd2a82197f-1706840600184
+  [loading_requirement_container_meta:a96777ca-5bcd-467f-89d0-c8bd2a82197f-1706840600184] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 24908c2d-e6e4-434a-9aa5-2d49a74f04fe-1706434191527
+  [executable_block:24908c2d-e6e4-434a-9aa5-2d49a74f04fe-1706434191527][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 505972
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 389
+  y = 380
+  width = 150
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8b690536-f4a2-4baa-b2a6-efce65c671ac-1706434191527
+  [loading_requirement_container_meta:8b690536-f4a2-4baa-b2a6-efce65c671ac-1706434191527] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=5051001%
-  action = setbuttondescription
-  description = World Type
-}
-
-customization {
-  identifier = %id=505151%
-  action = setbuttondescription
-  description = Data packs
-}
-
-customization {
-  identifier = %id=50510011%
-  action = setbuttondescription
-  description = World Type
-}
-
-customization {
-  identifier = %id=345151%
-  action = setbuttondescription
-  description = Allow Cheats
-}
-
-customization {
-  identifier = %id=3451851%
-  action = setbuttondescription
-  description = Import Settings
+vanilla_button {
+  button_element_executable_block_identifier = d5876315-2a8b-4e48-abf5-7243637fa131-1706840600184
+  [executable_block:d5876315-2a8b-4e48-abf5-7243637fa131-1706840600184][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 395233
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 279
+  y = 134
+  width = 210
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 115259a6-c3df-4bf4-9f1b-df6b57b99937-1706840600184
+  [loading_requirement_container_meta:115259a6-c3df-4bf4-9f1b-df6b57b99937-1706840600184] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

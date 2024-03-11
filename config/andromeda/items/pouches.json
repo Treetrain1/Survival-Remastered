@@ -1,0 +1,8 @@
+{
+  "seedPouch": true,
+  "flowerPouch": true,
+  "saplingPouch": true,
+  "specialPouch": false,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

@@ -5,78 +5,7 @@
 	   so replacing a biome's parameters is possible.
 	   Supports: Vanilla biomes, datapack biomes, modded biomes
 	*/
-	"addedBiomes": [
-		{
-			"dimension": "minecraft:overworld",
-			"biomes": [
-				{
-					"biome": "configurable_everything:blank_biome",
-					"parameters": {
-						"erosion": [
-							-1.0,
-							1.0,
-						],
-						"depth": [
-							0.0,
-							1.0,
-						],
-						"weirdness": [
-							-1.0,
-							1.0,
-						],
-						"offset": 0.0,
-						"temperature": [
-							-1.0,
-							1.0,
-						],
-						"humidity": [
-							-1.0,
-							1.0,
-						],
-						"continentalness": [
-							-1.2000000476837158,
-							-1.0499999523162842,
-						],
-					},
-				},
-			],
-		},
-		{
-			"dimension": "minecraft:the_nether",
-			"biomes": [
-				{
-					"biome": "configurable_everything:blank_biome",
-					"parameters": {
-						"erosion": [
-							-1.0,
-							1.0,
-						],
-						"depth": [
-							0.0,
-							1.0,
-						],
-						"weirdness": [
-							-1.0,
-							1.0,
-						],
-						"offset": 0.0,
-						"temperature": [
-							-1.0,
-							1.0,
-						],
-						"humidity": [
-							-1.0,
-							1.0,
-						],
-						"continentalness": [
-							-1.2000000476837158,
-							-1.0499999523162842,
-						],
-					},
-				},
-			],
-		},
-	],
+	"addedBiomes": [],
 	/* 
 	   Remove any biome from worldgen
 	   Removes biomes before biomes are added via "addedBiomes",
@@ -88,16 +17,27 @@
 		{
 			"dimension": "minecraft:overworld",
 			"biomes": [
-				"configurable_everything:blank_biome",
-				"#configurable_everything:blank_tag",
+				"terralith:alpha_islands",
+				"terralith:alpha_islands_winter",
+				"terralith:amethyst_canyon",
+				"terralith:amethyst_rainforest",
+				"terralith:cave/crystal_caves",
+				"terralith:cave/desert_caves",
+				"terralith:cave/ice_caves",
+				"terralith:cave/thermal_caves",
+				"terralith:warm_river",
+				"terralith:desert_oasis",
+				"terralith:cave/deep_caves",
+				"terralith:cave/frostfire_caves",
+				"terralith:basalt_cliffs",
+				"terralith:moonlight_grove",
+				"terralith:lavender_forest",
+				"terralith:sakura_grove",
 			],
 		},
 		{
 			"dimension": "minecraft:the_nether",
-			"biomes": [
-				"configurable_everything:blank_biome",
-				"#configurable_everything:blank_tag",
-			],
+			"biomes": [],
 		},
 	],
 }

@@ -1,27 +1,80 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_5375
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = pack_selection_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710112028356
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:3b3ad846-4b67-4568-8162-2c167e9fd821-1710111341151] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=346952%
-  action = setbuttonlabel
-  value = Open Folder
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
 }
 
-customization {
-  identifier = %id=504952%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 1e6882e7-7c52-4acb-bcd1-5db6cb202219-1706434191482
+  [executable_block:1e6882e7-7c52-4acb-bcd1-5db6cb202219-1706434191482][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Done%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 504952
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c8e283b4-6208-4b59-aabf-eb9600b5c31f-1706434191482
+  [loading_requirement_container_meta:c8e283b4-6208-4b59-aabf-eb9600b5c31f-1706434191482] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = a984add2-ab7d-4b0c-88d6-6cf25d862627-1706434191482
+  [executable_block:a984add2-ab7d-4b0c-88d6-6cf25d862627-1706434191482][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  label = Open Folder
+  element_type = vanilla_button
+  instance_identifier = 346952
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8ef78644-544d-4465-92af-1c60b8ea54d3-1706434191482
+  [loading_requirement_container_meta:8ef78644-544d-4465-92af-1c60b8ea54d3-1706434191482] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

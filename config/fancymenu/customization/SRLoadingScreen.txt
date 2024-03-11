@@ -1,64 +1,101 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191489
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:818ec7cf-6e3c-46a1-9850-d09c78237b8c-1706434191489] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = Lush Cave
+  background_type = panorama
 }
 
 customization {
-  name = Lush Cave
-  action = setbackgroundpanorama
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = top-left
-  hidden = true
-  x = 173
-  width = 422
-  action = deep_customization_element:drippy_overlay_logo
-  actionid = dad92e75-cf3b-4136-aa7b-dadd3d59836c1675350398015
-  y = 159
-  height = 104
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  orientation = top-left
-  hidden = false
-  x = -1000000
-  width = 0
-  action = deep_customization_element:drippy_overlay_background
-  actionid = a9d30f16-7bef-4e8d-9b63-0a3f90535a311675350398024
-  y = -1000000
-  height = 0
-}
-
-customization {
-  orientation = top-left
-  hidden = false
-  x = 173
-  width = 422
-  action = deep_customization_element:drippy_overlay_progress_bar
-  actionid = 4b6858dd-e7a6-477c-a043-53f409a3812c1675350398024
-  y = 347
-  height = 10
-}
-
-customization {
-  path = config/fancymenu/assets/survival-remastered-title.png
-  orientation = mid-centered
+element {
+  source = [source:local]config/fancymenu/assets/survival-remastered-title.png
+  element_type = image
+  instance_identifier = df44ba2b-f920-4604-8a61-fe3ecfc7a20a1675350448254
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
   x = -170
-  width = 341
-  action = addtexture
-  actionid = df44ba2b-f920-4604-8a61-fe3ecfc7a20a1675350448254
   y = -50
+  width = 341
   height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 2b10a8a6-4184-4592-a453-01c670585545-1706434191491
+  [loading_requirement_container_meta:2b10a8a6-4184-4592-a453-01c670585545-1706434191491] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 6d88a908-aed1-4782-a295-b127ddab1615-1706434191489
+  [executable_block:6d88a908-aed1-4782-a295-b127ddab1615-1706434191489][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = vanillabtn:mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 17f21fc1-37f9-4930-b3ed-a19ad8c181cf-1706434191489
+  [loading_requirement_container_meta:17f21fc1-37f9-4930-b3ed-a19ad8c181cf-1706434191489] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 7119ea2f-4240-46ad-bb19-89accdeaac04-1706434191489
+  [executable_block:7119ea2f-4240-46ad-bb19-89accdeaac04-1706434191489][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = vanillabtn:progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b5526ffc-7d85-43f3-91ac-3090d499ca07-1706434191489
+  [loading_requirement_container_meta:b5526ffc-7d85-43f3-91ac-3090d499ca07-1706434191489] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

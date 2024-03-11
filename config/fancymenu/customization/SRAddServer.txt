@@ -1,33 +1,104 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_422
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = edit_server_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706434191539
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:53107dfa-675d-4484-98e0-41e8581ceb98-1706434191539] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=400388%
-  action = setbuttondescription
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 9b886936-74a7-4a5a-92e9-e5278ae004d9-1706434191539
+  [executable_block:9b886936-74a7-4a5a-92e9-e5278ae004d9-1706434191539][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Cancel%n%Go back
+  element_type = vanilla_button
+  instance_identifier = 400388
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = c6f9b89e-ad3b-43e6-bbbf-d39bed4d4860-1706434191539
+  [loading_requirement_container_meta:c6f9b89e-ad3b-43e6-bbbf-d39bed4d4860-1706434191539] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400322%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = f0bd86a9-5447-4bfd-8087-a18932362955-1706434191539
+  [executable_block:f0bd86a9-5447-4bfd-8087-a18932362955-1706434191539][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Server Texture Packs
+  element_type = vanilla_button
+  instance_identifier = 400322
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8ac5e544-ec06-4b2e-83dc-fbbeb707e60d-1706434191539
+  [loading_requirement_container_meta:8ac5e544-ec06-4b2e-83dc-fbbeb707e60d-1706434191539] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400364%
-  action = setbuttondescription
+vanilla_button {
+  button_element_executable_block_identifier = 4a1dd250-7d81-44c8-a064-ba88a53390b3-1706434191539
+  [executable_block:4a1dd250-7d81-44c8-a064-ba88a53390b3-1706434191539][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
   description = Done%n%Add Server
+  element_type = vanilla_button
+  instance_identifier = 400364
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 6c72c4ee-1af0-4c43-b6d5-2e53c760d42f-1706434191539
+  [loading_requirement_container_meta:6c72c4ee-1af0-4c43-b6d5-2e53c760d42f-1706434191539] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
