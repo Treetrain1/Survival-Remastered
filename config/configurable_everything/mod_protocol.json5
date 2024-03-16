@@ -5,7 +5,7 @@
 	   It should be used only for non-vanilla compatible modpacks!
 	   Protocol version. Needs to be the same on client and server. If it has value of -1, it won't be required by servers.
 	*/
-	"modProtocolVersion": 11,
+	"modProtocolVersion": 12,
 	// Protocol id. It should be different for every modpack, to prevent joining with mismatched mods.
 	"modProtocolId": "survival_remastered",
 	// A mod protocol name. Used for easier identification. Doesn't affect functionality

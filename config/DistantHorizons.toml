@@ -1,3 +1,4 @@
+_version = 2
 
 [client]
 	# Should Distant Horizon's config button appear in the options screen next to fov slider?
@@ -57,7 +58,7 @@
 			updateBranch = "NIGHTLY"
 			# Automatically check for updates on game launch?
 			# 
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			# Should Distant Horizons silently, automatically download and install new versions?
 			# 
 			enableSilentUpdates = false
@@ -71,6 +72,16 @@
 			# 
 			# 
 			minTimeBetweenChunkUpdatesInSeconds = 1
+			# If false LODs will be lit by Minecraft's lighting engine when possible 
+			# and fall back to the DH lighting engine only when necessary. 
+			# 
+			# If true LODs will only be lit using Distant Horizons' lighting engine. 
+			# 
+			# Generally it is best to leave this disabled and should only be enabled 
+			# if there are lighting issues or for debugging. 
+			# 
+			# 
+			onlyUseDhLightingEngine = false
 
 		[client.advanced.multiThreading]
 			# How many threads are used when building geometry data for the GPU? 
@@ -108,7 +119,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForFileHandlerThreads = 1.0
+			runTimeRatioForFileHandlerThreads = 0.5
 			# How many threads should be used when generating LOD 
 			# chunks outside the normal render distance? 
 			# 
@@ -122,7 +133,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfWorldGenerationThreads = 8
+			numberOfWorldGenerationThreads = 3
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -141,7 +152,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfLodBuilderThreads = 7
+			numberOfLodBuilderThreads = 2
 			# Should only be disabled if deadlock occurs and LODs refuse to update. 
 			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
 			# 
@@ -156,7 +167,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForWorldGenerationThreads = 1.0
+			runTimeRatioForWorldGenerationThreads = 0.75
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -164,7 +175,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForLodBuilderThreads = 1.0
+			runTimeRatioForLodBuilderThreads = 0.5
 			# How many threads should be used to convert Minecraft chunks into LOD data? 
 			# 
 			# These threads run both when terrain is generated and when
@@ -202,7 +213,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfFileHandlerThreads = 4
+			numberOfFileHandlerThreads = 2
 
 		[client.advanced.logging]
 			# If enabled, the mod will log information about the renderer OpenGL process. 
@@ -427,7 +438,7 @@
 				radius = 4.0
 				# Enable Screen Space Ambient Occlusion
 				# 
-				enabled = true
+				enabled = false
 
 			[client.advanced.graphics.advancedGraphics]
 				# What the value should vanilla Minecraft's texture LodBias be? 
@@ -518,10 +529,10 @@
 				# Lowest Quality: CHUNK
 				# Highest Quality: BLOCK
 				# 
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "TWO_BLOCKS"
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 90
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
 				# True: a red flower will tint the grass below it red. 
@@ -540,7 +551,7 @@
 				# DISABLED: LODs will be opaque. 
 				# 
 				# 
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
 				# Higher options will make the world more accurate, butwill increase memory and GPU usage. 
@@ -548,7 +559,7 @@
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
 				# 
-				verticalQuality = "MEDIUM"
+				verticalQuality = "LOW"
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
 				lodChunkRenderDistance = 128
