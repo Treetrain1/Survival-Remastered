@@ -1,0 +1,5 @@
+{
+  "useNativeGlfw": true,
+  "nativeGlfwPath": "/usr/lib/libglfw.so",
+  "useVirtualCursor": true
+}

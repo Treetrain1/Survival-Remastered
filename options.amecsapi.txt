@@ -66,6 +66,8 @@ key_modifiers_key.jade.show_details_alternative:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_key.presencefootsteps.settings:0,0,0
 key_modifiers_key.presencefootsteps.toggle:0,0,0
+key_modifiers_railways.keyinfo.bogey_menu:0,0,0
+key_modifiers_railways.keyinfo.cycle_menu:0,0,0
 key_modifiers_key.raised.options:0,0,0
 key_modifiers_key.replaymod.playeroverview:0,0,0
 key_modifiers_key.replaymod.lighting:0,0,0

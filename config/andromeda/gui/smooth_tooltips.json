@@ -1,4 +1,8 @@
 {
+  "clampX": 30,
+  "clampY": 30,
+  "deltaX": 0.3,
+  "deltaY": 0.3,
   "enabled": false,
   "scope": "GLOBAL"
 }
