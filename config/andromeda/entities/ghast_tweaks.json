@@ -1,0 +1,6 @@
+{
+  "explodeOnDeath": false,
+  "explosionPower": 4.0,
+  "enabled": false,
+  "scope": "GLOBAL"
+}

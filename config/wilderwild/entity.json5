@@ -12,13 +12,17 @@
 		"movingStareSound": true,
 	},
 	"firefly": {
+		"spawnFireflies": true,
 		"fireflySpawnCap": 56,
 	},
 	"jellyfish": {
+		"spawnJellyfish": true,
 		"jellyfishSpawnCap": 30,
+		"jellyfishHiding": true,
 		"jellyfishTentacles": 8,
 	},
 	"crab": {
+		"spawnCrabs": true,
 		"crabSpawnCap": 25,
 		"reachAffectsAttack": true,
 	},
@@ -26,7 +30,11 @@
 		"spawnOstriches": true,
 		"allowAttack": true,
 	},
+	"scorched": {
+		"spawnScorched": true,
+	},
 	"tumbleweed": {
+		"spawnTumbleweed": true,
 		"tumbleweedSpawnCap": 10,
 		"leashedTumbleweed": false,
 		"tumbleweedDestroysCrops": true,

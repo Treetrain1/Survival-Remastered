@@ -1,4 +1,5 @@
 {
   "sideOnlyMode": false,
+  "itemGroup": true,
   "sendCrashReports": false
 }

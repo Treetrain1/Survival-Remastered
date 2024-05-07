@@ -59,6 +59,8 @@
 				vindicator = true
 				experience_orb = true
 				pufferfish = true
+				dolphin = true
+				turtle = true
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
