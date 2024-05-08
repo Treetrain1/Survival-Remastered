@@ -61,6 +61,7 @@
 				pufferfish = true
 				dolphin = true
 				turtle = true
+				donkey = true
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
