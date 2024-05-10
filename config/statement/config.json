@@ -1,6 +1,0 @@
-{
-	"enableStateDeferralApi": true,
-	"enableIdSyncApi": true,
-	"forceParallelMode": false,
-	"customBlockStateDeferral": {}
-}

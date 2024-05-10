@@ -1,7 +1,0 @@
-{
-  "chorusInkRadius": 24,
-  "chorusInkActivatesGateways": true,
-  "gatewayActivationTime": 400,
-  "gatewayCooldown": 100,
-  "tabletChargeTime": 100
-}
