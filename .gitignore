@@ -32,6 +32,7 @@ bin/
 
 .fabric/
 .andromeda/
+.commander/mappings/
 .dark-matter/
 .replay_cache/
 .spyglass_astronomy/
