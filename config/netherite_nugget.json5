@@ -1,4 +1,0 @@
-{
-	// The [0-1] (0%-100%) chance of a Piglin Brute dropping a Netherite Nugget on death.
-	"piglinBruteNetheriteNuggetDropChance": 0.5
-}
