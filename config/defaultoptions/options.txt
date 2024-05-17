@@ -49,8 +49,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Fabrication grayscale","Fabrication","presencefootsteps:default_sound_pack","railways:green_signals","minecraft:supporteatinganimation","file/Brush-Up-1.7.1.zip","file/SR_Resources"]
-incompatibleResourcePacks:["file/Brush-Up-1.7.1.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","Moonlight Mods Dynamic Assets","Fabrication grayscale","Fabrication","railways:green_signals","minecraft:supporteatinganimation","file/Brush-Up-1.7.2.zip","file/SR_Resources"]
+incompatibleResourcePacks:["file/Brush-Up-1.7.2.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""

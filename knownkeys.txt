@@ -108,3 +108,7 @@ key.replaymod.positiononlykeyframe
 key.replaymod.timekeyframe
 key.replaymod.bothkeyframes
 gui.xaero_toggle_dimension
+key.presencefootsteps.toggle
+railways.keyinfo.bogey_menu
+railways.keyinfo.cycle_menu
+iris.keybind.wireframe
