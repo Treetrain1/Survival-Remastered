@@ -62,9 +62,15 @@
 				dolphin = true
 				turtle = true
 				donkey = true
+				minecart = true
+				polar_bear = true
+				frog = true
+				llama = true
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true
 				jellyfish = true
 				crab = true
+				ostrich = true
+				tumbleweed = true
 

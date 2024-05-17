@@ -33,6 +33,7 @@ bin/
 .fabric/
 .andromeda/
 .commander/mappings/
+.configurable_everything/
 .dark-matter/
 .replay_cache/
 .spyglass_astronomy/
@@ -50,6 +51,7 @@ fancymenu_data/
 modernfix/
 cache/
 config/spark/tmp/
+irisUpdateInfo.json
 profile.json
 usercache.json
 usernamecache.json

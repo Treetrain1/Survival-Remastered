@@ -12,7 +12,6 @@ game: false
 gravity: false
 item: false
 loot: true
-music: false
 registry: false
 screen_shake: true
 // Requires Fabric Kotlin Extensions

@@ -1,4 +1,4 @@
-#Sat Mar 16 02:10:23 CDT 2024
+#Thu May 16 00:50:07 CDT 2024
 shadowDistance=96.0
 ENTITY_SHADOWS=true
 GENERATED_NORMALS=true

@@ -6,6 +6,11 @@
 		"ancientHornPlayerDamage": 15,
 		"ancientHornShattersGlass": true,
 		"ancientHornSizeMultiplier": 0.0,
+		"ancientHornCooldown": 600,
+		"ancientHornCreativeCooldown": 5,
+		"ancientHornSensorCooldown": 800,
+		"ancientHornShriekerCooldown": 1200,
+		"ancientHornTendrilCooldown": 780,
 	},
 	"projectileLandingSounds": {
 		"snowballLandingSounds": true,
