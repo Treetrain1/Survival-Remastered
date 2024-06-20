@@ -1,3 +1,5 @@
 {
-  "scopedConfigs": false
+  "persistentScopedConfigs": [],
+  "showAvailableOption": false,
+  "hideSidedModulesInSideOnly": false
 }

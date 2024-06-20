@@ -1,4 +1,5 @@
 version:3465
+betterBiomeBlendRadius:14
 autoAttack:false
 shieldCrouch:true
 rhythmicAttacks:true
@@ -22,7 +23,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -38,10 +39,10 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:8
-simulationDistance:5
+renderDistance:12
+simulationDistance:10
 entityDistanceScaling:3.5
-guiScale:3
+guiScale:0
 particles:0
 maxFps:260
 graphicsMode:1

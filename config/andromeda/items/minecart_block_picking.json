@@ -1,5 +1,9 @@
 {
-  "spawnerPicking": true,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "spawnerPicking": true,
+    "available": true
+  }
 }

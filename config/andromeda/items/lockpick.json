@@ -1,7 +1,13 @@
 {
-  "chance": 3,
-  "breakAfterUse": true,
-  "villagerInventory": true,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "villagerInventory": true
+  },
+  "game": {
+    "chance": 3,
+    "breakAfterUse": true,
+    "available": true
+  }
 }

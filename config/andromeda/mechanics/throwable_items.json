@@ -1,7 +1,12 @@
 {
-  "canZombiesThrowItems": true,
-  "zombieThrowInterval": 40,
-  "tooltip": true,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "canZombiesThrowItems": true,
+    "zombieThrowInterval": 40.0
+  },
+  "client": {
+    "tooltip": true
+  }
 }

@@ -1,8 +1,12 @@
 {
-  "flee": true,
-  "merge": true,
-  "maxMerge": 4,
-  "slowness": false,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "flee": true,
+    "merge": true,
+    "maxMerge": 4,
+    "slowness": false,
+    "available": true
+  }
 }

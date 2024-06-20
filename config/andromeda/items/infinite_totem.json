@@ -1,5 +1,9 @@
 {
-  "enableAscension": true,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "enableAscension": true,
+    "available": true
+  }
 }

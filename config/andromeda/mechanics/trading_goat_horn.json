@@ -1,4 +1,10 @@
 {
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "cooldown": 48000,
+    "instrumentId": "minecraft:sing_goat_horn",
+    "available": true
+  }
 }

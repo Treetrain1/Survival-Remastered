@@ -1,7 +1,11 @@
 {
-  "range": 4,
-  "allowLockPicking": true,
-  "breakingHandler": "UNBREAKABLE",
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "range": 4.0,
+    "allowLockPicking": true,
+    "breakingHandler": "UNBREAKABLE",
+    "available": true
+  }
 }

@@ -1,5 +1,9 @@
 {
-  "affectBoneMeal": true,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "affectBoneMeal": true,
+    "available": true
+  }
 }

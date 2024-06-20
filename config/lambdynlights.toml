@@ -66,6 +66,8 @@
 				polar_bear = true
 				frog = true
 				llama = true
+				painting = true
+				egg = true
 
 			[light_sources.settings.entities.wilderwild]
 				firefly = true

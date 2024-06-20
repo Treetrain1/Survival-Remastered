@@ -1,6 +1,9 @@
 {
-  "maxFuel": 45000,
-  "takeFuelWhenLow": true,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "main": {
+    "maxFuel": 45000,
+    "takeFuelWhenLow": true
+  }
 }

@@ -1,8 +1,11 @@
 {
-  "isFurnaceBoatOn": false,
-  "isTNTBoatOn": false,
-  "isJukeboxBoatOn": false,
-  "isHopperBoatOn": false,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "isFurnaceBoatOn": false,
+    "isTNTBoatOn": false,
+    "isJukeboxBoatOn": false,
+    "isHopperBoatOn": false
+  }
 }

@@ -1,5 +1,8 @@
 {
-  "randomness": true,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "randomness": true
+  }
 }

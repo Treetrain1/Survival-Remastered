@@ -1,10 +1,14 @@
 {
-  "freeze": false,
-  "extinguish": true,
-  "melt": true,
-  "layers": true,
-  "enableCooldown": false,
-  "cooldown": 10,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "freeze": false,
+    "extinguish": true,
+    "melt": true,
+    "layers": true,
+    "enableCooldown": false,
+    "cooldown": 10,
+    "available": true
+  }
 }

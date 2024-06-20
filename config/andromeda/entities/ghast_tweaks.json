@@ -1,6 +1,10 @@
 {
-  "explodeOnDeath": false,
-  "explosionPower": 4.0,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "explodeOnDeath": false,
+    "explosionPower": 4.0,
+    "available": true
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "available": true
+  }
 }

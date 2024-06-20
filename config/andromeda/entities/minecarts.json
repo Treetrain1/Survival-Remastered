@@ -1,8 +1,11 @@
 {
-  "isAnvilMinecartOn": false,
-  "isNoteBlockMinecartOn": false,
-  "isJukeboxMinecartOn": false,
-  "isSpawnerMinecartOn": true,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "main": {
+    "isAnvilMinecartOn": false,
+    "isNoteBlockMinecartOn": false,
+    "isJukeboxMinecartOn": false,
+    "isSpawnerMinecartOn": true
+  }
 }

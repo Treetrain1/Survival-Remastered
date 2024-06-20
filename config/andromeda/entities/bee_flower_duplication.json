@@ -1,5 +1,9 @@
 {
-  "tallFlowers": false,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "game": {
+    "tallFlowers": false,
+    "available": true
+  }
 }

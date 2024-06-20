@@ -1,5 +1,8 @@
 {
-  "transferMode": "FOLLOW_GAMERULE",
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "main": {
+    "transferMode": "FOLLOW_GAMERULE"
+  }
 }

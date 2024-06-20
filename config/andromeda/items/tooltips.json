@@ -1,7 +1,10 @@
 {
-  "clock": true,
-  "compass": true,
-  "recoveryCompass": true,
-  "enabled": true,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": true
+  },
+  "client": {
+    "clock": true,
+    "compass": true,
+    "recoveryCompass": true
+  }
 }

@@ -1,4 +1,0 @@
-#Thu May 16 00:50:07 CDT 2024
-shadowDistance=96.0
-ENTITY_SHADOWS=true
-GENERATED_NORMALS=true

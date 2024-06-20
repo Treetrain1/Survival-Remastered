@@ -6,7 +6,7 @@ addedSplashes: [
   'poggies'
   'the chicken or the egg?'
   'Bedrock Edition'
-  'Windows or Mac?'
+  'Windows or Linux?'
   'Backup your worlds!'
   'Upgraded Minecraft'
   'hello'

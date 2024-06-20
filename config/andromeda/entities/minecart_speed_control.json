@@ -1,7 +1,11 @@
 {
-  "modifier": 1.0,
-  "furnaceModifier": 1.0,
-  "additionalFurnaceFuel": 0,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "modifier": 1.0,
+    "furnaceModifier": 1.0,
+    "additionalFurnaceFuel": 0,
+    "available": true
+  }
 }

@@ -1,5 +1,8 @@
 {
-  "customMoisture": 4,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "customMoisture": 4
+  }
 }

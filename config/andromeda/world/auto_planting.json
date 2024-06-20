@@ -1,6 +1,10 @@
 {
-  "blacklistMode": true,
-  "idList": [],
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "blacklistMode": true,
+    "idList": [],
+    "available": true
+  }
 }

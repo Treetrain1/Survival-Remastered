@@ -43,6 +43,7 @@
 	"shriekerGargling": true,
 	"billboardTendrils": true,
 	"tendrilsCarryEvents": false,
+	"reachBoostBeacon": true,
 	"pollenParticles": true,
 	"logHollowing": true,
 	"cactusPlacement": true,

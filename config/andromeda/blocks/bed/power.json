@@ -1,5 +1,9 @@
 {
-  "power": 5.0,
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  },
+  "game": {
+    "power": 5.0,
+    "available": true
+  }
 }

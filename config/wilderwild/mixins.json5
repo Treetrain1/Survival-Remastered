@@ -8,6 +8,7 @@
 	"client_sodium": true,
 	"client_warden": true,
 	"client_wind": true,
+	"block_beacon": true,
 	"block_cactus": true,
 	"block_chest": true,
 	"block_dripleaf": true,

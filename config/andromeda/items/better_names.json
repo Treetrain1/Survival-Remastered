@@ -1,4 +1,5 @@
 {
-  "enabled": false,
-  "scope": "GLOBAL"
+  "bootstrap": {
+    "enabled": false
+  }
 }
