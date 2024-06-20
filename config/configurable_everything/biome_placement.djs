@@ -24,6 +24,7 @@ removedBiomes: [
       'terralith:cave/desert_caves'
       'terralith:cave/ice_caves'
       'terralith:cave/thermal_caves'
+      'terralith:cave/mantle_caves
       'terralith:warm_river'
       'terralith:desert_oasis'
       'terralith:cave/deep_caves'
