@@ -7,5 +7,6 @@
   },
   "enableAshFall": true,
   "easterEggs": false,
+  "limitAshParticles": false,
   "polypiteLuminance": 4
 }

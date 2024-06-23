@@ -3,10 +3,14 @@
 contributorCosmetic: ''
 globalTooltip: false
 noMicrosoftTelemetry: true
+qol:
+  suppressExperimentalSettingsWarning: false
+  titleScreenNoFade: false
+  hideDataComponentsTooltip: false
+  loadingOverlayNoFade: false
 debug:
+  showTranslatedTagsByDefault: false
   tagsTooltip: true
   debugTooltipMsg: false
   tagsTooltipAppendKeybindHint: true
   tagsPerPage: 6
-  NBTTooltip: true
-suppressExperimentalSettingsWarning: false

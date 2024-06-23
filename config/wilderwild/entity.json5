@@ -32,6 +32,7 @@
 	},
 	"scorched": {
 		"spawnScorched": true,
+		"scorchedInTrialChambers": true,
 	},
 	"tumbleweed": {
 		"spawnTumbleweed": true,
