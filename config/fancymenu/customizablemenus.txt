@@ -3,9 +3,6 @@ type = customizablemenus
 com.terraformersmc.modmenu.gui.ModsScreen {
 }
 
-dev.lambdaurora.lambdynlights.gui.SettingsScreen {
-}
-
 net.minecraft.class_6777 {
 }
 
@@ -42,9 +39,6 @@ net.minecraft.class_412 {
 net.minecraft.class_457 {
 }
 
-com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen {
-}
-
 net.minecraft.class_418 {
 }
 
@@ -57,9 +51,6 @@ net.minecraft.class_3928 {
 net.minecraft.class_435 {
 }
 
-net.coderbot.iris.gui.screen.ShaderPackScreen {
-}
-
 net.minecraft.class_436 {
 }
 
@@ -67,9 +58,6 @@ net.minecraft.class_408 {
 }
 
 me.shedaniel.clothconfig2.gui.ClothConfigScreen {
-}
-
-net.minecraft.class_5375 {
 }
 
 net.minecraft.class_440 {
@@ -124,9 +112,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
 net.minecraft.class_8219 {
-}
-
-net.minecraft.class_4189 {
 }
 
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
@@ -324,9 +309,6 @@ net.minecraft.class_426 {
 net.minecraft.class_524 {
 }
 
-net.minecraft.class_424 {
-}
-
 net.minecraft.class_526 {
 }
 
@@ -340,5 +322,8 @@ net.minecraft.class_433 {
 }
 
 net.minecraft.class_429 {
+}
+
+net.minecraft.class_4189 {
 }
 
